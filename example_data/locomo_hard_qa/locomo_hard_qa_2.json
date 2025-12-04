@@ -1,0 +1,1865 @@
+[
+    {
+        "session_id": "John_Maria_session_3",
+        "visual_category": "Spatial",
+        "question": "In the Nature's beauty mentioned by Maria, there is an image. Is the sun's lower edge touching the horizon line?",
+        "answer": "No, it is above",
+        "img_url": [
+            "https://images.pexels.com/photos/10815424/pexels-photo-10815424.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-beyza-erdem-10815424.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_3",
+        "visual_category": "Action",
+        "question": "In the Nature's beauty mentioned by Maria, there is an image. Are the waves in the foreground actively crashing or calm?",
+        "answer": "Actively crashing",
+        "img_url": [
+            "https://images.pexels.com/photos/10815424/pexels-photo-10815424.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-beyza-erdem-10815424.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_3",
+        "visual_category": "Attribute",
+        "question": "In the Nature's beauty mentioned by Maria, there is an image. What color are the reflections of the sun on the water?",
+        "answer": "Golden orange",
+        "img_url": [
+            "https://images.pexels.com/photos/10815424/pexels-photo-10815424.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-beyza-erdem-10815424.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_5",
+        "visual_category": "Counting",
+        "question": "In the event for kids mentioned by Maria, there is an image. How many people are visibly wearing green aprons in the foreground?",
+        "answer": "Three",
+        "img_url": [
+            "https://media.cnn.com/api/v1/images/stellar/prod/230608195849-brandi-tuck-college-volunteer2-cnnheroes.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_5",
+        "visual_category": "Attribute",
+        "question": "In the event for kids mentioned by Maria, there is an image. What color is the pitcher held by the woman on the far right?",
+        "answer": "White",
+        "img_url": [
+            "https://media.cnn.com/api/v1/images/stellar/prod/230608195849-brandi-tuck-college-volunteer2-cnnheroes.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the event for kids mentioned by Maria, there is an image. What name is written on the nametag of the person in the center?",
+        "answer": "Rose",
+        "img_url": [
+            "https://media.cnn.com/api/v1/images/stellar/prod/230608195849-brandi-tuck-college-volunteer2-cnnheroes.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_5",
+        "visual_category": "Attribute",
+        "question": "In the touching moment mentioned by John, there is an image. What color are the doll's eyes?",
+        "answer": "Brown",
+        "img_url": [
+            "https://i2.pickpik.com/photos/428/450/411/girl-baby-doll-baby-girl-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_5",
+        "visual_category": "Attribute",
+        "question": "In the touching moment mentioned by John, there is an image. Is the child's hair long or short?",
+        "answer": "Long",
+        "img_url": [
+            "https://i2.pickpik.com/photos/428/450/411/girl-baby-doll-baby-girl-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_5",
+        "visual_category": "Spatial",
+        "question": "In the touching moment mentioned by John, there is an image. Which direction are the doll's eyes pointed?",
+        "answer": "Towards the viewer",
+        "img_url": [
+            "https://i2.pickpik.com/photos/428/450/411/girl-baby-doll-baby-girl-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_1",
+        "visual_category": "Counting",
+        "question": "In the school last year, after they got the funding mentioned by John, there is an image. How many workers are actively involved in pouring or spreading concrete?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_1",
+        "visual_category": "Attribute",
+        "question": "In the school last year, after they got the funding mentioned by John, there is an image. What color is the large chute dispensing the concrete?",
+        "answer": "Grey",
+        "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_1",
+        "visual_category": "Attribute",
+        "question": "In the school last year, after they got the funding mentioned by John, there is an image. What design is visible on the side of the silver hard hat being worn by one of the workers?",
+        "answer": "A star",
+        "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_6",
+        "visual_category": "Counting",
+        "question": "In the food bank mentioned by John, there is an image. How many people are actively sorting items at the main table?",
+        "answer": "Four",
+        "img_url": [
+            "https://live.staticflickr.com/4478/37216959584_3c561498f3_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the food bank mentioned by John, there is an image. What is the name of the organization printed on the visible white cardboard boxes?",
+        "answer": "Second Harvest Food Bank",
+        "img_url": [
+            "https://live.staticflickr.com/4478/37216959584_3c561498f3_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_6",
+        "visual_category": "Attribute",
+        "question": "In the food bank mentioned by John, there is an image. What color is the man's t-shirt who has a nametag that says 'Floyd'?",
+        "answer": "Purple",
+        "img_url": [
+            "https://live.staticflickr.com/4478/37216959584_3c561498f3_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Attribute",
+        "question": "In the unexpected incident mentioned by John, there is an image. What is the condition of the car's windshield?",
+        "answer": "Heavily cracked",
+        "img_url": [
+            "https://i.redd.it/njxp1ep8bse71.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Attribute",
+        "question": "In the unexpected incident mentioned by John, there is an image. What color is the air freshener hanging inside the car?",
+        "answer": "Pink and white",
+        "img_url": [
+            "https://i.redd.it/njxp1ep8bse71.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Counting",
+        "question": "In the unexpected incident mentioned by John, there is an image. How many prominent bright light reflections are visible on the windshield?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/njxp1ep8bse71.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Attribute",
+        "question": "In the taking some notes about local politics mentioned by Maria, there is an image. What color are the stripes on the pencil?",
+        "answer": "Green and black",
+        "img_url": [
+            "https://media2.inlander.com/inlander/imager/u/original/27047427/1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Counting",
+        "question": "In the taking some notes about local politics mentioned by Maria, there is an image. How many pages on the left side of the notebook show visible tear marks from being removed from the binding?",
+        "answer": "Two",
+        "img_url": [
+            "https://media2.inlander.com/inlander/imager/u/original/27047427/1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Attribute",
+        "question": "In the taking some notes about local politics mentioned by Maria, there is an image. What is the primary color of the folder visible under the documents and photos?",
+        "answer": "Tan",
+        "img_url": [
+            "https://media2.inlander.com/inlander/imager/u/original/27047427/1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Attribute",
+        "question": "In the joining forces mentioned by John, there is an image. What color is the nail polish on the fingers?",
+        "answer": "Purple",
+        "img_url": [
+            "https://live.staticflickr.com/7351/14090438714_33bec862fe_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Attribute",
+        "question": "In the joining forces mentioned by John, there is an image. What pattern is visible on the dark suit jacket?",
+        "answer": "Pinstripe",
+        "img_url": [
+            "https://live.staticflickr.com/7351/14090438714_33bec862fe_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_4",
+        "visual_category": "Counting",
+        "question": "In the joining forces mentioned by John, there is an image. How many buttons are visible on the suit sleeve?",
+        "answer": "Three",
+        "img_url": [
+            "https://live.staticflickr.com/7351/14090438714_33bec862fe_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Attribute",
+        "question": "In the pic of his family mentioned by John, there is an image. What items are clearly visible inside the picnic basket?",
+        "answer": "Bottles, bread, flowers",
+        "img_url": [
+            "https://images.pexels.com/photos/5119595/pexels-photo-5119595.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Attribute",
+        "question": "In the pic of his family mentioned by John, there is an image. What colors are primarily featured in the striped pattern of the picnic blanket?",
+        "answer": "White, blue, orange, green",
+        "img_url": [
+            "https://images.pexels.com/photos/5119595/pexels-photo-5119595.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Attribute",
+        "question": "In the pic of his family mentioned by John, there is an image. What color is the band on the white hat lying on the grass?",
+        "answer": "Black",
+        "img_url": [
+            "https://images.pexels.com/photos/5119595/pexels-photo-5119595.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Counting",
+        "question": "In the family time mentioned by John, there is an image. How many people are visible enjoying the swing set?",
+        "answer": "Four",
+        "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/playground-child_RL9KRCSWHD.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Attribute",
+        "question": "In the family time mentioned by John, there is an image. What two main colors are visible on the frame of the swing set?",
+        "answer": "Red and blue",
+        "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/playground-child_RL9KRCSWHD.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Action",
+        "question": "In the family time mentioned by John, there is an image. What is the girl on the left swing doing with her mouth?",
+        "answer": "Laughing",
+        "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/playground-child_RL9KRCSWHD.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Counting",
+        "question": "In the dinner mentioned by John, there is an image. How many full wine bottles are clearly visible on the kitchen counter?",
+        "answer": "Four",
+        "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "OCR/Text",
+        "question": "In the dinner mentioned by John, there is an image. What time is displayed on the microwave?",
+        "answer": "21:56",
+        "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_2",
+        "visual_category": "Action",
+        "question": "In the dinner mentioned by John, there is an image. What action is the man in the grey shirt performing with the dark bottle?",
+        "answer": "Opening it",
+        "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the adventure mentioned by John, there is an image. What specific degree was conferred?",
+        "answer": "Bachelor of Arts",
+        "img_url": [
+            "https://www.diplomaoutlet.com/wp-content/uploads/u9-1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the adventure mentioned by John, there is an image. What country is mentioned as the state authority?",
+        "answer": "Poland",
+        "img_url": [
+            "https://www.diplomaoutlet.com/wp-content/uploads/u9-1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_9",
+        "visual_category": "Counting",
+        "question": "In the adventure mentioned by John, there is an image. How many distinct official signatures are visible at the bottom of the diploma?",
+        "answer": "Three",
+        "img_url": [
+            "https://www.diplomaoutlet.com/wp-content/uploads/u9-1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_9",
+        "visual_category": "Attribute",
+        "question": "In the volunteered together last year mentioned by Maria, there is an image. What color are the gloves the person is wearing while handing the food?",
+        "answer": "Blue",
+        "img_url": [
+            "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/2d/42d9b634-18c9-11ed-8a1b-039214ad9eb3/62f3dc54b5a61.image.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the volunteered together last year mentioned by Maria, there is an image. What time is mentioned for dining closure on the sign on the door?",
+        "answer": "11pm",
+        "img_url": [
+            "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/2d/42d9b634-18c9-11ed-8a1b-039214ad9eb3/62f3dc54b5a61.image.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_9",
+        "visual_category": "Attribute",
+        "question": "In the volunteered together last year mentioned by Maria, there is an image. What color is the bicycle parked near the chalkboard wall?",
+        "answer": "White",
+        "img_url": [
+            "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/2d/42d9b634-18c9-11ed-8a1b-039214ad9eb3/62f3dc54b5a61.image.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the small step mentioned by John, there is an image. What is written on the cap worn by the man on the right?",
+        "answer": "CODE",
+        "img_url": [
+            "https://byronernest.files.wordpress.com/2022/11/img_5966-1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the small step mentioned by John, there is an image. What year is displayed on the background screen?",
+        "answer": "2022",
+        "img_url": [
+            "https://byronernest.files.wordpress.com/2022/11/img_5966-1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_12",
+        "visual_category": "Attribute",
+        "question": "In the small step mentioned by John, there is an image. What color is the shirt worn by the man on the left?",
+        "answer": "Red",
+        "img_url": [
+            "https://byronernest.files.wordpress.com/2022/11/img_5966-1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the picnic mentioned by John, there is an image. What color are the small flowers the baby is holding?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://content1.getnarrativeapp.com/static/1396e135-13d4-4c37-8183-5d1eaf957c41/Surprise-proposal-picnic-at-cathedral-park-in-Portland-or-.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the picnic mentioned by John, there is an image. What color is the ribbon on the gift box being handed over?",
+        "answer": "Light pink",
+        "img_url": [
+            "https://content1.getnarrativeapp.com/static/1396e135-13d4-4c37-8183-5d1eaf957c41/Surprise-proposal-picnic-at-cathedral-park-in-Portland-or-.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Counting",
+        "question": "In the picnic mentioned by John, there is an image. How many decorative pillows are visible on the blanket?",
+        "answer": "Three",
+        "img_url": [
+            "https://content1.getnarrativeapp.com/static/1396e135-13d4-4c37-8183-5d1eaf957c41/Surprise-proposal-picnic-at-cathedral-park-in-Portland-or-.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Counting",
+        "question": "In the wild ride mentioned by John, there is an image. How many children are playing on the merry-go-round?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.stockcake.com/public/0/a/2/0a2f0a3d-b40c-4765-8ba6-bf81c219345d_large/joyful-swing-ride-stockcake.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the wild ride mentioned by John, there is an image. What color is the main platform of the merry-go-round?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://images.stockcake.com/public/0/a/2/0a2f0a3d-b40c-4765-8ba6-bf81c219345d_large/joyful-swing-ride-stockcake.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the wild ride mentioned by John, there is an image. What color are the handles on the merry-go-round?",
+        "answer": "Blue",
+        "img_url": [
+            "https://images.stockcake.com/public/0/a/2/0a2f0a3d-b40c-4765-8ba6-bf81c219345d_large/joyful-swing-ride-stockcake.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the carefree joy mentioned by John, there is an image. What color are the seats of the swings?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://live.staticflickr.com/1851/44767563171_457da8d8b3_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Counting",
+        "question": "In the great time last weekend mentioned by John, there is an image. How many children are pictured on the swings?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/1851/44767563171_457da8d8b3_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the family bonding mentioned by John, there is an image. What pattern is on the t-shirt of the child facing the camera?",
+        "answer": "Graphics",
+        "img_url": [
+            "https://live.staticflickr.com/1851/44767563171_457da8d8b3_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the making memories together mentioned by Maria, there is an image. What color is the frame surrounding the artwork?",
+        "answer": "Dark brown",
+        "img_url": [
+            "https://i.redd.it/eq0vvcinma621.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Counting",
+        "question": "In the making memories together mentioned by Maria, there is an image. How many human-like figures are visible within the artwork?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/eq0vvcinma621.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the making memories together mentioned by Maria, there is an image. What pattern does the surface beneath the frame exhibit?",
+        "answer": "Speckled",
+        "img_url": [
+            "https://i.redd.it/eq0vvcinma621.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Maria, there is an image. What phase is the moon in the sky?",
+        "answer": "Crescent",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL21ldDMzOTg0NC1pbWFnZS5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Attribute",
+        "question": "In the castles mentioned by Maria, there is an image. What color is the flag flying from the tallest tower?",
+        "answer": "White",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL21ldDMzOTg0NC1pbWFnZS5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_8",
+        "visual_category": "Counting",
+        "question": "In the trip to England mentioned by Maria, there is an image. How many distinct towers are part of the castle structure?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL21ldDMzOTg0NC1pbWFnZS5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the pic from last Friday mentioned by John, there is an image. What text is visible on the building in the background?",
+        "answer": "STRONG EUROPE",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/13/combat-veterans-associated-with-troops-first-foundation-06145f-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_15",
+        "visual_category": "Attribute",
+        "question": "In the pic from last Friday mentioned by John, there is an image. Is the person in military uniform in the foreground wearing glasses?",
+        "answer": "Yes",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/13/combat-veterans-associated-with-troops-first-foundation-06145f-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_15",
+        "visual_category": "Counting",
+        "question": "In the pic from last Friday mentioned by John, there is an image. How many dormer windows are visible on the roof of the main building?",
+        "answer": "Four",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/13/combat-veterans-associated-with-troops-first-foundation-06145f-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_11",
+        "visual_category": "Counting",
+        "question": "In the road trip we took last year mentioned by John, there is an image. How many distinct mountain peaks are clearly visible in the midground and background?",
+        "answer": "At least 5",
+        "img_url": [
+            "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_11",
+        "visual_category": "Attribute",
+        "question": "In the road trip we took last year mentioned by John, there is an image. What colors are most prominent in the sunset sky?",
+        "answer": "Orange, pink, blue",
+        "img_url": [
+            "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_11",
+        "visual_category": "Spatial",
+        "question": "In the road trip we took last year mentioned by John, there is an image. What type of geographical feature is visible at the base of the distant mountains, reflecting the light?",
+        "answer": "A lake",
+        "img_url": [
+            "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_11",
+        "visual_category": "Attribute",
+        "question": "In the pic from last week mentioned by Maria, there is an image. What color is the lanyard worn by the person smiling in the foreground?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_11",
+        "visual_category": "Attribute",
+        "question": "In the pic from last week mentioned by Maria, there is an image. Is the man in the far background wearing glasses?",
+        "answer": "Yes",
+        "img_url": [
+            "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_11",
+        "visual_category": "Counting",
+        "question": "In the pic from last week mentioned by Maria, there is an image. How many sections are visible on the serving tray held by the person in the foreground?",
+        "answer": "Four",
+        "img_url": [
+            "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_14",
+        "visual_category": "Counting",
+        "question": "In the power cut mentioned by John, there is an image. How many distinct fences are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/bfie8r8yhekb1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_14",
+        "visual_category": "Attribute",
+        "question": "In the power cut mentioned by John, there is an image. What material is the fence on the right made of?",
+        "answer": "Chain-link",
+        "img_url": [
+            "https://i.redd.it/bfie8r8yhekb1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_14",
+        "visual_category": "Attribute",
+        "question": "In the power cut mentioned by John, there is an image. What kind of structures are faintly visible in the distance beyond the path?",
+        "answer": "Houses/buildings",
+        "img_url": [
+            "https://i.redd.it/bfie8r8yhekb1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_14",
+        "visual_category": "Counting",
+        "question": "In the plan mentioned by Maria, there is an image. How many people are directly touching the large map with their hands?",
+        "answer": "Four",
+        "img_url": [
+            "https://as2.ftcdn.net/v2/jpg/10/16/99/37/1000_F_1016993768_seBJNktkUXeW8Dgkijix2R9WRzrun2ki.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_14",
+        "visual_category": "Attribute",
+        "question": "In the plan mentioned by Maria, there is an image. What color is the uniform worn by one of the individuals looking at the map?",
+        "answer": "Khaki",
+        "img_url": [
+            "https://as2.ftcdn.net/v2/jpg/10/16/99/37/1000_F_1016993768_seBJNktkUXeW8Dgkijix2R9WRzrun2ki.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_14",
+        "visual_category": "Attribute",
+        "question": "In the plan mentioned by Maria, there is an image. What color are the highlighted areas on the small map being reviewed by the person in the baseball cap?",
+        "answer": "Red",
+        "img_url": [
+            "https://as2.ftcdn.net/v2/jpg/10/16/99/37/1000_F_1016993768_seBJNktkUXeW8Dgkijix2R9WRzrun2ki.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Attribute",
+        "question": "In the last class mentioned by John, there is an image. What color is the yoga mat?",
+        "answer": "Blue",
+        "img_url": [
+            "https://images.pexels.com/photos/7721929/pexels-photo-7721929.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the last class mentioned by John, there is an image. What brand name is written vertically on the man's pants?",
+        "answer": "Uhlsport",
+        "img_url": [
+            "https://images.pexels.com/photos/7721929/pexels-photo-7721929.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Spatial",
+        "question": "In the last class mentioned by John, there is an image. What type of architectural structure is visible in the far background?",
+        "answer": "Building with dome",
+        "img_url": [
+            "https://images.pexels.com/photos/7721929/pexels-photo-7721929.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Other",
+        "question": "In the event mentioned by Maria, there is an image. Are there plastic cups visible on the ground?",
+        "answer": "Yes",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/previews/010/922/953/large_2x/always-look-on-the-bright-side-of-life-vector.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Attribute",
+        "question": "In the event mentioned by Maria, there is an image. What color is the tall, prominent building with a tower in the background?",
+        "answer": "Dark gray",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/previews/010/922/953/large_2x/always-look-on-the-bright-side-of-life-vector.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Spatial",
+        "question": "In the event mentioned by Maria, there is an image. Are there any streetlights or utility poles visible above the street on the left side?",
+        "answer": "Yes",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/previews/010/922/953/large_2x/always-look-on-the-bright-side-of-life-vector.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Attribute",
+        "question": "In the impact we can make mentioned by John, there is an image. What is the overall shape of the hanging decor?",
+        "answer": "Heart",
+        "img_url": [
+            "https://c.pxhere.com/photos/88/c3/motivation_motivational_heart_inspire_encouragement_quote-562325.jpg!d"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Attribute",
+        "question": "In the career fair at a local school mentioned by John, there is an image. What color is the wall behind the hanging sign?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://c.pxhere.com/photos/88/c3/motivation_motivational_heart_inspire_encouragement_quote-562325.jpg!d"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_10",
+        "visual_category": "Counting",
+        "question": "In the rewarding experience mentioned by John, there is an image. How many distinct horizontal planks make up the heart-shaped sign?",
+        "answer": "Five",
+        "img_url": [
+            "https://c.pxhere.com/photos/88/c3/motivation_motivational_heart_inspire_encouragement_quote-562325.jpg!d"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_17",
+        "visual_category": "Counting",
+        "question": "In the picture of him that I cherish mentioned by John, there is an image. How many rocks are visible near the tree trunk?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/pdwhtmvi74va1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_17",
+        "visual_category": "Attribute",
+        "question": "In the picture of him that I cherish mentioned by John, there is an image. What color is the dog's leash?",
+        "answer": "Teal",
+        "img_url": [
+            "https://i.redd.it/pdwhtmvi74va1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_17",
+        "visual_category": "Attribute",
+        "question": "In the picture of him that I cherish mentioned by John, there is an image. What is scattered across the grass where the dog is sitting?",
+        "answer": "Pink petals",
+        "img_url": [
+            "https://i.redd.it/pdwhtmvi74va1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_16",
+        "visual_category": "OCR/Text",
+        "question": "In the poster mentioned by Maria, there is an image. What specific date is the event held on?",
+        "answer": "January 28",
+        "img_url": [
+            "https://patch.com/img/cdn20/users/26387059/20221221/113941/bbd143cd-d2aa-4d9f-8547-6f333402e7aa___21113933647.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_16",
+        "visual_category": "Attribute",
+        "question": "In the poster mentioned by Maria, there is an image. What color is the large chili pepper graphic on the poster?",
+        "answer": "Red",
+        "img_url": [
+            "https://patch.com/img/cdn20/users/26387059/20221221/113941/bbd143cd-d2aa-4d9f-8547-6f333402e7aa___21113933647.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_16",
+        "visual_category": "OCR/Text",
+        "question": "In the poster mentioned by Maria, there is an image. What is the end time for the chili cook-off?",
+        "answer": "3:30 PM",
+        "img_url": [
+            "https://patch.com/img/cdn20/users/26387059/20221221/113941/bbd143cd-d2aa-4d9f-8547-6f333402e7aa___21113933647.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_16",
+        "visual_category": "Counting",
+        "question": "In the pic of his fam at the beach mentioned by John, how many people are partially submerged in the water?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/cuurrb4qyl961.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_16",
+        "visual_category": "Attribute",
+        "question": "In the pic of his fam at the beach mentioned by John, what color is the sun as it appears near the horizon?",
+        "answer": "Bright yellow-orange",
+        "img_url": [
+            "https://i.redd.it/cuurrb4qyl961.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_16",
+        "visual_category": "Spatial",
+        "question": "In the pic of his fam at the beach mentioned by John, is the taller person facing towards or away from the camera?",
+        "answer": "Away from the camera",
+        "img_url": [
+            "https://i.redd.it/cuurrb4qyl961.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Counting",
+        "question": "In the dinner together last night mentioned by Maria, there is an image. How many distinct colors of grapes are displayed on the platter?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.salon.com/app/uploads/2023/05/food_spread_on_table_1403973419.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the dinner together last night mentioned by Maria, there is an image. What is the pattern on the cloth napkin visible near the bottom left of the image?",
+        "answer": "Red and black plaid",
+        "img_url": [
+            "https://www.salon.com/app/uploads/2023/05/food_spread_on_table_1403973419.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Spatial",
+        "question": "In the dinner together last night mentioned by Maria, there is an image. Is there a serving utensil present in the bowl of green salad with cherry tomatoes?",
+        "answer": "Yes",
+        "img_url": [
+            "https://www.salon.com/app/uploads/2023/05/food_spread_on_table_1403973419.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Counting",
+        "question": "In the spread mentioned by John, there is an image. How many scoops of ice cream are on the dessert?",
+        "answer": "One",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/previews/032/938/473/large_2x/freshly-baked-homemade-apple-pie-with-lattice-crust-free-photo.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Action",
+        "question": "In the spread mentioned by John, there is an image. What is the caramel sauce doing on the plate?",
+        "answer": "Pooling",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/previews/032/938/473/large_2x/freshly-baked-homemade-apple-pie-with-lattice-crust-free-photo.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the spread mentioned by John, there is an image. What color is the nail polish on the hand holding the dessert?",
+        "answer": "Black",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/previews/032/938/473/large_2x/freshly-baked-homemade-apple-pie-with-lattice-crust-free-photo.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the last year mentioned by Maria, there is an image. What is the primary color of the ocean water?",
+        "answer": "Dark blue-green",
+        "img_url": [
+            "https://images.pexels.com/photos/1974521/pexels-photo-1974521.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-julia-kuzenkov-1974521.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Counting",
+        "question": "In the last year mentioned by Maria, there is an image. How many distinct footprints are visible in the foreground sand?",
+        "answer": "Six",
+        "img_url": [
+            "https://images.pexels.com/photos/1974521/pexels-photo-1974521.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-julia-kuzenkov-1974521.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the last year mentioned by Maria, there is an image. What type of vegetation is visible on the distant land near the buildings?",
+        "answer": "Palm trees",
+        "img_url": [
+            "https://images.pexels.com/photos/1974521/pexels-photo-1974521.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-julia-kuzenkov-1974521.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Counting",
+        "question": "In the beauty of life mentioned by Maria, there is an image. How many vertical poles are visible on the distant hill?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the beauty of life mentioned by Maria, there is an image. What is the predominant color of the water in the foreground?",
+        "answer": "Dark blue-green",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the beauty of life mentioned by Maria, there is an image. What color is the small visible patch of vegetation on the right side of the hill?",
+        "answer": "Green",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Attribute",
+        "question": "In the power of solitude mentioned by Maria, there is an image. What are the predominant colors of the scattered clouds in the upper sky?",
+        "answer": "Orange, pink, grey",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Spatial",
+        "question": "In the power of solitude mentioned by Maria, there is an image. What approximate portion of the sun is visible above the horizon?",
+        "answer": "Approximately half",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_13",
+        "visual_category": "Counting",
+        "question": "In the power of solitude mentioned by Maria, there is an image. How many distinct wave crests are visible across the ocean surface?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_22",
+        "visual_category": "Counting",
+        "question": "In the picture of his family mentioned by John, how many children are visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/j4ms3skztjg11.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_22",
+        "visual_category": "Attribute",
+        "question": "In the picture of his family mentioned by John, what color is the small logo on the father's denim shirt?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/j4ms3skztjg11.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_22",
+        "visual_category": "Attribute",
+        "question": "In the picture of his family mentioned by John, what is the young girl in the blue dress holding in her hand?",
+        "answer": "Yellow flowers",
+        "img_url": [
+            "https://i.redd.it/j4ms3skztjg11.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Counting",
+        "question": "In the kids I met at the shelter mentioned by Maria, there is an image. How many children are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In the kids I met at the shelter mentioned by Maria, there is an image. What color are the shirts worn by most of the children?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In the kids I met at the shelter mentioned by Maria, there is an image. What material is the door directly behind the children made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In the not so great event mentioned by Maria, there is an image. What is the condition of the car's windshield?",
+        "answer": "Shattered and cracked",
+        "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In what happened yesterday mentioned by Maria, there is an image. What is covering the lower portion of the car's side?",
+        "answer": "Mud and dirt",
+        "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Spatial",
+        "question": "In the incident mentioned by Maria, there is an image. Is the damaged car on the road or a transportation platform?",
+        "answer": "A transportation platform",
+        "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Counting",
+        "question": "In finding a new place mentioned by Maria, there is an image. How many white columns support the porch roof of the unit numbered 28?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdngeneral.rentcafe.com/dmslivecafe/3/524478/1(2).jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In finding a new place mentioned by Maria, there is an image. What color are the roofs directly over the front porches?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://cdngeneral.rentcafe.com/dmslivecafe/3/524478/1(2).jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In finding a new place mentioned by Maria, there is an image. What type of covering is visible in many of the windows?",
+        "answer": "Horizontal blinds",
+        "img_url": [
+            "https://cdngeneral.rentcafe.com/dmslivecafe/3/524478/1(2).jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Attribute",
+        "question": "In the nice moments like these mentioned by Maria, there is an image. What style of handwriting is used in the note?",
+        "answer": "Cursive",
+        "img_url": [
+            "https://i.redd.it/cvtpmcj98ii31.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "Counting",
+        "question": "In the nice moments like these mentioned by Maria, there is an image. How many distinct paragraphs make up the main body of the message, excluding the closing and P.S.?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/cvtpmcj98ii31.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_21",
+        "visual_category": "OCR/Text",
+        "question": "In the nice moments like these mentioned by Maria, there is an image. What word is written as the formal closing directly above 'Me'?",
+        "answer": "Love",
+        "img_url": [
+            "https://i.redd.it/cvtpmcj98ii31.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the hard work mentioned by John, there is an image. What is the primary color of the trophy's main body?",
+        "answer": "Golden",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2ZsNTE4NTQxMzE2ODgtaW1hZ2UuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the promotion mentioned by John, there is an image. What color is the trophy's base?",
+        "answer": "Black",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2ZsNTE4NTQxMzE2ODgtaW1hZ2UuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Counting",
+        "question": "In the stepping stone mentioned by John, there is an image. How many handles does the trophy have?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2ZsNTE4NTQxMzE2ODgtaW1hZ2UuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the work during regular work hours mentioned by John, there is an image. What color is the external keyboard on the desk?",
+        "answer": "Pink",
+        "img_url": [
+            "https://i.redd.it/n7jl343t38m91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the work home mentioned by John, there is an image. What subject do the diagrams pinned to the wall primarily illustrate?",
+        "answer": "Anatomy/Medical",
+        "img_url": [
+            "https://i.redd.it/n7jl343t38m91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the work mentioned by John, there is an image. What type of light source is mounted directly on top of the main monitor?",
+        "answer": "Screen bar light",
+        "img_url": [
+            "https://i.redd.it/n7jl343t38m91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the taking time for ourselves mentioned by Maria, there is an image. What are the predominant colors visible in the sky above the sun?",
+        "answer": "Orange, pink, and blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Counting",
+        "question": "In the taking time for ourselves mentioned by Maria, there is an image. How many distinct airplane contrails are visible in the upper part of the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the taking time for ourselves mentioned by Maria, there is an image. Is the sun fully visible or partially obscured by clouds or haze?",
+        "answer": "Partially obscured",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the vacation in Florida mentioned by Maria, there is an image. What shape is the visible portion of the sun?",
+        "answer": "Semicircle",
+        "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the vacation in Florida mentioned by Maria, there is an image. Is there a reflection of the sun visible on the water?",
+        "answer": "Yes",
+        "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the vacation in Florida mentioned by Maria, there is an image. What type of vegetation is silhouetted in the foreground?",
+        "answer": "Tall grass",
+        "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Counting",
+        "question": "In the vacation mentioned by John, there is an image. How many children are visible in the water?",
+        "answer": "Three",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Attribute",
+        "question": "In the vacation mentioned by John, there is an image. What colors are the boy's arm floaties?",
+        "answer": "Yellow and colorful",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_19",
+        "visual_category": "Spatial",
+        "question": "In the vacation mentioned by John, there is an image. In what general direction are the children facing?",
+        "answer": "Away from camera",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Counting",
+        "question": "In the camping trip mentioned by Maria, how many people are sitting around the campfire?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/zcnesiymmou91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Attribute",
+        "question": "In the camping trip mentioned by Maria, what covers the ground?",
+        "answer": "Snow",
+        "img_url": [
+            "https://i.redd.it/zcnesiymmou91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "OCR/Text",
+        "question": "In the camping trip mentioned by Maria, what brand name is visible on the tent?",
+        "answer": "Coleman",
+        "img_url": [
+            "https://i.redd.it/zcnesiymmou91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Attribute",
+        "question": "In the mountaineering trip mentioned by John, there is an image. What color is the climber's helmet?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.redd.it/q33cupol6fm51.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Counting",
+        "question": "In the mountaineering trip mentioned by John, there is an image. How many trekking poles is the person holding?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/q33cupol6fm51.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Attribute",
+        "question": "In the mountaineering trip mentioned by John, there is an image. Is a hydration tube visible extending from the backpack?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/q33cupol6fm51.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Counting",
+        "question": "In the road trip to Oregon mentioned by Maria, there is an image. How many distinct clouds are visible in the sky?",
+        "answer": "Three",
+        "img_url": [
+            "https://uprootedtraveler.com/wp-content/uploads/drift-creek-falls-trail-oregon-coast-hikes-lincoln-city-hikes-2.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Attribute",
+        "question": "In the road trip to Oregon mentioned by Maria, there is an image. What is the predominant color of the deepest canyon layers?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://uprootedtraveler.com/wp-content/uploads/drift-creek-falls-trail-oregon-coast-hikes-lincoln-city-hikes-2.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Spatial",
+        "question": "In the road trip to Oregon mentioned by Maria, there is an image. Are any bodies of water visible within the canyon?",
+        "answer": "No",
+        "img_url": [
+            "https://uprootedtraveler.com/wp-content/uploads/drift-creek-falls-trail-oregon-coast-hikes-lincoln-city-hikes-2.jpeg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Counting",
+        "question": "In the seeing this view mentioned by Maria, there is an image. How many visible arches support the main structure of the bridge?",
+        "answer": "Three",
+        "img_url": [
+            "https://everydayrunaway.com/wp-content/uploads/2016/08/20140323-multnomahfalls.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Attribute",
+        "question": "In the seeing this view mentioned by Maria, there is an image. What is the dominant color of the foliage covering the steep rock walls?",
+        "answer": "Green",
+        "img_url": [
+            "https://everydayrunaway.com/wp-content/uploads/2016/08/20140323-multnomahfalls.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_18",
+        "visual_category": "Attribute",
+        "question": "In the seeing this view mentioned by Maria, there is an image. What style of railing is present on the top of the bridge?",
+        "answer": "Balustrade",
+        "img_url": [
+            "https://everydayrunaway.com/wp-content/uploads/2016/08/20140323-multnomahfalls.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_24",
+        "visual_category": "Attribute",
+        "question": "In the picnic mentioned by Maria, there is an image. What is the color of the straw in the drink?",
+        "answer": "Red",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/picnic-with-friends-beneath-shade-trees-sprawling-park-group-friends-revels-pi_964444-11810.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_24",
+        "visual_category": "Counting",
+        "question": "In the picnic mentioned by Maria, there is an image. How many bags of chips are visible on the ground?",
+        "answer": "Two",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/picnic-with-friends-beneath-shade-trees-sprawling-park-group-friends-revels-pi_964444-11810.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the picnic mentioned by Maria, there is an image. What brand name is visible on the clear cup with the red straw?",
+        "answer": "ICEE",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/picnic-with-friends-beneath-shade-trees-sprawling-park-group-friends-revels-pi_964444-11810.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_24",
+        "visual_category": "Attribute",
+        "question": "In the setting up something like this for my kids soon mentioned by John, there is an image. What color is the wristband on the girl drawing at the table?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTI0NzQ3Nzg3NzQtaW1hZ2UuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the setting up something like this for my kids soon mentioned by John, there is an image. What product name is visible on the container filled with pens?",
+        "answer": "Gel Pens",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTI0NzQ3Nzg3NzQtaW1hZ2UuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_24",
+        "visual_category": "Counting",
+        "question": "In the setting up something like this for my kids soon mentioned by John, there is an image. How many different colors of paper are stacked on the table?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTI0NzQ3Nzg3NzQtaW1hZ2UuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_26",
+        "visual_category": "Counting",
+        "question": "In the first call-out mentioned by John, there is an image. How many carabiners are visible on the floor?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/1bwp2zpccuo91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_26",
+        "visual_category": "Attribute",
+        "question": "In the first call-out mentioned by John, there is an image. What is the primary color of the firefighter's jacket and pants?",
+        "answer": "Tan/Beige",
+        "img_url": [
+            "https://i.redd.it/1bwp2zpccuo91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_26",
+        "visual_category": "OCR/Text",
+        "question": "In the first call-out mentioned by John, there is an image. What number is visible on the yellow flashlight attached to the jacket?",
+        "answer": "8259",
+        "img_url": [
+            "https://i.redd.it/1bwp2zpccuo91.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Counting",
+        "question": "In the hiking experience mentioned by Maria, there is an image. How many people are visible on the path?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.wildbunchdesertguides.com/blog/uploaded_files/images/Picturesque-trail.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Attribute",
+        "question": "In the hiking experience mentioned by Maria, there is an image. What color is the backpack of the person second from the front?",
+        "answer": "Orange",
+        "img_url": [
+            "https://www.wildbunchdesertguides.com/blog/uploaded_files/images/Picturesque-trail.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "OCR/Text",
+        "question": "In the hiking experience mentioned by Maria, there is an image. What word is visible on the beanie worn by the person leading the group?",
+        "answer": "RUN",
+        "img_url": [
+            "https://www.wildbunchdesertguides.com/blog/uploaded_files/images/Picturesque-trail.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Counting",
+        "question": "In Maria's next adventure mentioned by John, there is an image. How many distinct stacks of yellow-green chairs are visible in the background?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.pinimg.com/originals/02/3c/c1/023cc1081789285313f37e57a244622d.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "OCR/Text",
+        "question": "In Maria's next adventure mentioned by John, there is an image. What text is visible on the podium on the right?",
+        "answer": "Transition Projects",
+        "img_url": [
+            "https://i.pinimg.com/originals/02/3c/c1/023cc1081789285313f37e57a244622d.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Spatial",
+        "question": "In Maria's next adventure mentioned by John, there is an image. How are the black mats arranged on the floor?",
+        "answer": "In rows and columns",
+        "img_url": [
+            "https://i.pinimg.com/originals/02/3c/c1/023cc1081789285313f37e57a244622d.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Counting",
+        "question": "In the trying new stuff mentioned by John, there is an image. How many people are participating in the class?",
+        "answer": "8",
+        "img_url": [
+            "https://www.jewelyogapdx.com/wp-content/uploads/2015/02/home-join-us.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Attribute",
+        "question": "In the trying new stuff mentioned by John, there is an image. What color is the yoga mat in the far front on the left side?",
+        "answer": "Orange",
+        "img_url": [
+            "https://www.jewelyogapdx.com/wp-content/uploads/2015/02/home-join-us.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_25",
+        "visual_category": "Attribute",
+        "question": "In the trying new stuff mentioned by John, there is an image. What is hanging on the light-colored wall in the background on the left?",
+        "answer": "Yoga straps/ropes",
+        "img_url": [
+            "https://www.jewelyogapdx.com/wp-content/uploads/2015/02/home-join-us.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_30",
+        "visual_category": "Action",
+        "question": "In the puppy Coco mentioned by Maria, there is an image. What object is the puppy chewing?",
+        "answer": "A baseball",
+        "img_url": [
+            "https://i.redd.it/ulfxreudf3c81.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_30",
+        "visual_category": "Attribute",
+        "question": "In the puppy Coco mentioned by Maria, there is an image. What type of fence is visible in the background?",
+        "answer": "Picket fence",
+        "img_url": [
+            "https://i.redd.it/ulfxreudf3c81.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_30",
+        "visual_category": "Counting",
+        "question": "In the puppy Coco mentioned by Maria, there is an image. How many ears are clearly visible on the puppy?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/ulfxreudf3c81.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_30",
+        "visual_category": "Action",
+        "question": "In the pic of him mentioned by John, there is an image. Is the dog's mouth open or closed?",
+        "answer": "Open",
+        "img_url": [
+            "https://i.redd.it/kwoxu9jx5jua1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_30",
+        "visual_category": "Attribute",
+        "question": "In the pic of him mentioned by John, there is an image. What color is the sleeve of the person petting the dog?",
+        "answer": "Grey",
+        "img_url": [
+            "https://i.redd.it/kwoxu9jx5jua1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_30",
+        "visual_category": "Counting",
+        "question": "In the pic of him mentioned by John, there is an image. How many reddish spots are visible on the dog's legs?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/kwoxu9jx5jua1.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_27",
+        "visual_category": "Attribute",
+        "question": "In the volunteering at a homeless shelter mentioned by Maria, there is an image. What color is the lanyard worn by the woman in the foreground?",
+        "answer": "Red",
+        "img_url": [
+            "https://static.wixstatic.com/media/0726909c8a194fd1bdc04ebf3e03bea3.jpg/v1/fill/w_640,h_558,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/0726909c8a194fd1bdc04ebf3e03bea3.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_27",
+        "visual_category": "Counting",
+        "question": "In the volunteering at a homeless shelter mentioned by Maria, there is an image. How many people are visibly wearing a 'VOLUNTEER' shirt?",
+        "answer": "Five",
+        "img_url": [
+            "https://static.wixstatic.com/media/0726909c8a194fd1bdc04ebf3e03bea3.jpg/v1/fill/w_640,h_558,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/0726909c8a194fd1bdc04ebf3e03bea3.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_27",
+        "visual_category": "Attribute",
+        "question": "In the volunteering at a homeless shelter mentioned by Maria, there is an image. What item is attached to the ID badge of the woman in the foreground?",
+        "answer": "A key",
+        "img_url": [
+            "https://static.wixstatic.com/media/0726909c8a194fd1bdc04ebf3e03bea3.jpg/v1/fill/w_640,h_558,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/0726909c8a194fd1bdc04ebf3e03bea3.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_27",
+        "visual_category": "Attribute",
+        "question": "In the note mentioned by Maria, there is an image. How many different colors of ink are used in the handwriting?",
+        "answer": "Three",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/handwritten-thank-you-note-with-grateful-message_705284-79022.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the note mentioned by Maria, there is an image. What is the name of the sender signed at the bottom?",
+        "answer": "Patty",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/handwritten-thank-you-note-with-grateful-message_705284-79022.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_27",
+        "visual_category": "Attribute",
+        "question": "In the note mentioned by Maria, there is an image. What color ink is used for the punchline of the joke?",
+        "answer": "Pink",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/handwritten-thank-you-note-with-grateful-message_705284-79022.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the medal mentioned by Maria, there is an image. What word is engraved on the medal?",
+        "answer": "WINNER",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ3aW5uZXJfZ29sZF9wcm9maXRfYXdhcmQtaW1hZ2Uta3liY2R6bjguanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Counting",
+        "question": "In the medal mentioned by Maria, there is an image. How many stars are visible on the medal?",
+        "answer": "Four",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ3aW5uZXJfZ29sZF9wcm9maXRfYXdhcmQtaW1hZ2Uta3liY2R6bjguanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Attribute",
+        "question": "In the medal mentioned by Maria, there is an image. What colors are present on the medal's ribbon?",
+        "answer": "Red, white, and blue",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ3aW5uZXJfZ29sZF9wcm9maXRfYXdhcmQtaW1hZ2Uta3liY2R6bjguanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the community event mentioned by John, there is an image. What is the full name of the event printed on the blue ribbon the girl is holding?",
+        "answer": "Graybeards Family Run",
+        "img_url": [
+            "https://www.rockawave.com/wp-content/uploads/2017/08/1-Family-Run-Remembers-Eileen-Lavin.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Attribute",
+        "question": "In the community event mentioned by John, there is an image. How is the race bib attached to the girl's red shirt?",
+        "answer": "With two safety pins",
+        "img_url": [
+            "https://www.rockawave.com/wp-content/uploads/2017/08/1-Family-Run-Remembers-Eileen-Lavin.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Attribute",
+        "question": "In the community event mentioned by John, there is an image. What is the four-digit number displayed on the girl's race bib?",
+        "answer": "1232",
+        "img_url": [
+            "https://www.rockawave.com/wp-content/uploads/2017/08/1-Family-Run-Remembers-Eileen-Lavin.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Counting",
+        "question": "In the 5K charity run mentioned by John, there is an image. How many individuals in the central foreground group are clearly holding water bottles?",
+        "answer": "Two",
+        "img_url": [
+            "https://runningfabulouslyblog.files.wordpress.com/2018/09/img_3190.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Attribute",
+        "question": "In the 5K charity run mentioned by John, there is an image. What is the color of the cap worn by the man with the dark beard in the center of the group?",
+        "answer": "Blue",
+        "img_url": [
+            "https://runningfabulouslyblog.files.wordpress.com/2018/09/img_3190.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_29",
+        "visual_category": "Attribute",
+        "question": "In the 5K charity run mentioned by John, there is an image. What is the primary color of the heart-shaped logo on the woman's light blue shirt?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://runningfabulouslyblog.files.wordpress.com/2018/09/img_3190.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_32",
+        "visual_category": "OCR/Text",
+        "question": "In the hard work mentioned by John, there is an image. What word is written in capital letters on the yellow band of the label?",
+        "answer": "CAUTION",
+        "img_url": [
+            "https://i.redd.it/kkt623tlufk11.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_32",
+        "visual_category": "Counting",
+        "question": "In the something so important mentioned by John, there is an image. How many distinct warning symbols are visible on the label?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/kkt623tlufk11.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_32",
+        "visual_category": "Attribute",
+        "question": "In the something good mentioned by John, there is an image. What material is the main object with the label made of?",
+        "answer": "Cardboard",
+        "img_url": [
+            "https://i.redd.it/kkt623tlufk11.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_32",
+        "visual_category": "OCR/Text",
+        "question": "In the new fire truck mentioned by John, there is an image. What number is displayed prominently on the front grille?",
+        "answer": "27",
+        "img_url": [
+            "https://www.cityofmobile.org/fire/uploads/20180827-094050.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_32",
+        "visual_category": "Counting",
+        "question": "In the new fire truck mentioned by John, there is an image. How many square-shaped LED light units are mounted on the upper part of the ladder apparatus?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.cityofmobile.org/fire/uploads/20180827-094050.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_32",
+        "visual_category": "Attribute",
+        "question": "In the new fire truck mentioned by John, there is an image. What common firefighting equipment is rolled and stored on multiple shelves to the right of the fire truck?",
+        "answer": "Fire hoses",
+        "img_url": [
+            "https://www.cityofmobile.org/fire/uploads/20180827-094050.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the adopted pup mentioned by Maria, there is an image. What is the primary color of its fur?",
+        "answer": "Black",
+        "img_url": [
+            "https://www.k9aholics.com/wp-content/uploads/2021/12/Things-to-Consider-Before-Getting-a-Puppy.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the adopted pup mentioned by Maria, there is an image. Does it have any distinct white markings?",
+        "answer": "Yes, on its chest",
+        "img_url": [
+            "https://www.k9aholics.com/wp-content/uploads/2021/12/Things-to-Consider-Before-Getting-a-Puppy.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Counting",
+        "question": "In the adopted pup mentioned by Maria, there is an image. How many ears are clearly visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.k9aholics.com/wp-content/uploads/2021/12/Things-to-Consider-Before-Getting-a-Puppy.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "OCR/Text",
+        "question": "In the essay mentioned by John, there is an image. What date is written at the top of the page?",
+        "answer": "September 12 2017",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/woman-teaching-studio-with-jack-russell-dog-silence-learning-care-by-white-background-girl-animal-pet-puppy-with-command-training-loyalty-floor-domestic-education_590464-252232.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Counting",
+        "question": "In the essay mentioned by John, there is an image. How many cartoon scientists are illustrated on the page?",
+        "answer": "Three",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/woman-teaching-studio-with-jack-russell-dog-silence-learning-care-by-white-background-girl-animal-pet-puppy-with-command-training-loyalty-floor-domestic-education_590464-252232.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the essay mentioned by John, there is an image. What color is the liquid inside the flask drawing?",
+        "answer": "Green",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/woman-teaching-studio-with-jack-russell-dog-silence-learning-care-by-white-background-girl-animal-pet-puppy-with-command-training-loyalty-floor-domestic-education_590464-252232.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the little one learning commands and house training mentioned by Maria, there is an image. What pattern is on the man's shirt?",
+        "answer": "Floral",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/side-view-of-young-man-training-his-dog-by-wall-royalty-free-image-717234545-1559064531.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the little one learning commands and house training mentioned by Maria, there is an image. What material is the wall on the left made of?",
+        "answer": "Brick",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/side-view-of-young-man-training-his-dog-by-wall-royalty-free-image-717234545-1559064531.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Action",
+        "question": "In the little one learning commands and house training mentioned by Maria, there is an image. What action is the dog performing with its head?",
+        "answer": "Looking up",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/side-view-of-young-man-training-his-dog-by-wall-royalty-free-image-717234545-1559064531.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the family mentioned by John, there is an image. What design is on the man's green shirt?",
+        "answer": "A black question mark",
+        "img_url": [
+            "https://i.redd.it/wi6u64sicow71.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the family mentioned by John, there is an image. What color is the charm on the girl's necklace?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/wi6u64sicow71.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the family mentioned by John, there is an image. What type of hat is the woman wearing?",
+        "answer": "Fur-lined hat",
+        "img_url": [
+            "https://i.redd.it/wi6u64sicow71.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Counting",
+        "question": "In the playing board games mentioned by John, how many green cards are visible on the table?",
+        "answer": "25",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0586/8149/1647/t/127/assets/pickneys_2-1662359454750.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "Attribute",
+        "question": "In the playing board games mentioned by John, what pattern is on the boys' shirts?",
+        "answer": "Palm trees",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0586/8149/1647/t/127/assets/pickneys_2-1662359454750.jpg"
+        ]
+    },
+    {
+        "session_id": "John_Maria_session_31",
+        "visual_category": "OCR/Text",
+        "question": "In the playing board games mentioned by John, what is the name of the game written on the green cards?",
+        "answer": "Memory Match",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0586/8149/1647/t/127/assets/pickneys_2-1662359454750.jpg"
+        ]
+    }
+]

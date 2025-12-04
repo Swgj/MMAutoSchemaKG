@@ -1,0 +1,2944 @@
+[
+    {
+        "id": "Evan_Sam_session_2",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, good to hear from you! Since we last talked, lots has been happening! Last weekend, I took my family on a road trip to Jasper. It was amazing! We drove through the Icefields Parkway and the glaciers and lakes were gorgeous. I got a shot of a glacier, check it out!",
+                "img_url": [
+                    "https://1.bp.blogspot.com/-50oDf6izLpk/XtyM4RGdDgI/AAAAAAACwcA/nnQkAWVln4M3AQ4ZWAkGUfgrxjhpHbtJQCK4BGAsYHg/s4032/IMG_4686.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, looks amazing! I've never been to Jasper, but it looks breathtaking. Tell me more about your road trip. Was it relaxing?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, thanks for asking! It was great - fresh air, peacefulness and a cozy cabin surrounded by mountains and forests made it feel like a real retreat.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That sounds great, Evan! It's so important to take time for ourselves and find peace, especially after a hard week. Mine's been tough.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sorry to hear that, Sam. Is there anything I can do to help?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. Appreciate the offer, but had a check-up with my doctor a few days ago and, yikes, the weight wasn't great. It was pretty eye-opening.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That must have been a challenging experience, Sam. It's tough when we have to confront our own health challenges. Remember, it's never too late to make positive changes for a healthier lifestyle. Is there anything I can do to support you in this journey?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. Breaking old habits isn't easy. Do you have any tips for starting the process?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, what worked for me was finding a fitness routine I really enjoy. It's my go-to, I love the feeling of being healthy and strong. Making it fun and finding little ways to make smarter choices in my diet really added up. Don't forget, you got this!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. Like you said, I've been looking for a hobby to stay motivated. I've been thinking about trying painting. Do you think it will help me de-stress?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Of course, Sam! Painting is a great way to relieve stress and be creative. It gives you the freedom to explore colors and textures and express feelings. I've been doing it for a few years now and it helps me find peace. But unfortunately it won't help you with your weight problem, besides painting I recommend exercising!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Appreciate the encouragement. I'll give it a go and let you know how it turns out.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Awesome, Sam! Have fun with it and don't put too much pressure on yourself. Can't wait to hear how it's going!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Cheers, Evan! I won't stress - just gonna enjoy it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Alright Sam, have fun with it! Keep me updated!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Will do. Bye for now.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Take care, Sam! I'll catch up with you later.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:11 pm on 24 May, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_1",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan, good to see you! What's new since we last met? Anything cool happening?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam! Good to see you! Yeah, I just got back from a trip with my family in my new Prius.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, not bad, what happened to the old one? Where'd you go, by the way?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out.",
+                "img_url": [
+                    "https://res.cloudinary.com/atlasguruprod/image/upload/v1605280914/site-prod/itineraries/402c83d0-237f-11eb-85fd-4d00e2439877/omasxscl2k2xlnc2ggvj.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow! Looks amazing. When did you get to go there?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "We all hiked the trails last week - the views were amazing!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that's cool. I love hiking, but it's been ages since I've done it. I did this hike with my dad way back when I was ten. Going hiking together was great fun, and really special for us.",
+                "img_url": [
+                    "https://storage.needpix.com/rsynced_images/family-1784512_1280.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Aww, that's cute. How far did you two hike?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "We hiked a good distance - quite a feat for me back then. It's definitely a great memory.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "What other hobbies have you found for yourself?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Nothing so far, but I was thinking about trying painting. Do you have any hobbies you love?",
+                "img_url": [
+                    "https://i.redd.it/hbkrxuiitopb1.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Cool idea, Sam! I love it. Have you tried it before?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Not yet, but I'm keen to give it a go. It looks like a nice way to chill and get creative.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, it's a great stress-buster. I started doing this a few years back.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that's impressive! How did you get into watercolor painting?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "My friend got me into it and gave me some advice, and I was hooked right away!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow! I hope I can find something I'm as passionate about as you are with watercolor painting.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "You'll find it, just keep trying new things until something sparks your excitement.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! I'm excited to try new things, should be fun!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, Sam! Super pumped for you! Let's catch up soon and see how you're enjoying your new hobbies!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, I'll keep you posted. See you soon!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Take it easy, Evan! Can't wait to see you. Have a good one!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:47 pm on 18 May, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_3",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam! Long time no talk! How're you doing? Life's been quite the rollercoaster lately. I had a health scare last week \u2013 a sudden heart palpitation incident that really shook me up. It's been a serious wake-up call about my lifestyle.",
+                "img_url": [
+                    "https://thumbs.dreamstime.com/z/ai-generated-healthy-fresh-salad-avocado-fresh-healthy-avocado-salad-recipe-top-view-discover-vibrant-flavors-320291783.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, great hearing from you! Sorry about that, glad you're feeling better now. Trying to eat healthier these days.",
+                "img_url": [
+                    "https://mayuris-jikoni.com/wp-content/uploads/2020/06/Rainbow-Salad-1.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "That salad looks yummy! I'm being extra careful with my health lately. I'm trying to eat less processed food and sugary snacks, even though I love ginger snaps. Have you made any changes to your diet recently?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Nah, no changes for me. Still enjoying my soda and candy, although I know it's not the best habit to have.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, breaking habits can be tough. Making small changes can have a big impact later on. Have you considered swapping soda for flavored seltzer water? It's still bubbly and tasty, but without the sugar. And instead of candy, you could try dark chocolate with high cocoa content - it's a healthier option. What do you think?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, good idea! I'll give it a try.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Awesome, Sam! Let me know how it goes. Making small changes can really help you live a healthier life. Don't forget - every step matters!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, thanks! Appreciate it. I'll definitely keep you posted.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I'm here for you, Sam. Let's continue supporting each other on our health journeys. It's important to remember that progress takes time.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, you're right. It takes time, but I'm up for keep trying and making those tiny changes.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "C'mon, keep it up! Every little bit counts, you'll get there!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! I appreciate your support, it means a lot to me to have you in my corner.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yes, Sam! I'm here for you. Let's rock our workouts and reach our goals! Exercise clears the mind - it's amazing!",
+                "img_url": [
+                    "https://c0.wallpaperflare.com/preview/870/384/969/adult-bodybuilding-brawny-dumbbell.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that's awesome! Could you give me a hand with getting started?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sure Sam, I'd be glad to help. Let's get together and I'll show you some basic exercises. We'll reach our goals!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Cool, can't wait! Thank you. By the way, I'm coming from the shop and I had a frustrating issue at the supermarket. The self-checkout machines were all broken, my mood is terrible now!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sorry you were in that situation, hopefully it won't happen again!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, I hope so, take care of yourself.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "3:55 pm on 6 June, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_6",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, long time no talk! Hope you're doing great. I just got back from a rad vacay with my new SO in Canada. Tried some awesome activities too - think hiking, biking... all that cool stuff. We loved exploring the outdoors together, it was so awesome!",
+                "img_url": [
+                    "https://lp-cms-production.imgix.net/image_browser/camping-long-range-traverse.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan! Good to hear from you. Wow, Canada sounds amazing! That photo looks stunning. Wish I could do something like that. Things have been a bit challenging for me lately; some stuff has been hard on my health.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sorry to hear that things haven't been going well. Dealing with health issues can be tough. Is there anything I can do to help?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. Your support means a lot to me. It's tough staying positive, but knowing I have people like you in my corner makes it easier.",
+                "img_url": [
+                    "https://i.redd.it/u2nyg1ua6nd81.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Glad to support you, Sam. Surrounding ourselves with people who care is key. What's on that note? A reminder or quote to stay motivated?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, it's actually a quote that's been helping me stay motivated. It reminds me that progress is more important than perfection. Taking small steps towards a healthier life is still progress.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Cool mindset, Sam! I totally agree, progress over perfection. Mind sharing the quote with me? I would love to get something out of it too.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "\"Don't fear it, just take the first step. It's been helping me move forward to healthier habits!\"",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Love the quote, Sam. That mindset really helps me too. Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "You're welcome! Glad it helps. These times can be challenging.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "They can be tough, but remember to celebrate the small wins - every step forward counts!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "You're absolutely right! Celebrating those small wins is crucial. It's easy to get caught up in the challenges and setbacks, but those little victories are what keep me motivated. Thanks for the reminder, it's much appreciated.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Absolutely, Sam. Remember, every small victory is a step forward, so keep up the good work! I'm cheering for you! And hey, I could use some cheering too - I've been searching for my keys for the last half hour with no luck! I'm losing it every week..",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Oh, I'll definitely be your cheerleader once I get some sleep, Evan! Funny you mention that, I had this amazing dream last night where I was soaring over skyscrapers. It felt incredible! Makes me wonder what it signifies...",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That does sound like an amazing dream! Maybe you should check out a dream interpretation book; it could offer some insights. Sweet dreams, Sam!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for the suggestion, Evan. I'll look into it. This journey feels endless at times, but I'm convinced it's going to be rewarding in the end. So good luck with your keys, Evan!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I'll just keep going, step by step, and I'll definitely find those keys!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's for sure!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Go to bed already, bud! And take care!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:09 pm on 13 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_7",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, what's up? It's been a few days since we talked. How have you been? Life's been tough lately - my son had a soccer accident last Saturday and hurt his ankle, it was tough seeing him hurt! I just been looking after him and taking him to the doctor. As a dad, it's hard to watch your kid go through something like that.",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/b/be/Orthopedic_cast_4604.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, sorry to hear about what happened. I can imagine how hard it must have been for you. Things haven't been easy for me either. Had a tough week and a doc's appointment, so it was kinda like a wake-up call to take better care of myself. On a bright side, I'm taking a cooking class to learn how to make healthier meals.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, sorry to hear you had a rough week. At least it's forcing us both to take better care of ourselves, right? I hear the class you're taking is packed with healthy recipes. How's it been going? Have you picked up any yummy new meals?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "The cooking class has been great, I've learned awesome recipes. Last night I made this yummy grilled dish, so good!",
+                "img_url": [
+                    "https://i0.wp.com/sevenlayercharlotte.com/wp-content/uploads/2021/07/IMG_7767.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Mmm, it looks delicious! What did you put in it? I want to eat healthy, so what kind of recipes do you suggest?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! I marinated it with a few different ingredients and grilled it with some veggies. It turned out really flavorful! If you want, I can share more recipes from my cooking class. Just let me know what you're looking for!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That'd be great, Sam! I'm looking to add more vegetables to my meals. Do you have any recipes for that?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah definitely, Evan. I have a tasty and easy roasted veg recipe that I can share with you. Oh, by the way, how have you been doing after the soccer incident? Must've been tough.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. His ankle is getting better, but still sore. It was rough at first, but thank goodness it was nothing serious.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Glad to hear his ankle is getting better. It's hard seeing someone we care about hurt. Look after yourself too, yeah? We gotta look after our health.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, taking care of ourselves is a must. How have you been feeling lately?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "I have been feeling a mix of emotions - somewhat concerned about my health but also motivated to make positive changes. Taking things one step at a time.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's okay to feel overwhelmed, Sam. Just keep moving forward slowly and taking small steps. You're doing awesome.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan, your encouragement means a lot to me. I'll keep going and take it one step at a time!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, just keep going and taking it one step at a time! You'll get there.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I really appreciate that. It means a lot.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:20 pm on 15 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_9",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan! Exciting news: I started a new diet and exercise routine last Monday and it's made a huge difference. I feel great! What about you, what changes have you made recently?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Wow, Sam, great! Glad your new diet/exercise is going well. As for me, I've hit a sore spot lately. Twisted my knee last Friday and it's really painful, so it's been tough to stay consistent with my usual fitness routine. It's really frustrating because staying active is like, mega-important to me.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Oh no, sorry to hear about that, Evan. It's frustrating when our bodies don't cooperate, isn't it? Is there anything I can do to help?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. I appreciate the concern. Life throws us curveballs - that's life, right? By the way, remember that book I was talking about? It just gets better with every page, can't let it out of my hands!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Life sure can be unpredictable and tough. Being adaptable and finding other ways to stay active is key when you're facing an obstacle. Maybe look into low-impact exercises or physical therapy to help with that? And damn, you really got me interested in this book haha!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, PT for my knee is on the cards. Hopefully I'll get an appointment soon. Till then, just keeping it low-key and swimming to stay active.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Swimming is a good choice, Evan. It's low-impact and easy on the joints, plus it's refreshing. Keep up with the active lifestyle!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, thanks for the push, Sam. Oh, hey, I came across this pic when I was tidying up. I took a road trip last month - the scenery was stunning and nature really chilled me out.",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/a/a3/In_a_car_over_a_lake_%28Unsplash%29.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, looks great! Where did you go? Bet it was nice to get away.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks! I went up to the Rocky Mountains, it was so refreshing! The views were stunning and I felt so relaxed. Do you enjoy road trips and exploring nature?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "I haven't gone on a road trip in ages, but I love being surrounded by nature. It's so tranquil and refreshing. I'd love to go hiking more, but it can be a bit challenging sometimes. However, I am working on becoming healthier, so maybe a road trip and a hike will be possible soon.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That's cool, Sam. Nature can be really peaceful. I'd suggest going for more hikes, like I do. It's always been calming and fun. We should definitely do one together sometime.",
+                "img_url": [
+                    "https://www.koin.com/wp-content/uploads/sites/10/2022/04/Tom-Dick-and-Harry-Mountain-view-of-Mirror-Creek-Courtesy-US-Forest-Service.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds like fun! Which lake do you recommend? I'd love to explore some of the local trails.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Check out this one! It's gorgeous and there are lots of trails nearby. You'll love it!",
+                "img_url": [
+                    "https://i.redd.it/p8xbz5tcvc2b1.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, it looks great! Is it nearby? What a view!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's only a two-hour drive from here, but trust me, it's worth every minute for the incredible views and peaceful atmosphere.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Cool, a day trip's doable. Nature's calling me, so I'm gonna go check it out! Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, enjoy your time in nature. Take care! Bye!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks Evan. Have a good one. See ya!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "10:18 am on 27 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_4",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan, I need to talk to you. My friends were mocking my weight last Friday and it hurt. That made me realize I need to make changes.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, sorry about that. Don't worry, progress takes time. Let's work on it together.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for the support, Evan. I'm working on my health and getting active!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That's great, Sam! I struggled with my health a few years ago, but stuck with it. Here's a reminder of my commitment - my gym membership card. It's not just about exercise, diet and lifestyle changes also play a big role.",
+                "img_url": [
+                    "https://i.redd.it/ddd782loz4w81.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That's awesome, Evan! What do you think made the biggest impact on your health journey?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I made some dietary changes, like cutting down on sugary snacks and eating more veggies and fruit, and it made a big impact on my health. Have you considered any changes?",
+                "img_url": [
+                    "https://cdn.apartmenttherapy.info/image/upload/v1561753439/k/Photo/Series/2019-07-power-hour-eat-the-rainbow/IMG_3090.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Yep, I'm reducing my soda and candy intake. It's tough, but I'm determined to make a change.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Go for it, Sam! It's tough at first, but you got this. Try flavored seltzer water instead. It can be a great alternative to soda. Btw I can't stop thinking about that new mystery novel I started. It's so gripping!",
+                "img_url": [
+                    "https://www.tasteofhome.com/wp-content/uploads/2018/09/IMG_3475-1.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds good, Evan. I've tried it before and it was nice. Do you have any ideas for low-calorie snacks to pair with it? And what's the novel?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Definitely, how about some flavored seltzer with some air-popped popcorn or fruit? It's yum and healthy! The novel I'm reading is \"The Great Gatsby\".",
+                "img_url": [
+                    "https://grandmarecipes.com/wp-content/uploads/2025/02/drivexmidjourney_Healthy_Air_Popped_Popcorn_Amateur_photo_from__dd489066-7b3f-4d6b-8ed2-58140946c202.webp"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Yum, that sounds good! Thanks! And I'll definitely read that novel sometime.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, Sam! Focus on healthy swaps and taking small steps. Stay upbeat!",
+                "img_url": [
+                    "https://c1.peakpx.com/wallpaper/264/906/323/still-items-things-book-wallpaper-preview.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That reminder is inspiring. Thanks for reminding me to focus on progress, not perfection.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "By the way, have you thought about exercising? Trust me, it's just as important as eating right.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Starting tomorrow, I will go to the gym and exercise regularly. The sooner I start, the sooner I will see the rewards of this activity.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That's awesome, Sam! It's such a rewarding and tough activity - keep going and have fun!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Your support means a lot. I really appreciate it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, you've got this!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I really appreciate it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, Sam. I'm here if you need me. Keep going!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "10:52 am on 27 July, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_11",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan, long time no see! I've started eating healthier - what's new with you? Picked up any new hobbies?",
+                "img_url": [
+                    "https://www.cookingclassy.com/wp-content/uploads/2019/05/fruit-salad-8.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam! That's awesome about your healthier eating! For me, I had a setback last week - messed up my knee playing b-ball with the kids. It's been tough to stay active since. I really miss going on adventures like we did last year - good times with the family!",
+                "img_url": [
+                    "https://live.staticflickr.com/23/35171147_0fd909cefb_b.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, sorry to hear about your knee. It must be tough. Are there any ways to stay active while you heal up?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. PT has helped some. I can't do intense workouts, but I'm doing easy exercises to keep it strong. Not as good as being active outdoors, but still something.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Glad PT is helping, Evan! Taking care of yourself is key \u2013 have you explored any fun indoor activities or hobbies?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I do my favorite watercolor painting to keep me busy. It's a chill way to relax and get into the colors. By the way, something happened two weeks ago! You're not gonna believe this, I had a bit of an adventure recently. Helped a lost tourist find their way, and we ended up taking an unexpected tour around the city. It was a blast!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, that sounds like a fun and unexpected event! It's always interesting how helping someone can turn into a little adventure of its own. And how's your watercolor painting going?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's been great! I find painting to be a great stress reliever. Here's what I did last week.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, those are awesome! So cool. Where did you get the inspiration for them?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! The sunset painting was inspired by a vacation a few years back. The colors were so stunning. The cactus painting came from a road trip last month. Such cool places!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan, your paintings are awesome! How do you decide what to paint?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! I usually paint what's on my mind or something I'm feeling. It can be good memories or places I wanna go to. It's more like expressing myself through art.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's really amazing, Evan. Expressing yourself through art is such a powerful form of self-expression.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. Yeah, it's really a great way to express myself and my emotions. It's a cool way to communicate without using words. So, do you have any other ways in which you express yourself?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Drawing is cool. I'm still just learning how to draw, but I love expressing myself through writing. It's therapeutic and helps me sort out my feelings. Though, I've been a bit frustrated lately with my new phone. Its navigation app keeps malfunctioning, making getting around a bit of a challenge.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Cool, Sam! Writing is a great way to express yourself. What kind of writing do you enjoy? And about the phone, I recommend trying to update it, it usually works for me!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for the tip, Evan! Writing in my journal and doing creative writing is a good way for me to express my innermost thoughts and feelings.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It can be super therapeutic. It gives you a place to express yourself. Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! It really helps me make sense of things and express my feelings. It's like having a conversation with myself.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Gotcha, it's like having a place to figure stuff out and make sense of it all. We all need an outlet to express our thoughts and feelings.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "8:57 pm on 6 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_12",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan, hope you're doing okay. I wanted to chat about something that's been bothering me lately... I went for a check-up Monday and my doc said my weight's a serious health risk - if I don't make changes soon, it can get worse. I know I made jokes about it, but it's really hitting me. Been having a hard time.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, tough news. Yeah, our health can really put a damper on things. I started lifting weights one year ago and it's been a journey. It was a struggle at first, but I'm seeing some gains. You interested in trying it out?",
+                "img_url": [
+                    "https://blog.merrittclubs.com/hubfs/weight%20machine%20blog%204.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, I'm interested in getting into it. Any advice on how to get started? Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, that's awesome! It's important to start out with good form and technique. Find a trainer who can help you avoid injuries while you build your strength. Start with something small, and as you get stronger, the intensity can increase. Stay consistent with your workout routine and let me know how it goes! Good luck!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I'm going to find someone who can help me out. I'll keep you posted!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No problem, Sam. Can't wait to hear about your progress. Keep up the hard work!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I appreciate your support. It really means a lot to me. I'll definitely keep you posted on my progress.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "You're welcome, Sam! It takes time, so be patient with yourself. Your health matters, and I believe in you. Keep going and stay upbeat. You got this!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I'll stay positive and keep going. Your support means a lot.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, glad I can be here for you! Progress is key, so keep pushing on and stay positive. You got this!",
+                "img_url": [
+                    "https://i.redd.it/uupz9iakdja61.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan, that's really inspiring. Gonna keep believing in it!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Go get 'em! Believe in your abilities and you'll reach your goals. Stay motivated!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks Evan! Your words gave me a boost. I'm staying motivated and believing in myself.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Awesome! Keep staying motivated and believing in yourself. You've got this!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Your support means a lot to me.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No prob, Sam! I'm here for you. Just keep taking one step at a time, and you'll get there eventually!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sure, Evan. I'll take it slow. See ya!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "3:09 pm on 8 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_14",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan! I've been missing our chats. I had quite the health scare last weekend - ended up in the ER with a severe stomachache. Turns out, it was gastritis, which was pretty alarming. It was a wake-up call for me to start prioritizing my health, like adopting a more nutritious diet and getting regular exercise. On top of that, my phone's been giving me a hard time, adding to the stress.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, sorry to hear about that. Gastritis can be tough. Taking care of ourselves is important. BTW, I've been focusing on fitness and it's been really beneficial for my overall well-being. Funny thing, I had another encounter with a lost tourist recently. Seems like helping tourists is becoming a recurring theme in my life!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Glad you've found that it's been good for you! I totally need to get into it too. Just getting started is hard - any tips for staying motivated? Also, you mentioned another lost tourist? Seems like you're becoming the go-to guy for tourists in need!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yup, Sam! Set some goals, like a certain distance to run or number of push-ups to do. It'll give you something to strive for and stay motivated. Also, try to find an exercise that you enjoy and maybe even get a buddy for extra fun and accountability. Sound good?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, that sounds like a good idea. Having goals and someone to exercise with might help. I'll give it a try!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Awesome, Sam! Getting started will get easier with time. And don't forget it's about feeling good and reaching goals, too. Let's plan a hike soon!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds awesome, Evan! Can't wait to go on a hike with you. It's going to be a fun challenge and a great opportunity to appreciate the beauty of nature.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Definitely, Sam! Hiking is an awesome way to bond with nature and push ourselves. It's gonna be a cool memory for us both. It's great to see progress, was just at the gym yesterday. Gaining strength!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Super excited to get fit with ya. Let's hit the trails soon!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! That's so nice of you. We'll definitely have a great time on our hike!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Totally! I'm so pumped for this hike. Connecting with nature is exactly what I need. Thanks so much for the support and always being there. Means a lot.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sure thing! Our hike is going to be awesome, I can tell. I'm always here to support you.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I appreciate your support.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No problem, Sam. Whenever you need support, I'm here for you. Stay safe!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, I'll get in touch if I need anything. Stay safe. Bye!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Later! Stay safe and don't hesitate to holler if you need anything. Can't wait to hit the trail.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:50 pm on 17 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_15",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Morning, Evan. I've been trying to keep up with my new health routine, but it's tough. My family's really pushing for it, and I feel so pressured.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I hear you, Sam. It's important to have people who encourage you, but not stress you out. By the way, I just got back from my morning walk. It really helps to start the day actively.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, it's easier when you have a great support system. Thanks for being there for me.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, Sam. I'll be there for you. Take it slow and treat yourself.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for the reminder to take it easy. I sometimes get impatient with myself when I want results fast, but I gotta be patient.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, progress takes time. So just take it one step at a time.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yes, you're right, Evan. Taking it slow is better than doing too much. I appreciate your support.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I get it, Sam. I went through a similar phase a twoyears ago. Changed my diet, started walking regularly, things like that.",
+                "img_url": [
+                    "https://www.publicdomainpictures.net/pictures/540000/nahled/fit-man-and-healthy-food-1694521202SgE.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan, you look great! How did you manage the change?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I started focusing more on my well-being rather than fixating on quick results. Letting go of that pressure made a huge difference.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's impressive, Evan. It's inspiring to see how you transformed by changing your mindset.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. Letting go of unrealistic expectations was liberating, both physically and mentally.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "You're really doing great, Evan! I want to feel that same sense of freedom.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. Just take it one day at a time. Celebrate small victories.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Focusing on small wins sounds like a plan. I'll take it one day at a time.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Exactly! Congrats on every little victory. Keep it up, I'm here for you.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Your support means everything. Here's to moving forward!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Anytime, Sam! Let's keep pushing ahead. I'm here to help you. Take care!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "2:56 pm on 25 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_10",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam! Long time no talk! Hope all is good. What have I been doing these past few weeks?",
+                "img_url": [
+                    "https://thumbs.dreamstime.com/b/vibrant-healthy-grilled-chicken-meal-roasted-vegetables-kale-cherry-tomatoes-bell-peppers-mango-perfect-balanced-diet-369208244.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan! Nice to hear from you. Life has been an up and down ride. Have you seen the pic I posted of my before and after body as a result of the diet? Working to motivate others to make better choices.",
+                "img_url": [
+                    "https://www.thecarnivoredietcoach.com/uploads/2/2/0/1/22014694/119840561-3935194023169733-5615989418973881793-o.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam! Loving it. Making healthier choices has definitely made a difference for me. It's amazing how small changes can have such a big impact. How about you? Is it making a difference for you too?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, thanks for the support! Handling all this has been kinda wild. I'm trying to make healthier choices, but there are still the occasional cravings for sugary drinks and snacks... it's a real struggle.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, breaking bad habits can be hard. Cravings can be tough too, but little victories count. What do you think sets off those cravings for you?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "It's usually stress, boredom, or just wanting comfort. You know, those sugary treats are so tempting, right?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, I get it. When I'm stressed, I always turn to something comforting. But I've found that painting or going for a drive helps too!",
+                "img_url": [
+                    "https://i.pinimg.com/originals/fb/68/e2/fb68e2406dff050c3cbb9b88d730eef7.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow Evan, that's an awesome painting! Good on you for finding a way to de-stress. I could really use something like that - maybe I'll give painting a go or find another calming hobby.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, painting is super chill for calming down. Wanna give it a try? I can help you get started and recommend some supplies if you're interested. Let me know!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds great, Evan! I want to give it a go and see if it relaxes me. Can you suggest some basic supplies for me to get started?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, painting is awesome! Get some acrylic paints, brushes, a canvas/paper, and a palette to mix colors. I can give you some recommendations if you want. Just let me know when you're ready and we can plan a painting session!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds great, Evan! Can you help me pick out the stuff? Let's plan a painting session soon. I'm really excited!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, Sam - let's do it! Let's get everything ready and paint next Saturday. Can't wait!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds good, Evan! Can't wait to paint with you next Saturday. It'll be a fun and creative activity.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:28 am on 11 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_13",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, how's it going? Been a while since we talked. Hope all is good.",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/8/85/Cliffs_and_mountains_and_sky_at_sunset_--_2_of_33.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan! It's been a rough week - I gave in and bought some unhealthy snacks. I feel kinda guilty. How's it going for you? That painting is awesome! Did you paint it?",
+                "img_url": [
+                    "http://raremunchiez.com/cdn/shop/products/soda-can-fizzy-candy-6-pack-raremunchiez.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, sorry to hear about the rough week. Don't worry about the snacks. I'm doing okay, just finished this painting of a sunset. It really helps me relax. So, how's everything going with you? Anything new and exciting?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Yeah, I just couldn't resist them. Gotta do better. As for me, just dealing with work stress and trying to stay motivated.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, work stress can really get to you. Have you tried anything new to de-stress? Maybe picking up a hobby or something could help.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thinking about trying something different outdoors. Any suggestions?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sounds good! Have you ever tried kayaking? It's a fun and active way to paddle on a river or lake. What are your thoughts on that?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Kayaking sounds awesome! Haven't tried it yet, but it looks like a fun way to get in some exercise and enjoy nature. I'm definitely considering giving it a try. Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No worries, Sam! It's a fun way to get in some exercise and enjoy nature. Let me know when you're ready to give it a try and I can hook you up with a good spot.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for the idea, my mate and I are just around the corner from kayaking on the lake, we're going to try that now!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Of course, let me know if you like it, we can plan a kayaking trip together, I'll pick a cool spot!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yep, Evan! Can't wait. Thanks for the help!",
+                "img_url": [
+                    "https://www.higherpursuits.com/wp-content/uploads/2019/01/2019-Rental-Boats-1.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Ready for an adventure? Where will you go?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "We're traveling through Lake Tahoe! I heard it's great for kayaking.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, it's an awesome pick! You'll love it there - clear water and gorgeous views. Have a blast and take lots of pics!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! I'm looking forward to it!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:07 pm on 14 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_16",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan! Hope you're doing good. Got some good news to share - I'm a Weight Watchers coach in my group now! It's a pretty big accomplishment for me, feel really proud.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Congrats Sam! That's awesome! I'm super proud of you. Becoming a Weight Watchers coach is a big deal. Keep going!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Appreciate your support. It's been a journey, and being chosen as a coach is a great step in my quest for better health.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Wow, Sam! You've come such a long way. It's exciting to see what comes next for you in your quest for better health.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! It feels great to see progress. Being a coach will hopefully keep me motivated and help others stay committed too. It's a big challenge, but I'm ready for it!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That's awesome, Sam! Helping others stay committed and motivated is so rewarding. You really inspire us. Keep up the great work!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Your kind words mean a lot. It's been a difficult road, but I'm determined to continue making a positive impact.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sorry about missing any events, I've had some personal challenges since we last spoke. Still here for you though - do you need any support or want to share anything? Btw look what i got!",
+                "img_url": [
+                    "https://guitarsonmain.com/cdn/shop/files/1968-kustom-k-200a-vintage-guitar-w-ohsc-40274115559663_5000x.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Hey, it looks so vintage and cool! What model is it? How've you been doing lately? I'm here if you wanna chat.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's a 1968 Kustom K-200A vintage guitar and I got it as a gift from a close friend. It's been a tough time for me since we last caught up; I lost my job last month, which has been pretty rough. But I really appreciate your support through all this.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sorry to hear about your job, Evan. What happened?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's been a bit of a rough patch lately. The company downsized, and I was part of that. I'm currently on the hunt for a new job, which hasn't been easy, but I'm keeping my spirits up and staying hopeful.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sorry about your job, Evan. It's tough when it comes out of nowhere, but I'm proud of how you're handling it. Let me know if you need someone to talk to or if I can do anything to help. You'll get through this.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. Your support means a lot. It's been quite a ride, but I really appreciate having someone like you to talk to. I'll definitely reach out if I need anything.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "For sure, Evan! I'm here for ya. Life can be tough sometimes, but we got this. Stay positive and it'll all work out. Just know that I'm here if you need someone to talk to.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. Your kind words and support mean a lot. It's great to have you here. I'm gonna stay positive and keep going. Cheers!",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that sunset is stunning! It's so soothing just to see it. Is that a special spot you go to watch sunsets?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, it's this peaceful place close to my home. I often go there to relax and unwind.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That sounds wonderful, Evan! I'd love to check it out with you sometime.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Oh, I wish I could bring you along. That picture was actually taken last Friday at my favorite spot by the beach. Watching the waves and the sunset colors really helps me find peace, especially during tough times. It's a beautiful reminder of nature's resilience. We should definitely plan to go together someday.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "No worries, Evan. And yes, we should make a plan to go. That photo is just mesmerizing!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I'm glad you like it! It's a really calming place. Let's make a point to visit it together soon.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Absolutely, Evan! A trip there sounds like the perfect way to de-stress.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Awesome, let's do it! Let's plan it for next month, I'm already excited about exploring it together!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:13 pm on 9 November, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_18",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, good to hear from you. I've hit a bit of a snag - my new Prius, the one I just bought, broke down. It's a bit of a stressor since I rely on it for my active lifestyle and road trips. It's frustrating when new things go awry so soon.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, that's rough. Dealing with a new car breaking down is such a hassle, especially when it's your main mode of transport.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "You're telling me. I was really counting on this new Prius to be reliable. It's always a challenge when you have to deal with unexpected issues like this. But, I guess it's just one of those things - even new cars can have problems.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "It's tough when your plans get derailed by something like this. But hey, sometimes these setbacks lead to new opportunities.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "True, I'm trying to see it as a chance to explore other ways of staying active and traveling. Maybe it's an opportunity to try something different.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Exactly, it's all about finding the silver lining. Speaking of new things, I attended a Weight Watchers meeting yesterday. Learned some great tips.",
+                "img_url": [
+                    "http://steenshoney.com/cdn/shop/articles/IMG_5745.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "That smoothie bowl looks fantastic! How was the meeting? Yeah, I've been thinking about trying yoga, something gentle yet effective for stress relief and flexibility. What's your take on it, Sam?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "The meeting was really insightful, and that smoothie bowl was a hit! Yoga's a great choice, it's done wonders for my flexibility and stress levels. You should definitely try it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I think I will. Thanks for the suggestion, Sam.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Anytime, Evan. If you need any yoga tips or anything else, just let me know.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Your support's been invaluable. Thanks again, Sam!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "No worries, Evan. We all need a bit of help when trying new things. It's great to have support.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Absolutely. It makes a big difference knowing you're not alone in these situations.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Definitely. Take care, and let me know how the yoga goes. Bye!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Will do. Thanks for everything, Sam. Talk soon. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "8:16 pm on 5 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_19",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, hope you're doing good. Wanted to share some amazing news - my partner is pregnant! We're so excited! It's been a while since we had a kiddo around.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Congrats, Ev! That's great news! Parenthood is so amazing. How are you feeling about it?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "So excited and a bit nervous! It's been a while since I had a toddler around but I'm really looking forward to it. Parenthood is so rewarding. I still remember when my first child was born, the joy was amazing. Looking forward to witness the miracle of life and build more memories with my family!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, you're gonna be an amazing parent! Treasure those memories, they're truly special.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks Sam! Absolutely. Talking of memories, I want to show you this. It's a collage of some of our top family memories. Each photo has an amazing moment - birthdays, holidays, vacations - so good to look back and recall all the great times we had.",
+                "img_url": [
+                    "https://clickinmyheels.files.wordpress.com/2019/09/fpthpk1wrjgpigitpdlw3w.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That's so lovely, Evan. Your family looks so happy. What's the story behind that sign in the center?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Oh, that one? It's from our trip to Banff. We have this sign in the frame that says 'Bring it on Home' - it's our family's motto, always reminding us of the importance of togetherness, no matter where we are.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's really touching, Evan. It's important to have something that keeps the family bond strong.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Absolutely, Sam. My family means the world to me. They're my rock. I'm looking forward to expanding our family and creating even more beautiful memories.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's wonderful to hear, Evan! It's clear how much you value your family. Are you thinking of any specific plans or events to add to that collage?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! Yeah, we're planning a big family reunion next summer. It's going to be a blast and a perfect opportunity to add to our collage.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds fantastic! If you need any tips on organizing such a big event, just let me know. I'm always here to support and celebrate your family's milestones.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! Your support means a lot. I'll keep you updated. Take care, bye!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Take care, Evan! Can't wait to hear about it. Bye!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Bye Sam. I'll definitely keep you updated. Thanks for the kind words and support. Take care!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:45 pm on 9 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_5",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, how's it going? Last week I went on a trip to Canada and something unreal happened - I met this awesome Canadian woman and it was like something out of a movie. She's incredible and being with her makes me feel alive.",
+                "img_url": [
+                    "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA0L3NyLWltYWdlLTA0MDQyMDI1LXRvbmdhMTgtcy0xNTgtam9iMjAyMi1tOXRmdzBiNC5qcGc.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Congrats Evan! She must be something special! Being with someone who makes you feel alive is amazing. I'm sorry to hear that you're dealing with health issues lately, it can be really tough. It's hard to fully enjoy things sometimes.",
+                "img_url": [
+                    "https://cakeshungry.com/wp-content/uploads/2024/08/Ginger-Snaps-Cookies-Recipes.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Woah. such a nice view! Thanks, Sam! She's definitely great. Every moment with her is really fun and energizing. It's a nice change, especially after dealing with health issues. But you never know what life's gonna throw at you. Btw look what life has thrown for me right now haha.",
+                "img_url": [
+                    "https://thumbs.dreamstime.com/b/boy-girl-sit-floor-under-christmas-tree-children-eat-ginger-man-waiting-celebration-new-year-merry-happy-holidays-child-280749532.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Looks good to eat! Dealing with health problems can be challenging and take away from enjoyable experiences.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Ginger snaps are my weakness for sure! Dealing with health issues has been tough, but it's made me appreciate the good moments more. These are the ones who bring lots of joy even through the hard times.",
+                "img_url": [
+                    "https://images.ctfassets.net/5ql9i5attlka/H97gx7NuNu1FH7Q8fiC8s/9fcd878661ce897f1d92e472cdf8fecd/Backyard_Swings.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "It looks like your kids are having a great time! And how long have you been prioritizing your health?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yes, they bring me such joy. My healthy road has been a long one. I've been working on it for two years now, so there have been ups and downs, but I'm doing my best.",
+                "img_url": [
+                    "https://davethekayaker.files.wordpress.com/2019/04/20190430_110706.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "I wish your motivation never goes anywhere! I'm thinking of ordering myself some similar ones too, what do you think, are they worth it?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks Sam! My family motivates me to stay healthy. Well, it helps a lot with my health goals. It tracks my progress really well and serves as a constant reminder to keep going.",
+                "img_url": [
+                    "https://davethekayaker.files.wordpress.com/2019/04/20190430_110731.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Cool! It sounds like a really good tool to stay on track. How has it been working out for you?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's been awesome, Sam! That visual reminder has been really motivating.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for the recommendation, what else motivates you?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I'm motivated by a thirst for adventure on interesting hikes, that's pretty cool!",
+                "img_url": [
+                    "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "What an amazing view! The key is to find something that keeps you motivated.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, that's it. Find something that motivates you and makes you happy, whether it's large or tiny. It'll help us conquer the struggles we encounter.",
+                "img_url": [
+                    "https://i.redd.it/pjrgea5wqvg11.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Nice! What made you decide to get that?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I got this because it symbolizes strength and resilience. Taking care of it motivates me to keep going through tough times.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, it's amazing! So powerful yet so simple.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. It's a reminder that even in little things, we can be tough.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Little stuff matters - it builds our resilience over time.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, every little thing we do for ourselves helps us in the long run.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yep, small steps add up. Stay consistent and don't give up!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, Sam! Consistency and perseverance will get us far. Great chat!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Great chatting with you, Sam! Take care, talk soon!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Catch ya later!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:52 pm on 7 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_20",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, what's up? Long time no see, huh? Lots has happened.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan! Long time no see. I'm doing okay, been through a few bumps. How about you?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's not easy for us right now, my son had an accident last Tuesday, he fell off his bike and it was rough. But he's doing better now. How are you dealing with all this?",
+                "img_url": [
+                    "https://d2g8igdw686xgo.cloudfront.net/25280738_15137467980_r.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Darn, sorry to hear that. Hope he's feeling better. Same here, it's been tough lately. After we talked, I started thinking about ways to cope with it, but it's been challenging.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Life can be hard sometimes. Do you have any hobbies or activities that make you happy?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "I used to love hiking, but it's been a while since I had the chance to do it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I remember you mentioning that! Hiking is indeed a great way to center oneself and be one with nature. We should definitely plan a hike soon!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, I'm struggling with my weight and it's affecting my confidence. I feel like I can't overcome all the challenges with my weight, I keep lacking motivation.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, I understand it can be challenging. But remember, it's important to believe in yourself and take it one day at a time, Sam. Your worth is not defined by your weight.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Cheers, Evan. Appreciate the help. It's tough breaking out of my comfort zone.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Stepping out of your comfort zone can be intimidating, but it's totally worth it. Just challenge yourself to try something new, even if it's just a little thing. You got this!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I'll take your advice. Trying new things can be difficult.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, trying something new and succeeding gives a great feeling of accomplishment. Give it a go, even if it's just a little thing. You'll be amazed!",
+                "img_url": [
+                    "https://i.redd.it/ub3eyozz1olb1.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "She looks so confident! What kind of painting is that in the background?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "\nThis is a contemporary figurative painting that I've finished few days ago, emphasizing the emotional state through expressive brushwork and vibrant color choices. It captures a moment of introspection, where the subject is deeply immersed in thought. Very proud of it!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's amazing work, who's the girl standing next to painting?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That's a close friend of mine who helped me get this painting published in the exhibition!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "6:48 pm on 17 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_17",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Ev! Long time no chat. How's it going? Hope all is well.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, good to hear from you! Life's been a wild ride lately. Last week, I had a health scare and had to go to the hospital. They found something suspicious during a check-up, which freaked me out. Thankfully, it was all a misunderstanding, but it made me realize how important it is to keep an eye on my health. How've you been?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Woah, Evan, that must've been scary! Phew, it was just a misunderstanding. A health scare can really make you re-evaluate what's important. As for me, I've been dealing with some discomfort and it's been limiting my movement. I've been trying to make changes diet-wise, but it can be hard.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That sucks, Sam. It's tough when our health holds us back. I believe in you \u2013 just taking small steps can help. Have you tried any new hobbies recently to take your mind off it?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. I haven't tried much new lately, but I did get this yesterday. It's been my go-to 'feel good' flick. So, you said you had a health scare - how're you now?",
+                "img_url": [
+                    "https://keikolynn.com/wp-content/uploads/2020/03/8-classic-feel-good-movies-for-newbies.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "That movie sounds interesting! I'm doing well now. Doctors said everything is fine, but it taught me the value of life. Just trying to enjoy the moment.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's awesome, Evan! Let's make it a habit to appreciate something each day. It really helps us enjoy life more. What do you think?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sounds good, Sam! Let's take the time to appreciate the little things in life.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks for always being there, Evan. It means a lot.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sure, Sam. I'm here for you. We gotta stick together, especially now.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, Evan. Life can be tough sometimes, but having supportive people like you makes it way easier.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, Sam. Tough times are way easier with friends we can rely on. We've got each other!",
+                "img_url": [
+                    "https://images.pexels.com/photos/7149181/pexels-photo-7149181.jpeg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Looks like you're having a blast! I was wondering, what do you do to stay fit and healthy?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That was wild! I stay in shape by hitting the gym and taking my car out for a spin. Gotta keep it up! How are you doing on your fitness goals, Sam?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Fitness goals have been hard to reach, but hey, that's life!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah Sam, it's true. Progress takes time, so keep pushing.",
+                "img_url": [
+                    "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Where is that? It looks gorgeous!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "This little island is where I grew up and it's my happy place.",
+                "img_url": [
+                    "https://myrnafolkert.files.wordpress.com/2021/05/boat-pic-9.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that spot looks gorgeous. Growing up there must have been so peaceful and stunning.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, it was. That place shaped me and will always hold a special place in my heart.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, it can be soul-calming.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, it really is. So serene and calming.",
+                "img_url": [
+                    "https://c1.wallpaperflare.com/preview/608/545/293/sunset-kapiti-coast-new-zealand-beautiful-serene.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "It's heavenly!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, it's like a little slice of paradise. I always feel so peaceful and serene when I'm there.",
+                "img_url": [
+                    "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, it really seems like a peaceful retreat. Thanks for showing me!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "No prob, always good to chat about those tranquil times. Take it easy!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Take care, buddy. Hang in there!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam. If you need to talk, I'm here for you too.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:30 pm on 21 November, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_8",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan, some big news: I'm on a diet and living healthier! Been tough, but I'm determined.",
+                "img_url": [
+                    "https://i0.wp.com/www.thedishonhealthy.com/wp-content/uploads/2018/06/Avocado-Strawberry-Spinach-Salad-5.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Wow, Sam, that's great news! Making changes to live healthier can be challenging, how has it been going?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "It's tough, but I'm sticking with it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Nice work, Sam! Proud of you sticking to it. Have you noticed any positive changes?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yes, there are many, such as more energy and less sluggishness after eating. This is really encouraging!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Wow, Sam, that's great to hear! Feeling more energized after meals is such a positive change. Keep up the good work! And speaking of healthy meals, do you have any favorite recipes you'd like to share?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sure, I'm loving this recipe I found. It's a flavorful and healthy grilled chicken and veggie stir-fry. Wanna give it a go?",
+                "img_url": [
+                    "https://www.myrelationshipwithfood.com/wp-content/uploads/2021/08/Quinoa-Chicken-Stir-Fry-1.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Mmm, looks yummy! Is the sauce a family secret? I'm always down to try new recipes!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Nah, it's just my homemade sauce. Want the recipe?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, I'd love to! Thanks for sharing the recipe.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sure thing! Here's the recipe. Let me know how it went!",
+                "img_url": [
+                    "https://live.staticflickr.com/9/17289339_31d8a8c9a2_b.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks Sam! I'll give it a shot and let you know how it went. Trying out new recipes is a great way to stay busy and creative. By the way, I also started taking a painting classes few days ago and I'm really enjoying it. It's all about trying new things, right?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "You're already good at drawing, why did you decide to join a class? And why did you start painting then years ago anyway?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! It all started when a friend of mine gave me this painting one day, it inspired me a lot and that's when I started painting. And I joined the classes to find like-minded people and show them what I can do, you can always improve your skills.",
+                "img_url": [
+                    "https://elenamarkelova.com/cdn/shop/products/serenitymistyforestwatercolorpaintingbyelenamarkelova.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that's awesome! You're really talented. Did you take any other classes?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! Just been painting with these for now, but might look into other classes. It's awesome for finding my peace and expressing myself!",
+                "img_url": [
+                    "https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/06/travelbrushes.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Cool, Evan! What have you been learning in those classes?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "In painting classes, we've been learning about watercolors. The instructor stresses observing nature and painting what we see. It's a relaxing way to take a break from everyday stress.",
+                "img_url": [
+                    "https://static.skillshare.com/uploads/project/194099/cover_full_35000b4ed6f4b275b8b9f8008f31ec50.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan! What type of nature do you enjoy painting the most?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I love painting landscapes. Nature's beauty captivates me and brings me peace. Here's one of my recent works.",
+                "img_url": [
+                    "https://thewhitebirchstudio.com/cdn/shop/products/20220525_211542.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan! The colors are so bright. How do you capture the tranquil beauty of nature in your paintings?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks Sam! I aim to capture the vibe of nature in my paintings, conveying the peacefulness of being outdoors.",
+                "img_url": [
+                    "https://i1.wp.com/www.simplyoliviagrace.com/wp-content/uploads/2019/03/03.25.18-4.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that pic is great! Do you often spend time in places like this?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks! I love being in places like this - it brings back memories of road tripping in my trusty car.",
+                "img_url": [
+                    "https://images.pexels.com/photos/18077479/pexels-photo-18077479/free-photo-of-a-car-parked-in-the-middle-of-a-forest.jpeg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that's cool! Have you been to any fun places in that ride?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yep, last month I drove somewhere fun. The views were amazing!",
+                "img_url": [
+                    "https://destinationsanddesserts.com/wp-content/uploads/2022/01/img_5115.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Did you take advantage of the skiing opportunities in Banff? Sounds like it would have been a lot of fun!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, it was great for skiing! The snow was amazing and I had a lot of fun. Can't wait to go back next year! Did you try any winter sports, Sam?",
+                "img_url": [
+                    "https://static.vecteezy.com/system/resources/previews/029/564/601/large_2x/man-skiing-down-snowy-mountain-free-photo.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Ooh, skiing looks like a blast! I'd love to try it but I'm not sure my body can take it. What about you? What winter activities do you enjoy?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Skiing, snowboarding, and ice skating are all fun winter activities I enjoy.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wish I could join in on the fun! It sounds awesome.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I'd like you to join me, too. Winter activities are a blast - hopefully someday you will!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, maybe. It's hard with that, you know. But who knows? Thanks for the understanding, Evan - it really means a lot.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "6:17 pm on 19 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_24",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, hope you're doing good. Something funny happened last night.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, what's up? What happened? Let me know.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yesterday I went out with my friends and had a bit too much to drink. I ended up doing something I regret and it involved someone's roses.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "What's up with that incident? All good now?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Oof, Sam, so embarrassing! I had a pee accident near some roses - can you believe it? I'm so sorry about that.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Uh oh, Evan! That's awkward. Did anyone get mad at you? Are you okay?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I was so embarrassed when I saw what happened the next morning, so I apologized and luckily they were understanding. Yeah, I was out of control--guess I gotta be more careful next time.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "They were understanding? Phew! We all mess up sometimes, we're human after all.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, they were understanding, which was great. But it's a good reminder to be more careful. We all make mistakes, but it's important to learn from them. Speaking of, my partner and I tried snowshoeing this weekend. It was part of a new adventure for us and surprisingly fun.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, Evan, you're right. Mistakes happen, but it's good to learn from them. Snowshoeing sounds like a great way to stay active during the winter. I've been thinking and I made a meal plan and workout schedule. I'm getting motivated by something I saw, so starting today I'm gonna do my best to stay on track.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c7/f7/30/c7f7308cbae589efb28ffee439cff05f.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Good work, Sam! You've got a plan and you're dedicated to staying healthy - have you asked your doctor for advice? They could probably give you even more diet and exercise tips.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! Haven't seen a doctor in a while, but it's probably a good idea to get some advice. I'm going to make an appointment soon.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "What advice are you planning to get from the doctor?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "I'm gonna ask the doc about a balanced diet plan and getting advice on low-impact exercises, given my current situation.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sounds good, Sam. That's definitely a step in the right direction. Remember to focus on a balanced diet and low-impact exercises. Let me know how it goes.",
+                "img_url": [
+                    "https://i.redd.it/rhcb1m5vwyhb1.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That looks great! Where did you get the idea for this salad? Also, do you have any suggestions for low-impact exercises?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I got it from a nearby restaurant. As for low-impact exercises, swimming, yoga, and walking are good options.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "The salad idea from a restaurant is a smart move, Evan! And thanks for the exercise tips. Also I watched The Godfather last night, and it motivated me to keep up with my routine. \"I'm gonna make him an offer he can't refuse\" - now that's motivation!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yoga's definitely a great start, Sam. It's helped me with stress and staying flexible, which is perfect alongside the diet. And yes, The Godfather is a legendary thing to watch, can be re-watched many times!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Between a healthier diet and yoga, I\u2019m hoping for some positive changes.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": " By the way there are plenty of other low-impact exercises that can be fun. Going on beach sunsets is one of my favorites - good for exercise and totally calming.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/5e/cc/75/5ecc7518568d48830960915a86af39ab.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That looks zen. Gonna go for some beach walks - thanks for the tip, Evan! I want to brag, I had that recurring dream again where I'm flying over skyscrapers!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I think a little more and you'll learn how to control those dreams, once you get the hang of it let me know haha! Enjoy the fresh air and the views. Have fun!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks Evan! Gonna make the most of it. You too, have a good one!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "12:17 am on 10 January, 2024",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_21",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan! Long time no see, how's it going?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam! Long time no see! Been up and down lately, got married last week - how about you?",
+                "img_url": [
+                    "https://c0.wallpaperflare.com/preview/990/890/416/wedding-kiss-love-pair.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Congratulations, Evan! Is that the woman from Canada?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yes, that's her, I don't know why we didn't get married before, because I was in love with her at first sight!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan! Love at first sight? That sounds like something straight out of a fairy tale. What are your thoughts on it? Do you believe in love at first sight?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I totally believe in it. It was like time stopped and I felt like a spark lit inside me - it was so right.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's awesome, Evan! Finding that kind of connection must feel really liberating. Love can be so powerful, huh?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, Sam, love is truly amazing. It brings so much happiness and fulfillment, like a beautiful sunset that lights up our lives and brings peace. Incredible!",
+                "img_url": [
+                    "https://i.etsystatic.com/49961421/r/il/ce9b9e/5724798992/il_794xN.5724798992_56s1.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wish I could feel the same about love, but I've started to enjoy running in the mornings, and it's been a great way to clear my head. What can you do, right?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, I get it. Life's all about finding what works for you. Like your morning runs, they're a step towards something good, right? Keep trying new things, Sam, and you might find your own version of love in the most unexpected places. Embrace the journey \u2014 it\u2019s full of surprises!",
+                "img_url": [
+                    "https://www.artisbetter.com/cdn/shop/products/ee90b2dc1c049bbeaf3cfaf7f0321189_O1CN018THgXp2LUMV2Xi4SJ__272399695_849c1549-2736-4d47-8106-ff98a0d7c935_1024x.jpg?v=1671681786"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Such a minimalistic and stunning piece of work, I wonder what inspired the artist to create it.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "The painting is mine, I made it when I was a mix of emotions - sad, mad, and hopeful. Art is amazing how it can portray feelings without words.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan! Art is really amazing at expressing emotions - it's truly fascinating.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "It's amazing how art can express emotions so well. It really helps me recognize and handle my own feelings. This painting is giving me a massive rush of joy!",
+                "img_url": [
+                    "https://trendgallery.art/cdn/shop/products/IMG_3291_4beec6cf-7c90-43ef-b8f7-7f7fd295917b.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That's stunning! What emotions did you create this painting with?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I painted this with a sense of joy and freedom. The spontaneous strokes and bold colors reflect a playful and liberated mood, embracing the creative process without restraint.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan, this is amazing! You've got serious talent and creativity. Making this must have been so satisfying! Here's a painting that inspired me when I went to an exhibit few days ago.",
+                "img_url": [
+                    "https://judgeme.imgix.net/nashid-chroma-art-and-apparel/1640132184__inbound5216268343587060307__original.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "\nThanks, Sam! I appreciate the compliment. This painting has such an inspiring vibe; you really have a knack for understanding art! How about you? How long have you been painting?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "\nI do sketch occasionally, but I haven't created anything remarkable yet. I have a feeling I'll have something to show off before long! Seeing your passion for it is inspiring.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! Glad I could motivate you. If you ever want to give it a go, I'm happy to help get you started. Speaking of which, you know what? I lost my keys again, it's become a weekly ritual for me!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Ooh, Evan, I'd put a GPS sensor on your keys!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Great idea, I think I'll do that as soon as I find it!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:25 pm on 26 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_22",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan! I\u2019m really getting into this healthier lifestyle\u2014just took my friends on an epic hiking trip last Friday!",
+                "img_url": [
+                    "https://c1.wallpaperflare.com/preview/524/680/1013/people-man-back-mountain.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam! That\u2019s fantastic\u2014nothing like a good hike to feel alive. We took the Prius for a long drive to the mountains last weekend. It was perfect until we got into a little scrape on the way back.",
+                "img_url": [
+                    "https://media.defense.gov/2019/Sep/27/2002187629/1088/820/0/170502-M-QR315-1001.JPG"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Oh no, were you guys okay after the accident?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, we were fine, thanks. Just a minor accident, but it put a bit of a damper on telling my work friends about getting married. They\u2019ve been a great support, though.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "I bet they were thrilled to hear about your marriage, despite the mishap!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Absolutely, it's been a whirlwind of emotions. Good thing the accident was minor. Just a reminder to take it easy on the road, I guess.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "True, it\u2019s important to stay safe. Glad you can still enjoy the peaceful moments after something like that.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Definitely, nature brings peace and clarity - it's a great experience.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Nature can make everything else seem small and help us find peace inside. It reminds us of the bigger picture, you know?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "For sure, and nature has been a great healer. Speaking of which, I\u2019ve got to share some of these new healthy snacks I\u2019ve been trying.",
+                "img_url": [
+                    "https://i0.wp.com/therosetable.com/wp-content/uploads/2023/09/IMG_4235.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "They look healthy and delicious! Perfect for after a hike or, I guess, post-accident recovery, huh?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Exactly! They\u2019re packed with nutrients and really easy to make. You also need to try these cookies, they are awesome! I\u2019ll send you the recipes.",
+                "img_url": [
+                    "https://blessedbeyondcrazy.com/wp-content/uploads/2019/09/00000PORTRAIT_00000_BURST20190918165701335.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, I\u2019d appreciate that. It\u2019s good to find new ways to stay healthy. Do you have any healthier snack ideas?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, I've been trying to eat healthier too. Check out this cool recipe I discovered for these energy balls.",
+                "img_url": [
+                    "https://paleoglutenfreeguy.com/wp-content/uploads/2020/08/IMG_7067.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Do you like them? I know they can be an acquired taste.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I enjoy the taste of these. They're energizing and a healthy way to satisfy your sweet tooth.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Awesome! Always on the lookout for healthy snacks, thanks for the tip!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Glad to help - hope you enjoy it!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan! I'll give these a try. They look yum. Your help means a lot to me. Btw you know what? I went to the store again and, unsurprisingly, had issues with the self-checkout. It's becoming a regular annoyance.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "That's very strange, I've never had a problem with it once!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Apparently I attract that to me, if you ever want to be in that situation, call me at the store with you!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "11:00 am on 31 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_25",
+        "messages": [
+            {
+                "role": "Sam",
+                "content": "Hey Evan, been a few days since we last chatted. Hope you're doing OK. A lot's happened since then. Got issues with my health, it's been rough. Feels like this weight's keeping me from fully living. Trying to stay positive, not easy.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Hey Sam, sorry to hear about your health. It's tough when it gets in the way of life. You're being positive, but remember to take care of yourself too. By the way, I had to apologize to my partner for that drunken night, it was pretty embarrassing.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, that does sound like a tough situation. I'm doing my best with my health. How did your partner take the news about the rose bushes?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Well, she wasn't thrilled, but understood it was an accident. I promised to be more careful in the future. Changing the subject, have you found any low-impact exercises that you enjoy?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey Evan, haven't found any exercises I like. But lately, I've been on a few car rides. Helps me chill and enjoy the view. Check out this cool pic I snapped last week in the country.",
+                "img_url": [
+                    "https://i.imgur.com/hjUwenM.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Nice pic! Does being out in the countryside help you relax and get some fresh air away from the city?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, being in nature really helps me relax and get some fresh air away from the city.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Glad to hear it! Nature really has a way of calming and reviving the soul. Last summer, I took this pic on a camping trip - it was such an amazing sunset. Moments like these remind us of the beauty of life, even during tough times.",
+                "img_url": [
+                    "https://camperchristina.com/wp-content/uploads/2016/12/img_2641.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that pic is amazing! It must have been a great experience being out on the lake.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "I had a great time kayaking and watching the sunset last summer - it was truly unforgettable. Being out on the water is so peaceful.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that sounds amazing. Being in nature is so calming, right?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Nature can be super calming. It's like pushing a reset button for your mind and body.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Definitely, I couldn't agree more. There's something about being outdoors that rejuvenates you. I'm planning to spend more time in nature myself!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Got it. When health stuff cramps your style, it sucks. But small moments outdoors can make a big impact. This photo reminds me of last spring when I was feeling a bit down, but the vibrant colors brought a smile to my face, even if just for a moment. Remember to find joy in the little things.",
+                "img_url": [
+                    "http://deborahsilver.com/wp-content/uploads/2018/05/May-Baroque-12.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "That pic is gorgeous! It really brightens my day. Sometimes, it's the little things that matter, right?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Absolutely, Sam. It's often those little moments that make the biggest difference. Keep finding those bright spots.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Thanks, Evan. It's good to be reminded to appreciate the small things. They do add up.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Anytime, Sam. It's all about those small joys, especially when times are tough. You've got this!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Really appreciate it, Evan. Your words help a lot. Take care!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "You too, Sam. And remember, I'm always here if you need to chat. Look after yourself!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:37 pm on 11 January, 2024",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Evan_Sam_session_23",
+        "messages": [
+            {
+                "role": "Evan",
+                "content": "Hey Sam, guess what? My partner and I told our extended fam about our marriage yesterday \u2013 it was so special! We've been totally overwhelmed by all their love and support.",
+                "img_url": [
+                    "https://cdn.jewelryimages.net/static/domains/kvjewels/images/store-pics/b9ffd872-4ac6-405c-b3e0-19d875e60f0b.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Congrats on the news, Evan! You two look so happy in the pic. These moments make life so wonderful; super stoked for you!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! It was an awesome moment, and I feel really lucky to have found someone who gets me. Plus, our families are really happy for us - that's the best part!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, Evan. It's awesome that you've found someone who gets you! Having your family's support must feel great.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Definitely, family support is so important. Knowing they're happy about our marriage is awesome and so comforting.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, it's awesome to have that support. It definitely brings more happiness and joy.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah Sam, that means a lot to me. Our bond just keeps getting stronger and it brings such a good feeling to our lives. Family really is everything.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Agree, Evan! Family is everything - they bring so much love and happiness. They're always there for us no matter what. I'm grateful for their support and love.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "For sure, Sam. That's what makes family so special. They bring so much love and happiness. It's great having their support and knowing they're always there for us. I feel really fortunate to have their never-ending love and support.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, definitely, Evan. We both have amazing families that are always there for us. Always a blessing.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, Sam. Our families give us so much joy, support, and love. They're a real blessing! I don't know what I'd do without them.",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Hey, Evan. My family has been my rock through everything. Don't know what I'd do without them.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, they are our rock. We're blessed to have them.",
+                "img_url": [
+                    "https://ic.pics.livejournal.com/queerbychoice/218786/1899659/1899659_original.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, you guys are awesome! What's cooking tonight?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! We're having a family get-together tonight and enjoying some homemade lasagna. Super excited! By the way, I've started a new diet\u2014limiting myself to just two ginger snaps a day. What's on your menu tonight?\t",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "That's a great discipline, Evan! We're keeping it light tonight, just some homemade lasagna. Can't compete with your ginger snap limit though!",
+                "img_url": [
+                    "https://i.redd.it/qmjb5d7g8ra81.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Oh this must be very hearty and delicious, well I'll have to stick to the diet plan, even with the family gathering!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, the lasagna was pretty awesome, but check out what I had for dessert, I'm sure you're drooling!",
+                "img_url": [
+                    "https://anaffairfromtheheart.com/wp-content/uploads/2021/02/Key-Lime-Pie-1.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Looks yummy! Did you make that?",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "No, I didn't make it. This is actually a pic from my cousin's wedding. It's super special.",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Wow Sam! Weddings are indeed special. This looks great, yum!",
+                "img_url": [
+                    "https://pro2-bar-s3-cdn-cf6.myportfolio.com/e1babfb9-e322-404a-9561-2c785419ccdd/7bf07767-b90e-4d77-a5d3-9f8f939e4eb5_rw_1920.jpg?h=053a6b9133ab55bea0d7f139929fd30b"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Ooh, nice cake! Reminds me of special occasions. Do you have any upcoming plans?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks Sam! We're off to Canada next month for our honeymoon. So excited to create some awesome memories. Looking forward to exploring the beautiful snowy landscapes there.",
+                "img_url": [
+                    "https://texasrandi.files.wordpress.com/2021/03/durango-hike-10.jpg"
+                ]
+            },
+            {
+                "role": "Sam",
+                "content": "Wow, that looks great! What are your plans for the trip?",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "We're planning to ski, try the local cuisine, and enjoy the beautiful views. We're really excited!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Sounds amazing, Ev! Skiing, trying local dishes, and enjoying the breathtaking views - the perfect honeymoon. Have an incredible time creating unforgettable memories!",
+                "img_url": [
+                    "https://i.redd.it/p2vf3jqii0xb1.jpg"
+                ]
+            },
+            {
+                "role": "Evan",
+                "content": "Yeah, Sam! Gonna try some poutine while we're there - can't wait!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Never tried it? Can't say I blame you, it's kind of a Canadian thing. Let me know how you like it!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Sure thing, Sam! Let's see if it lives up to the hype. I'll let you know what happens!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Yeah, Evan! Let me know all about it. Don't forget the details!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Cool, Sam. I'll keep you posted. Talk soon!",
+                "img_url": []
+            },
+            {
+                "role": "Sam",
+                "content": "Awesome, Evan! Catch you soon. Have a great trip!",
+                "img_url": []
+            },
+            {
+                "role": "Evan",
+                "content": "Thanks, Sam! Catch you later. Have a great one!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:32 pm on 6 January, 2024",
+            "lang": "en"
+        }
+    }
+]

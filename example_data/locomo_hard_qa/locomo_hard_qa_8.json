@@ -1,0 +1,2189 @@
+[
+    {
+        "session_id": "Evan_Sam_session_2",
+        "visual_category": "Attribute",
+        "question": "In the road trip to Jasper mentioned by Evan, there is an image. What color is the glove holding the guide book?",
+        "answer": "Red",
+        "img_url": [
+            "https://1.bp.blogspot.com/-50oDf6izLpk/XtyM4RGdDgI/AAAAAAACwcA/nnQkAWVln4M3AQ4ZWAkGUfgrxjhpHbtJQCK4BGAsYHg/s4032/IMG_4686.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_2",
+        "visual_category": "OCR/Text",
+        "question": "In the road trip to Jasper mentioned by Evan, there is an image. What is the name of the publisher on the guide book?",
+        "answer": "Lonely Planet",
+        "img_url": [
+            "https://1.bp.blogspot.com/-50oDf6izLpk/XtyM4RGdDgI/AAAAAAACwcA/nnQkAWVln4M3AQ4ZWAkGUfgrxjhpHbtJQCK4BGAsYHg/s4032/IMG_4686.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_2",
+        "visual_category": "Attribute",
+        "question": "In the road trip to Jasper mentioned by Evan, there is an image. What distinct color is the main body of water?",
+        "answer": "Turquoise",
+        "img_url": [
+            "https://1.bp.blogspot.com/-50oDf6izLpk/XtyM4RGdDgI/AAAAAAACwcA/nnQkAWVln4M3AQ4ZWAkGUfgrxjhpHbtJQCK4BGAsYHg/s4032/IMG_4686.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Attribute",
+        "question": "In the Rockies mentioned by Evan, there is an image. What color is the lake water?",
+        "answer": "Turquoise/Teal",
+        "img_url": [
+            "https://res.cloudinary.com/atlasguruprod/image/upload/v1605280914/site-prod/itineraries/402c83d0-237f-11eb-85fd-4d00e2439877/omasxscl2k2xlnc2ggvj.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Attribute",
+        "question": "In the Rockies mentioned by Evan, there is an image. What color is the reflected sunlight on the distant snow-capped mountains?",
+        "answer": "Golden/Orange",
+        "img_url": [
+            "https://res.cloudinary.com/atlasguruprod/image/upload/v1605280914/site-prod/itineraries/402c83d0-237f-11eb-85fd-4d00e2439877/omasxscl2k2xlnc2ggvj.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Spatial",
+        "question": "In the Rockies mentioned by Evan, there is an image. Are rocks visible at the bottom of the lake near the foreground?",
+        "answer": "Yes",
+        "img_url": [
+            "https://res.cloudinary.com/atlasguruprod/image/upload/v1605280914/site-prod/itineraries/402c83d0-237f-11eb-85fd-4d00e2439877/omasxscl2k2xlnc2ggvj.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Attribute",
+        "question": "In the hike mentioned by Sam, there is an image. What color is the small child's jacket?",
+        "answer": "Blue",
+        "img_url": [
+            "https://storage.needpix.com/rsynced_images/family-1784512_1280.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Counting",
+        "question": "In the hike mentioned by Sam, there is an image. How many picnic tables are partially visible on the right?",
+        "answer": "Two",
+        "img_url": [
+            "https://storage.needpix.com/rsynced_images/family-1784512_1280.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Spatial",
+        "question": "In the hike mentioned by Sam, there is an image. What is visible on the ground directly behind the people?",
+        "answer": "Rocky riverbed",
+        "img_url": [
+            "https://storage.needpix.com/rsynced_images/family-1784512_1280.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Counting",
+        "question": "In the painting Sam was thinking about trying, there is an image. How many distinct colors of paint are visible in the set?",
+        "answer": "18",
+        "img_url": [
+            "https://i.redd.it/hbkrxuiitopb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Attribute",
+        "question": "In the painting Sam was thinking about trying, there is an image. What is the color of the brush handle included in the paint set?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/hbkrxuiitopb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the painting Sam was thinking about trying, there is an image. What is the listed price of the paint set?",
+        "answer": "$4.99",
+        "img_url": [
+            "https://i.redd.it/hbkrxuiitopb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Counting",
+        "question": "In the watercolor painting mentioned by Evan, there is an image. How many cacti are depicted?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "Attribute",
+        "question": "In the watercolor painting mentioned by Evan, there is an image. What color is the uppermost part of the painted sky?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the watercolor painting mentioned by Evan, there is an image. What year is written in the signature on the bottom right?",
+        "answer": "2020",
+        "img_url": [
+            "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "Attribute",
+        "question": "In the health scare mentioned by Evan, there is an image. What color is the main body of the pill bottle?",
+        "answer": "Orange",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/ai-generated-healthy-fresh-salad-avocado-fresh-healthy-avocado-salad-recipe-top-view-discover-vibrant-flavors-320291783.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "Counting",
+        "question": "In the health scare mentioned by Evan, there is an image. How many fingers are visibly gripping the pill bottle?",
+        "answer": "Three",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/ai-generated-healthy-fresh-salad-avocado-fresh-healthy-avocado-salad-recipe-top-view-discover-vibrant-flavors-320291783.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the health scare mentioned by Evan, there is an image. Is the text on the white label of the bottle clearly legible?",
+        "answer": "No",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/ai-generated-healthy-fresh-salad-avocado-fresh-healthy-avocado-salad-recipe-top-view-discover-vibrant-flavors-320291783.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "Counting",
+        "question": "In the trying to eat healthier mentioned by Sam, there is an image. How many individual mint leaves are visibly scattered around the salad and glass?",
+        "answer": "Four",
+        "img_url": [
+            "https://mayuris-jikoni.com/wp-content/uploads/2020/06/Rainbow-Salad-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "Attribute",
+        "question": "In the trying to eat healthier mentioned by Sam, there is an image. What is the main color of the diced vegetable located at the far right edge of the bowl?",
+        "answer": "Red",
+        "img_url": [
+            "https://mayuris-jikoni.com/wp-content/uploads/2020/06/Rainbow-Salad-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the trying to eat healthier mentioned by Sam, there is an image. What is the text written in purple font at the bottom of the image?",
+        "answer": "mayuri's jikoni",
+        "img_url": [
+            "https://mayuris-jikoni.com/wp-content/uploads/2020/06/Rainbow-Salad-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "Attribute",
+        "question": "In the our workouts mentioned by Evan, there is an image. What kind of earring is the person wearing?",
+        "answer": "A small hoop.",
+        "img_url": [
+            "https://c0.wallpaperflare.com/preview/870/384/969/adult-bodybuilding-brawny-dumbbell.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "Counting",
+        "question": "In the our workouts mentioned by Evan, there is an image. How many weight plates are visible on the side of the dumbbell closest to the viewer?",
+        "answer": "Three.",
+        "img_url": [
+            "https://c0.wallpaperflare.com/preview/870/384/969/adult-bodybuilding-brawny-dumbbell.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the our workouts mentioned by Evan, there is an image. What text is printed in red on the person's shirt?",
+        "answer": "HARD CORE.",
+        "img_url": [
+            "https://c0.wallpaperflare.com/preview/870/384/969/adult-bodybuilding-brawny-dumbbell.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_6",
+        "visual_category": "Attribute",
+        "question": "In the rad vacay mentioned by Evan, there is an image. What are the two primary colors of the tent?",
+        "answer": "Yellow and beige",
+        "img_url": [
+            "https://lp-cms-production.imgix.net/image_browser/camping-long-range-traverse.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_6",
+        "visual_category": "Counting",
+        "question": "In the rad vacay mentioned by Evan, there is an image. How many people are visibly present in the frame?",
+        "answer": "One",
+        "img_url": [
+            "https://lp-cms-production.imgix.net/image_browser/camping-long-range-traverse.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_6",
+        "visual_category": "Attribute",
+        "question": "In the rad vacay mentioned by Evan, there is an image. What is the predominant condition of the sky?",
+        "answer": "Overcast/Cloudy",
+        "img_url": [
+            "https://lp-cms-production.imgix.net/image_browser/camping-long-range-traverse.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_6",
+        "visual_category": "Attribute",
+        "question": "In the note mentioned by Sam, there is an image. What color is the ribbon bookmark visible in the journal?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/u2nyg1ua6nd81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_6",
+        "visual_category": "Attribute",
+        "question": "In the note mentioned by Sam, there is an image. What color is the pen resting on the right side of the page?",
+        "answer": "Dark gray",
+        "img_url": [
+            "https://i.redd.it/u2nyg1ua6nd81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_6",
+        "visual_category": "Counting",
+        "question": "In the note mentioned by Sam, there is an image. How many distinct lines of handwritten text are present in the main entry?",
+        "answer": "10",
+        "img_url": [
+            "https://i.redd.it/u2nyg1ua6nd81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_7",
+        "visual_category": "Counting",
+        "question": "In the soccer accident mentioned by Evan, there is an image. How many toes are visible protruding from the cast?",
+        "answer": "Five",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/be/Orthopedic_cast_4604.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_7",
+        "visual_category": "Attribute",
+        "question": "In the soccer accident mentioned by Evan, there is an image. What color is the cast on the ankle?",
+        "answer": "Purple",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/be/Orthopedic_cast_4604.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_7",
+        "visual_category": "Spatial",
+        "question": "In the soccer accident mentioned by Evan, there is an image. What object is lying on the carpet to the upper left of the cast?",
+        "answer": "A white bone",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/be/Orthopedic_cast_4604.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_7",
+        "visual_category": "Attribute",
+        "question": "In the yummy grilled dish mentioned by Sam, there is an image. What design is on the rim of the white plate?",
+        "answer": "Beaded",
+        "img_url": [
+            "https://i0.wp.com/sevenlayercharlotte.com/wp-content/uploads/2021/07/IMG_7767.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_7",
+        "visual_category": "Attribute",
+        "question": "In the yummy grilled dish mentioned by Sam, there is an image. What kind of nuts are visible in the green salad?",
+        "answer": "Sliced almonds",
+        "img_url": [
+            "https://i0.wp.com/sevenlayercharlotte.com/wp-content/uploads/2021/07/IMG_7767.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_7",
+        "visual_category": "Counting",
+        "question": "In the yummy grilled dish mentioned by Sam, there is an image. How many potato wedges are served on the plate?",
+        "answer": "Eight",
+        "img_url": [
+            "https://i0.wp.com/sevenlayercharlotte.com/wp-content/uploads/2021/07/IMG_7767.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the road trip last month mentioned by Evan, there is an image. What brand name is visible in the reflection of the car's side mirror?",
+        "answer": "Jeep",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a3/In_a_car_over_a_lake_%28Unsplash%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Counting",
+        "question": "In the road trip last month mentioned by Evan, there is an image. How many distinct mountain ranges are visible in the background?",
+        "answer": "Two",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a3/In_a_car_over_a_lake_%28Unsplash%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Attribute",
+        "question": "In the road trip last month mentioned by Evan, there is an image. What is the predominant color of the ground cover in the immediate foreground?",
+        "answer": "Golden brown",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a3/In_a_car_over_a_lake_%28Unsplash%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Attribute",
+        "question": "In the idea of going for more hikes mentioned by Evan, there is an image. What covers the peak of the mountain in the background?",
+        "answer": "Snow and clouds",
+        "img_url": [
+            "https://www.koin.com/wp-content/uploads/sites/10/2022/04/Tom-Dick-and-Harry-Mountain-view-of-Mirror-Creek-Courtesy-US-Forest-Service.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Attribute",
+        "question": "In the idea of going for more hikes mentioned by Evan, there is an image. What is visible beneath the surface of the lake water in the foreground?",
+        "answer": "Rocks and lakebed",
+        "img_url": [
+            "https://www.koin.com/wp-content/uploads/sites/10/2022/04/Tom-Dick-and-Harry-Mountain-view-of-Mirror-Creek-Courtesy-US-Forest-Service.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Attribute",
+        "question": "In the idea of going for more hikes mentioned by Evan, there is an image. What prominent natural features are reflected in the lake's surface?",
+        "answer": "Trees and mountain",
+        "img_url": [
+            "https://www.koin.com/wp-content/uploads/sites/10/2022/04/Tom-Dick-and-Harry-Mountain-view-of-Mirror-Creek-Courtesy-US-Forest-Service.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Counting",
+        "question": "In the \"this one\" mentioned by Evan, there is an image. How many distinct snow-capped peaks are visible in the mountain range?",
+        "answer": "Nine",
+        "img_url": [
+            "https://i.redd.it/p8xbz5tcvc2b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Attribute",
+        "question": "In the \"this one\" mentioned by Evan, there is an image. What color is the lake water?",
+        "answer": "Turquoise",
+        "img_url": [
+            "https://i.redd.it/p8xbz5tcvc2b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_9",
+        "visual_category": "Counting",
+        "question": "In the \"this one\" mentioned by Evan, there is an image. How many people are visible on the far shoreline?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/p8xbz5tcvc2b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Counting",
+        "question": "In the gym membership card mentioned by Evan, there is an image. How many cards are clearly visible in the stack?",
+        "answer": "8",
+        "img_url": [
+            "https://i.redd.it/ddd782loz4w81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Attribute",
+        "question": "In the gym membership card mentioned by Evan, there is an image. What is the primary color of the membership cards?",
+        "answer": "Gold",
+        "img_url": [
+            "https://i.redd.it/ddd782loz4w81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the gym membership card mentioned by Evan, there is an image. What is the company name printed on the cards?",
+        "answer": "LIFE TIME",
+        "img_url": [
+            "https://i.redd.it/ddd782loz4w81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Counting",
+        "question": "In the dietary changes mentioned by Evan, there is an image. How many red onions are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1561753439/k/Photo/Series/2019-07-power-hour-eat-the-rainbow/IMG_3090.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Attribute",
+        "question": "In the dietary changes mentioned by Evan, there is an image. What type of cabbage is shown?",
+        "answer": "Napa cabbage",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1561753439/k/Photo/Series/2019-07-power-hour-eat-the-rainbow/IMG_3090.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the dietary changes mentioned by Evan, there is an image. What kind of cheese is visible?",
+        "answer": "Grana Padano",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1561753439/k/Photo/Series/2019-07-power-hour-eat-the-rainbow/IMG_3090.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Counting",
+        "question": "In the flavored seltzer water mentioned by Evan, there is an image. How many different brands of seltzer water are visible?",
+        "answer": "Eleven",
+        "img_url": [
+            "https://www.tasteofhome.com/wp-content/uploads/2018/09/IMG_3475-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Attribute",
+        "question": "In the flavored seltzer water mentioned by Evan, there is an image. What color is the cap on the green Perrier bottle?",
+        "answer": "Gold",
+        "img_url": [
+            "https://www.tasteofhome.com/wp-content/uploads/2018/09/IMG_3475-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Counting",
+        "question": "In the flavored seltzer water mentioned by Evan, there is an image. How many of the displayed products are in cans?",
+        "answer": "Six",
+        "img_url": [
+            "https://www.tasteofhome.com/wp-content/uploads/2018/09/IMG_3475-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Attribute",
+        "question": "In the flavored seltzer mentioned by Evan, there is an image. Is the seltzer bottle completely full?",
+        "answer": "No",
+        "img_url": [
+            "https://grandmarecipes.com/wp-content/uploads/2025/02/drivexmidjourney_Healthy_Air_Popped_Popcorn_Amateur_photo_from__dd489066-7b3f-4d6b-8ed2-58140946c202.webp"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Counting",
+        "question": "In the fruit mentioned by Evan, there is an image. How many whole limes are placed in the bowl with a floral pattern?",
+        "answer": "Three",
+        "img_url": [
+            "https://grandmarecipes.com/wp-content/uploads/2025/02/drivexmidjourney_Healthy_Air_Popped_Popcorn_Amateur_photo_from__dd489066-7b3f-4d6b-8ed2-58140946c202.webp"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Attribute",
+        "question": "In the fruit mentioned by Evan, there is an image. What is the approximate color of the berries in the rightmost bowl?",
+        "answer": "Deep red/purple",
+        "img_url": [
+            "https://grandmarecipes.com/wp-content/uploads/2025/02/drivexmidjourney_Healthy_Air_Popped_Popcorn_Amateur_photo_from__dd489066-7b3f-4d6b-8ed2-58140946c202.webp"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Attribute",
+        "question": "In the healthy swaps mentioned by Evan, there is an image. What color is the apple?",
+        "answer": "Green",
+        "img_url": [
+            "https://c1.peakpx.com/wallpaper/264/906/323/still-items-things-book-wallpaper-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the small steps mentioned by Evan, there is an image. What year is written on the book?",
+        "answer": "2017",
+        "img_url": [
+            "https://c1.peakpx.com/wallpaper/264/906/323/still-items-things-book-wallpaper-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_4",
+        "visual_category": "Counting",
+        "question": "In the small steps mentioned by Evan, there is an image. How many items are in the stack of magazines?",
+        "answer": "Five",
+        "img_url": [
+            "https://c1.peakpx.com/wallpaper/264/906/323/still-items-things-book-wallpaper-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Counting",
+        "question": "In the eating healthier mentioned by Sam, there is an image. How many distinct types of fruit are arranged in the bowl?",
+        "answer": "Six",
+        "img_url": [
+            "https://www.cookingclassy.com/wp-content/uploads/2019/05/fruit-salad-8.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Attribute",
+        "question": "In the eating healthier mentioned by Sam, there is an image. Are all the purple grapes whole, or are some sliced?",
+        "answer": "Some are sliced",
+        "img_url": [
+            "https://www.cookingclassy.com/wp-content/uploads/2019/05/fruit-salad-8.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Spatial",
+        "question": "In the eating healthier mentioned by Sam, there is an image. What fruit is positioned directly below the strawberries and next to the grapes?",
+        "answer": "Blueberries",
+        "img_url": [
+            "https://www.cookingclassy.com/wp-content/uploads/2019/05/fruit-salad-8.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Attribute",
+        "question": "In the messed up knee playing b-ball with the kids mentioned by Evan, there is an image. What color is the brace holding the bandages on?",
+        "answer": "Black",
+        "img_url": [
+            "https://live.staticflickr.com/23/35171147_0fd909cefb_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Attribute",
+        "question": "In the messed up knee playing b-ball with the kids mentioned by Evan, there is an image. What material is the floor made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://live.staticflickr.com/23/35171147_0fd909cefb_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Counting",
+        "question": "In the messed up knee playing b-ball with the kids mentioned by Evan, there is an image. How many distinct cables are visible on the floor near the injured knee?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/23/35171147_0fd909cefb_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Counting",
+        "question": "In what I did last week mentioned by Evan, there is an image. How many cacti are depicted in the painting?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "OCR/Text",
+        "question": "In what I did last week mentioned by Evan, there is an image. What year is written in the signature at the bottom right?",
+        "answer": "2020",
+        "img_url": [
+            "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_11",
+        "visual_category": "Attribute",
+        "question": "In what I did last week mentioned by Evan, there is an image. Do the visible edges of the painting paper appear smooth or uneven?",
+        "answer": "Uneven",
+        "img_url": [
+            "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_12",
+        "visual_category": "Attribute",
+        "question": "In the lifting weights mentioned by Evan, there is an image. What color is Evan's t-shirt?",
+        "answer": "Grey",
+        "img_url": [
+            "https://blog.merrittclubs.com/hubfs/weight%20machine%20blog%204.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_12",
+        "visual_category": "Attribute",
+        "question": "In the lifting weights mentioned by Evan, there is an image. What color is the seat cushion on the weight machine?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://blog.merrittclubs.com/hubfs/weight%20machine%20blog%204.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the lifting weights mentioned by Evan, there is an image. What brand logo is visible on Evan's shoes?",
+        "answer": "Nike swoosh",
+        "img_url": [
+            "https://blog.merrittclubs.com/hubfs/weight%20machine%20blog%204.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_12",
+        "visual_category": "Counting",
+        "question": "In the message mentioned by Evan, there is an image. How many pencils are visible on the surface around the notebook?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/uupz9iakdja61.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the message mentioned by Evan, there is an image. What word is written in all capital letters in the last quoted line on the notebook page?",
+        "answer": "SQUARE",
+        "img_url": [
+            "https://i.redd.it/uupz9iakdja61.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_12",
+        "visual_category": "Attribute",
+        "question": "In the message mentioned by Evan, there is an image. What color is the notebook's cover?",
+        "answer": "Dark reddish-purple",
+        "img_url": [
+            "https://i.redd.it/uupz9iakdja61.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_15",
+        "visual_category": "Attribute",
+        "question": "In the changed diet mentioned by Evan, there is an image. What color is the shirt Evan is wearing?",
+        "answer": "White",
+        "img_url": [
+            "https://www.publicdomainpictures.net/pictures/540000/nahled/fit-man-and-healthy-food-1694521202SgE.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_15",
+        "visual_category": "Counting",
+        "question": "In the changed diet mentioned by Evan, there is an image. How many distinct wooden bowls containing produce are visible on the table?",
+        "answer": "Three",
+        "img_url": [
+            "https://www.publicdomainpictures.net/pictures/540000/nahled/fit-man-and-healthy-food-1694521202SgE.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_15",
+        "visual_category": "Spatial",
+        "question": "In the changed diet mentioned by Evan, there is an image. What type of container is placed directly in front of Evan?",
+        "answer": "Woven basket",
+        "img_url": [
+            "https://www.publicdomainpictures.net/pictures/540000/nahled/fit-man-and-healthy-food-1694521202SgE.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_10",
+        "visual_category": "Attribute",
+        "question": "In the image Evan sent, there is an image. What are the predominant colors in the sky area of the painting?",
+        "answer": "Red and orange",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/vibrant-healthy-grilled-chicken-meal-roasted-vegetables-kale-cherry-tomatoes-bell-peppers-mango-perfect-balanced-diet-369208244.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_10",
+        "visual_category": "Spatial",
+        "question": "In the image Evan sent, there is an image. What is the approximate location of the brightest point of light in the painting?",
+        "answer": "Top center",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/vibrant-healthy-grilled-chicken-meal-roasted-vegetables-kale-cherry-tomatoes-bell-peppers-mango-perfect-balanced-diet-369208244.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_10",
+        "visual_category": "Other",
+        "question": "In the image Evan sent, there is an image. Are there any distinct landmasses or boats visible within the painted scene?",
+        "answer": "No",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/vibrant-healthy-grilled-chicken-meal-roasted-vegetables-kale-cherry-tomatoes-bell-peppers-mango-perfect-balanced-diet-369208244.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_10",
+        "visual_category": "Counting",
+        "question": "In the pic I posted mentioned by Sam, there is an image. How many distinct types of main ingredients are clearly visible in the served meal?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.thecarnivoredietcoach.com/uploads/2/2/0/1/22014694/119840561-3935194023169733-5615989418973881793-o.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the pic I posted mentioned by Sam, there is an image. What is the full brand and meal name printed on the packaging?",
+        "answer": "Healthy Choice Caf\u00e9 Steamers Beef Merlot",
+        "img_url": [
+            "https://www.thecarnivoredietcoach.com/uploads/2/2/0/1/22014694/119840561-3935194023169733-5615989418973881793-o.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_10",
+        "visual_category": "Attribute",
+        "question": "In the pic I posted mentioned by Sam, there is an image. Does the prepared meal in the bowl appear dry or saucy?",
+        "answer": "Saucy",
+        "img_url": [
+            "https://www.thecarnivoredietcoach.com/uploads/2/2/0/1/22014694/119840561-3935194023169733-5615989418973881793-o.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. What are the predominant colors in the sky?",
+        "answer": "Blue, white, and yellow",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/85/Cliffs_and_mountains_and_sky_at_sunset_--_2_of_33.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. What type of landform is depicted prominently on the left side?",
+        "answer": "A steep cliff",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/85/Cliffs_and_mountains_and_sky_at_sunset_--_2_of_33.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Counting",
+        "question": "In the painting mentioned by Evan, there is an image. How many distinct layers of distant hills are visible in the background, receding from left to right?",
+        "answer": "Four",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/85/Cliffs_and_mountains_and_sky_at_sunset_--_2_of_33.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Counting",
+        "question": "In the some unhealthy snacks mentioned by Sam, there is an image. How many individual soda can candies are in the package?",
+        "answer": "Six",
+        "img_url": [
+            "http://raremunchiez.com/cdn/shop/products/soda-can-fizzy-candy-6-pack-raremunchiez.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the some unhealthy snacks mentioned by Sam, there is an image. What is the net weight of the candy package?",
+        "answer": "1.48oz (42g)",
+        "img_url": [
+            "http://raremunchiez.com/cdn/shop/products/soda-can-fizzy-candy-6-pack-raremunchiez.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Attribute",
+        "question": "In the some unhealthy snacks mentioned by Sam, there is an image. Is the person's forearm holding the candy hairy?",
+        "answer": "Yes",
+        "img_url": [
+            "http://raremunchiez.com/cdn/shop/products/soda-can-fizzy-candy-6-pack-raremunchiez.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Counting",
+        "question": "In the help mentioned by Sam, there is an image. How many kayaks are visible lined up on the river bank?",
+        "answer": "Seven",
+        "img_url": [
+            "https://www.higherpursuits.com/wp-content/uploads/2019/01/2019-Rental-Boats-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "Attribute",
+        "question": "In the help mentioned by Sam, there is an image. What are the primary colors of the kayak closest to the camera?",
+        "answer": "Yellow and orange",
+        "img_url": [
+            "https://www.higherpursuits.com/wp-content/uploads/2019/01/2019-Rental-Boats-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the help mentioned by Sam, there is an image. What brand name is visible on the side of multiple kayaks?",
+        "answer": "Perception",
+        "img_url": [
+            "https://www.higherpursuits.com/wp-content/uploads/2019/01/2019-Rental-Boats-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_16",
+        "visual_category": "OCR/Text",
+        "question": "In the \"what i got\" mentioned by Evan, there is an image. What brand name is visible on the guitar's headstock?",
+        "answer": "Kustom",
+        "img_url": [
+            "https://guitarsonmain.com/cdn/shop/files/1968-kustom-k-200a-vintage-guitar-w-ohsc-40274115559663_5000x.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_16",
+        "visual_category": "Counting",
+        "question": "In the \"what i got\" mentioned by Evan, there is an image. How many tuning pegs are visible on the guitar's headstock?",
+        "answer": "Six",
+        "img_url": [
+            "https://guitarsonmain.com/cdn/shop/files/1968-kustom-k-200a-vintage-guitar-w-ohsc-40274115559663_5000x.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_16",
+        "visual_category": "Attribute",
+        "question": "In the \"what i got\" mentioned by Evan, there is an image. What color are the circular inlays on the fretboard?",
+        "answer": "White/Pearly",
+        "img_url": [
+            "https://guitarsonmain.com/cdn/shop/files/1968-kustom-k-200a-vintage-guitar-w-ohsc-40274115559663_5000x.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_16",
+        "visual_category": "Counting",
+        "question": "In the sunset mentioned by Evan, there is an image. How many distinct contrails are visible in the upper sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_16",
+        "visual_category": "Spatial",
+        "question": "In the sunset mentioned by Evan, there is an image. Is the sun fully visible above the ocean horizon?",
+        "answer": "No, partially obscured",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_16",
+        "visual_category": "Attribute",
+        "question": "In the sunset mentioned by Evan, there is an image. What color are the most prominent clouds near the horizon?",
+        "answer": "Orange and pink",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_18",
+        "visual_category": "Counting",
+        "question": "In the new things mentioned by Sam, there is an image. How many smoothie bowls are pictured?",
+        "answer": "Five",
+        "img_url": [
+            "http://steenshoney.com/cdn/shop/articles/IMG_5745.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_18",
+        "visual_category": "Attribute",
+        "question": "In the Weight Watchers meeting mentioned by Sam, there is an image. What green seeds are scattered near the bottom right smoothie bowl?",
+        "answer": "Pumpkin seeds",
+        "img_url": [
+            "http://steenshoney.com/cdn/shop/articles/IMG_5745.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_18",
+        "visual_category": "Attribute",
+        "question": "In the great tips mentioned by Sam, there is an image. What yellow fruit is used as a topping on the bottom left smoothie bowl?",
+        "answer": "Pineapple",
+        "img_url": [
+            "http://steenshoney.com/cdn/shop/articles/IMG_5745.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_19",
+        "visual_category": "OCR/Text",
+        "question": "In the collage of some of our top family memories mentioned by Evan, there is an image. What university's name is displayed on the green banner above the photos?",
+        "answer": "Notre Dame",
+        "img_url": [
+            "https://clickinmyheels.files.wordpress.com/2019/09/fpthpk1wrjgpigitpdlw3w.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_19",
+        "visual_category": "Attribute",
+        "question": "In the collage of some of our top family memories mentioned by Evan, there is an image. What color is the lamp shade next to the framed photos?",
+        "answer": "Light beige",
+        "img_url": [
+            "https://clickinmyheels.files.wordpress.com/2019/09/fpthpk1wrjgpigitpdlw3w.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_19",
+        "visual_category": "Attribute",
+        "question": "In the collage of some of our top family memories mentioned by Evan, there is an image. What items are visible inside the clear glass jar under the lamp?",
+        "answer": "Studded pet collars",
+        "img_url": [
+            "https://clickinmyheels.files.wordpress.com/2019/09/fpthpk1wrjgpigitpdlw3w.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the trip to Canada mentioned by Evan, there is an image. How many people are walking in the snow?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA0L3NyLWltYWdlLTA0MDQyMDI1LXRvbmdhMTgtcy0xNTgtam9iMjAyMi1tOXRmdzBiNC5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the trip to Canada mentioned by Evan, there is an image. What color is the woman's main sweater?",
+        "answer": "Cream",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA0L3NyLWltYWdlLTA0MDQyMDI1LXRvbmdhMTgtcy0xNTgtam9iMjAyMi1tOXRmdzBiNC5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Action",
+        "question": "In the trip to Canada mentioned by Evan, there is an image. What are the two people doing with their hands?",
+        "answer": "Holding hands",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA0L3NyLWltYWdlLTA0MDQyMDI1LXRvbmdhMTgtcy0xNTgtam9iMjAyMi1tOXRmdzBiNC5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the difficulty in enjoying things mentioned by Sam, there is an image. How many distinct airplane contrails are visible in the upper portion of the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://cakeshungry.com/wp-content/uploads/2024/08/Ginger-Snaps-Cookies-Recipes.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the difficulty in enjoying things mentioned by Sam, there is an image. What color is the direct disc of the sun?",
+        "answer": "White",
+        "img_url": [
+            "https://cakeshungry.com/wp-content/uploads/2024/08/Ginger-Snaps-Cookies-Recipes.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the difficulty in enjoying things mentioned by Sam, there is an image. Does the visible part of the sun appear as a perfect circle?",
+        "answer": "No",
+        "img_url": [
+            "https://cakeshungry.com/wp-content/uploads/2024/08/Ginger-Snaps-Cookies-Recipes.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the what life has thrown for me right now mentioned by Evan, there is an image. What material is the container holding the cookies made of?",
+        "answer": "Plastic",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/boy-girl-sit-floor-under-christmas-tree-children-eat-ginger-man-waiting-celebration-new-year-merry-happy-holidays-child-280749532.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the what life has thrown for me right now mentioned by Evan, there is an image. How many cookies are indicated on the label of the container?",
+        "answer": "24",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/boy-girl-sit-floor-under-christmas-tree-children-eat-ginger-man-waiting-celebration-new-year-merry-happy-holidays-child-280749532.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the what life has thrown for me right now mentioned by Evan, there is an image. What is the 'SELL BY' date displayed on the label?",
+        "answer": "JUL 26, 23",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/boy-girl-sit-floor-under-christmas-tree-children-eat-ginger-man-waiting-celebration-new-year-merry-happy-holidays-child-280749532.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the ones who bring lots of joy mentioned by Evan, there is an image. How many children are visible in the image?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.ctfassets.net/5ql9i5attlka/H97gx7NuNu1FH7Q8fiC8s/9fcd878661ce897f1d92e472cdf8fecd/Backyard_Swings.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the ones who bring lots of joy mentioned by Evan, there is an image. What color are the chains holding the swings?",
+        "answer": "Green",
+        "img_url": [
+            "https://images.ctfassets.net/5ql9i5attlka/H97gx7NuNu1FH7Q8fiC8s/9fcd878661ce897f1d92e472cdf8fecd/Backyard_Swings.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the ones who bring lots of joy mentioned by Evan, there is an image. What material is covering the ground directly beneath the swing set's wooden structure?",
+        "answer": "Mulch",
+        "img_url": [
+            "https://images.ctfassets.net/5ql9i5attlka/H97gx7NuNu1FH7Q8fiC8s/9fcd878661ce897f1d92e472cdf8fecd/Backyard_Swings.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the healthy road mentioned by Evan, there is an image. What brand name is printed on the fitness tracker's packaging?",
+        "answer": "morePro",
+        "img_url": [
+            "https://davethekayaker.files.wordpress.com/2019/04/20190430_110706.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the healthy road mentioned by Evan, there is an image. What time is displayed on the device's screen?",
+        "answer": "22:35",
+        "img_url": [
+            "https://davethekayaker.files.wordpress.com/2019/04/20190430_110706.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the healthy road mentioned by Evan, there is an image. How many adjustment holes are visible on the watch strap?",
+        "answer": "10",
+        "img_url": [
+            "https://davethekayaker.files.wordpress.com/2019/04/20190430_110706.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the health goals mentioned by Evan, there is an image. What brand name is displayed on the fitness tracker?",
+        "answer": "morePro",
+        "img_url": [
+            "https://davethekayaker.files.wordpress.com/2019/04/20190430_110731.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the health goals mentioned by Evan, there is an image. What time is currently shown on the device?",
+        "answer": "11:07",
+        "img_url": [
+            "https://davethekayaker.files.wordpress.com/2019/04/20190430_110731.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the health goals mentioned by Evan, there is an image. What percentage is indicated in the green progress circle?",
+        "answer": "6%",
+        "img_url": [
+            "https://davethekayaker.files.wordpress.com/2019/04/20190430_110731.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Counting",
+        "question": "In the adventure on interesting hikes mentioned by Evan, there is an image. How many utility poles are visible on the hill?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the adventure on interesting hikes mentioned by Evan, there is an image. What is the predominant color of the water in the foreground?",
+        "answer": "Blue-gray",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the adventure on interesting hikes mentioned by Evan, there is an image. Is the surface of the water calm or choppy?",
+        "answer": "Calm",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the something that motivates you and makes you happy mentioned by Evan, there is an image. What color is the plant pot?",
+        "answer": "Dark gray",
+        "img_url": [
+            "https://i.redd.it/pjrgea5wqvg11.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the something that motivates you and makes you happy mentioned by Evan, there is an image. What brand name is visible on the pot?",
+        "answer": "Lechuza",
+        "img_url": [
+            "https://i.redd.it/pjrgea5wqvg11.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_5",
+        "visual_category": "Attribute",
+        "question": "In the something that motivates you and makes you happy mentioned by Evan, there is an image. What is wrapped around the tree's branches?",
+        "answer": "Dark wire",
+        "img_url": [
+            "https://i.redd.it/pjrgea5wqvg11.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_20",
+        "visual_category": "Attribute",
+        "question": "In the accident last Tuesday mentioned by Evan, there is an image. What color are his pants?",
+        "answer": "Camouflage",
+        "img_url": [
+            "https://d2g8igdw686xgo.cloudfront.net/25280738_15137467980_r.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_20",
+        "visual_category": "Attribute",
+        "question": "In the accident last Tuesday mentioned by Evan, there is an image. What colors are the crutches the boy is using?",
+        "answer": "Silver and black",
+        "img_url": [
+            "https://d2g8igdw686xgo.cloudfront.net/25280738_15137467980_r.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_20",
+        "visual_category": "Attribute",
+        "question": "In the accident last Tuesday mentioned by Evan, there is an image. What color is the object visible in the side mesh pocket of the boy's backpack?",
+        "answer": "Red",
+        "img_url": [
+            "https://d2g8igdw686xgo.cloudfront.net/25280738_15137467980_r.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_20",
+        "visual_category": "Attribute",
+        "question": "In the moment of accomplishment mentioned by Evan, there is an image. What color are the glasses frames worn by the person?",
+        "answer": "Leopard print brown",
+        "img_url": [
+            "https://i.redd.it/ub3eyozz1olb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the moment of accomplishment mentioned by Evan, there is an image. What place did the artist win according to the visible certificate?",
+        "answer": "Second place",
+        "img_url": [
+            "https://i.redd.it/ub3eyozz1olb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_20",
+        "visual_category": "Attribute",
+        "question": "In the moment of accomplishment mentioned by Evan, there is an image. What color are the eyes of the person depicted in the painting?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/ub3eyozz1olb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Counting",
+        "question": "In the gathering of friends mentioned by Evan, there is an image. How many people are present?",
+        "answer": "Six",
+        "img_url": [
+            "https://images.pexels.com/photos/7149181/pexels-photo-7149181.jpeg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the gathering of friends mentioned by Evan, there is an image. What color is the acoustic guitar being played?",
+        "answer": "Orange",
+        "img_url": [
+            "https://images.pexels.com/photos/7149181/pexels-photo-7149181.jpeg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "OCR/Text",
+        "question": "In the gathering of friends mentioned by Evan, there is an image. What partial word is visible on the concrete fire pit?",
+        "answer": "SHES DA",
+        "img_url": [
+            "https://images.pexels.com/photos/7149181/pexels-photo-7149181.jpeg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Counting",
+        "question": "In the image Evan sent, there is an image. How many utility poles are visible on the hill?",
+        "answer": "3",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the image Evan sent, there is an image. What color is the water in the foreground?",
+        "answer": "Dark blue-green",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the image Evan sent, there is an image. What is the approximate color of the dominant land mass?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Counting",
+        "question": "In the little island mentioned by Evan, there is an image. How many distinct layers of clouds are visible in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://myrnafolkert.files.wordpress.com/2021/05/boat-pic-9.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the little island mentioned by Evan, there is an image. What is the predominant color of the water's surface that is not directly reflecting sunlight?",
+        "answer": "Dark blue-grey",
+        "img_url": [
+            "https://myrnafolkert.files.wordpress.com/2021/05/boat-pic-9.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the little island mentioned by Evan, there is an image. Is the sun fully visible or partially obscured by clouds?",
+        "answer": "Partially obscured",
+        "img_url": [
+            "https://myrnafolkert.files.wordpress.com/2021/05/boat-pic-9.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Counting",
+        "question": "In the serene and calming scene mentioned by Evan, there is an image. How many figures are visible in the water?",
+        "answer": "Two",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/608/545/293/sunset-kapiti-coast-new-zealand-beautiful-serene.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the serene and calming scene mentioned by Evan, there is an image. What is the predominant color of the sky at the very top of the image?",
+        "answer": "Blue",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/608/545/293/sunset-kapiti-coast-new-zealand-beautiful-serene.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Spatial",
+        "question": "In the serene and calming scene mentioned by Evan, there is an image. On which side of the image is the sun positioned?",
+        "answer": "Right",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/608/545/293/sunset-kapiti-coast-new-zealand-beautiful-serene.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the little slice of paradise mentioned by Evan, there is an image. What shape is the visible part of the sun?",
+        "answer": "Half-circle",
+        "img_url": [
+            "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Counting",
+        "question": "In the little slice of paradise mentioned by Evan, there is an image. How many contrails are visible in the sky?",
+        "answer": "One",
+        "img_url": [
+            "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_17",
+        "visual_category": "Attribute",
+        "question": "In the little slice of paradise mentioned by Evan, there is an image. What is the texture of the water's surface?",
+        "answer": "Rippled",
+        "img_url": [
+            "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the living healthier mentioned by Sam, there is an image. How many distinct strawberry pieces are visible in the salad?",
+        "answer": "7",
+        "img_url": [
+            "https://i0.wp.com/www.thedishonhealthy.com/wp-content/uploads/2018/06/Avocado-Strawberry-Spinach-Salad-5.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the living healthier mentioned by Sam, there is an image. What color are the large leafy greens forming the base of the salad?",
+        "answer": "Dark green",
+        "img_url": [
+            "https://i0.wp.com/www.thedishonhealthy.com/wp-content/uploads/2018/06/Avocado-Strawberry-Spinach-Salad-5.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the living healthier mentioned by Sam, there is an image. What kind of nuts are mixed into the salad?",
+        "answer": "Walnuts",
+        "img_url": [
+            "https://i0.wp.com/www.thedishonhealthy.com/wp-content/uploads/2018/06/Avocado-Strawberry-Spinach-Salad-5.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the grilled chicken and veggie stir-fry mentioned by Sam, there is an image. How many bowls of the stir-fry are displayed?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.myrelationshipwithfood.com/wp-content/uploads/2021/08/Quinoa-Chicken-Stir-Fry-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the grilled chicken and veggie stir-fry mentioned by Sam, there is an image. What type of grain is used as the base of the dish?",
+        "answer": "Quinoa",
+        "img_url": [
+            "https://www.myrelationshipwithfood.com/wp-content/uploads/2021/08/Quinoa-Chicken-Stir-Fry-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the grilled chicken and veggie stir-fry mentioned by Sam, there is an image. What distinctive feature does the small white bowl with sauce have?",
+        "answer": "Fluted edge",
+        "img_url": [
+            "https://www.myrelationshipwithfood.com/wp-content/uploads/2021/08/Quinoa-Chicken-Stir-Fry-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the recipe mentioned by Sam, there is an image. What colors are prominent in the flowers illustrated on the card?",
+        "answer": "Yellow, blue, red, purple",
+        "img_url": [
+            "https://live.staticflickr.com/9/17289339_31d8a8c9a2_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the recipe mentioned by Sam, there is an image. What is the full title of the recipe?",
+        "answer": "Sweet & Sour Sauce",
+        "img_url": [
+            "https://live.staticflickr.com/9/17289339_31d8a8c9a2_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the recipe mentioned by Sam, there is an image. How many different ingredient lines are listed before the mixing instructions?",
+        "answer": "6",
+        "img_url": [
+            "https://live.staticflickr.com/9/17289339_31d8a8c9a2_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. What material is the easel holding the painting made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://elenamarkelova.com/cdn/shop/products/serenitymistyforestwatercolorpaintingbyelenamarkelova.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the painting mentioned by Evan, there is an image. Is there a visible signature on the painting?",
+        "answer": "Yes",
+        "img_url": [
+            "https://elenamarkelova.com/cdn/shop/products/serenitymistyforestwatercolorpaintingbyelenamarkelova.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. What is the orientation of the canvas?",
+        "answer": "Portrait",
+        "img_url": [
+            "https://elenamarkelova.com/cdn/shop/products/serenitymistyforestwatercolorpaintingbyelenamarkelova.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the painting mentioned by Evan, there is an image. How many paintbrushes are visible on the cloth?",
+        "answer": "Four",
+        "img_url": [
+            "https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/06/travelbrushes.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. What color is the cloth underneath the paintbrushes?",
+        "answer": "Off-white",
+        "img_url": [
+            "https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/06/travelbrushes.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the painting mentioned by Evan, there is an image. What brand name is written on the black handles of the paintbrushes?",
+        "answer": "da Vinci",
+        "img_url": [
+            "https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/06/travelbrushes.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the painting classes mentioned by Evan, there is an image. How many finished watercolor paintings are displayed on the surface?",
+        "answer": "Three",
+        "img_url": [
+            "https://static.skillshare.com/uploads/project/194099/cover_full_35000b4ed6f4b275b8b9f8008f31ec50.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the painting classes mentioned by Evan, there is an image. What man-made structure is visible in the lower half of the middle painting?",
+        "answer": "A fence",
+        "img_url": [
+            "https://static.skillshare.com/uploads/project/194099/cover_full_35000b4ed6f4b275b8b9f8008f31ec50.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the painting classes mentioned by Evan, there is an image. What is one specific paint color name visible on the swatch card near the palette?",
+        "answer": "Raw Sienna",
+        "img_url": [
+            "https://static.skillshare.com/uploads/project/194099/cover_full_35000b4ed6f4b275b8b9f8008f31ec50.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the one of my recent works mentioned by Evan, there is an image. What material is the painting created on?",
+        "answer": "Wooden planks",
+        "img_url": [
+            "https://thewhitebirchstudio.com/cdn/shop/products/20220525_211542.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the one of my recent works mentioned by Evan, there is an image. How many distinct decorative items are placed to the left of the painting?",
+        "answer": "Four",
+        "img_url": [
+            "https://thewhitebirchstudio.com/cdn/shop/products/20220525_211542.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Spatial",
+        "question": "In the one of my recent works mentioned by Evan, there is an image. Where is the starfish located relative to the white shell?",
+        "answer": "On top of",
+        "img_url": [
+            "https://thewhitebirchstudio.com/cdn/shop/products/20220525_211542.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the vibe of nature mentioned by Evan, there is an image. Are all the blossoms fully open or are there still buds present?",
+        "answer": "Both open blossoms and buds are present.",
+        "img_url": [
+            "https://i1.wp.com/www.simplyoliviagrace.com/wp-content/uploads/2019/03/03.25.18-4.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the vibe of nature mentioned by Evan, there is an image. What type of man-made structure is visible in the midground, beyond the grassy field?",
+        "answer": "A wire fence.",
+        "img_url": [
+            "https://i1.wp.com/www.simplyoliviagrace.com/wp-content/uploads/2019/03/03.25.18-4.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the vibe of nature mentioned by Evan, there is an image. How many distinct white clouds are visible in the blue sky?",
+        "answer": "At least 2.",
+        "img_url": [
+            "https://i1.wp.com/www.simplyoliviagrace.com/wp-content/uploads/2019/03/03.25.18-4.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the road tripping memories mentioned by Evan, there is an image. What color is the trusty car?",
+        "answer": "Black",
+        "img_url": [
+            "https://images.pexels.com/photos/18077479/pexels-photo-18077479/free-photo-of-a-car-parked-in-the-middle-of-a-forest.jpeg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the road tripping memories mentioned by Evan, there is an image. What is the visible condition of the ground leading to the water?",
+        "answer": "Muddy with puddles",
+        "img_url": [
+            "https://images.pexels.com/photos/18077479/pexels-photo-18077479/free-photo-of-a-car-parked-in-the-middle-of-a-forest.jpeg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the road tripping memories mentioned by Evan, there is an image. Is the trusty car's truck bed covered or open?",
+        "answer": "Open",
+        "img_url": [
+            "https://images.pexels.com/photos/18077479/pexels-photo-18077479/free-photo-of-a-car-parked-in-the-middle-of-a-forest.jpeg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Attribute",
+        "question": "In the fun drive mentioned by Evan, there is an image. What covers the ground and path?",
+        "answer": "Snow",
+        "img_url": [
+            "https://destinationsanddesserts.com/wp-content/uploads/2022/01/img_5115.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Counting",
+        "question": "In the fun drive mentioned by Evan, there is an image. How many prominent icicles are hanging from the tree branches on the right side of the path?",
+        "answer": "At least 7",
+        "img_url": [
+            "https://destinationsanddesserts.com/wp-content/uploads/2022/01/img_5115.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_8",
+        "visual_category": "Spatial",
+        "question": "In the fun drive mentioned by Evan, there is an image. What is casting distinct patterns across the snowy path?",
+        "answer": "Tree shadows",
+        "img_url": [
+            "https://destinationsanddesserts.com/wp-content/uploads/2022/01/img_5115.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Counting",
+        "question": "In the something I saw mentioned by Sam, there is an image. How many numbers in the weight tracking grid are crossed out?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/c7/f7/30/c7f7308cbae589efb28ffee439cff05f.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the meal plan and workout schedule mentioned by Sam, there is an image. What is listed as the reward for losing 60lbs?",
+        "answer": "Caleb Tattoo",
+        "img_url": [
+            "https://i.pinimg.com/originals/c7/f7/30/c7f7308cbae589efb28ffee439cff05f.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Attribute",
+        "question": "In the something I saw mentioned by Sam, there is an image. What color is the top-most pushpin on the right side of the whiteboard?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/c7/f7/30/c7f7308cbae589efb28ffee439cff05f.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Counting",
+        "question": "In the balanced diet mentioned by Evan, there is an image. How many cherry tomato halves are clearly visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/rhcb1m5vwyhb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Attribute",
+        "question": "In the balanced diet mentioned by Evan, there is an image. What is the predominant color of the lettuce in the salad?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/rhcb1m5vwyhb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Spatial",
+        "question": "In the balanced diet mentioned by Evan, there is an image. Where is the largest piece of red bell pepper located within the salad?",
+        "answer": "Center",
+        "img_url": [
+            "https://i.redd.it/rhcb1m5vwyhb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Attribute",
+        "question": "In the beach sunsets mentioned by Evan, there is an image. What are the most prominent colors visible in the sky?",
+        "answer": "Pink, purple, orange",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/cc/75/5ecc7518568d48830960915a86af39ab.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Counting",
+        "question": "In the beach sunsets mentioned by Evan, there is an image. How many people are present on the beach?",
+        "answer": "One",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/cc/75/5ecc7518568d48830960915a86af39ab.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_24",
+        "visual_category": "Attribute",
+        "question": "In the beach sunsets mentioned by Evan, there is an image. Is the person standing barefoot on the sand?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/cc/75/5ecc7518568d48830960915a86af39ab.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Counting",
+        "question": "In the marriage mentioned by Evan, there is an image. How many pearl-like pins are visible in the bride's hair?",
+        "answer": "5 visible",
+        "img_url": [
+            "https://c0.wallpaperflare.com/preview/990/890/416/wedding-kiss-love-pair.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the marriage mentioned by Evan, there is an image. What pattern is on the groom's suit jacket?",
+        "answer": "Pinstripe",
+        "img_url": [
+            "https://c0.wallpaperflare.com/preview/990/890/416/wedding-kiss-love-pair.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the marriage mentioned by Evan, there is an image. What material is the bride's necklace made of?",
+        "answer": "Pearls",
+        "img_url": [
+            "https://c0.wallpaperflare.com/preview/990/890/416/wedding-kiss-love-pair.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the beautiful sunset mentioned by Evan, there is an image. What are the primary colors of the clouds illuminated by the sunset?",
+        "answer": "Orange, pink, and grey",
+        "img_url": [
+            "https://i.etsystatic.com/49961421/r/il/ce9b9e/5724798992/il_794xN.5724798992_56s1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the beautiful sunset mentioned by Evan, there is an image. What protective gear is the person wearing on their head?",
+        "answer": "A helmet",
+        "img_url": [
+            "https://i.etsystatic.com/49961421/r/il/ce9b9e/5724798992/il_794xN.5724798992_56s1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Spatial",
+        "question": "In the beautiful sunset mentioned by Evan, there is an image. Where is the person kneeling in relation to the body of water?",
+        "answer": "On rocks at the water's edge",
+        "img_url": [
+            "https://i.etsystatic.com/49961421/r/il/ce9b9e/5724798992/il_794xN.5724798992_56s1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. What primary color appears to be most prominent in the bottom left section?",
+        "answer": "Bright pink",
+        "img_url": [
+            "https://trendgallery.art/cdn/shop/products/IMG_3291_4beec6cf-7c90-43ef-b8f7-7f7fd295917b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the painting mentioned by Evan, there is an image. Does the paint appear to be applied thickly or thinly?",
+        "answer": "Thickly",
+        "img_url": [
+            "https://trendgallery.art/cdn/shop/products/IMG_3291_4beec6cf-7c90-43ef-b8f7-7f7fd295917b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Counting",
+        "question": "In the painting mentioned by Evan, there is an image. How many distinct vertical green strokes are visible towards the lower middle part of the artwork?",
+        "answer": "Two",
+        "img_url": [
+            "https://trendgallery.art/cdn/shop/products/IMG_3291_4beec6cf-7c90-43ef-b8f7-7f7fd295917b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Counting",
+        "question": "In the an exhibit mentioned by Sam, there is an image. How many large purple flowers are depicted on the person's head?",
+        "answer": "Three",
+        "img_url": [
+            "https://judgeme.imgix.net/nashid-chroma-art-and-apparel/1640132184__inbound5216268343587060307__original.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the an exhibit mentioned by Sam, there is an image. What color are the three visible buttons on the person's clothing?",
+        "answer": "Copper/Orange",
+        "img_url": [
+            "https://judgeme.imgix.net/nashid-chroma-art-and-apparel/1640132184__inbound5216268343587060307__original.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_21",
+        "visual_category": "Attribute",
+        "question": "In the an exhibit mentioned by Sam, there is an image. What color is the frame around the painting?",
+        "answer": "Black",
+        "img_url": [
+            "https://judgeme.imgix.net/nashid-chroma-art-and-apparel/1640132184__inbound5216268343587060307__original.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the epic hiking trip mentioned by Sam, there is an image. What color is the person's long-sleeve shirt?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/524/680/1013/people-man-back-mountain.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Counting",
+        "question": "In the epic hiking trip mentioned by Sam, there is an image. How many prominent, distinct mountain peaks are visible in the far distance?",
+        "answer": "One",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/524/680/1013/people-man-back-mountain.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Action",
+        "question": "In the epic hiking trip mentioned by Sam, there is an image. Are the person's hands in their pant pockets?",
+        "answer": "Yes",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/524/680/1013/people-man-back-mountain.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Counting",
+        "question": "In the long drive to the mountains mentioned by Evan, there is an image. How many bridges are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://media.defense.gov/2019/Sep/27/2002187629/1088/820/0/170502-M-QR315-1001.JPG"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the long drive to the mountains mentioned by Evan, there is an image. What material is the visible bridge constructed from?",
+        "answer": "Wood",
+        "img_url": [
+            "https://media.defense.gov/2019/Sep/27/2002187629/1088/820/0/170502-M-QR315-1001.JPG"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the long drive to the mountains mentioned by Evan, there is an image. What is the predominant color of the vegetation?",
+        "answer": "Green",
+        "img_url": [
+            "https://media.defense.gov/2019/Sep/27/2002187629/1088/820/0/170502-M-QR315-1001.JPG"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Counting",
+        "question": "In the new healthy snacks mentioned by Evan, there is an image. How many macarons are visible on the top tier of the snack stand?",
+        "answer": "Two",
+        "img_url": [
+            "https://i0.wp.com/therosetable.com/wp-content/uploads/2023/09/IMG_4235.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the new healthy snacks mentioned by Evan, there is an image. What color is the tablecloth covering the table?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i0.wp.com/therosetable.com/wp-content/uploads/2023/09/IMG_4235.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "OCR/Text",
+        "question": "In the new healthy snacks mentioned by Evan, there is an image. What phrase is written on the small white sign placed on the wooden shelf?",
+        "answer": "TALE AS OLD AS TIME",
+        "img_url": [
+            "https://i0.wp.com/therosetable.com/wp-content/uploads/2023/09/IMG_4235.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the these cookies mentioned by Evan, there is an image. What is sprinkled on top of the cookies?",
+        "answer": "Sugar crystals",
+        "img_url": [
+            "https://blessedbeyondcrazy.com/wp-content/uploads/2019/09/00000PORTRAIT_00000_BURST20190918165701335.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "OCR/Text",
+        "question": "In the these cookies mentioned by Evan, there is an image. What website address is written on the cloth in the image?",
+        "answer": "BlessedBeyondCrazy.com",
+        "img_url": [
+            "https://blessedbeyondcrazy.com/wp-content/uploads/2019/09/00000PORTRAIT_00000_BURST20190918165701335.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the these cookies mentioned by Evan, there is an image. What is the texture of the red cloth visible underneath the cooling rack?",
+        "answer": "Ribbed/Woven",
+        "img_url": [
+            "https://blessedbeyondcrazy.com/wp-content/uploads/2019/09/00000PORTRAIT_00000_BURST20190918165701335.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Counting",
+        "question": "In the cool recipe for energy balls mentioned by Evan, there is an image. How many whole energy balls are visible on the grey cloth?",
+        "answer": "5",
+        "img_url": [
+            "https://paleoglutenfreeguy.com/wp-content/uploads/2020/08/IMG_7067.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the cool recipe for energy balls mentioned by Evan, there is an image. What is the dominant texture visible inside the broken energy ball?",
+        "answer": "Chunky and textured",
+        "img_url": [
+            "https://paleoglutenfreeguy.com/wp-content/uploads/2020/08/IMG_7067.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_22",
+        "visual_category": "Attribute",
+        "question": "In the cool recipe for energy balls mentioned by Evan, there is an image. What color is the fabric on which the energy balls are placed?",
+        "answer": "Grey",
+        "img_url": [
+            "https://paleoglutenfreeguy.com/wp-content/uploads/2020/08/IMG_7067.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the cool pic I snapped last week in the country mentioned by Sam, there is an image. What is growing on the wooden fence post on the right side of the foreground?",
+        "answer": "Moss or lichen",
+        "img_url": [
+            "https://i.imgur.com/hjUwenM.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the cool pic I snapped last week in the country mentioned by Sam, there is an image. What color is the water in the stream?",
+        "answer": "Brownish",
+        "img_url": [
+            "https://i.imgur.com/hjUwenM.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Counting",
+        "question": "In the cool pic I snapped last week in the country mentioned by Sam, there is an image. How many wooden fence posts are visible in the foreground?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.imgur.com/hjUwenM.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the camping trip mentioned by Evan, there is an image. What color is the kayak in the foreground?",
+        "answer": "Orange",
+        "img_url": [
+            "https://camperchristina.com/wp-content/uploads/2016/12/img_2641.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the camping trip mentioned by Evan, there is an image. Does the water's surface show visible ice patterns?",
+        "answer": "Yes",
+        "img_url": [
+            "https://camperchristina.com/wp-content/uploads/2016/12/img_2641.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the camping trip mentioned by Evan, there is an image. What navigational device is visible on the front deck of the kayak?",
+        "answer": "Compass",
+        "img_url": [
+            "https://camperchristina.com/wp-content/uploads/2016/12/img_2641.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Counting",
+        "question": "In the \"This photo\" mentioned by Evan, there is an image. How many fully open pink flowers are visible in the foreground tree?",
+        "answer": "More than 20",
+        "img_url": [
+            "http://deborahsilver.com/wp-content/uploads/2018/05/May-Baroque-12.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the \"This photo\" mentioned by Evan, there is an image. What color are the leaves on the tree in the background?",
+        "answer": "Bright green",
+        "img_url": [
+            "http://deborahsilver.com/wp-content/uploads/2018/05/May-Baroque-12.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_25",
+        "visual_category": "Attribute",
+        "question": "In the \"This photo\" mentioned by Evan, there is an image. What material is the fence at the bottom of the image made of?",
+        "answer": "Metal",
+        "img_url": [
+            "http://deborahsilver.com/wp-content/uploads/2018/05/May-Baroque-12.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the marriage mentioned by Evan, there is an image. What is the dominant color of the flowers on the woman's dress?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://cdn.jewelryimages.net/static/domains/kvjewels/images/store-pics/b9ffd872-4ac6-405c-b3e0-19d875e60f0b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Counting",
+        "question": "In the marriage mentioned by Evan, there is an image. How many birds are visible in the sky?",
+        "answer": "One",
+        "img_url": [
+            "https://cdn.jewelryimages.net/static/domains/kvjewels/images/store-pics/b9ffd872-4ac6-405c-b3e0-19d875e60f0b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the marriage mentioned by Evan, there is an image. What color are the man's shoes?",
+        "answer": "White and grey",
+        "img_url": [
+            "https://cdn.jewelryimages.net/static/domains/kvjewels/images/store-pics/b9ffd872-4ac6-405c-b3e0-19d875e60f0b.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Counting",
+        "question": "In the gathering mentioned by Evan, there is an image. How many thumbs up gestures is Evan making?",
+        "answer": "Two",
+        "img_url": [
+            "https://ic.pics.livejournal.com/queerbychoice/218786/1899659/1899659_original.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the gathering mentioned by Evan, there is an image. What color is the tie worn by the person in the foreground?",
+        "answer": "Blue",
+        "img_url": [
+            "https://ic.pics.livejournal.com/queerbychoice/218786/1899659/1899659_original.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Spatial",
+        "question": "In the gathering mentioned by Evan, there is an image. What is placed directly on the blue tablecloth next to the game instruction sheets?",
+        "answer": "A black phone",
+        "img_url": [
+            "https://ic.pics.livejournal.com/queerbychoice/218786/1899659/1899659_original.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Counting",
+        "question": "In the homemade lasagna mentioned by Sam, there is an image. How many pieces of garlic bread are next to the lasagna?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/qmjb5d7g8ra81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the homemade lasagna mentioned by Sam, there is an image. What color is the decorative pattern on the plate?",
+        "answer": "Silver-gold",
+        "img_url": [
+            "https://i.redd.it/qmjb5d7g8ra81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the homemade lasagna mentioned by Sam, there is an image. Are any green herbs visible on the garlic bread?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/qmjb5d7g8ra81.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Counting",
+        "question": "In the dessert mentioned by Sam, there is an image. How many raspberries are placed on the dessert?",
+        "answer": "Three",
+        "img_url": [
+            "https://anaffairfromtheheart.com/wp-content/uploads/2021/02/Key-Lime-Pie-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the dessert mentioned by Sam, there is an image. What is the color of the crust surrounding the dessert?",
+        "answer": "Golden brown",
+        "img_url": [
+            "https://anaffairfromtheheart.com/wp-content/uploads/2021/02/Key-Lime-Pie-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the dessert mentioned by Sam, there is an image. What is the visible pattern on the white cloth underneath the baking dish?",
+        "answer": "Hearts",
+        "img_url": [
+            "https://anaffairfromtheheart.com/wp-content/uploads/2021/02/Key-Lime-Pie-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the snowy landscapes mentioned by Evan, there is an image. What color is the unfrozen water in the stream?",
+        "answer": "Turquoise blue",
+        "img_url": [
+            "https://texasrandi.files.wordpress.com/2021/03/durango-hike-10.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Counting",
+        "question": "In the snowy landscapes mentioned by Evan, there is an image. How many prominent snow-capped mountain peaks are visible in the distance?",
+        "answer": "Two",
+        "img_url": [
+            "https://texasrandi.files.wordpress.com/2021/03/durango-hike-10.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the snowy landscapes mentioned by Evan, there is an image. Are there any icicles hanging from the structure over the stream?",
+        "answer": "Yes",
+        "img_url": [
+            "https://texasrandi.files.wordpress.com/2021/03/durango-hike-10.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the trying local dishes mentioned by Sam, there is an image. What is the primary color of the take-out container holding the poutine?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/p2vf3jqii0xb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the trying local dishes mentioned by Sam, there is an image. What color is the gravy poured over the fries?",
+        "answer": "Brown",
+        "img_url": [
+            "https://i.redd.it/p2vf3jqii0xb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Evan_Sam_session_23",
+        "visual_category": "Attribute",
+        "question": "In the trying local dishes mentioned by Sam, there is an image. What kind of textured object is partially visible in the top background?",
+        "answer": "Steering wheel",
+        "img_url": [
+            "https://i.redd.it/p2vf3jqii0xb1.jpg"
+        ]
+    }
+]

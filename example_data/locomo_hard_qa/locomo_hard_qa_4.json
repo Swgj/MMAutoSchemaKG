@@ -1,0 +1,3107 @@
+[
+    {
+        "session_id": "Tim_John_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the crazy game mentioned by John, there is an image. What is the Duke team's score displayed on the scoreboard?",
+        "answer": "66",
+        "img_url": [
+            "https://i0.wp.com/thepirateshook.com/wp-content/uploads/2022/11/img_7438-edited.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_5",
+        "visual_category": "Attribute",
+        "question": "In the crazy game mentioned by John, there is an image. What is the jersey number of the player in the maroon uniform positioned closest to the Duke logo on the floor?",
+        "answer": "10",
+        "img_url": [
+            "https://i0.wp.com/thepirateshook.com/wp-content/uploads/2022/11/img_7438-edited.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_5",
+        "visual_category": "Attribute",
+        "question": "In the crazy game mentioned by John, there is an image. What is the predominant color worn by the spectators in the stands?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i0.wp.com/thepirateshook.com/wp-content/uploads/2022/11/img_7438-edited.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the prize mentioned by John, there is an image. What is the full title of the Harry Potter book shown on the insert?",
+        "answer": "Harry Potter and the Half-Blood Prince",
+        "img_url": [
+            "https://pictures.abebooks.com/inventory/31262885157_3.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_4",
+        "visual_category": "Attribute",
+        "question": "In the prize mentioned by John, there is an image. What color ink is used for the signature on the book plate?",
+        "answer": "Blue",
+        "img_url": [
+            "https://pictures.abebooks.com/inventory/31262885157_3.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the prize mentioned by John, there is an image. What specific date is printed at the bottom left of the book insert?",
+        "answer": "16th JULY 2005",
+        "img_url": [
+            "https://pictures.abebooks.com/inventory/31262885157_3.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_2",
+        "visual_category": "Counting",
+        "question": "In the book collection mentioned by Tim, there is an image. How many horizontal shelves are part of the bookshelf structure?",
+        "answer": "5",
+        "img_url": [
+            "https://i.redd.it/7m46xuo8lgj81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the book collection mentioned by Tim, there is an image. What color is the wall directly behind the bookshelf?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://i.redd.it/7m46xuo8lgj81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the book collection mentioned by Tim, there is an image. What is the dominant background color on the cover of the 'Dune' book?",
+        "answer": "Orange-red",
+        "img_url": [
+            "https://i.redd.it/7m46xuo8lgj81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the recent game mentioned by John, there is an image. What color are the jerseys of the players actively playing on the court?",
+        "answer": "Red and white",
+        "img_url": [
+            "https://i.redd.it/fz2segua15d81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_2",
+        "visual_category": "Counting",
+        "question": "In the recent game mentioned by John, there is an image. How many red and white rectangular banners are hanging on the walls of the gym?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.redd.it/fz2segua15d81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the recent game mentioned by John, there is an image. What material is the backboard of the basketball hoop made of?",
+        "answer": "Transparent glass",
+        "img_url": [
+            "https://i.redd.it/fz2segua15d81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_7",
+        "visual_category": "Attribute",
+        "question": "In the photo of what his teammates gave John, there is an image. What type of ball is shown?",
+        "answer": "Basketball",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/61/2018_DII_Elite_Eight_Northern_State_Signed_Basketball.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_7",
+        "visual_category": "OCR/Text",
+        "question": "In the photo of what his teammates gave John, there is an image. What year is printed on the blue and orange logo?",
+        "answer": "2018",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/61/2018_DII_Elite_Eight_Northern_State_Signed_Basketball.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_7",
+        "visual_category": "OCR/Text",
+        "question": "In the photo of what his teammates gave John, there is an image. What is the brand name of the ball?",
+        "answer": "Wilson",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/61/2018_DII_Elite_Eight_Northern_State_Signed_Basketball.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the latest one mentioned by Tim, there is an image. What page number is visible at the top right?",
+        "answer": "547",
+        "img_url": [
+            "https://cdn27.picryl.com/photo/1934/01/01/herbert-brutus-ehrmann-papers-1906-1970-sacco-vanzetti-book-review-by-edmund-216c54-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the latest one mentioned by Tim, there is an image. What is the title of the main section on the page?",
+        "answer": "BOOK REVIEWS",
+        "img_url": [
+            "https://cdn27.picryl.com/photo/1934/01/01/herbert-brutus-ehrmann-papers-1906-1970-sacco-vanzetti-book-review-by-edmund-216c54-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the latest one mentioned by Tim, there is an image. What year is printed above the first book review?",
+        "answer": "1934",
+        "img_url": [
+            "https://cdn27.picryl.com/photo/1934/01/01/herbert-brutus-ehrmann-papers-1906-1970-sacco-vanzetti-book-review-by-edmund-216c54-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "Counting",
+        "question": "In the book 'The Name of the Wind' mentioned by Tim, there is an image. How many different copies of the book are displayed?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/ydnhc3r3efw61.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the book 'The Name of the Wind' mentioned by Tim, there is an image. What additional descriptive text is visible on the top right cover?",
+        "answer": "Deluxe Illustrated Edition",
+        "img_url": [
+            "https://i.redd.it/ydnhc3r3efw61.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the book 'The Name of the Wind' mentioned by Tim, there is an image. What specific musical instrument is depicted prominently on the bottom left cover?",
+        "answer": "Broken lute",
+        "img_url": [
+            "https://i.redd.it/ydnhc3r3efw61.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "Counting",
+        "question": "In the lucky basketball shoes mentioned by John, there is an image. How many shoes are visible in the box?",
+        "answer": "Two",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/worn-out-sneakers-scuffed-leather-dirt-stains-close-up-isolated-white-background-photo-va-327929232.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the lucky basketball shoes mentioned by John, there is an image. What is the color of the shoelaces that are visible?",
+        "answer": "Green",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/worn-out-sneakers-scuffed-leather-dirt-stains-close-up-isolated-white-background-photo-va-327929232.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the lucky basketball shoes mentioned by John, there is an image. What iconic logo is printed on the green ankle flap?",
+        "answer": "Air Jordan wings logo",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/worn-out-sneakers-scuffed-leather-dirt-stains-close-up-isolated-white-background-photo-va-327929232.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Counting",
+        "question": "In the team mentioned by John, there is an image. How many different team jerseys are visible?",
+        "answer": "Eight",
+        "img_url": [
+            "https://basketballcentralblog.files.wordpress.com/2022/05/how-to-play-shooting-guard-in-basketball.jpg?w=768"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Attribute",
+        "question": "In the team mentioned by John, there is an image. What is the primary color of the jersey labeled 'LAKERS'?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://basketballcentralblog.files.wordpress.com/2022/05/how-to-play-shooting-guard-in-basketball.jpg?w=768"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the team mentioned by John, there is an image. Which sponsor's name is visible on the 'ROCKETS' jersey?",
+        "answer": "Credit Karma MONEY",
+        "img_url": [
+            "https://basketballcentralblog.files.wordpress.com/2022/05/how-to-play-shooting-guard-in-basketball.jpg?w=768"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Counting",
+        "question": "In the practice mentioned by John, there is an image. How many basketballs are loaded in the shooting machine?",
+        "answer": "Six",
+        "img_url": [
+            "https://blog.drdishbasketball.com/hubfs/IMG_0232%20%282%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Attribute",
+        "question": "In the practice mentioned by John, there is an image. What color is the t-shirt worn by the person on the right?",
+        "answer": "Red",
+        "img_url": [
+            "https://blog.drdishbasketball.com/hubfs/IMG_0232%20%282%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the practice mentioned by John, there is an image. What time is displayed on the basketball shooting machine's digital screen?",
+        "answer": "13:10",
+        "img_url": [
+            "https://blog.drdishbasketball.com/hubfs/IMG_0232%20%282%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Counting",
+        "question": "In the magical world mentioned by Tim, there is an image. How many books are explicitly titled 'Harry Potter' (including spin-offs like 'Cursed Child')?",
+        "answer": "Eleven",
+        "img_url": [
+            "https://i.redd.it/l30ofyg973ja1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Attribute",
+        "question": "In the magical world mentioned by Tim, there is an image. What color is the book titled 'Quidditch Through the Ages'?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://i.redd.it/l30ofyg973ja1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_1",
+        "visual_category": "Other",
+        "question": "In the magical world mentioned by Tim, there is an image. Which other book series is prominently displayed on the table alongside the Harry Potter books?",
+        "answer": "James Potter series",
+        "img_url": [
+            "https://i.redd.it/l30ofyg973ja1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_10",
+        "visual_category": "Attribute",
+        "question": "In the tasty soup mentioned by John, there is an image. What type of pasta is visible in the soup?",
+        "answer": "Shells",
+        "img_url": [
+            "https://i.redd.it/zr17msb27uy91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_10",
+        "visual_category": "Counting",
+        "question": "In the tasty soup mentioned by John, there is an image. How many butternut squashes are visible behind the bowl?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/zr17msb27uy91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_10",
+        "visual_category": "Attribute",
+        "question": "In the tasty soup mentioned by John, there is an image. What green herb is used as a garnish on top of the soup?",
+        "answer": "Parsley",
+        "img_url": [
+            "https://i.redd.it/zr17msb27uy91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Counting",
+        "question": "In the juggle studying mentioned by Tim, there is an image. How many books are in the tallest stack?",
+        "answer": "20",
+        "img_url": [
+            "https://media.istockphoto.com/photos/high-school-teammates-in-locker-room-after-baseball-game-picture-id169944224?k=20&m=169944224&s=612x612&w=0&h=Lf9-edx8YbOHh9H2pmDOsPxDly9VkagIwPhzfJfiaIs="
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Attribute",
+        "question": "In the juggle studying mentioned by Tim, there is an image. What color is the book titled 'Classical Electrodynamics'?",
+        "answer": "Red",
+        "img_url": [
+            "https://media.istockphoto.com/photos/high-school-teammates-in-locker-room-after-baseball-game-picture-id169944224?k=20&m=169944224&s=612x612&w=0&h=Lf9-edx8YbOHh9H2pmDOsPxDly9VkagIwPhzfJfiaIs="
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the juggle studying mentioned by Tim, there is an image. What is the full title of the black book standing vertically on the far left?",
+        "answer": "RELATIVITY GROUPS AND TOPOLOGY",
+        "img_url": [
+            "https://media.istockphoto.com/photos/high-school-teammates-in-locker-room-after-baseball-game-picture-id169944224?k=20&m=169944224&s=612x612&w=0&h=Lf9-edx8YbOHh9H2pmDOsPxDly9VkagIwPhzfJfiaIs="
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Counting",
+        "question": "In the visited home and caught up with my family and old friends mentioned by John, there is an image. How many individuals are holding basketballs?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.pinimg.com/originals/79/c5/6c/79c56ca8e8173619eb96c1058eb5bb67.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the visited home and caught up with my family and old friends mentioned by John, there is an image. What name is written on the front of all the basketball jerseys?",
+        "answer": "KARNS",
+        "img_url": [
+            "https://i.pinimg.com/originals/79/c5/6c/79c56ca8e8173619eb96c1058eb5bb67.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the visited home and caught up with my family and old friends mentioned by John, there is an image. What is the full name of the gymnasium indicated by the sign above the door?",
+        "answer": "Thomas L. Duff Memorial Gymnasium",
+        "img_url": [
+            "https://i.pinimg.com/originals/79/c5/6c/79c56ca8e8173619eb96c1058eb5bb67.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Counting",
+        "question": "In the reading and fantasy novels mentioned by Tim, there is an image. How many small figures are on the middle shelf?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/bq2ogzcjuzz41.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Attribute",
+        "question": "In the magical worlds mentioned by Tim, there is an image. What color is the wand's box on the top shelf?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.redd.it/bq2ogzcjuzz41.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Attribute",
+        "question": "In the magical worlds mentioned by Tim, there is an image. What kind of building is depicted on the cover of the flat book titled 'Harry Potter Page to Screen'?",
+        "answer": "A castle",
+        "img_url": [
+            "https://i.redd.it/bq2ogzcjuzz41.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Counting",
+        "question": "In the trip to New York City mentioned by John, there is an image. How many prominent spires or antennas are visible on top of the buildings?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.pinimg.com/originals/90/49/55/904955fe77567cf689d7db0ce606717d.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the trip to New York City mentioned by John, there is an image. What color are the letters of the H&M logo on one of the visible buildings?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.pinimg.com/originals/90/49/55/904955fe77567cf689d7db0ce606717d.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_9",
+        "visual_category": "Counting",
+        "question": "In the trip to New York City mentioned by John, there is an image. How many yellow taxis are visible on the streets far below?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/90/49/55/904955fe77567cf689d7db0ce606717d.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Spatial",
+        "question": "In the Edinburgh, Scotland mentioned by Tim, there is an image. Is the sun positioned high or low in the sky?",
+        "answer": "Low",
+        "img_url": [
+            "https://www.thebearandthefox.com/wp-content/uploads/2018/02/IMG_3494.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Counting",
+        "question": "In the Edinburgh, Scotland mentioned by Tim, there is an image. How many prominent spires or domes are visible on the large building silhouette on the far left?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.thebearandthefox.com/wp-content/uploads/2018/02/IMG_3494.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Attribute",
+        "question": "In the Edinburgh, Scotland mentioned by Tim, there is an image. What is the predominant state of the sky?",
+        "answer": "Clear",
+        "img_url": [
+            "https://www.thebearandthefox.com/wp-content/uploads/2018/02/IMG_3494.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Attribute",
+        "question": "In the one of our practices mentioned by John, there is an image. What color are the seams/grooves on the basketball?",
+        "answer": "Dark brown/black",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Attribute",
+        "question": "In the one of our practices mentioned by John, there is an image. What shape is the visible part of the basketball backboard?",
+        "answer": "Fan-shaped",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Attribute",
+        "question": "In the one of our practices mentioned by John, there is an image. What material is the fence surrounding the court made of?",
+        "answer": "Chain-link",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Attribute",
+        "question": "In the fantasy novel mentioned by Tim, there is an image. What color is the visible book spine?",
+        "answer": "Orange",
+        "img_url": [
+            "https://live.staticflickr.com/3195/3322703152_057a33dca1_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "OCR/Text",
+        "question": "In the fantasy novel mentioned by Tim, there is an image. What award is displayed at the top of the book cover?",
+        "answer": "Quill Award",
+        "img_url": [
+            "https://live.staticflickr.com/3195/3322703152_057a33dca1_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_11",
+        "visual_category": "Spatial",
+        "question": "In the fantasy novel mentioned by Tim, there is an image. Is the hooded figure on the cover facing towards the viewer or away from them?",
+        "answer": "Away from viewer",
+        "img_url": [
+            "https://live.staticflickr.com/3195/3322703152_057a33dca1_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Attribute",
+        "question": "In the wedding ceremony mentioned by John, there is an image. What design detail is visible on the back of the bride's dress?",
+        "answer": "Buttons",
+        "img_url": [
+            "https://platinumnotary.files.wordpress.com/2023/03/img-6679.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Action",
+        "question": "In the wedding ceremony mentioned by John, there is an image. What activity are many of the guests performing?",
+        "answer": "Blowing bubbles",
+        "img_url": [
+            "https://platinumnotary.files.wordpress.com/2023/03/img-6679.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Counting",
+        "question": "In the wedding ceremony mentioned by John, there is an image. How many white lanterns are visible along the aisle in the foreground?",
+        "answer": "Two",
+        "img_url": [
+            "https://platinumnotary.files.wordpress.com/2023/03/img-6679.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Attribute",
+        "question": "In the her walking down the aisle mentioned by John, there is an image. How far does the bride's veil extend?",
+        "answer": "To her mid-torso",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/gorgeous-bride-stylish-groom-performing-first-dance-light-wedding-reception-restaurant-luxury-couple-sensually-dancing-134954202.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Attribute",
+        "question": "In the her walking down the aisle mentioned by John, there is an image. What main colors are visible in the bride's bouquet?",
+        "answer": "White, pink, green",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/gorgeous-bride-stylish-groom-performing-first-dance-light-wedding-reception-restaurant-luxury-couple-sensually-dancing-134954202.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Counting",
+        "question": "In the her walking down the aisle mentioned by John, there is an image. How many people are visibly clapping?",
+        "answer": "Four",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/gorgeous-bride-stylish-groom-performing-first-dance-light-wedding-reception-restaurant-luxury-couple-sensually-dancing-134954202.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Counting",
+        "question": "In the bookshelf mentioned by Tim, there is an image. How many individual shelves are visible on the bookshelf?",
+        "answer": "Five",
+        "img_url": [
+            "https://i.redd.it/z6jusjhd0pd71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Other",
+        "question": "In the bookshelf mentioned by Tim, there is an image. Is there an animal visible next to the bookshelf?",
+        "answer": "Yes, a cat",
+        "img_url": [
+            "https://i.redd.it/z6jusjhd0pd71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Spatial",
+        "question": "In the bookshelf mentioned by Tim, there is an image. Are any books placed horizontally on the shelves?",
+        "answer": "No",
+        "img_url": [
+            "https://i.redd.it/z6jusjhd0pd71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Counting",
+        "question": "In the collection of jerseys mentioned by John, there is an image. How many distinct jerseys are visible?",
+        "answer": "Eight",
+        "img_url": [
+            "https://i.redd.it/odlwr40mol581.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the collection of jerseys mentioned by John, there is an image. What sponsor name is visible on the red Rockets jersey?",
+        "answer": "Credit Karma MONEY",
+        "img_url": [
+            "https://i.redd.it/odlwr40mol581.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_12",
+        "visual_category": "Attribute",
+        "question": "In the collection of jerseys mentioned by John, there is an image. What team name is displayed on the yellow jersey at the bottom right?",
+        "answer": "LAKERS",
+        "img_url": [
+            "https://i.redd.it/odlwr40mol581.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the new gym mentioned by John, there is an image. How many orange cones are placed on the court floor?",
+        "answer": "Seven",
+        "img_url": [
+            "https://d2rzw8waxoxhv2.cloudfront.net/facilities/xlarge/fafaccd30c88b7506920/1569529088544-992-69.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the new gym mentioned by John, there is an image. What color are the bleachers in the background?",
+        "answer": "Green",
+        "img_url": [
+            "https://d2rzw8waxoxhv2.cloudfront.net/facilities/xlarge/fafaccd30c88b7506920/1569529088544-992-69.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the new gym mentioned by John, there is an image. What word is written in white on the green bleachers?",
+        "answer": "PARKRO",
+        "img_url": [
+            "https://d2rzw8waxoxhv2.cloudfront.net/facilities/xlarge/fafaccd30c88b7506920/1569529088544-992-69.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the workout plan mentioned by John, there is an image. How many days include an 'ellip.' workout?",
+        "answer": "5 days",
+        "img_url": [
+            "https://i.redd.it/sch5pby1ivi31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the workout plan mentioned by John, there is an image. What strength training exercise is scheduled for Friday?",
+        "answer": "Abs",
+        "img_url": [
+            "https://i.redd.it/sch5pby1ivi31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the workout plan mentioned by John, there is an image. How many main category columns are visible at the top of the planner?",
+        "answer": "4",
+        "img_url": [
+            "https://i.redd.it/sch5pby1ivi31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the special day mentioned by Tim, there is an image. What pattern is on the man's shirt?",
+        "answer": "Plaid",
+        "img_url": [
+            "https://fydn.imgix.net/m/gen/art-print-std-portrait-p1/c861f986-d119-4bfc-8706-138074e64387.jpg?auto=format,compress&q=75"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the special day mentioned by Tim, there is an image. How many people are visible in the photo?",
+        "answer": "Four",
+        "img_url": [
+            "https://fydn.imgix.net/m/gen/art-print-std-portrait-p1/c861f986-d119-4bfc-8706-138074e64387.jpg?auto=format,compress&q=75"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the special day mentioned by Tim, there is an image. What material is the fireplace surround made of?",
+        "answer": "Stone",
+        "img_url": [
+            "https://fydn.imgix.net/m/gen/art-print-std-portrait-p1/c861f986-d119-4bfc-8706-138074e64387.jpg?auto=format,compress&q=75"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the movie 'Home Alone' mentioned by Tim, there is an image. How many small red objects are scattered on the table inside the reflected ornament?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/4zp9nizyheq61.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the movie 'Home Alone' mentioned by Tim, there is an image. What specific video resolution format is indicated on the top of the movie case?",
+        "answer": "4K ULTRAHD",
+        "img_url": [
+            "https://i.redd.it/4zp9nizyheq61.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the movie 'Home Alone' mentioned by Tim, there is an image. What color is the carpet runner on the staircase reflected inside the ornament?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/4zp9nizyheq61.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the movie 'The Santa Clause' mentioned by Tim, there is an image. How many reindeer are visible pulling the sleigh?",
+        "answer": "7",
+        "img_url": [
+            "https://i.redd.it/h18us9b4sjfz.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the movie 'The Santa Clause' mentioned by Tim, there is an image. What number is explicitly shown as part of the movie's title on the cover?",
+        "answer": "2",
+        "img_url": [
+            "https://i.redd.it/h18us9b4sjfz.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the movie 'The Santa Clause' mentioned by Tim, there is an image. What color are Santa's glasses frames?",
+        "answer": "Gold",
+        "img_url": [
+            "https://i.redd.it/h18us9b4sjfz.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the our tree last year mentioned by John, there is an image. How many distinct colors of string lights are visible on the tree?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.pinimg.com/originals/d1/87/78/d187788dbb64158d2cbd6a1eaaa7e86b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the our tree last year mentioned by John, there is an image. What pattern is visible on the tree skirt at the base of the tree?",
+        "answer": "Plaid",
+        "img_url": [
+            "https://i.pinimg.com/originals/d1/87/78/d187788dbb64158d2cbd6a1eaaa7e86b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Spatial",
+        "question": "In the our tree last year mentioned by John, there is an image. What type of furniture is located to the immediate left of the tree?",
+        "answer": "Dark wooden hutch",
+        "img_url": [
+            "https://i.pinimg.com/originals/d1/87/78/d187788dbb64158d2cbd6a1eaaa7e86b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the tree pic mentioned by Tim, there is an image. What house crest is depicted on the banner to the left of the tree?",
+        "answer": "Gryffindor crest",
+        "img_url": [
+            "https://i.pinimg.com/originals/2d/be/40/2dbe40682781579e457e7ee5a0cc79fc.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the tree pic mentioned by Tim, there is an image. What item is placed on top of the Christmas tree?",
+        "answer": "Sorting Hat",
+        "img_url": [
+            "https://i.pinimg.com/originals/2d/be/40/2dbe40682781579e457e7ee5a0cc79fc.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the tree pic mentioned by Tim, there is an image. How many items wrapped in brown paper with string are visible under the tree?",
+        "answer": "5",
+        "img_url": [
+            "https://i.pinimg.com/originals/2d/be/40/2dbe40682781579e457e7ee5a0cc79fc.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the recent practice mentioned by John, there is an image. What is visible on the arms of the player wearing jersey number 2?",
+        "answer": "Tattoos",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/16/members-of-the-local-and-us-communities-attend-the-edfa79-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the recent practice mentioned by John, there is an image. What color is the basketball near the hoop?",
+        "answer": "Orange",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/16/members-of-the-local-and-us-communities-attend-the-edfa79-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "OCR/Text",
+        "question": "In the recent practice mentioned by John, there is an image. What number is displayed on the back of the player's yellow jersey on the left?",
+        "answer": "19",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/16/members-of-the-local-and-us-communities-attend-the-edfa79-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the what I've been up to mentioned by Tim, there is an image. What is the most vibrant color of the sky near the horizon?",
+        "answer": "Orange",
+        "img_url": [
+            "https://images.pexels.com/photos/12312263/pexels-photo-12312263.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-tanya-badillo-12312263.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Counting",
+        "question": "In the what I've been up to mentioned by Tim, there is an image. How many distinct mountain peaks are silhouetted against the sky?",
+        "answer": "Five",
+        "img_url": [
+            "https://images.pexels.com/photos/12312263/pexels-photo-12312263.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-tanya-badillo-12312263.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the what I've been up to mentioned by Tim, there is an image. What is the primary color of the visible foliage in the foreground?",
+        "answer": "Green",
+        "img_url": [
+            "https://images.pexels.com/photos/12312263/pexels-photo-12312263.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-tanya-badillo-12312263.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Spatial",
+        "question": "In the pic mentioned by Tim, there is an image. Is the sun fully above or partially below the visible horizon line?",
+        "answer": "Fully above",
+        "img_url": [
+            "https://i.redd.it/hf54pvtf8rt51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Tim, there is an image. What colors are predominantly seen on the clouds in the upper part of the sky?",
+        "answer": "Light blue, grey, orange, pink",
+        "img_url": [
+            "https://i.redd.it/hf54pvtf8rt51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Tim, there is an image. Are there any green leaves visible on the branches in the mid-ground?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/hf54pvtf8rt51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_16",
+        "visual_category": "Attribute",
+        "question": "In the prized possession mentioned by Tim, there is an image. What is the texture of the basketball's surface?",
+        "answer": "Pebbled/Dimpled",
+        "img_url": [
+            "https://bostonmemorabilia.com/cdn/shop/files/LeBron_James_signed_basketball.jpg?v=1732429505"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_16",
+        "visual_category": "OCR/Text",
+        "question": "In the prized possession mentioned by Tim, there is an image. Which NBA team's logo is visible on the display case?",
+        "answer": "Miami Heat",
+        "img_url": [
+            "https://bostonmemorabilia.com/cdn/shop/files/LeBron_James_signed_basketball.jpg?v=1732429505"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_16",
+        "visual_category": "Spatial",
+        "question": "In the prized possession mentioned by Tim, there is an image. Is the Beckett Certificate of Authenticity located above or below the Miami Heat logo?",
+        "answer": "Below",
+        "img_url": [
+            "https://bostonmemorabilia.com/cdn/shop/files/LeBron_James_signed_basketball.jpg?v=1732429505"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Counting",
+        "question": "In the team mentioned by John, there is an image. How many players are wearing 'USA' jerseys?",
+        "answer": "12",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/USA_men%27s_national_basketball_team_%2851910110377%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Attribute",
+        "question": "In the team mentioned by John, there is an image. What color are the polo shirts worn by the standing staff members?",
+        "answer": "Red",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/USA_men%27s_national_basketball_team_%2851910110377%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the team mentioned by John, there is an image. What is the time displayed on the main scoreboard at the top?",
+        "answer": "27:01",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/USA_men%27s_national_basketball_team_%2851910110377%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the achievement mentioned by John, there is an image. What year is inscribed on the championship plaque?",
+        "answer": "2018",
+        "img_url": [
+            "https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_9e2201886c43d264dbef_IMG_6460.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Attribute",
+        "question": "In the achievement mentioned by John, there is an image. What object is the coach wearing on his left wrist?",
+        "answer": "A watch",
+        "img_url": [
+            "https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_9e2201886c43d264dbef_IMG_6460.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Counting",
+        "question": "In the achievement mentioned by John, there is an image. How many players are holding up one finger?",
+        "answer": "Six",
+        "img_url": [
+            "https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_9e2201886c43d264dbef_IMG_6460.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Attribute",
+        "question": "In the trophy win mentioned by John, there is an image. What is the prominent object at the very top of the trophy?",
+        "answer": "A basketball-like sphere",
+        "img_url": [
+            "https://as2.ftcdn.net/v2/jpg/05/74/26/09/1000_F_574260931_wcsjdtIi8YE9XIGnoqVdFltEuV9flJdM.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Attribute",
+        "question": "In the trophy win mentioned by John, there is an image. What color is the brim of the cap worn by the person holding the trophy?",
+        "answer": "Orange",
+        "img_url": [
+            "https://as2.ftcdn.net/v2/jpg/05/74/26/09/1000_F_574260931_wcsjdtIi8YE9XIGnoqVdFltEuV9flJdM.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the trophy win mentioned by John, there is an image. What team name is printed on the blue shirt of the person holding the trophy?",
+        "answer": "New York Knicks",
+        "img_url": [
+            "https://as2.ftcdn.net/v2/jpg/05/74/26/09/1000_F_574260931_wcsjdtIi8YE9XIGnoqVdFltEuV9flJdM.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the sneakers mentioned by Tim, there is an image. What brand name is printed upside down on the visible inside sole of the left shoe?",
+        "answer": "SKECHERS MEMORY FOAM",
+        "img_url": [
+            "http://www.binxberryconsignment.com/cdn/shop/products/IMG_3958.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Attribute",
+        "question": "In the sneakers mentioned by Tim, there is an image. What color is the strip that separates the main black upper from the white outer sole?",
+        "answer": "Pink",
+        "img_url": [
+            "http://www.binxberryconsignment.com/cdn/shop/products/IMG_3958.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_13",
+        "visual_category": "Counting",
+        "question": "In the sneakers mentioned by Tim, there is an image. How many black fabric loops are visible on the side of the left shoe's upper, through which the pink cords pass?",
+        "answer": "Six",
+        "img_url": [
+            "http://www.binxberryconsignment.com/cdn/shop/products/IMG_3958.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_18",
+        "visual_category": "Attribute",
+        "question": "In the trip to the UK mentioned by Tim, there is an image. What material is the main walkway in front of the castle made of?",
+        "answer": "Paved stone",
+        "img_url": [
+            "https://static.independent.co.uk/2021/07/28/09/26073722-6212c4b6-62f4-4d1f-b2d9-fab1e4ba16a8.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_18",
+        "visual_category": "Counting",
+        "question": "In the visit to a castle mentioned by Tim, there is an image. How many picnic tables are visible on the grass in the foreground?",
+        "answer": "Two",
+        "img_url": [
+            "https://static.independent.co.uk/2021/07/28/09/26073722-6212c4b6-62f4-4d1f-b2d9-fab1e4ba16a8.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_18",
+        "visual_category": "Attribute",
+        "question": "In the castle mentioned by Tim, there is an image. What is the condition of the sky above the castle?",
+        "answer": "Overcast",
+        "img_url": [
+            "https://static.independent.co.uk/2021/07/28/09/26073722-6212c4b6-62f4-4d1f-b2d9-fab1e4ba16a8.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_18",
+        "visual_category": "Attribute",
+        "question": "In the \"this injury\" mentioned by John, there is an image. What are the two primary colors of the bandage?",
+        "answer": "Beige and white",
+        "img_url": [
+            "https://i.redd.it/plgl67c48sg91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_18",
+        "visual_category": "Attribute",
+        "question": "In the \"this injury\" mentioned by John, there is an image. What type of pattern is visible on the bandage?",
+        "answer": "Wavy zigzag lines",
+        "img_url": [
+            "https://i.redd.it/plgl67c48sg91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_18",
+        "visual_category": "Spatial",
+        "question": "In the \"this injury\" mentioned by John, there is an image. Is the injury located on a hand or a foot?",
+        "answer": "A foot",
+        "img_url": [
+            "https://i.redd.it/plgl67c48sg91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_19",
+        "visual_category": "Counting",
+        "question": "In the growth journey mentioned by Tim, there is an image. How many 'Dune: House Atreides' comic books are visible, including all numbered issues?",
+        "answer": "Ten",
+        "img_url": [
+            "https://i.redd.it/28n5c71uffu71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_19",
+        "visual_category": "Attribute",
+        "question": "In the growth journey mentioned by Tim, there is an image. What color is the embossed text 'THE GREAT DUNE TRILOGY' on the black hardcover book?",
+        "answer": "Gold",
+        "img_url": [
+            "https://i.redd.it/28n5c71uffu71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_19",
+        "visual_category": "Attribute",
+        "question": "In the growth journey mentioned by Tim, there is an image. What language script is prominently displayed on the three books with the red and orange desert-themed covers?",
+        "answer": "Arabic",
+        "img_url": [
+            "https://i.redd.it/28n5c71uffu71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the Last week I scored 40 points mentioned by John, there is an image. What is the current score for the HOME team on the scoreboard?",
+        "answer": "98",
+        "img_url": [
+            "https://live.staticflickr.com/44/145388126_0fd9b13887_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the Last week I scored 40 points mentioned by John, there is an image. What is the current score for the GUEST team on the scoreboard?",
+        "answer": "95",
+        "img_url": [
+            "https://live.staticflickr.com/44/145388126_0fd9b13887_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the Last week I scored 40 points mentioned by John, there is an image. What period number is displayed in the middle of the bottom score row?",
+        "answer": "2",
+        "img_url": [
+            "https://live.staticflickr.com/44/145388126_0fd9b13887_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the Harry Potter fan mentioned by Tim, there is an image. How many books are visible in the black box set on the left?",
+        "answer": "6",
+        "img_url": [
+            "https://www.universalstudioshollywood.com/tridiondata/ush/en/us/files/images/ush-wwohp-universal-hollywood-ride-family-at-castle-f-svp-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the Harry Potter fan mentioned by Tim, there is an image. How many upright English edition books with colorful covers are displayed?",
+        "answer": "7",
+        "img_url": [
+            "https://www.universalstudioshollywood.com/tridiondata/ush/en/us/files/images/ush-wwohp-universal-hollywood-ride-family-at-castle-f-svp-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the Harry Potter fan mentioned by Tim, there is an image. What language are the books in the foreground written in, other than English?",
+        "answer": "Chinese",
+        "img_url": [
+            "https://www.universalstudioshollywood.com/tridiondata/ush/en/us/files/images/ush-wwohp-universal-hollywood-ride-family-at-castle-f-svp-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the tough win mentioned by John, there is an image. What are the scores for MIN and NYK displayed on the scoreboard?",
+        "answer": "MIN 116, NYK 105",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/basketball-soaring-towards-hoop-dramatic-sports-arena-setting-dynamic-shot-flying-air-heading-packed-363931217.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the incredible experience mentioned by John, there is an image. Does the third player from the left, wearing a white headband, have tattoos on his right leg?",
+        "answer": "Yes",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/basketball-soaring-towards-hoop-dramatic-sports-arena-setting-dynamic-shot-flying-air-heading-packed-363931217.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the atmosphere mentioned by John, there is an image. How many water bottles are visible on the floor in front of the bench?",
+        "answer": "Three",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/basketball-soaring-towards-hoop-dramatic-sports-arena-setting-dynamic-shot-flying-air-heading-packed-363931217.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the endorsements mentioned by John, there is an image. Is the text on the page printed or handwritten?",
+        "answer": "Handwritten",
+        "img_url": [
+            "https://therookiewire.usatoday.com/gcdn/authoring/images/smg/2025/01/11/SROK/77621715007-12-80757.jpeg?crop=4451,2504,x0,y229&width=3200&height=1801&format=pjpg&auto=webp"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Action",
+        "question": "In the big names mentioned by John, there is an image. Are there any sections of text on the page that are crossed out?",
+        "answer": "Yes, multiple sections",
+        "img_url": [
+            "https://therookiewire.usatoday.com/gcdn/authoring/images/smg/2025/01/11/SROK/77621715007-12-80757.jpeg?crop=4451,2504,x0,y229&width=3200&height=1801&format=pjpg&auto=webp"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Spatial",
+        "question": "In the what's in store mentioned by John, there is an image. What is the pattern of the shadows visible across the page?",
+        "answer": "Diagonal stripes",
+        "img_url": [
+            "https://therookiewire.usatoday.com/gcdn/authoring/images/smg/2025/01/11/SROK/77621715007-12-80757.jpeg?crop=4451,2504,x0,y229&width=3200&height=1801&format=pjpg&auto=webp"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the Under Armour mentioned by John, there is an image. What color is the Under Armour logo visible on the stand beneath the suit?",
+        "answer": "White",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/beautiful-forest-path-as-panorama-background-bright-green-leaves-spring-summer-trail-forest_663265-4127.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the working with them mentioned by John, there is an image. What name is printed on the left thigh of the suit?",
+        "answer": "Kevin Plank",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/beautiful-forest-path-as-panorama-background-bright-green-leaves-spring-summer-trail-forest_663265-4127.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the Under Armour mentioned by John, there is an image. What color are the mannequin's hands displaying the suit?",
+        "answer": "Gray",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/beautiful-forest-path-as-panorama-background-bright-green-leaves-spring-summer-trail-forest_663265-4127.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the where I'm headed mentioned by John, there is an image. What shape is the moon in the sky?",
+        "answer": "Crescent",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/breathtaking-panoramic-view-seattles-skyline-queen-anne-hill-stunning-cityscape-experience-awe-inspiring-beauty-360689521.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the where I'm headed mentioned by John, there is an image. How many distinct tall skyscrapers are visible in the skyline?",
+        "answer": "Six",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/breathtaking-panoramic-view-seattles-skyline-queen-anne-hill-stunning-cityscape-experience-awe-inspiring-beauty-360689521.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the where I'm headed mentioned by John, there is an image. What is the approximate color of the sky at the very top of the image?",
+        "answer": "Dark blue/grey",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/breathtaking-panoramic-view-seattles-skyline-queen-anne-hill-stunning-cityscape-experience-awe-inspiring-beauty-360689521.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the game there next month mentioned by John, there is an image. What color is the flag hanging from the ceiling on the right?",
+        "answer": "Red and white",
+        "img_url": [
+            "https://media.istockphoto.com/id/1224963129/photo/colorful-seattle-city-scape-with-cloudy-at-sunset-seattle-washington-usa.jpg?s=612x612&w=0&k=20&c=MStN7aHMT4J1ciGBOI9LbTkNepsU7BxyF9wEqeNh22Q="
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the game there next month mentioned by John, there is an image. How many numbered 'Atlanta Hawks' banners are hanging near the main scoreboard?",
+        "answer": "Five",
+        "img_url": [
+            "https://media.istockphoto.com/id/1224963129/photo/colorful-seattle-city-scape-with-cloudy-at-sunset-seattle-washington-usa.jpg?s=612x612&w=0&k=20&c=MStN7aHMT4J1ciGBOI9LbTkNepsU7BxyF9wEqeNh22Q="
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the game there next month mentioned by John, there is an image. How many basketball hoops are visible on the court?",
+        "answer": "Two",
+        "img_url": [
+            "https://media.istockphoto.com/id/1224963129/photo/colorful-seattle-city-scape-with-cloudy-at-sunset-seattle-washington-usa.jpg?s=612x612&w=0&k=20&c=MStN7aHMT4J1ciGBOI9LbTkNepsU7BxyF9wEqeNh22Q="
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the ocean mentioned by John, there is an image. How many distinct airplane contrails are visible in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the ocean mentioned by John, there is an image. What is the dominant color of the sun as it appears on the horizon?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the ocean mentioned by John, there is an image. What is the general pattern of the clouds in the upper sky?",
+        "answer": "Scattered",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the awesome summer mentioned by John, there is an image. What color is the shirt the person holding the surfboard is wearing?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://images.pexels.com/photos/8890340/pexels-photo-8890340.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-anastasia-baranova-8890340.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the surfing and riding the waves mentioned by John, there is an image. What color is the leash attached to the surfboard?",
+        "answer": "Blue",
+        "img_url": [
+            "https://images.pexels.com/photos/8890340/pexels-photo-8890340.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-anastasia-baranova-8890340.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the awesome summer mentioned by John, there is an image. How many other people are visible in the ocean besides the main surfer?",
+        "answer": "7",
+        "img_url": [
+            "https://images.pexels.com/photos/8890340/pexels-photo-8890340.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-anastasia-baranova-8890340.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the being out in the water mentioned by John, there is an image. How much of the sun is visible above the horizon?",
+        "answer": "About half",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the being out in the water mentioned by John, there is an image. How many distinct airplane contrails are visible in the upper sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the being out in the water mentioned by John, there is an image. What are the dominant colors of the clouds directly above the sun?",
+        "answer": "Orange and yellow",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the reading a great fantasy book mentioned by Tim, there is an image. What is the author's name printed on the book cover?",
+        "answer": "J. K. ROWLING",
+        "img_url": [
+            "https://d3525k1ryd2155.cloudfront.net/h/072/089/1318089072.0.x.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the reading a great fantasy book mentioned by Tim, there is an image. What is the dominant color of the large bird-like creature depicted on the cover?",
+        "answer": "Red",
+        "img_url": [
+            "https://d3525k1ryd2155.cloudfront.net/h/072/089/1318089072.0.x.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the reading a great fantasy book mentioned by Tim, there is an image. How many main living characters are prominently featured in the cover illustration?",
+        "answer": "Two",
+        "img_url": [
+            "https://d3525k1ryd2155.cloudfront.net/h/072/089/1318089072.0.x.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the comfy spot mentioned by Tim, there is an image. What is the primary material of the throw pillow on the armchair?",
+        "answer": "Fabric/Velvet",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617734023/at/news-culture/2021-04/katharine-scrivener-nook.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Counting",
+        "question": "In the comfy spot mentioned by Tim, there is an image. How many framed pictures are visible on the two floating shelves?",
+        "answer": "3",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617734023/at/news-culture/2021-04/katharine-scrivener-nook.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the comfy spot mentioned by Tim, there is an image. What color is the pot holding the tall plant?",
+        "answer": "Green",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617734023/at/news-culture/2021-04/katharine-scrivener-nook.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the European coastline road tripping mentioned by John, there is an image. Approximately how many people are visible on the red rock formation?",
+        "answer": "Over twenty-five",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/exploring-picturesque-european-coastline-summer-road-trip-concept-european-coastline-summer-road-trip-scenic-vistas-coastal-villages-travel-photography_918839-101010.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the European coastline road tripping mentioned by John, there is an image. What material is the fence in the lower left foreground made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/exploring-picturesque-european-coastline-summer-road-trip-concept-european-coastline-summer-road-trip-scenic-vistas-coastal-villages-travel-photography_918839-101010.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the European coastline road tripping mentioned by John, there is an image. How many distinct white clouds are visible in the blue sky?",
+        "answer": "Three",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/exploring-picturesque-european-coastline-summer-road-trip-concept-european-coastline-summer-road-trip-scenic-vistas-coastal-villages-travel-photography_918839-101010.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the treat mentioned by Tim, there is an image. What specific feature is visible along the frog's back?",
+        "answer": "A raised ridge",
+        "img_url": [
+            "https://dixiedelightsonline.com/wp-content/uploads/2018/05/IMG_4747.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the treat mentioned by Tim, there is an image. How many sides does the open box containing the frog have?",
+        "answer": "Six",
+        "img_url": [
+            "https://dixiedelightsonline.com/wp-content/uploads/2018/05/IMG_4747.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the Gryffindor scarf mentioned by Tim, there is an image. What is visible on the underside near the tip of the item?",
+        "answer": "A black label",
+        "img_url": [
+            "https://dixiedelightsonline.com/wp-content/uploads/2018/05/IMG_4747.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the win mentioned by John, there is an image. How many golden trophies are visible on the float?",
+        "answer": "Two",
+        "img_url": [
+            "https://foreignfork.com/wp-content/uploads/2020/10/Frog-Legs-Recipe-8-scaled.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "OCR/Text",
+        "question": "In the win mentioned by John, there is an image. What team name is displayed on the flag hanging from the back of the vehicle?",
+        "answer": "Denver Nuggets",
+        "img_url": [
+            "https://foreignfork.com/wp-content/uploads/2020/10/Frog-Legs-Recipe-8-scaled.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the win mentioned by John, there is an image. What color is the shirt worn by the child being held on the float?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://foreignfork.com/wp-content/uploads/2020/10/Frog-Legs-Recipe-8-scaled.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the hard work they put in mentioned by John, there is an image. What color shirt is the coach wearing?",
+        "answer": "Purple",
+        "img_url": [
+            "https://live.staticflickr.com/4030/4426181605_d36196a029_c.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the hard work they put in mentioned by John, there is an image. How many players are sitting on the blue bench in the foreground?",
+        "answer": "Five",
+        "img_url": [
+            "https://live.staticflickr.com/4030/4426181605_d36196a029_c.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the hard work they put in mentioned by John, there is an image. What is the player in jersey number 14 holding in his hands?",
+        "answer": "A white towel",
+        "img_url": [
+            "https://live.staticflickr.com/4030/4426181605_d36196a029_c.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the amazing series mentioned by Tim, there is an image. How many books are stacked?",
+        "answer": "5",
+        "img_url": [
+            "https://www.thegibsonedge.com/hs-fs/hubfs/images/Blog_Images/Beware%20The%20Person%20Of%20One%20Book%20-%20Flashback%20Friday.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "OCR/Text",
+        "question": "In the amazing series mentioned by Tim, there is an image. What is the title of the topmost book?",
+        "answer": "Think and Grow Rich",
+        "img_url": [
+            "https://www.thegibsonedge.com/hs-fs/hubfs/images/Blog_Images/Beware%20The%20Person%20Of%20One%20Book%20-%20Flashback%20Friday.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the amazing series mentioned by Tim, there is an image. What symbol is printed on the spine of the book titled 'Rocket Fuel'?",
+        "answer": "Two arrows in a circle",
+        "img_url": [
+            "https://www.thegibsonedge.com/hs-fs/hubfs/images/Blog_Images/Beware%20The%20Person%20Of%20One%20Book%20-%20Flashback%20Friday.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the team dinners mentioned by John, there is an image. What colors are the jackets worn by most of the team members?",
+        "answer": "Red and white",
+        "img_url": [
+            "https://live.staticflickr.com/5128/5297313790_4330145c09_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the team dinners mentioned by John, there is an image. How many green glass bottles are visible on the dinner table?",
+        "answer": "Six",
+        "img_url": [
+            "https://live.staticflickr.com/5128/5297313790_4330145c09_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the team dinners mentioned by John, there is an image. What food item is present in the clear glass bowl on the table?",
+        "answer": "Green salad",
+        "img_url": [
+            "https://live.staticflickr.com/5128/5297313790_4330145c09_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the \"A Dance with Dragons\" mentioned by Tim, there is an image. What creature is depicted on the cover's circular emblem?",
+        "answer": "Dragon",
+        "img_url": [
+            "https://live.staticflickr.com/4467/24220955708_7548812488_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the \"A Dance with Dragons\" mentioned by Tim, there is an image. How many books are included in the box set next to it?",
+        "answer": "Four",
+        "img_url": [
+            "https://live.staticflickr.com/4467/24220955708_7548812488_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the \"A Dance with Dragons\" mentioned by Tim, there is an image. What material is the shelf made of on which the books are resting?",
+        "answer": "Wood",
+        "img_url": [
+            "https://live.staticflickr.com/4467/24220955708_7548812488_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the this one mentioned by John, there is an image. What material are the visible parts of the main castle structure primarily made of?",
+        "answer": "Stone",
+        "img_url": [
+            "https://creatingmewp.files.wordpress.com/2023/05/img_9047.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Spatial",
+        "question": "In the this one mentioned by John, there is an image. What body of water is visible directly adjacent to the castle's cliff?",
+        "answer": "The sea",
+        "img_url": [
+            "https://creatingmewp.files.wordpress.com/2023/05/img_9047.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the this one mentioned by John, there is an image. How many prominent rectangular window openings are visible on the two main, intact towers of the castle?",
+        "answer": "Eight",
+        "img_url": [
+            "https://creatingmewp.files.wordpress.com/2023/05/img_9047.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the J.K. Rowling's books mentioned by Tim, there is an image. What is the title of the first chapter shown?",
+        "answer": "The Lad Who Lived",
+        "img_url": [
+            "https://i.redd.it/4mff2zeq18381.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the J.K. Rowling's books mentioned by Tim, there is an image. How many star-shaped decorations are visible above the chapter title?",
+        "answer": "Eight",
+        "img_url": [
+            "https://i.redd.it/4mff2zeq18381.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the J.K. Rowling's books mentioned by Tim, there is an image. What material is the book resting on?",
+        "answer": "Wood",
+        "img_url": [
+            "https://i.redd.it/4mff2zeq18381.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the quote mentioned by John, there is an image. What date is written at the top of the whiteboard?",
+        "answer": "Feb 24, 2020",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the whiteboard writing mentioned by John, there is an image. How many distinct arrows are drawn around the main message?",
+        "answer": "Seven",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the whiteboard writing mentioned by John, there is an image. What shape is at the tail end of the arrow located on the bottom right?",
+        "answer": "A heart",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the plaque mentioned by John, there is an image. What color are the letters on the plaque?",
+        "answer": "Black",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxODI2MC1pbWFnZS1rd3Z3bmQxZi5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the desk mentioned by John, there is an image. What color is the desk surface?",
+        "answer": "White",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxODI2MC1pbWFnZS1rd3Z3bmQxZi5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the physical reminders mentioned by John, there is an image. What color is the laptop next to the plaque?",
+        "answer": "Grey/Silver",
+        "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMxODI2MC1pbWFnZS1rd3Z3bmQxZi5qcGc.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the teammates believing in me mentioned by John, there is an image. How many players are clearly visible in the huddle?",
+        "answer": "Ten",
+        "img_url": [
+            "https://www.americustimesrecorder.com/wp-content/uploads/sites/43/2023/04/team-huddle-rotated.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the teammates believing in me mentioned by John, there is an image. What are the primary colors of the players' uniforms?",
+        "answer": "Blue and white",
+        "img_url": [
+            "https://www.americustimesrecorder.com/wp-content/uploads/sites/43/2023/04/team-huddle-rotated.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Spatial",
+        "question": "In the teammates believing in me mentioned by John, there is an image. What tall, metal structure is visible in the background above the field?",
+        "answer": "A lattice tower",
+        "img_url": [
+            "https://www.americustimesrecorder.com/wp-content/uploads/sites/43/2023/04/team-huddle-rotated.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the gathering of friends and family mentioned by Tim, there is an image. What pattern is on the blanket on the right?",
+        "answer": "Blue and white stripes.",
+        "img_url": [
+            "https://i.pinimg.com/originals/85/59/73/855973c53d20fad61ea048269f29fadb.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the gathering of friends and family mentioned by Tim, there is an image. What fruit is in the clear plastic container?",
+        "answer": "Green grapes.",
+        "img_url": [
+            "https://i.pinimg.com/originals/85/59/73/855973c53d20fad61ea048269f29fadb.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the gathering of friends and family mentioned by Tim, there is an image. How many people are present?",
+        "answer": "Four.",
+        "img_url": [
+            "https://i.pinimg.com/originals/85/59/73/855973c53d20fad61ea048269f29fadb.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the loved ones who support us mentioned by John, there is an image. How many standing wine bottles are visible on the table?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the loved ones who support us mentioned by John, there is an image. What dark ingredient is most prominent in the large salad bowl?",
+        "answer": "Black olives",
+        "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the loved ones who support us mentioned by John, there is an image. What brand name is visible on the label of the large water bottle?",
+        "answer": "Evian",
+        "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Counting",
+        "question": "In the curling up with a good book mentioned by Tim, there is an image. How many main logs are forming the base of the fire?",
+        "answer": "Five",
+        "img_url": [
+            "https://images.pexels.com/photos/11818038/pexels-photo-11818038.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ana-ps-11818038.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the curling up with a good book mentioned by Tim, there is an image. What material makes up the wall behind the burning fire?",
+        "answer": "Brick",
+        "img_url": [
+            "https://images.pexels.com/photos/11818038/pexels-photo-11818038.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ana-ps-11818038.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the curling up with a good book mentioned by Tim, there is an image. What color is the elongated object visible on the hearth to the right side?",
+        "answer": "Orange",
+        "img_url": [
+            "https://images.pexels.com/photos/11818038/pexels-photo-11818038.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ana-ps-11818038.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the cooking a meal mentioned by John, there is an image. What type of utensil is sticking out of the food?",
+        "answer": "Fork",
+        "img_url": [
+            "https://i.redd.it/6383i30xl5w31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the cooking a meal mentioned by John, there is an image. What word is visible on the white container in the background?",
+        "answer": "COFFEE.",
+        "img_url": [
+            "https://i.redd.it/6383i30xl5w31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the cooking a meal mentioned by John, there is an image. What is the texture of the chicken in the slow cooker?",
+        "answer": "Shredded",
+        "img_url": [
+            "https://i.redd.it/6383i30xl5w31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Counting",
+        "question": "In the travel club mentioned by Tim, there is an image. How many red pushpins are holding the map?",
+        "answer": "Two.",
+        "img_url": [
+            "https://www.sportindustry.biz/wp-content/uploads/2023/09/Sport-Team-of-the-Year-1.png"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "OCR/Text",
+        "question": "In the travel club mentioned by Tim, there is an image. What is the main title written on the banner at the top of the map?",
+        "answer": "Vvardenfell.",
+        "img_url": [
+            "https://www.sportindustry.biz/wp-content/uploads/2023/09/Sport-Team-of-the-Year-1.png"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Attribute",
+        "question": "In the travel club mentioned by Tim, there is an image. Is there a visible vertical fold line running through the center of the map?",
+        "answer": "Yes.",
+        "img_url": [
+            "https://www.sportindustry.biz/wp-content/uploads/2023/09/Sport-Team-of-the-Year-1.png"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Counting",
+        "question": "In the my teammates mentioned by John, there is an image. How many players are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://bloximages.chicago2.vip.townnews.com/syvnews.com/content/tncms/assets/v3/editorial/3/38/338dd0b4-adc1-5a60-97e6-9eb3508b3f77/63c7306e4f912.hires.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Attribute",
+        "question": "In the my teammates mentioned by John, there is an image. What are the main colors of their jerseys?",
+        "answer": "Black and orange",
+        "img_url": [
+            "https://bloximages.chicago2.vip.townnews.com/syvnews.com/content/tncms/assets/v3/editorial/3/38/338dd0b4-adc1-5a60-97e6-9eb3508b3f77/63c7306e4f912.hires.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "OCR/Text",
+        "question": "In the my teammates mentioned by John, there is an image. What team name is written on their jerseys?",
+        "answer": "PIRATES",
+        "img_url": [
+            "https://bloximages.chicago2.vip.townnews.com/syvnews.com/content/tncms/assets/v3/editorial/3/38/338dd0b4-adc1-5a60-97e6-9eb3508b3f77/63c7306e4f912.hires.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Counting",
+        "question": "In the learning how to play the violin mentioned by Tim, there is an image. How many tuning pegs are visible on the violin?",
+        "answer": "Four",
+        "img_url": [
+            "https://i1.pickpik.com/photos/964/641/216/musical-instrument-violin-curl-tuning-pegs-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Attribute",
+        "question": "In the violin mentioned by Tim, there is an image. What color are the strings visible on the violin's neck?",
+        "answer": "Black",
+        "img_url": [
+            "https://i1.pickpik.com/photos/964/641/216/musical-instrument-violin-curl-tuning-pegs-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "OCR/Text",
+        "question": "In the classical music mentioned by Tim, there is an image. What tempo marking is partially visible handwritten on the sheet music?",
+        "answer": "Adagio",
+        "img_url": [
+            "https://i1.pickpik.com/photos/964/641/216/musical-instrument-violin-curl-tuning-pegs-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Attribute",
+        "question": "In the achievement mentioned by John, there is an image. What shape is the very top part of the trophy?",
+        "answer": "Basketball sphere",
+        "img_url": [
+            "https://live.staticflickr.com/7162/6733335339_3a64489025_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "OCR/Text",
+        "question": "In the achievement mentioned by John, there is an image. What word is written prominently on the man's cap?",
+        "answer": "CHAMPIONS",
+        "img_url": [
+            "https://live.staticflickr.com/7162/6733335339_3a64489025_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_21",
+        "visual_category": "Counting",
+        "question": "In the achievement mentioned by John, there is an image. How many fingers is the man pointing towards the trophy?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/7162/6733335339_3a64489025_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_25",
+        "visual_category": "OCR/Text",
+        "question": "In the amazing deal with a renowned outdoor gear company mentioned by John, what brand logo is visible on the man's backpack?",
+        "answer": "Black Diamond",
+        "img_url": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDMnkQOmMQNKQfQDDRQlTRpNME7oy0xNlcHjLYB8n_ZwvnWe8nYlRKA3WkZNHEQLsME&usqp=CAU"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the amazing deal with a renowned outdoor gear company mentioned by John, what color is the man's main jacket?",
+        "answer": "Red",
+        "img_url": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDMnkQOmMQNKQfQDDRQlTRpNME7oy0xNlcHjLYB8n_ZwvnWe8nYlRKA3WkZNHEQLsME&usqp=CAU"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the amazing deal with a renowned outdoor gear company mentioned by John, what are the two main colors of the beanie on the man's head?",
+        "answer": "Green and yellow",
+        "img_url": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDMnkQOmMQNKQfQDDRQlTRpNME7oy0xNlcHjLYB8n_ZwvnWe8nYlRKA3WkZNHEQLsME&usqp=CAU"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by John, there is an image. What pattern is on the person's shirt?",
+        "answer": "Plaid",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/spring-forest-nature-landscape-beautiful-spring-stream-river-rocks-mountain-forest_1111209-17468.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_25",
+        "visual_category": "Counting",
+        "question": "In the pic mentioned by John, there is an image. How many stripes are visible on the person's left shoe?",
+        "answer": "Three",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/spring-forest-nature-landscape-beautiful-spring-stream-river-rocks-mountain-forest_1111209-17468.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by John, there is an image. What color is the dominant light source illuminating the background trees?",
+        "answer": "Golden/Orange",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/spring-forest-nature-landscape-beautiful-spring-stream-river-rocks-mountain-forest_1111209-17468.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the new success stories mentioned by John, there is an image. What is the main title of the organization displayed on the banner?",
+        "answer": "WOMEN SalesPros",
+        "img_url": [
+            "https://staticg.sportskeeda.com/editor/2023/11/1caf8-17002697090698-1920.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "Attribute",
+        "question": "In the new success stories mentioned by John, there is an image. What color is the jacket worn by the woman on the right?",
+        "answer": "Red",
+        "img_url": [
+            "https://staticg.sportskeeda.com/editor/2023/11/1caf8-17002697090698-1920.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "Counting",
+        "question": "In the new success stories mentioned by John, there is an image. How many words are present in the central white circle of the diagram on the banner?",
+        "answer": "One",
+        "img_url": [
+            "https://staticg.sportskeeda.com/editor/2023/11/1caf8-17002697090698-1920.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the big game against our rival mentioned by John, there is an image. What are the scores for Little Rock and Iowa State displayed on the main scoreboard?",
+        "answer": "Little Rock 61, Iowa State 78",
+        "img_url": [
+            "https://i.pinimg.com/originals/cf/a0/7f/cfa07fa76047b5d731b3af313d98fc01.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the big game against our rival mentioned by John, there is an image. What event name is visible on the court floor?",
+        "answer": "March Madness",
+        "img_url": [
+            "https://i.pinimg.com/originals/cf/a0/7f/cfa07fa76047b5d731b3af313d98fc01.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "Attribute",
+        "question": "In the big game against our rival mentioned by John, there is an image. What is the predominant color of clothing worn by the spectators in the lower sections?",
+        "answer": "Red/Maroon",
+        "img_url": [
+            "https://i.pinimg.com/originals/cf/a0/7f/cfa07fa76047b5d731b3af313d98fc01.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Tim, there is an image. What color are the lines on the basketball?",
+        "answer": "Black",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "Spatial",
+        "question": "In the pic mentioned by Tim, there is an image. On which side of the frame is the prominent sun glare located?",
+        "answer": "Left side",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_23",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Tim, there is an image. What is the approximate color of the basketball hoop's backboard in the background?",
+        "answer": "Off-white/Beige",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the win mentioned by John, there is an image. What championship title is clearly visible on the trophy?",
+        "answer": "Regional Championship",
+        "img_url": [
+            "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/03/Catawba-basketball-01.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the win mentioned by John, there is an image. What number is on the jersey of the player on the far bottom left?",
+        "answer": "Number 2",
+        "img_url": [
+            "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/03/Catawba-basketball-01.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the win mentioned by John, there is an image. How many distinct hands are visible touching the championship trophy?",
+        "answer": "Seven",
+        "img_url": [
+            "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/03/Catawba-basketball-01.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the morning workout mentioned by John, there is an image. How many basketball hoops are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://images.fineartamerica.com/images-medium-large-5/basketball-court-sunset-jun-pinzon.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the morning workout mentioned by John, there is an image. Is the basketball backboard opaque or transparent?",
+        "answer": "Transparent",
+        "img_url": [
+            "https://images.fineartamerica.com/images-medium-large-5/basketball-court-sunset-jun-pinzon.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the morning workout mentioned by John, there is an image. What kind of pattern does the fence below the basketball hoop exhibit?",
+        "answer": "Mesh pattern",
+        "img_url": [
+            "https://images.fineartamerica.com/images-medium-large-5/basketball-court-sunset-jun-pinzon.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the injured myself mentioned by John, there is an image. What text is visible on the side of the boot?",
+        "answer": "FORM FIT",
+        "img_url": [
+            "https://i.redd.it/o20k6p31qoe41.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the injured myself mentioned by John, there is an image. How many visible straps are securing the black medical boot?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/o20k6p31qoe41.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the injured myself mentioned by John, there is an image. Are the person's toes exposed or covered by the boot?",
+        "answer": "Exposed",
+        "img_url": [
+            "https://i.redd.it/o20k6p31qoe41.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the milestone moment at the gym mentioned by John, there is an image. Do the windows have blinds?",
+        "answer": "Yes",
+        "img_url": [
+            "https://live.staticflickr.com/5189/5618665304_b2e0ccd051_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the milestone moment at the gym mentioned by John, there is an image. How many electrical outlets are visible on the wall?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/5189/5618665304_b2e0ccd051_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the milestone moment at the gym mentioned by John, there is an image. What brand name is visible on the side of the treadmill?",
+        "answer": "PRECOR",
+        "img_url": [
+            "https://live.staticflickr.com/5189/5618665304_b2e0ccd051_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the my success mentioned by Tim, there is an image. How many white containers are on the tray?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/52/98/a1/5298a13a728c023b77f9cc86529a8748.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the my success mentioned by Tim, there is an image. What color is the sticky note on the physics cheat sheet?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/52/98/a1/5298a13a728c023b77f9cc86529a8748.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the my success mentioned by Tim, there is an image. What color are the horizontal lines on the notebook paper?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/52/98/a1/5298a13a728c023b77f9cc86529a8748.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the photo of me in this pose mentioned by John, there is an image. What color is the yoga mat?",
+        "answer": "Blue",
+        "img_url": [
+            "https://pixahive.com/wp-content/uploads/2021/02/Virabhadrasana-Warrior-Pose-357219-pixahive.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the photo of me in this pose mentioned by John, there is an image. How many bare feet are visible on the mat?",
+        "answer": "Two",
+        "img_url": [
+            "https://pixahive.com/wp-content/uploads/2021/02/Virabhadrasana-Warrior-Pose-357219-pixahive.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Spatial",
+        "question": "In the photo of me in this pose mentioned by John, there is an image. Which direction is the man's head facing?",
+        "answer": "Right",
+        "img_url": [
+            "https://pixahive.com/wp-content/uploads/2021/02/Virabhadrasana-Warrior-Pose-357219-pixahive.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the reorganization of his book shelf mentioned by Tim, there is an image. What material is the large decorative object on the top shelf made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://i.redd.it/9nvpaptnspc81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the reorganization of his book shelf mentioned by Tim, there is an image. What color is the wax of the candle on the top shelf?",
+        "answer": "Aqua/Teal",
+        "img_url": [
+            "https://i.redd.it/9nvpaptnspc81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the reorganization of his book shelf mentioned by Tim, there is an image. How many distinct shelves are filled with books?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/9nvpaptnspc81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the bookshelf mentioned by Tim, there is an image. How many books make up 'The Wheel of Time' series on the top shelf?",
+        "answer": "14",
+        "img_url": [
+            "https://i.etsystatic.com/29963245/r/il/2e35d6/5788345539/il_fullxfull.5788345539_9vml.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the bookshelf mentioned by Tim, there is an image. What color are the books with the golden crests on the middle shelf, to the left?",
+        "answer": "Red and gold",
+        "img_url": [
+            "https://i.etsystatic.com/29963245/r/il/2e35d6/5788345539/il_fullxfull.5788345539_9vml.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the bookshelf mentioned by Tim, there is an image. What distinctive image is visible on the spines of the 'Paolini' books on the middle shelf?",
+        "answer": "An eye",
+        "img_url": [
+            "https://i.etsystatic.com/29963245/r/il/2e35d6/5788345539/il_fullxfull.5788345539_9vml.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Spatial",
+        "question": "In the amazing moments mentioned by John, there is an image. Is the sun visible directly or indirectly through the mist?",
+        "answer": "Directly through mist.",
+        "img_url": [
+            "https://i.redd.it/huz7cq7rtix31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the amazing moments mentioned by John, there is an image. How many large, distinct tree trunks are clearly visible from their base upwards?",
+        "answer": "Four.",
+        "img_url": [
+            "https://i.redd.it/huz7cq7rtix31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the amazing moments mentioned by John, there is an image. What is the predominant color of the lower foliage?",
+        "answer": "Dark green.",
+        "img_url": [
+            "https://i.redd.it/huz7cq7rtix31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the simple beauty mentioned by John, there is an image. What are the prominent colors of the sky above the mountains?",
+        "answer": "Pink and blue",
+        "img_url": [
+            "https://i.redd.it/5qw4hbg418561.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the simple beauty mentioned by John, there is an image. How many large, distinct rocks are visible in the frozen water?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/5qw4hbg418561.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Spatial",
+        "question": "In the simple beauty mentioned by John, there is an image. Are there any snow-covered branches extending over the frozen water on the right side?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/5qw4hbg418561.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the camping mentioned by John, there is an image. How many chairs are placed near the water?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/lf5a5i0jnah31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the camping mentioned by John, there is an image. What material forms the border of the campfire pit?",
+        "answer": "Rocks",
+        "img_url": [
+            "https://i.redd.it/lf5a5i0jnah31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the camping mentioned by John, there is an image. How many covered boats are visible on lifts by the lake?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/lf5a5i0jnah31.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the Rocky Mountains trip mentioned by Tim, there is an image. What is the approximate coverage of the sky by clouds?",
+        "answer": "Mostly covered",
+        "img_url": [
+            "https://wallpaperaccess.com/full/1096552.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the Rocky Mountains trip mentioned by Tim, there is an image. How is the snow distributed on the mountain slopes?",
+        "answer": "Patchy and streaky",
+        "img_url": [
+            "https://wallpaperaccess.com/full/1096552.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Spatial",
+        "question": "In the Rocky Mountains trip mentioned by Tim, there is an image. Where are the dark, dense clusters of trees primarily visible on the mountains?",
+        "answer": "Lower and mid-slopes",
+        "img_url": [
+            "https://wallpaperaccess.com/full/1096552.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In this amazing view mentioned by Tim, there is an image. What are the dominant colors of the sky near the horizon?",
+        "answer": "Yellow and orange",
+        "img_url": [
+            "https://i.redd.it/u51y7czkhfrb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In this amazing view mentioned by Tim, there is an image. What is the general texture of the rock formations in the foreground?",
+        "answer": "Rough and jagged",
+        "img_url": [
+            "https://i.redd.it/u51y7czkhfrb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In this amazing view mentioned by Tim, there is an image. Are there any visible patches of white snow on the mountain slopes?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/u51y7czkhfrb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_29",
+        "visual_category": "Attribute",
+        "question": "In the endorsement with a popular beverage company mentioned by John, there is an image. What color is the baseball cap Ted Williams is wearing on the sign?",
+        "answer": "Blue and red",
+        "img_url": [
+            "https://i.redd.it/g33orfsja8ha1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_29",
+        "visual_category": "Counting",
+        "question": "In the endorsement with a popular beverage company mentioned by John, there is an image. How many beverage containers are displayed in the image?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/g33orfsja8ha1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the endorsement with a popular beverage company mentioned by John, there is an image. What slogan is printed below the main 'MOXIE' logo on the orange can?",
+        "answer": "Distinctively Different",
+        "img_url": [
+            "https://i.redd.it/g33orfsja8ha1.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In the staying in Galway mentioned by Tim, there is an image. What colors are the flowers in the hanging baskets?",
+        "answer": "Red and yellow",
+        "img_url": [
+            "https://roadworksbooks.files.wordpress.com/2022/07/img_4242.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In the staying in Galway mentioned by Tim, there is an image. What musical instrument is the man playing?",
+        "answer": "Violin",
+        "img_url": [
+            "https://roadworksbooks.files.wordpress.com/2022/07/img_4242.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In the staying in Galway mentioned by Tim, there is an image. What color are the directional signs on the street pole?",
+        "answer": "Black with yellow arrows",
+        "img_url": [
+            "https://roadworksbooks.files.wordpress.com/2022/07/img_4242.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Counting",
+        "question": "In the nature mentioned by Tim, there is an image. How many distinct, isolated rock formations are visible standing in the ocean?",
+        "answer": "One",
+        "img_url": [
+            "https://images.pexels.com/photos/8456767/pexels-photo-8456767.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-david-riand-8456767.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In the nature mentioned by Tim, there is an image. What is the primary color of the visible clouds closer to the horizon?",
+        "answer": "Orange and pink",
+        "img_url": [
+            "https://images.pexels.com/photos/8456767/pexels-photo-8456767.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-david-riand-8456767.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Spatial",
+        "question": "In the nature mentioned by Tim, there is an image. Is there a discernible path or track visible along the top of the closest cliff?",
+        "answer": "Yes, there is",
+        "img_url": [
+            "https://images.pexels.com/photos/8456767/pexels-photo-8456767.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-david-riand-8456767.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In The Cliffs of Moher mentioned by Tim, there is an image. What color is the grass covering the top of the cliffs in the foreground?",
+        "answer": "Vibrant green",
+        "img_url": [
+            "https://i.redd.it/t98kzzhuocp81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In The Cliffs of Moher mentioned by Tim, there is an image. What is the dominant condition of the sky?",
+        "answer": "Overcast and cloudy",
+        "img_url": [
+            "https://i.redd.it/t98kzzhuocp81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Action",
+        "question": "In The Cliffs of Moher mentioned by Tim, there is an image. Are there visible waves crashing against the base of the cliffs?",
+        "answer": "Yes, with white foam",
+        "img_url": [
+            "https://i.redd.it/t98kzzhuocp81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Counting",
+        "question": "In the benefit basketball game mentioned by John, there is an image. How many basketballs are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://outandaboutmummy.files.wordpress.com/2019/11/img_6609.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In the benefit basketball game mentioned by John, there is an image. What color are the shoes of the boy dribbling the ball in the foreground?",
+        "answer": "Dark blue/green and white",
+        "img_url": [
+            "https://outandaboutmummy.files.wordpress.com/2019/11/img_6609.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_28",
+        "visual_category": "Attribute",
+        "question": "In the benefit basketball game mentioned by John, there is an image. What color is the rim of the visible basketball hoop?",
+        "answer": "Red",
+        "img_url": [
+            "https://outandaboutmummy.files.wordpress.com/2019/11/img_6609.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the seminars mentioned by John, there is an image. How many white hats are placed on the table on the court?",
+        "answer": "10",
+        "img_url": [
+            "https://pivitu.com/wp-content/uploads/bb-plugin/cache/IMG_8996-circle-5996d578100cbb83f34040d0584d4834-5db4d83b44005.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "OCR/Text",
+        "question": "In the seminars mentioned by John, there is an image. What is the main text displayed on the large projection screen?",
+        "answer": "Competition is coming",
+        "img_url": [
+            "https://pivitu.com/wp-content/uploads/bb-plugin/cache/IMG_8996-circle-5996d578100cbb83f34040d0584d4834-5db4d83b44005.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Spatial",
+        "question": "In the seminars mentioned by John, there is an image. Are the bleachers where the audience is seated fully extended or partially extended?",
+        "answer": "Partially extended",
+        "img_url": [
+            "https://pivitu.com/wp-content/uploads/bb-plugin/cache/IMG_8996-circle-5996d578100cbb83f34040d0584d4834-5db4d83b44005.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the seminars mentioned by John, there is an image. What colors are the prominent stage lights illuminating the performance area?",
+        "answer": "Red and white",
+        "img_url": [
+            "https://i.redd.it/5hvq16lfcgy71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the seminars mentioned by John, there is an image. How many people are standing on the stage?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/5hvq16lfcgy71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "OCR/Text",
+        "question": "In the seminars mentioned by John, there is an image. What names are visible on the main central screen?",
+        "answer": "Ars\u00e8ne Wenger and David Dein",
+        "img_url": [
+            "https://i.redd.it/5hvq16lfcgy71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "OCR/Text",
+        "question": "In the book Tim mentioned he found, there is an image. What is the title of the book shown?",
+        "answer": "THE LUCKIEST DAY OF YOUR LIFE",
+        "img_url": [
+            "https://i.redd.it/53yi43izjpb81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the book Tim mentioned he found, there is an image. How many children are depicted on the book cover?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/53yi43izjpb81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the book Tim mentioned he found, there is an image. What color is the shirt worn by the boy in the center of the book cover?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.redd.it/53yi43izjpb81.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the two hikers who trekked through the Himalayas mentioned by Tim, there is an image. What is visible on the upper back of the hiker on the right?",
+        "answer": "A tattoo",
+        "img_url": [
+            "https://i.redd.it/tdukekw3wlp91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the two hikers who trekked through the Himalayas mentioned by Tim, there is an image. What covers the ground in the foreground?",
+        "answer": "Snow and rocks",
+        "img_url": [
+            "https://i.redd.it/tdukekw3wlp91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Spatial",
+        "question": "In the two hikers who trekked through the Himalayas mentioned by Tim, there is an image. Are the hikers facing towards or away from the camera?",
+        "answer": "Away",
+        "img_url": [
+            "https://i.redd.it/tdukekw3wlp91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the charity event mentioned by John, there is an image. What color is the lanyard John is wearing?",
+        "answer": "Blue",
+        "img_url": [
+            "https://talkstar-photos.s3.amazonaws.com/uploads/9dd73626-fe0d-4a3b-b913-c39d65250da8/ApolloRobbins_2013G-embed.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the charity event mentioned by John, there is an image. How many fingers are fully visible on the man on the right's open hand?",
+        "answer": "Five",
+        "img_url": [
+            "https://talkstar-photos.s3.amazonaws.com/uploads/9dd73626-fe0d-4a3b-b913-c39d65250da8/ApolloRobbins_2013G-embed.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Spatial",
+        "question": "In the charity event mentioned by John, there is an image. Where is the small microphone located on the man next to John?",
+        "answer": "Near his right ear",
+        "img_url": [
+            "https://talkstar-photos.s3.amazonaws.com/uploads/9dd73626-fe0d-4a3b-b913-c39d65250da8/ApolloRobbins_2013G-embed.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the series mentioned by Tim, there is an image. How many books are visible in the collection?",
+        "answer": "Seven",
+        "img_url": [
+            "https://i.redd.it/oqnovgpaxdv51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the series mentioned by Tim, there is an image. What is the main color of the spine for the second book?",
+        "answer": "Dark green",
+        "img_url": [
+            "https://i.redd.it/oqnovgpaxdv51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the series mentioned by Tim, there is an image. What mythical creature is depicted on the spine of the fourth book?",
+        "answer": "Dragon",
+        "img_url": [
+            "https://i.redd.it/oqnovgpaxdv51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the movie marathons mentioned by Tim, there is an image. How many popcorn buckets are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.pexels.com/photos/7234395/pexels-photo-7234395.jpeg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the movie marathons mentioned by Tim, there is an image. What color is the cup placed on the side table?",
+        "answer": "Red",
+        "img_url": [
+            "https://images.pexels.com/photos/7234395/pexels-photo-7234395.jpeg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the movie marathons mentioned by Tim, there is an image. What type of seating are the friends using in the foreground?",
+        "answer": "A couch",
+        "img_url": [
+            "https://images.pexels.com/photos/7234395/pexels-photo-7234395.jpeg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Counting",
+        "question": "In the Lord of the Rings mentioned by Tim, there is an image. How many hobbit-like characters are depicted with bare feet?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/ixsrm1ukws611.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Attribute",
+        "question": "In the Lord of the Rings mentioned by Tim, there is an image. What color is the wizard's hat?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://i.redd.it/ixsrm1ukws611.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_26",
+        "visual_category": "Other",
+        "question": "In the Lord of the Rings mentioned by Tim, there is an image. What is used to hold the poster to the wall?",
+        "answer": "Thumbtacks",
+        "img_url": [
+            "https://i.redd.it/ixsrm1ukws611.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the app mentioned by Tim, there is an image. What language is currently displayed as selected in the app?",
+        "answer": "Swedish",
+        "img_url": [
+            "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1ffe37ee-ba14-4de2-9a89-a0f032c0df9c/4095336456/jumpspeak-language-learning-screenshot.png"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the app mentioned by Tim, there is an image. What is the primary color of the phone displaying the app?",
+        "answer": "Rose gold",
+        "img_url": [
+            "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1ffe37ee-ba14-4de2-9a89-a0f032c0df9c/4095336456/jumpspeak-language-learning-screenshot.png"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Spatial",
+        "question": "In the app mentioned by Tim, there is an image. What item is the phone resting on?",
+        "answer": "A teal notebook",
+        "img_url": [
+            "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1ffe37ee-ba14-4de2-9a89-a0f032c0df9c/4095336456/jumpspeak-language-learning-screenshot.png"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the basketball mentioned by John, there is an image. What color is the basketball and its lines?",
+        "answer": "Orange with black lines",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the basketball mentioned by John, there is an image. What kind of surface is the basketball resting on?",
+        "answer": "Rough asphalt",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the basketball mentioned by John, there is an image. What type of fence is visible behind the court?",
+        "answer": "Chain-link",
+        "img_url": [
+            "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the 'always love reading' mentioned by Tim, there is an image. How many books are visible in the set?",
+        "answer": "Seven",
+        "img_url": [
+            "https://i.redd.it/oqnovgpaxdv51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the 'always love reading' mentioned by Tim, there is an image. What is the primary color of the first book's spine?",
+        "answer": "Dark purple",
+        "img_url": [
+            "https://i.redd.it/oqnovgpaxdv51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the 'always love reading' mentioned by Tim, there is an image. What author's name is printed at the bottom of each visible book spine?",
+        "answer": "J.K. Rowling",
+        "img_url": [
+            "https://i.redd.it/oqnovgpaxdv51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the collection of books mentioned by Tim, there is an image. How many lit candles are depicted on the bookshelf curtains?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/96/80/20/968020204c99f3f30544384d39fe598b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the collection of books mentioned by Tim, there is an image. How many small buckets are hanging from the rod above the desk?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/96/80/20/968020204c99f3f30544384d39fe598b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the collection of books mentioned by Tim, there is an image. What are the two primary colors of the scarf draped over the chair?",
+        "answer": "Red and yellow",
+        "img_url": [
+            "https://i.pinimg.com/originals/96/80/20/968020204c99f3f30544384d39fe598b.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the favorite fantasy movies mentioned by John, there is an image. How many individual movie cases are displayed in total?",
+        "answer": "18",
+        "img_url": [
+            "https://i.etsystatic.com/49313952/r/il/ce7a6c/5703376183/il_794xN.5703376183_7w8v.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the favorite fantasy movies mentioned by John, there is an image. What is the full title displayed on the large box set in the top left corner?",
+        "answer": "Star Wars The Complete Saga",
+        "img_url": [
+            "https://i.etsystatic.com/49313952/r/il/ce7a6c/5703376183/il_794xN.5703376183_7w8v.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the favorite fantasy movies mentioned by John, there is an image. What is depicted above Darth Vader on the cover of 'Robot Chicken Star Wars III'?",
+        "answer": "A disco ball",
+        "img_url": [
+            "https://i.etsystatic.com/49313952/r/il/ce7a6c/5703376183/il_794xN.5703376183_7w8v.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the Lord of the Rings collection mentioned by John, there is an image. How many distinct Lord of the Rings movie trilogies are visible on the shelf?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/7vtqewbtg1181.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the Lord of the Rings collection mentioned by John, there is an image. What text is vertically written on the spine of the 'Hobbit' trilogy next to the gold 'Lord of the Rings' set?",
+        "answer": "4K Ultra HD",
+        "img_url": [
+            "https://i.redd.it/7vtqewbtg1181.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the Lord of the Rings collection mentioned by John, there is an image. What is the prominent color of the shelf surface directly beneath the movie boxes?",
+        "answer": "Dark brown/black",
+        "img_url": [
+            "https://i.redd.it/7vtqewbtg1181.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the Aragorn's story mentioned by Tim, there is an image. What material is the portrait depicted on?",
+        "answer": "Wood",
+        "img_url": [
+            "https://i.redd.it/mlffg3ze7gr71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the Aragorn's story mentioned by Tim, there is an image. What color is the leaf-shaped brooch on Aragorn's chest?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/mlffg3ze7gr71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the Aragorn's story mentioned by Tim, there is an image. How many sides of the wooden artwork have natural bark visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/mlffg3ze7gr71.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the painting in my room mentioned by John, there is an image. What object is the hooded figure holding?",
+        "answer": "A smoking pipe",
+        "img_url": [
+            "https://i.redd.it/monip6iq5xm51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the painting in my room mentioned by John, there is an image. What distinct architectural feature is in the background?",
+        "answer": "A gridded window",
+        "img_url": [
+            "https://i.redd.it/monip6iq5xm51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Action",
+        "question": "In the painting in my room mentioned by John, there is an image. What is coming out of the pipe?",
+        "answer": "Smoke",
+        "img_url": [
+            "https://i.redd.it/monip6iq5xm51.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the tiny details of another world mentioned by Tim, there is an image. How many sea creatures are depicted in the water?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/or3d42qfg4t91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the tiny details of another world mentioned by Tim, there is an image. What kind of shading pattern is used for 'The Dark Jungle' region?",
+        "answer": "Diagonal lines",
+        "img_url": [
+            "https://i.redd.it/or3d42qfg4t91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the tiny details of another world mentioned by Tim, there is an image. What year is visible in the signature at the bottom left?",
+        "answer": "2022",
+        "img_url": [
+            "https://i.redd.it/or3d42qfg4t91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the traveling mentioned by John, there is an image. How many contrails are visible in the sky?",
+        "answer": "One",
+        "img_url": [
+            "https://i0.wp.com/stlouispatina.com/wp-content/uploads/2022/10/Copyright-St.-Louis-Patina-2771.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the traveling mentioned by John, there is an image. What are the primary colors of the leaves on the trees lining the path on the right?",
+        "answer": "Green and yellow/brown",
+        "img_url": [
+            "https://i0.wp.com/stlouispatina.com/wp-content/uploads/2022/10/Copyright-St.-Louis-Patina-2771.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the traveling mentioned by John, there is an image. What color is the large umbrella structure on the far right?",
+        "answer": "Beige",
+        "img_url": [
+            "https://i0.wp.com/stlouispatina.com/wp-content/uploads/2022/10/Copyright-St.-Louis-Patina-2771.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the view from there mentioned by John, what is the predominant color of the buildings?",
+        "answer": "Light beige/grey",
+        "img_url": [
+            "https://i.redd.it/b9cuf3yfd3s91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the view from there mentioned by John, how many long, rectangular stretches of manicured green lawn are clearly visible in the central area?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/b9cuf3yfd3s91.jpg"
+        ]
+    },
+    {
+        "session_id": "Tim_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the view from there mentioned by John, what color is the dome of the large prominent building on the left?",
+        "answer": "Golden",
+        "img_url": [
+            "https://i.redd.it/b9cuf3yfd3s91.jpg"
+        ]
+    }
+]

@@ -1,0 +1,3728 @@
+[
+    {
+        "session_id": "Audrey_Andrew_session_1",
+        "visual_category": "Attribute",
+        "question": "In the new collars mentioned by Audrey, what color are they?",
+        "answer": "Dark brown",
+        "img_url": [
+            "https://worldanimalfoundation.org/wp-content/uploads/2022/07/adjustable-collar-Review.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_1",
+        "visual_category": "Counting",
+        "question": "In the new collars mentioned by Audrey, how many dogs are wearing them?",
+        "answer": "Two",
+        "img_url": [
+            "https://worldanimalfoundation.org/wp-content/uploads/2022/07/adjustable-collar-Review.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_1",
+        "visual_category": "Attribute",
+        "question": "In the new collars mentioned by Audrey, does the collar on the dog on the right side of the image have studs?",
+        "answer": "Yes, silver studs",
+        "img_url": [
+            "https://worldanimalfoundation.org/wp-content/uploads/2022/07/adjustable-collar-Review.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_1",
+        "visual_category": "Counting",
+        "question": "In the eagles mentioned by Andrew, there is an image. How many birds are flying in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/g9ia8ap7ckmb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_1",
+        "visual_category": "Attribute",
+        "question": "In the eagles mentioned by Andrew, there is an image. What is the dominant color of the larger bird's underside?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/g9ia8ap7ckmb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_1",
+        "visual_category": "Other",
+        "question": "In the eagles mentioned by Andrew, there is an image. Are there visible sun rays in the upper right portion of the image?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/g9ia8ap7ckmb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_5",
+        "visual_category": "Attribute",
+        "question": "In the looking for a doggo to adopt mentioned by Andrew, there is an image. What is the primary color of the dog's fur?",
+        "answer": "Brown",
+        "img_url": [
+            "https://live.staticflickr.com/5006/5244715417_aa4e26e1d3_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_5",
+        "visual_category": "Attribute",
+        "question": "In the looking for a doggo to adopt mentioned by Andrew, there is an image. What color is the liquid in the metal bowl?",
+        "answer": "Greenish",
+        "img_url": [
+            "https://live.staticflickr.com/5006/5244715417_aa4e26e1d3_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_5",
+        "visual_category": "Attribute",
+        "question": "In the looking for a doggo to adopt mentioned by Andrew, there is an image. From the viewer's perspective, how is the dog's left ear positioned?",
+        "answer": "Folded back",
+        "img_url": [
+            "https://live.staticflickr.com/5006/5244715417_aa4e26e1d3_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_5",
+        "visual_category": "Counting",
+        "question": "In the road trip mentioned by Audrey, there is an image. How many dogs are clearly visible running through the grass?",
+        "answer": "Four",
+        "img_url": [
+            "https://images.pexels.com/photos/12874286/pexels-photo-12874286.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_5",
+        "visual_category": "Attribute",
+        "question": "In the road trip mentioned by Audrey, there is an image. What color are the small flowers scattered in the green grass?",
+        "answer": "White",
+        "img_url": [
+            "https://images.pexels.com/photos/12874286/pexels-photo-12874286.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_5",
+        "visual_category": "Attribute",
+        "question": "In the road trip mentioned by Audrey, there is an image. What color is the tongue of the dog in the foreground?",
+        "answer": "Pink",
+        "img_url": [
+            "https://images.pexels.com/photos/12874286/pexels-photo-12874286.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_6",
+        "visual_category": "Attribute",
+        "question": "In the great hike last weekend mentioned by Andrew, there is an image. Is the sky above the hills cloudy or clear?",
+        "answer": "Clear",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/playful-chihuahua-papillon-dogs-wooden-deck-two-adorable-small-dogs-engaging-friendly-playtime-sunlit-wooden-306286240.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_6",
+        "visual_category": "Counting",
+        "question": "In the great hike last weekend mentioned by Andrew, there is an image. How many cylindrical markers are visible directly beside the foreground dirt path?",
+        "answer": "One",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/playful-chihuahua-papillon-dogs-wooden-deck-two-adorable-small-dogs-engaging-friendly-playtime-sunlit-wooden-306286240.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_6",
+        "visual_category": "Spatial",
+        "question": "In the great hike last weekend mentioned by Andrew, there is an image. Is the paved road visible in the foreground or mid-ground of the landscape?",
+        "answer": "Mid-ground",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/playful-chihuahua-papillon-dogs-wooden-deck-two-adorable-small-dogs-engaging-friendly-playtime-sunlit-wooden-306286240.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_6",
+        "visual_category": "Counting",
+        "question": "In the taking care of my four doggies mentioned by Audrey, there is an image. How many dogs are depicted?",
+        "answer": "Five",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/63568f583d7aee4d0ba645d0/05701b3d-6533-4936-a33d-2bd0902f1a34/11821460_.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_6",
+        "visual_category": "Attribute",
+        "question": "In the workshop about bonding with my pet mentioned by Audrey, there is an image. What color is the collar worn by the dog named 'GEORGIA'?",
+        "answer": "Pink",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/63568f583d7aee4d0ba645d0/05701b3d-6533-4936-a33d-2bd0902f1a34/11821460_.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_6",
+        "visual_category": "Attribute",
+        "question": "In the strengthen my bond with my pets mentioned by Audrey, there is an image. Is the dog named 'APACHE' wearing a chain or a flat collar?",
+        "answer": "Chain collar",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/63568f583d7aee4d0ba645d0/05701b3d-6533-4936-a33d-2bd0902f1a34/11821460_.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the delicious pastries we had at the cafe mentioned by Andrew, there is an image. What color is the nail polish on the person's hand?",
+        "answer": "Red",
+        "img_url": [
+            "https://marianainla.com/wp-content/uploads/2021/12/unnamed-20.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Counting",
+        "question": "In the delicious pastries we had at the cafe mentioned by Andrew, there is an image. How many individual brownie pieces are clearly visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://marianainla.com/wp-content/uploads/2021/12/unnamed-20.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the delicious pastries we had at the cafe mentioned by Andrew, there is an image. What color is the logo on the stack of paper cups?",
+        "answer": "Green",
+        "img_url": [
+            "https://marianainla.com/wp-content/uploads/2021/12/unnamed-20.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Counting",
+        "question": "In the favorite treats mentioned by Audrey, there is an image. How many baked goods are fully visible in the muffin tin?",
+        "answer": "Nine",
+        "img_url": [
+            "https://allisoncooksgoodeats.files.wordpress.com/2017/09/img_4467.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the treats Audrey made last week, there is an image. What color are the berries visible on top of the baked goods?",
+        "answer": "Dark blue/purple",
+        "img_url": [
+            "https://allisoncooksgoodeats.files.wordpress.com/2017/09/img_4467.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the favorite treats mentioned by Audrey, there is an image. Is there any white powder visible on the surface of the baked goods?",
+        "answer": "Yes, powdered sugar",
+        "img_url": [
+            "https://allisoncooksgoodeats.files.wordpress.com/2017/09/img_4467.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Counting",
+        "question": "In the seeing them all together mentioned by Audrey, how many dogs are running on the grass?",
+        "answer": "Four",
+        "img_url": [
+            "https://live.staticflickr.com/3674/10799791393_b3a685158c_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the having fun mentioned by Audrey, what item is the black and white dog carrying in its mouth?",
+        "answer": "A tennis ball",
+        "img_url": [
+            "https://live.staticflickr.com/3674/10799791393_b3a685158c_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the seeing them all together mentioned by Audrey, what color is the collar worn by the lighter dog on the far right?",
+        "answer": "Purple",
+        "img_url": [
+            "https://live.staticflickr.com/3674/10799791393_b3a685158c_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the tattoos on my arm mentioned by Audrey, there is an image. What kind of animal is depicted in the tattoo?",
+        "answer": "A dog",
+        "img_url": [
+            "https://i.pinimg.com/originals/8d/e3/10/8de3100a3dd42a38237c9090965cfdfe.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Attribute",
+        "question": "In the tattoos on my arm mentioned by Audrey, there is an image. What colors are used for the tattoo ink?",
+        "answer": "Black and grey",
+        "img_url": [
+            "https://i.pinimg.com/originals/8d/e3/10/8de3100a3dd42a38237c9090965cfdfe.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_3",
+        "visual_category": "Counting",
+        "question": "In the tattoos on my arm mentioned by Audrey, there is an image. How many distinct sunflowers are visible within the tattoo design?",
+        "answer": "One",
+        "img_url": [
+            "https://i.pinimg.com/originals/8d/e3/10/8de3100a3dd42a38237c9090965cfdfe.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_7",
+        "visual_category": "Attribute",
+        "question": "In the hiking trip mentioned by Andrew, there is an image. What are the dominant colors of the clouds in the sky?",
+        "answer": "Orange and red",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/two-dogs-running-grass-sunset_871710-9816.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_7",
+        "visual_category": "Counting",
+        "question": "In the hiking trip mentioned by Andrew, there is an image. How many distinct mountain ranges can be visually identified fading into the distance?",
+        "answer": "At least five",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/two-dogs-running-grass-sunset_871710-9816.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_7",
+        "visual_category": "Spatial",
+        "question": "In the hiking trip mentioned by Andrew, there is an image. Is the sun completely visible or partially obscured by a mountain peak?",
+        "answer": "Partially obscured",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/two-dogs-running-grass-sunset_871710-9816.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_7",
+        "visual_category": "Counting",
+        "question": "In the photo mentioned by Audrey, there is an image. How many horses are present in the field?",
+        "answer": "Two",
+        "img_url": [
+            "https://static1.thetravelimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_2487356541.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_7",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Audrey, there is an image. What color is the standing horse?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://static1.thetravelimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_2487356541.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_7",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Audrey, there is an image. What material is the fence post in the foreground made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://static1.thetravelimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_2487356541.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Attribute",
+        "question": "In the rock climbing mentioned by Andrew, there is an image. What color are the pants the climber is wearing?",
+        "answer": "Olive green",
+        "img_url": [
+            "https://guidedexposure.com/cdn/shop/products/78C8EB23-89A8-4AA8-8272-3E8BD74431B9_1_201_a_78f10e20-92a5-44dc-898f-273181fa8b08_1500x.jpg?v=1662313323"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Counting",
+        "question": "In the rock climbing mentioned by Andrew, there is an image. How many pieces of climbing hardware are visible along the rope path on the rock face?",
+        "answer": "Six",
+        "img_url": [
+            "https://guidedexposure.com/cdn/shop/products/78C8EB23-89A8-4AA8-8272-3E8BD74431B9_1_201_a_78f10e20-92a5-44dc-898f-273181fa8b08_1500x.jpg?v=1662313323"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Action",
+        "question": "In the rock climbing mentioned by Andrew, there is an image. Is the climber looking up towards the top of the rock or down?",
+        "answer": "Up",
+        "img_url": [
+            "https://guidedexposure.com/cdn/shop/products/78C8EB23-89A8-4AA8-8272-3E8BD74431B9_1_201_a_78f10e20-92a5-44dc-898f-273181fa8b08_1500x.jpg?v=1662313323"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Counting",
+        "question": "In the walk in the park mentioned by Audrey, there is an image. How many red balls are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Attribute",
+        "question": "In the walk in the park mentioned by Audrey, there is an image. What is the primary color of the smaller dog's fur?",
+        "answer": "Brown and white",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Action",
+        "question": "In the walk in the park mentioned by Audrey, there is an image. What action are the dogs performing?",
+        "answer": "Running",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Counting",
+        "question": "In the meadow mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/6jbz5p9fxy051.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Attribute",
+        "question": "In the meadow mentioned by Audrey, there is an image. What color is the collar of the dog on the right?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/6jbz5p9fxy051.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_8",
+        "visual_category": "Spatial",
+        "question": "In the meadow mentioned by Audrey, there is an image. What is the ground material of the path behind the dogs?",
+        "answer": "Dirt",
+        "img_url": [
+            "https://i.redd.it/6jbz5p9fxy051.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the surprise mentioned by Audrey, there is an image. What color are the puppy's ears?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://moderndogmagazine.com/sites/default/files/images/photoentries/photos/pixie%20smiling.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the puppy called Pixie mentioned by Audrey, there is an image. What color is the puppy's tongue?",
+        "answer": "Pink",
+        "img_url": [
+            "https://moderndogmagazine.com/sites/default/files/images/photoentries/photos/pixie%20smiling.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the surprise mentioned by Audrey, there is an image. What is the texture of the carpet the puppy is sitting on?",
+        "answer": "Speckled",
+        "img_url": [
+            "https://moderndogmagazine.com/sites/default/files/images/photoentries/photos/pixie%20smiling.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Counting",
+        "question": "In the playing and exploring the house mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4NzIxNzk3LWltYWdlLWt3dnYzenBkLmpwZw.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the playing and exploring the house mentioned by Audrey, there is an image. What is the primary fur color of the dog standing on its hind legs?",
+        "answer": "Black and brindle",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4NzIxNzk3LWltYWdlLWt3dnYzenBkLmpwZw.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the playing and exploring the house mentioned by Audrey, there is an image. What color is the collar on the dog facing away on the right?",
+        "answer": "Blue/purple",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4NzIxNzk3LWltYWdlLWt3dnYzenBkLmpwZw.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the dogs being together mentioned by Audrey, there is an image. What color is the dog on the left?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://i2.pickpik.com/photos/398/166/341/dogs-garden-enjoy-weather-animals-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Action",
+        "question": "In the dogs being together mentioned by Audrey, there is an image. What is the black and white dog doing with its tongue?",
+        "answer": "Sticking it out",
+        "img_url": [
+            "https://i2.pickpik.com/photos/398/166/341/dogs-garden-enjoy-weather-animals-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Spatial",
+        "question": "In the dogs being together mentioned by Audrey, there is an image. What structure is behind the dogs?",
+        "answer": "A wooden fence",
+        "img_url": [
+            "https://i2.pickpik.com/photos/398/166/341/dogs-garden-enjoy-weather-animals-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "OCR/Text",
+        "question": "In the websites that helped us find a place that allowed dogs mentioned by Audrey, there is an image. What is the name visible in the main logo of the website?",
+        "answer": "SPCA International",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/domestic-dog-cozy-contemporary-apartment-living-room-interior-vintage-style-315822323.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the websites that helped us find a place that allowed dogs mentioned by Audrey, there is an image. What color is the dog's collar?",
+        "answer": "Black with silver",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/domestic-dog-cozy-contemporary-apartment-living-room-interior-vintage-style-315822323.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Counting",
+        "question": "In the websites that helped us find a place that allowed dogs mentioned by Audrey, there is an image. How many distinct sections are listed under 'PET CARE' in the left navigation menu?",
+        "answer": "Three",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/domestic-dog-cozy-contemporary-apartment-living-room-interior-vintage-style-315822323.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the photo of his family's dog on a couch mentioned by Andrew, there is an image. What is the primary color of the bandana around the dog's neck?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://i.redd.it/gnwdz3ysqra71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the photo of his family's dog on a couch mentioned by Andrew, there is an image. What material is the dog's couch primarily made of?",
+        "answer": "Velvet",
+        "img_url": [
+            "https://i.redd.it/gnwdz3ysqra71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Counting",
+        "question": "In the photo of his family's dog on a couch mentioned by Andrew, there is an image. How many visible legs does the dog's couch have?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/gnwdz3ysqra71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the lazy couch time mentioned by Audrey, there is an image. What colors are the stripes on the pillow next to the dog?",
+        "answer": "Green and white",
+        "img_url": [
+            "https://images.pexels.com/photos/18690079/pexels-photo-18690079/free-photo-of-white-terrier-lying-on-a-sofa.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Counting",
+        "question": "In the lazy couch time mentioned by Audrey, there is an image. How many pink bows are visible in the dog's hair?",
+        "answer": "One",
+        "img_url": [
+            "https://images.pexels.com/photos/18690079/pexels-photo-18690079/free-photo-of-white-terrier-lying-on-a-sofa.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the lazy couch time mentioned by Audrey, there is an image. What material is the wall behind the couch made of?",
+        "answer": "Brick",
+        "img_url": [
+            "https://images.pexels.com/photos/18690079/pexels-photo-18690079/free-photo-of-white-terrier-lying-on-a-sofa.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Andrew, there is an image. What color is the person's jacket?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Andrew, there is an image. What color is the item the person is holding in their hand?",
+        "answer": "Bright yellow-green",
+        "img_url": [
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Counting",
+        "question": "In the pic mentioned by Andrew, there is an image. On how many sides of the dirt path are ferns visibly growing?",
+        "answer": "Two sides",
+        "img_url": [
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Attribute",
+        "question": "In the hiking activity mentioned by Andrew, there is an image. What color are the man's sunglasses?",
+        "answer": "Orange/amber",
+        "img_url": [
+            "https://images.pexels.com/photos/4430321/pexels-photo-4430321.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Spatial",
+        "question": "In the hiking activity mentioned by Andrew, there is an image. What is the dog standing on?",
+        "answer": "A large rock",
+        "img_url": [
+            "https://images.pexels.com/photos/4430321/pexels-photo-4430321.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_2",
+        "visual_category": "Counting",
+        "question": "In the hiking activity mentioned by Andrew, there is an image. How many buttons are visible on the man's sleeve?",
+        "answer": "One",
+        "img_url": [
+            "https://images.pexels.com/photos/4430321/pexels-photo-4430321.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the amazing experience with a hummingbird mentioned by Audrey, there is an image. What color is the patch of feathers on the hummingbird's throat?",
+        "answer": "Red",
+        "img_url": [
+            "https://images.pexels.com/photos/7875455/pexels-photo-7875455.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Counting",
+        "question": "In the amazing experience with a hummingbird mentioned by Audrey, there is an image. How many feet are visibly gripping the branch?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.pexels.com/photos/7875455/pexels-photo-7875455.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the amazing experience with a hummingbird mentioned by Audrey, there is an image. What is the visual appearance of the hummingbird's wings, indicating motion?",
+        "answer": "Blurred",
+        "img_url": [
+            "https://images.pexels.com/photos/7875455/pexels-photo-7875455.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Counting",
+        "question": "In the new open space to hike mentioned by Andrew, there is an image. How many distinct mountain peaks are visible in the distance?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/okd8n7nb0hc71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the new open space to hike mentioned by Andrew, there is an image. What color is the sky closest to the horizon?",
+        "answer": "Orange and yellow",
+        "img_url": [
+            "https://i.redd.it/okd8n7nb0hc71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the new open space to hike mentioned by Andrew, there is an image. What is the apparent condition of the water's surface?",
+        "answer": "Calm and smooth",
+        "img_url": [
+            "https://i.redd.it/okd8n7nb0hc71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the mountain mentioned by Andrew, there is an image. What colors are visible in the sky at the horizon?",
+        "answer": "Yellow and orange",
+        "img_url": [
+            "https://i.redd.it/u51y7czkhfrb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the mountain mentioned by Andrew, there is an image. Are there any patches of snow visible on the prominent peaks?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/u51y7czkhfrb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Counting",
+        "question": "In the mountain mentioned by Andrew, there is an image. How many distinct mountain peaks in the mid-ground have visible snow patches?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/u51y7czkhfrb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Counting",
+        "question": "In the spending time with her pets mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://i2.pickpik.com/photos/852/467/713/four-dogs-pack-papillon-hybrids-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the spending time with her pets mentioned by Audrey, there is an image. What color is the collar of the second dog from the left?",
+        "answer": "Dark green, patterned",
+        "img_url": [
+            "https://i2.pickpik.com/photos/852/467/713/four-dogs-pack-papillon-hybrids-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the spending time with her pets mentioned by Audrey, there is an image. What type of accessory is the leftmost dog wearing?",
+        "answer": "A harness",
+        "img_url": [
+            "https://i2.pickpik.com/photos/852/467/713/four-dogs-pack-papillon-hybrids-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Counting",
+        "question": "In the hikes mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://d3ekkvinch1ig5.cloudfront.net/rating/1665802443-8244image1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the dogs having so much fun mentioned by Audrey, there is an image. What color is the harness on the small white dog?",
+        "answer": "Pink and purple",
+        "img_url": [
+            "https://d3ekkvinch1ig5.cloudfront.net/rating/1665802443-8244image1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the dogs exploring new scents mentioned by Audrey, there is an image. Is the large dog in the foreground wearing a collar or a harness?",
+        "answer": "Harness",
+        "img_url": [
+            "https://d3ekkvinch1ig5.cloudfront.net/rating/1665802443-8244image1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the something special mentioned by Audrey, there is an image. What main colors are on the dog's shoes?",
+        "answer": "Yellow, grey, and teal",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/21929851-1c63-40ee-b7bd-d977fdb693be_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the something special mentioned by Audrey, there is an image. What color is the dog's leash and harness?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/21929851-1c63-40ee-b7bd-d977fdb693be_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the something special mentioned by Audrey, there is an image. Are there any ferns visible in the background behind the dog?",
+        "answer": "Yes",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/21929851-1c63-40ee-b7bd-d977fdb693be_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the playing fetch mentioned by Audrey, there is an image. What color is the frisbee the dog is catching?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://images.pexels.com/photos/6527909/pexels-photo-6527909.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the doggie playdate mentioned by Audrey, there is an image. What color is the dog's collar?",
+        "answer": "Brown",
+        "img_url": [
+            "https://images.pexels.com/photos/6527909/pexels-photo-6527909.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Action",
+        "question": "In the play fetch mentioned by Audrey, there is an image. Is the dog in the air or on the ground?",
+        "answer": "In the air",
+        "img_url": [
+            "https://images.pexels.com/photos/6527909/pexels-photo-6527909.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the objects Audrey brings out, there is an image. What are the two primary colors of the dog's fur?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://i.redd.it/1a14cd4hzcd91.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the objects Audrey brings out, there is an image. What two patterns are visible on the dog's party hat?",
+        "answer": "Stripes and polka dots",
+        "img_url": [
+            "https://i.redd.it/1a14cd4hzcd91.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Counting",
+        "question": "In the objects Audrey brings out, there is an image. How many of the dog's legs are visible on the bed?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/1a14cd4hzcd91.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the dog park mentioned by Audrey, there is an image. What is written on the dog's bandana?",
+        "answer": "DOGWOOD",
+        "img_url": [
+            "https://live.staticflickr.com/2913/14439335660_d4ffd00bbc_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the dog park mentioned by Audrey, there is an image. What is the full name of the dog park as shown on the large bone structure?",
+        "answer": "Newtown Dream Dog Park",
+        "img_url": [
+            "https://live.staticflickr.com/2913/14439335660_d4ffd00bbc_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_4",
+        "visual_category": "Attribute",
+        "question": "In the dog park mentioned by Audrey, there is an image. What pattern is visible on the red section of the agility hoop?",
+        "answer": "Yellow paw prints",
+        "img_url": [
+            "https://live.staticflickr.com/2913/14439335660_d4ffd00bbc_z.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Counting",
+        "question": "In the new place with a bigger backyard mentioned by Audrey, there is an image. How many dogs are visible in the backyard?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/181/410666106_cfe35c1c83_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Attribute",
+        "question": "In the new place with a bigger backyard mentioned by Audrey, there is an image. What color is the collar worn by the grey speckled dog?",
+        "answer": "Purple",
+        "img_url": [
+            "https://live.staticflickr.com/181/410666106_cfe35c1c83_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Attribute",
+        "question": "In the new place with a bigger backyard mentioned by Audrey, there is an image. What is the predominant color of the grass in the backyard?",
+        "answer": "Brown and yellow",
+        "img_url": [
+            "https://live.staticflickr.com/181/410666106_cfe35c1c83_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Attribute",
+        "question": "In the park in my neighborhood mentioned by Andrew, there is an image. What color are the plants in the prominent, roughly diamond-shaped section of foliage within the flower bed?",
+        "answer": "Light green",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2015/06/09/flowers-bloom-in-a-garden-near-the-memorial-amphitheater-1acba1-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Counting",
+        "question": "In the park in my neighborhood mentioned by Andrew, there is an image. How many individuals in the walking group are visibly carrying backpacks?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2015/06/09/flowers-bloom-in-a-garden-near-the-memorial-amphitheater-1acba1-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Spatial",
+        "question": "In the park in my neighborhood mentioned by Andrew, there is an image. Is the tall white monument structure in the background situated to the left or right of the large, dark green tree?",
+        "answer": "Right",
+        "img_url": [
+            "https://cdn2.picryl.com/photo/2015/06/09/flowers-bloom-in-a-garden-near-the-memorial-amphitheater-1acba1-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Attribute",
+        "question": "In the experience of nature mentioned by Audrey, there is an image. What color are the hiking boots worn by the person?",
+        "answer": "Brown and orange",
+        "img_url": [
+            "https://i.redd.it/39248kn2icc51.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Attribute",
+        "question": "In the experience of nature mentioned by Audrey, there is an image. What color are the socks visible above the boots?",
+        "answer": "Gray",
+        "img_url": [
+            "https://i.redd.it/39248kn2icc51.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Counting",
+        "question": "In the experience of nature mentioned by Audrey, there is an image. How many distinct white clouds are visible in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/39248kn2icc51.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Counting",
+        "question": "In the hike mentioned by Audrey, there is an image. How many lakes are visible in the mountainous landscape?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2ZsMjkzMjI0OTkzMjItaW1hZ2Uta294dXBzNzEuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Attribute",
+        "question": "In the hike mentioned by Audrey, there is an image. What color are the hiking boots in the foreground?",
+        "answer": "Brown",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2ZsMjkzMjI0OTkzMjItaW1hZ2Uta294dXBzNzEuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_9",
+        "visual_category": "Spatial",
+        "question": "In the hike mentioned by Audrey, there is an image. Where is the smaller lake positioned relative to the large lake?",
+        "answer": "Further back and higher up",
+        "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2ZsMjkzMjI0OTkzMjItaW1hZ2Uta294dXBzNzEuanBn.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_12",
+        "visual_category": "Attribute",
+        "question": "In the meeting Toby, Andrew's puppy, mentioned by Andrew, there is an image. What color is the large marking over one of Toby's eyes?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.redd.it/x7jn4meogw441.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_12",
+        "visual_category": "Attribute",
+        "question": "In the meeting Toby, Andrew's puppy, mentioned by Andrew, there is an image. What color is Toby's collar?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/x7jn4meogw441.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the meeting Toby, Andrew's puppy, mentioned by Andrew, there is an image. What words are printed on the mat in the background?",
+        "answer": "SIT STAY?",
+        "img_url": [
+            "https://i.redd.it/x7jn4meogw441.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_13",
+        "visual_category": "Attribute",
+        "question": "In the photo of you with your dog mentioned by Andrew, what color is the dog's collar?",
+        "answer": "Pink",
+        "img_url": [
+            "https://i.redd.it/7dbys2s547b91.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_13",
+        "visual_category": "Attribute",
+        "question": "In the photo of you with your dog mentioned by Andrew, what color is the ball in the foreground?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://i.redd.it/7dbys2s547b91.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_13",
+        "visual_category": "Spatial",
+        "question": "In the photo of you with your dog mentioned by Andrew, what type of object is placed on the small table in the background?",
+        "answer": "A lamp",
+        "img_url": [
+            "https://i.redd.it/7dbys2s547b91.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Counting",
+        "question": "In the when they're out mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the when they're out mentioned by Audrey, there is an image. What color is the object the larger dog is carrying?",
+        "answer": "Red",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the when they're out mentioned by Audrey, there is an image. What kind of ground are the dogs running on?",
+        "answer": "Grass",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the mutts mentioned by Audrey, there is an image. What color is the collar worn by the dog at the top of the bed?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/luf05slnybn71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Counting",
+        "question": "In the mutts mentioned by Audrey, there is an image. How many different toys are visible in or around the dog bed?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/luf05slnybn71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the mutts mentioned by Audrey, there is an image. What is the dominant color of the patterned rug next to the dog bed?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/luf05slnybn71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the doggy playdate mentioned by Audrey, there is an image. What colors are visible in the crocheted blanket next to the dogs?",
+        "answer": "Purple, green, white, yellow",
+        "img_url": [
+            "https://media.istockphoto.com/id/1488641620/photo/dog-playdate.jpg?s=612x612&w=0&k=20&c=kLRtZG670eNM_CJBuHEhSohg8uFQe4yUyVFq_jxLO5c="
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Action",
+        "question": "In the doggy playdate mentioned by Audrey, there is an image. Which direction is the smaller dog looking?",
+        "answer": "Towards the camera",
+        "img_url": [
+            "https://media.istockphoto.com/id/1488641620/photo/dog-playdate.jpg?s=612x612&w=0&k=20&c=kLRtZG670eNM_CJBuHEhSohg8uFQe4yUyVFq_jxLO5c="
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the doggy playdate mentioned by Audrey, there is an image. What are the two main colors of the larger dog's fur?",
+        "answer": "Brown and white",
+        "img_url": [
+            "https://media.istockphoto.com/id/1488641620/photo/dog-playdate.jpg?s=612x612&w=0&k=20&c=kLRtZG670eNM_CJBuHEhSohg8uFQe4yUyVFq_jxLO5c="
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the Chicken Pot Pie recipe mentioned by Audrey, there is an image. What material is the pie resting on?",
+        "answer": "Wooden board",
+        "img_url": [
+            "https://hometohomestead.files.wordpress.com/2022/10/img_5122.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Counting",
+        "question": "In the Chicken Pot Pie recipe mentioned by Audrey, there is an image. How many ventilation slits are visible on the top crust of the pie?",
+        "answer": "Three",
+        "img_url": [
+            "https://hometohomestead.files.wordpress.com/2022/10/img_5122.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the Chicken Pot Pie recipe mentioned by Audrey, there is an image. What color is the dish holding the pie?",
+        "answer": "White",
+        "img_url": [
+            "https://hometohomestead.files.wordpress.com/2022/10/img_5122.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Counting",
+        "question": "In the \"this dish\" mentioned by Audrey, there is an image. How many whole radishes are placed around the main ingredients?",
+        "answer": "3",
+        "img_url": [
+            "https://i.redd.it/hs8imjohtw631.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the \"this dish\" mentioned by Audrey, there is an image. What colors are featured in the painted design on the plate?",
+        "answer": "Blue and tan/orange",
+        "img_url": [
+            "https://i.redd.it/hs8imjohtw631.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the \"this dish\" mentioned by Audrey, there is an image. Are the lemon pieces on the plate whole wedges or thin slices?",
+        "answer": "Thin slices",
+        "img_url": [
+            "https://i.redd.it/hs8imjohtw631.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Counting",
+        "question": "In the Roasted Chicken mentioned by Audrey, there is an image. How many distinct pieces of chicken are visible in the pan?",
+        "answer": "Three",
+        "img_url": [
+            "https://live.staticflickr.com/6105/6360569135_ed356c13e2_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the Roasted Chicken mentioned by Audrey, there is an image. What color is the exterior rim of the cooking pan?",
+        "answer": "Orange-red",
+        "img_url": [
+            "https://live.staticflickr.com/6105/6360569135_ed356c13e2_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_10",
+        "visual_category": "Attribute",
+        "question": "In the Roasted Chicken mentioned by Audrey, there is an image. Are there whole garlic cloves cooked with the dish?",
+        "answer": "Yes",
+        "img_url": [
+            "https://live.staticflickr.com/6105/6360569135_ed356c13e2_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Attribute",
+        "question": "In the last hike mentioned by Andrew, there is an image. What shape is the road structure directly surrounding the building on the hilltop?",
+        "answer": "Circular",
+        "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_480,h_480,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_480,h_480,c_fill/v1571420634/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Attribute",
+        "question": "In the last hike mentioned by Andrew, there is an image. What is the dominant color of the sky above the distant mountains?",
+        "answer": "Golden yellow",
+        "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_480,h_480,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_480,h_480,c_fill/v1571420634/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Counting",
+        "question": "In the last hike mentioned by Andrew, there is an image. How many boats are visible on the body of water?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_480,h_480,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_480,h_480,c_fill/v1571420634/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Attribute",
+        "question": "In the photo after their grooming mentioned by Audrey, there is an image. What color is the dog's tongue?",
+        "answer": "Pink",
+        "img_url": [
+            "http://canadiangroomingdistributor.com/cdn/shop/articles/PXL_20220614_014152490.PORTRAIT.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Attribute",
+        "question": "In the photo after their grooming mentioned by Audrey, there is an image. What design is visible on the screen in the background?",
+        "answer": "Bamboo",
+        "img_url": [
+            "http://canadiangroomingdistributor.com/cdn/shop/articles/PXL_20220614_014152490.PORTRAIT.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Attribute",
+        "question": "In the photo after their grooming mentioned by Audrey, there is an image. What color are the dog's eyes?",
+        "answer": "Dark brown/black",
+        "img_url": [
+            "http://canadiangroomingdistributor.com/cdn/shop/articles/PXL_20220614_014152490.PORTRAIT.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Counting",
+        "question": "In the dogs mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Attribute",
+        "question": "In the dogs mentioned by Audrey, there is an image. What color is the object in the larger dog's mouth?",
+        "answer": "Red",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_16",
+        "visual_category": "Spatial",
+        "question": "In the dogs mentioned by Audrey, there is an image. Are the dogs running on grass or pavement?",
+        "answer": "Grass",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Counting",
+        "question": "In the trip to the lake with my friend mentioned by Audrey, there is an image. How many dogs are standing on the rocks closest to the water?",
+        "answer": "Four",
+        "img_url": [
+            "http://tahoemountainsports.com/cdn/shop/articles/IMG_8472.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Action",
+        "question": "In the trip to the lake with my friend mentioned by Audrey, there is an image. What activity is the person doing further out on the lake?",
+        "answer": "Paddleboarding",
+        "img_url": [
+            "http://tahoemountainsports.com/cdn/shop/articles/IMG_8472.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Attribute",
+        "question": "In the trip to the lake with my friend mentioned by Audrey, there is an image. What is the predominant fur color of the dog furthest to the left on the rocks?",
+        "answer": "Light tan/cream",
+        "img_url": [
+            "http://tahoemountainsports.com/cdn/shop/articles/IMG_8472.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Attribute",
+        "question": "In the mention of Toby by Andrew, there is an image. What is the main color of the dog's fur?",
+        "answer": "Light brown/tan",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/189ab0128c572238758dd096675a54be.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Attribute",
+        "question": "In the mention of Toby by Andrew, there is an image. What is the shape of the dog bed?",
+        "answer": "Round/oval",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/189ab0128c572238758dd096675a54be.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Action",
+        "question": "In the mention of Toby by Andrew, there is an image. What action is Toby performing?",
+        "answer": "Sleeping",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/189ab0128c572238758dd096675a54be.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Attribute",
+        "question": "In the pic of Toby mentioned by Andrew, there is an image. What color is the harness Toby is wearing?",
+        "answer": "Red",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/4926302d-1bff-49d5-999a-4611342b1891/74399bb7-e65b-4105-81cd-ffd5ac2acf5b_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Counting",
+        "question": "In the pic of Toby mentioned by Andrew, there is an image. How many distinct black patches are visible on Toby's head and ears?",
+        "answer": "Three",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/4926302d-1bff-49d5-999a-4611342b1891/74399bb7-e65b-4105-81cd-ffd5ac2acf5b_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_17",
+        "visual_category": "Attribute",
+        "question": "In the pic of Toby mentioned by Andrew, there is an image. What is the color of the wall or door directly behind Toby?",
+        "answer": "Off-white",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/4926302d-1bff-49d5-999a-4611342b1891/74399bb7-e65b-4105-81cd-ffd5ac2acf5b_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Counting",
+        "question": "In the playdate mentioned by Audrey, there is an image. How many dogs are present in the backyard?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/1go6sson1bk41.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Attribute",
+        "question": "In the playdate mentioned by Audrey, there is an image. What color is the flattened pool in the foreground?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/1go6sson1bk41.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Spatial",
+        "question": "In the playdate mentioned by Audrey, there is an image. Is there a small ball visible near the wooden fence?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/1go6sson1bk41.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Action",
+        "question": "In the pic of them mentioned by Audrey, there is an image. What action is the dog performing?",
+        "answer": "Yawning",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/66f095b1a84b18ac04f6e85fe293a41a.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Attribute",
+        "question": "In the pic of them mentioned by Audrey, there is an image. What color is the blanket draped over the dog?",
+        "answer": "Light pink",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/66f095b1a84b18ac04f6e85fe293a41a.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Attribute",
+        "question": "In the pic of them mentioned by Audrey, there is an image. What pattern is on the wooden floor?",
+        "answer": "Herringbone",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/66f095b1a84b18ac04f6e85fe293a41a.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Attribute",
+        "question": "In the beautiful sunset mentioned by Andrew, there is an image. What are the dominant colors of the sky?",
+        "answer": "Orange, yellow, and blue",
+        "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/sunset-sky_VEEQZUDEO9.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Counting",
+        "question": "In the beautiful sunset mentioned by Andrew, there is an image. How many contrails are visible in the sky?",
+        "answer": "One",
+        "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/sunset-sky_VEEQZUDEO9.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_18",
+        "visual_category": "Spatial",
+        "question": "In the beautiful sunset mentioned by Andrew, there is an image. Is there a settlement or city visible in the distant valley?",
+        "answer": "Yes",
+        "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/sunset-sky_VEEQZUDEO9.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the another tattoo of my four dogs on my arm mentioned by Audrey, there is an image. What color is the primary tattoo design on the hand?",
+        "answer": "Black and gray",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/four-adorable-dogs-different-breeds-relaxing-yoga-mats-inside-home-four-dogs-different-breeds-lie-yoga-mats-378066276.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the another tattoo of my four dogs on my arm mentioned by Audrey, there is an image. What pattern is visible on the white papers in the background?",
+        "answer": "Floral",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/four-adorable-dogs-different-breeds-relaxing-yoga-mats-inside-home-four-dogs-different-breeds-lie-yoga-mats-378066276.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the another tattoo of my four dogs on my arm mentioned by Audrey, there is an image. What color is the flower tattooed on the upper part of the arm?",
+        "answer": "Red",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/four-adorable-dogs-different-breeds-relaxing-yoga-mats-inside-home-four-dogs-different-breeds-lie-yoga-mats-378066276.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the four dogs mentioned by Audrey, there is an image. What color is the dog drinking from the yellow disc?",
+        "answer": "Brindle",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/two-adorable-mixed-breed-dogs-relaxing-together-couch-333611595.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the four dogs mentioned by Audrey, there is an image. What color is the hat worn by the baby in the stroller?",
+        "answer": "Black",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/two-adorable-mixed-breed-dogs-relaxing-together-couch-333611595.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the four dogs mentioned by Audrey, there is an image. What color is the collar on the black dog in the foreground?",
+        "answer": "Silver",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/two-adorable-mixed-breed-dogs-relaxing-together-couch-333611595.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the favorite spot mentioned by Andrew, there is an image. What is the texture of the blanket Toby is lying on?",
+        "answer": "Shaggy and fluffy",
+        "img_url": [
+            "https://lucky-paws.co/cdn/shop/products/image_b74722d8-a1e0-4dcc-81a8-faa99fed31cb_1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the favorite spot mentioned by Andrew, there is an image. What color is Toby's collar?",
+        "answer": "Blue",
+        "img_url": [
+            "https://lucky-paws.co/cdn/shop/products/image_b74722d8-a1e0-4dcc-81a8-faa99fed31cb_1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Spatial",
+        "question": "In the favorite spot mentioned by Andrew, there is an image. What type of flooring is visible beneath the blanket?",
+        "answer": "Carpet",
+        "img_url": [
+            "https://lucky-paws.co/cdn/shop/products/image_b74722d8-a1e0-4dcc-81a8-faa99fed31cb_1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Counting",
+        "question": "In the pic of them snuggling on my favorite blanket mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://freerangestock.com/sample/87785/puppy-love.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the pic of them snuggling on my favorite blanket mentioned by Audrey, there is an image. What is the pattern on the blanket?",
+        "answer": "Black and white striped",
+        "img_url": [
+            "https://freerangestock.com/sample/87785/puppy-love.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the pic of them snuggling on my favorite blanket mentioned by Audrey, there is an image. What brand logo is visible in the background?",
+        "answer": "Apple",
+        "img_url": [
+            "https://freerangestock.com/sample/87785/puppy-love.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the such joy mentioned by Andrew, there is an image. What pattern is visible on the upholstery of the furniture they are on?",
+        "answer": "Diamond/waffle pattern",
+        "img_url": [
+            "https://i.redd.it/5kklgil5t9qb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Action",
+        "question": "In the such joy mentioned by Andrew, there is an image. Are the dog's eyes open or closed?",
+        "answer": "Closed",
+        "img_url": [
+            "https://i.redd.it/5kklgil5t9qb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the life without them mentioned by Andrew, there is an image. What is hanging on the wall in the blurred background?",
+        "answer": "A cross",
+        "img_url": [
+            "https://i.redd.it/5kklgil5t9qb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Counting",
+        "question": "In the photo of me lying on the grass with them mentioned by Audrey, there is an image. How many dogs are pictured with Audrey?",
+        "answer": "Two",
+        "img_url": [
+            "https://i2.pickpik.com/photos/498/107/776/dog-girl-de-dogue-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photo of me lying on the grass with them mentioned by Audrey, there is an image. What color is the collar worn by the dog on the left side of the image?",
+        "answer": "Pink",
+        "img_url": [
+            "https://i2.pickpik.com/photos/498/107/776/dog-girl-de-dogue-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photo of me lying on the grass with them mentioned by Audrey, there is an image. What pattern is visible on Audrey's pants?",
+        "answer": "Camouflage",
+        "img_url": [
+            "https://i2.pickpik.com/photos/498/107/776/dog-girl-de-dogue-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_21",
+        "visual_category": "Attribute",
+        "question": "In the last trip to the beach mentioned by Andrew, there is an image. What color are the low clouds reflecting in the sky?",
+        "answer": "Orange and pink",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_21",
+        "visual_category": "Counting",
+        "question": "In the last trip to the beach mentioned by Andrew, there is an image. How many airplane contrails are visible in the upper sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_21",
+        "visual_category": "Spatial",
+        "question": "In the last trip to the beach mentioned by Andrew, there is an image. Is the sun positioned above or touching the horizon line?",
+        "answer": "Touching the horizon",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the picnic mentioned by Andrew, there is an image. What pattern is visible on the picnic blanket?",
+        "answer": "Herringbone",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/1512/5894/articles/IMG_5426.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the picnic mentioned by Andrew, there is an image. How many green beverage cans are on the blanket?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/1512/5894/articles/IMG_5426.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the picnic mentioned by Andrew, there is an image. What kind of topping is drizzled over the chocolate-covered strawberries?",
+        "answer": "White and dark chocolate",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/1512/5894/articles/IMG_5426.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the dogs really make life more fun mentioned by Andrew, there is an image. What color is the glowing collar on the dog in the foreground?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/yfeccwau4dya1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the dogs really make life more fun mentioned by Andrew, there is an image. What pattern is on the full-body suit worn by one of the dogs?",
+        "answer": "Floral",
+        "img_url": [
+            "https://i.redd.it/yfeccwau4dya1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Action",
+        "question": "In the dogs really make life more fun mentioned by Andrew, there is an image. What object is the dark brown dog with the red collar holding in its mouth?",
+        "answer": "A blue ball",
+        "img_url": [
+            "https://i.redd.it/yfeccwau4dya1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the open area where they can run and play mentioned by Andrew, there is an image. How many dogs are visible in the park area?",
+        "answer": "11",
+        "img_url": [
+            "https://d3ekkvinch1ig5.cloudfront.net/suggestion/1658159281-2959image4.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the open area where they can run and play mentioned by Andrew, there is an image. What color are the shorts worn by the man standing in the middle ground?",
+        "answer": "Purple",
+        "img_url": [
+            "https://d3ekkvinch1ig5.cloudfront.net/suggestion/1658159281-2959image4.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the open area where they can run and play mentioned by Andrew, there is an image. What type of large structure is spanning across the water in the background?",
+        "answer": "Suspension bridge",
+        "img_url": [
+            "https://d3ekkvinch1ig5.cloudfront.net/suggestion/1658159281-2959image4.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "OCR/Text",
+        "question": "In the map for the trail mentioned by Andrew, there is an image. What is the name of the park displayed on the map?",
+        "answer": "Elm Creek Park Reserve",
+        "img_url": [
+            "https://tammynara.files.wordpress.com/2021/01/pxl_20210117_190212518.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the map for the trail mentioned by Andrew, there is an image. How many distinct lakes are named on the main map area?",
+        "answer": "5",
+        "img_url": [
+            "https://tammynara.files.wordpress.com/2021/01/pxl_20210117_190212518.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the map for the trail mentioned by Andrew, there is an image. What is the color of the 'You Are Here' arrow located near the bottom of the map?",
+        "answer": "Red",
+        "img_url": [
+            "https://tammynara.files.wordpress.com/2021/01/pxl_20210117_190212518.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the some cool stuff happening today mentioned by Audrey, there is an image. How many dogs are in the picture?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/o6bszg5mmua71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the some cool stuff happening today mentioned by Audrey, there is an image. What color is the security panel on the gray wall?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/o6bszg5mmua71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "OCR/Text",
+        "question": "In the some cool stuff happening today mentioned by Audrey, there is an image. What word is visible on the blue leash?",
+        "answer": "TRAINING",
+        "img_url": [
+            "https://i.redd.it/o6bszg5mmua71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the joy they bring mentioned by Audrey, there is an image. What color is the object held in the larger dog's mouth?",
+        "answer": "Red",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the joy they bring mentioned by Audrey, there is an image. How many dogs are running on the grass?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Spatial",
+        "question": "In the joy they bring mentioned by Audrey, there is an image. Is the larger dog positioned in front of or behind the smaller dog?",
+        "answer": "In front",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the dogs at our local park mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://i2.pickpik.com/photos/607/821/215/playing-puppies-young-dogs-french-bulldog-cocker-spaniel-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the dogs at our local park mentioned by Audrey, there is an image. What color is the wooden fence in the background?",
+        "answer": "Light grey",
+        "img_url": [
+            "https://i2.pickpik.com/photos/607/821/215/playing-puppies-young-dogs-french-bulldog-cocker-spaniel-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the dogs at our local park mentioned by Audrey, there is an image. What pattern is visible on the standing black dog's fur?",
+        "answer": "Brindle",
+        "img_url": [
+            "https://i2.pickpik.com/photos/607/821/215/playing-puppies-young-dogs-french-bulldog-cocker-spaniel-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the hike last year mentioned by Audrey, there is an image. How many people are visible near the structure on the mountain peak?",
+        "answer": "At least two",
+        "img_url": [
+            "https://i.redd.it/iws2jgn6nld71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the hike last year mentioned by Audrey, there is an image. What colors are visible in the sky's gradient?",
+        "answer": "Blue, yellow, orange",
+        "img_url": [
+            "https://i.redd.it/iws2jgn6nld71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Spatial",
+        "question": "In the hike last year mentioned by Audrey, there is an image. Where is the small structure positioned on the mountain?",
+        "answer": "On the peak",
+        "img_url": [
+            "https://i.redd.it/iws2jgn6nld71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the beautiful moment mentioned by Audrey, there is an image. What type of foliage frames the left side of the scene?",
+        "answer": "Dark evergreen branches",
+        "img_url": [
+            "https://i.redd.it/okd8n7nb0hc71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Attribute",
+        "question": "In the beautiful moment mentioned by Audrey, there is an image. What is covering the surface of the water in the middle ground?",
+        "answer": "Haze or mist",
+        "img_url": [
+            "https://i.redd.it/okd8n7nb0hc71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_11",
+        "visual_category": "Counting",
+        "question": "In the beautiful moment mentioned by Audrey, there is an image. How many prominent, distinct mountain peaks are visible in the far distance, rising above the lake?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/okd8n7nb0hc71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_22",
+        "visual_category": "Counting",
+        "question": "In the pic taken after Audrey started walking again, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_22",
+        "visual_category": "Attribute",
+        "question": "In the pic taken after Audrey started walking again, there is an image. What color is the object in the larger dog's mouth?",
+        "answer": "Red",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_22",
+        "visual_category": "Action",
+        "question": "In the pic taken after Audrey started walking again, there is an image. Are the dogs' paws touching the ground?",
+        "answer": "No",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_22",
+        "visual_category": "Counting",
+        "question": "In the photo of one of my favorite necklaces mentioned by Audrey, how many distinct colors of beads are visible in the main patterned section of the necklace?",
+        "answer": "Four",
+        "img_url": [
+            "https://boboglobal.com/cdn/shop/products/IMG_2161.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_22",
+        "visual_category": "Attribute",
+        "question": "In the photo of one of my favorite necklaces mentioned by Audrey, what type of small components is the necklace primarily made of?",
+        "answer": "Beads",
+        "img_url": [
+            "https://boboglobal.com/cdn/shop/products/IMG_2161.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_22",
+        "visual_category": "Spatial",
+        "question": "In the photo of one of my favorite necklaces mentioned by Audrey, what type of environment is indicated by the background?",
+        "answer": "Outdoors",
+        "img_url": [
+            "https://boboglobal.com/cdn/shop/products/IMG_2161.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the pet store visit mentioned by Audrey, there is an image. What brand name is visible on the largest red toy packaging in the box?",
+        "answer": "KONG",
+        "img_url": [
+            "https://live.staticflickr.com/3923/14627245354_a40ab098c0_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Counting",
+        "question": "In the pet store visit mentioned by Audrey, there is an image. How many yellow tennis balls are visible in the mesh packaging?",
+        "answer": "Three",
+        "img_url": [
+            "https://live.staticflickr.com/3923/14627245354_a40ab098c0_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the pet store visit mentioned by Audrey, there is an image. What material is the floor beneath the box made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://live.staticflickr.com/3923/14627245354_a40ab098c0_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the adoption of another pup mentioned by Andrew, there is an image. What color is the pup's fur?",
+        "answer": "Brown",
+        "img_url": [
+            "https://i.redd.it/tousk84oar171.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Counting",
+        "question": "In the adoption of another pup mentioned by Andrew, there is an image. How many metallic bowls are placed in front of the pup?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/tousk84oar171.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the adoption of another pup mentioned by Andrew, there is an image. What color is the bone-shaped toy?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.redd.it/tousk84oar171.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the exploring the trails mentioned by Audrey, there is an image. What color is the dog's fur?",
+        "answer": "Light brown",
+        "img_url": [
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the exploring the trails mentioned by Audrey, there is an image. What color is the person's puffer jacket?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the exploring the trails mentioned by Audrey, there is an image. What color is the small marker attached to the tree in the background?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the new addition mentioned by Andrew, there is an image. What material is the abstract sculpture on the left side of the path made of?",
+        "answer": "Rusted metal",
+        "img_url": [
+            "https://fundiegofamily.com/wp-content/uploads/2018/05/blueskycover.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the new addition mentioned by Andrew, there is an image. Are there any clouds visible in the clear blue sky?",
+        "answer": "No",
+        "img_url": [
+            "https://fundiegofamily.com/wp-content/uploads/2018/05/blueskycover.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the new addition mentioned by Andrew, there is an image. According to the visible sign, what two things are permitted beyond this point?",
+        "answer": "Bicycles and horses",
+        "img_url": [
+            "https://fundiegofamily.com/wp-content/uploads/2018/05/blueskycover.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the place like this, far from the city mentioned by Andrew, there is an image. Are there any distinct clouds visible in the sky?",
+        "answer": "No",
+        "img_url": [
+            "https://i.redd.it/4lun19fk1g591.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Attribute",
+        "question": "In the place like this, far from the city mentioned by Andrew, there is an image. What color is the roof of the building farthest to the left on the distant hill?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/4lun19fk1g591.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_24",
+        "visual_category": "Counting",
+        "question": "In the place like this, far from the city mentioned by Andrew, there is an image. How many individual fence posts are clearly visible along the dirt road?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/4lun19fk1g591.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the camping mentioned by Andrew, there is an image. What are the primary colors of the tent?",
+        "answer": "Yellow and white",
+        "img_url": [
+            "https://www.nps.gov/hale/planyourvisit/images/Holua-Campground_Tent-Camper-0015_NPS-photo-Katie-Matthew_7140242_2.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "OCR/Text",
+        "question": "In the camping mentioned by Andrew, there is an image. What number is displayed at the top of the brown signpost next to the tent?",
+        "answer": "One",
+        "img_url": [
+            "https://www.nps.gov/hale/planyourvisit/images/Holua-Campground_Tent-Camper-0015_NPS-photo-Katie-Matthew_7140242_2.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the camping mentioned by Andrew, there is an image. What type of rock is prominently visible on the ground around the tent?",
+        "answer": "Volcanic rock",
+        "img_url": [
+            "https://www.nps.gov/hale/planyourvisit/images/Holua-Campground_Tent-Camper-0015_NPS-photo-Katie-Matthew_7140242_2.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the agility classes with my pups at a dog park mentioned by Audrey, there is an image. What color is the dog's collar?",
+        "answer": "Red",
+        "img_url": [
+            "https://www.byoplayground.com/image/product/BP-King-of-the-Hill_Natural-web.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Counting",
+        "question": "In the agility classes with my pups at a dog park mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://www.byoplayground.com/image/product/BP-King-of-the-Hill_Natural-web.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the agility classes with my pups at a dog park mentioned by Audrey, there is an image. What color is the leash attached to the dog's harness?",
+        "answer": "Black",
+        "img_url": [
+            "https://www.byoplayground.com/image/product/BP-King-of-the-Hill_Natural-web.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the overcoming obstacles mentioned by Andrew, there is an image. What color are the dog's eyes?",
+        "answer": "Blue and brown",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/dog-agility-obstacle-course-leaping-fence-79982888.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the overcoming obstacles mentioned by Andrew, there is an image. What colors are on the agility obstacle?",
+        "answer": "Red, white, and blue",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/dog-agility-obstacle-course-leaping-fence-79982888.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the overcoming obstacles mentioned by Andrew, there is an image. What is the pattern of the fence in the background?",
+        "answer": "Diamond lattice",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/dog-agility-obstacle-course-leaping-fence-79982888.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Counting",
+        "question": "In the park mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://images.pexels.com/photos/7210626/pexels-photo-7210626.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the bonding experience mentioned by Audrey, there is an image. What color is the collar worn by the dark brown dog on the far left?",
+        "answer": "Orange",
+        "img_url": [
+            "https://images.pexels.com/photos/7210626/pexels-photo-7210626.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Action",
+        "question": "In the practice mentioned by Audrey, there is an image. What is the smallest dog in the center doing?",
+        "answer": "Lying down",
+        "img_url": [
+            "https://images.pexels.com/photos/7210626/pexels-photo-7210626.jpeg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the trail mentioned by Andrew, there is an image. What covers the majority of the ground surface on the path?",
+        "answer": "Pine needles",
+        "img_url": [
+            "https://i0.hippopx.com/photos/637/74/343/trail-nature-path-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Counting",
+        "question": "In the trail mentioned by Andrew, there is an image. How many fallen logs are prominently visible on the left side of the path?",
+        "answer": "Two",
+        "img_url": [
+            "https://i0.hippopx.com/photos/637/74/343/trail-nature-path-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the trail mentioned by Andrew, there is an image. What color is the bark of the prominent, lighter-colored tree trunk on the right side of the path, closest to the foreground?",
+        "answer": "Light gray",
+        "img_url": [
+            "https://i0.hippopx.com/photos/637/74/343/trail-nature-path-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Counting",
+        "question": "In the trail hike mentioned by Audrey, there is an image. How many dogs are clearly visible walking on the path?",
+        "answer": "Three",
+        "img_url": [
+            "https://s0.geograph.org.uk/geophotos/01/41/92/1419270_5f37a596.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the trail hike mentioned by Audrey, there is an image. What type of fence can be seen on the left side of the path?",
+        "answer": "Barbed wire and wood",
+        "img_url": [
+            "https://s0.geograph.org.uk/geophotos/01/41/92/1419270_5f37a596.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Action",
+        "question": "In the trail hike mentioned by Audrey, there is an image. Is the lighter-colored golden retriever in front of the person in the light top on a leash?",
+        "answer": "Yes",
+        "img_url": [
+            "https://s0.geograph.org.uk/geophotos/01/41/92/1419270_5f37a596.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Counting",
+        "question": "In the furry friends mentioned by Audrey, there is an image. How many furry friends are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/1d0d76aa77d195e7685b71bb336436ea.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the furry friends mentioned by Audrey, there is an image. What color are the dog beds?",
+        "answer": "Pink",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/1d0d76aa77d195e7685b71bb336436ea.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the furry friends mentioned by Audrey, there is an image. What color is the dog lying on the floor?",
+        "answer": "Light brown/tan",
+        "img_url": [
+            "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/1d0d76aa77d195e7685b71bb336436ea.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Counting",
+        "question": "In the question about Toby's breed mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/german-shepherd-dog-mountain-trail-enjoying-view-loyal-companion-adventurous-hike-wearing-harness-stands-path-355819178.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the question about Toby's breed mentioned by Audrey, there is an image. What are the primary fur colors of the dog with its back partially to the camera on the right?",
+        "answer": "Brown and white",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/german-shepherd-dog-mountain-trail-enjoying-view-loyal-companion-adventurous-hike-wearing-harness-stands-path-355819178.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the question about Toby's breed mentioned by Audrey, there is an image. What material is the floor made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/german-shepherd-dog-mountain-trail-enjoying-view-loyal-companion-adventurous-hike-wearing-harness-stands-path-355819178.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the hiking with me mentioned by Andrew, there is an image. What color is the harness the dog is wearing?",
+        "answer": "Beige",
+        "img_url": [
+            "https://i.redd.it/xzuhqdylro1b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the hiking with me mentioned by Andrew, there is an image. What color is the leash lying on the rock next to the dog?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.redd.it/xzuhqdylro1b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_14",
+        "visual_category": "Attribute",
+        "question": "In the hiking with me mentioned by Andrew, there is an image. What is the primary color of the large rock the dog is sitting on?",
+        "answer": "Gray",
+        "img_url": [
+            "https://i.redd.it/xzuhqdylro1b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Spatial",
+        "question": "In the beach mentioned by Andrew, there is an image. What is the sun's position relative to the horizon?",
+        "answer": "Partially touching the horizon",
+        "img_url": [
+            "https://images.pexels.com/photos/17057350/pexels-photo-17057350.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maksym-harbar-17057350.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the beach mentioned by Andrew, there is an image. What is the primary color of the visible foam in the water's foreground?",
+        "answer": "White",
+        "img_url": [
+            "https://images.pexels.com/photos/17057350/pexels-photo-17057350.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maksym-harbar-17057350.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the beach mentioned by Andrew, there is an image. What is the color of the mountains on the left horizon?",
+        "answer": "Dark silhouette",
+        "img_url": [
+            "https://images.pexels.com/photos/17057350/pexels-photo-17057350.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maksym-harbar-17057350.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Counting",
+        "question": "In the walk in the park mentioned by Audrey, there is an image. How many dogs are looking upwards?",
+        "answer": "Four",
+        "img_url": [
+            "https://cdn12.picryl.com/photo/2016/12/31/dogs-reward-expect-856f58-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the walk in the park mentioned by Audrey, there is an image. What colors are the fallen leaves on the grass?",
+        "answer": "Yellow and orange",
+        "img_url": [
+            "https://cdn12.picryl.com/photo/2016/12/31/dogs-reward-expect-856f58-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the walk in the park mentioned by Audrey, there is an image. What color is the collar worn by the sitting black and white dog?",
+        "answer": "Red and yellow",
+        "img_url": [
+            "https://cdn12.picryl.com/photo/2016/12/31/dogs-reward-expect-856f58-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Counting",
+        "question": "In the book mentioned by Audrey, there is an image. How many distinct bird illustrations are visible across the open pages?",
+        "answer": "6",
+        "img_url": [
+            "https://live.staticflickr.com/4115/4924769040_36947653ee_c.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the book mentioned by Audrey, there is an image. What is the scientific name listed directly below 'Lawrence's Goldfinch'?",
+        "answer": "Spinus lawrencei",
+        "img_url": [
+            "https://live.staticflickr.com/4115/4924769040_36947653ee_c.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the book mentioned by Audrey, there is an image. Are the bird illustrations depicted in color or in black and white?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://live.staticflickr.com/4115/4924769040_36947653ee_c.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the intention to learn about birds mentioned by Audrey, there is an image. What color are the binoculars?",
+        "answer": "Black",
+        "img_url": [
+            "https://i2.pickpik.com/photos/262/777/291/binoculars-birdwatching-spy-glass-spying-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the intention to learn about birds mentioned by Audrey, there is an image. What kind of illustrations are on the open pages of the book?",
+        "answer": "Birds",
+        "img_url": [
+            "https://i2.pickpik.com/photos/262/777/291/binoculars-birdwatching-spy-glass-spying-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Counting",
+        "question": "In the intention to learn about birds mentioned by Audrey, there is an image. How many distinct horizontal planks make up the table surface?",
+        "answer": "Three",
+        "img_url": [
+            "https://i2.pickpik.com/photos/262/777/291/binoculars-birdwatching-spy-glass-spying-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the trip mentioned by Andrew, there is an image. What color are the binoculars?",
+        "answer": "Black",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/48/Birdwatching_India_01.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the notebook Andrew will use to log them at the trip, there is an image. What color ink is predominantly used for the handwritten notes?",
+        "answer": "Blue",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/48/Birdwatching_India_01.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Counting",
+        "question": "In the notebook Andrew will use to log them at the trip, there is an image. How many bird drawings are visible on the right page?",
+        "answer": "One",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/48/Birdwatching_India_01.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Counting",
+        "question": "In the recycling mentioned by Andrew, there is an image. How many main compartments does the bin have?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.nps.gov/articles/000/images/trash-and-recycle-can.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the recycling mentioned by Andrew, there is an image. What specific materials are listed on the 'mixed recycling' label?",
+        "answer": "Paper/cardboard, metal, glass, plastic",
+        "img_url": [
+            "https://www.nps.gov/articles/000/images/trash-and-recycle-can.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the recycling mentioned by Andrew, there is an image. What type of vegetation is conspicuously hanging from the tree branches above the bin?",
+        "answer": "Spanish moss",
+        "img_url": [
+            "https://www.nps.gov/articles/000/images/trash-and-recycle-can.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Attribute",
+        "question": "In the proposal to try it mentioned by Andrew, there is an image. What color is the backpack worn by the person on the bicycle?",
+        "answer": "Blue",
+        "img_url": [
+            "https://bikeportland.org/wp-content/uploads/2021/10/Screen-Shot-2021-10-15-at-10.39.45-AM.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "Counting",
+        "question": "In the proposal to try it mentioned by Andrew, there is an image. How many designated car lanes are shown in the overlaid diagram of the roadway?",
+        "answer": "Four",
+        "img_url": [
+            "https://bikeportland.org/wp-content/uploads/2021/10/Screen-Shot-2021-10-15-at-10.39.45-AM.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the proposal to try it mentioned by Andrew, there is an image. What street name is visible on the green sign in the distance above the road?",
+        "answer": "NE Martin Luther King Jr Blvd",
+        "img_url": [
+            "https://bikeportland.org/wp-content/uploads/2021/10/Screen-Shot-2021-10-15-at-10.39.45-AM.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Counting",
+        "question": "In the new spot in town that serves sushi mentioned by Andrew, there is an image. How many pieces of shrimp nigiri are visible on the platter?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5fb4299bc4391d58134367db/1607453049811-DZU05ZBSW3YPHU2G2TX2/Special+rolls+party+tray.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the new spot in town that serves sushi mentioned by Andrew, there is an image. What color are the small fish eggs on the majority of the sushi rolls?",
+        "answer": "Orange",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5fb4299bc4391d58134367db/1607453049811-DZU05ZBSW3YPHU2G2TX2/Special+rolls+party+tray.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the new spot in town that serves sushi mentioned by Andrew, there is an image. What is the material of the small container holding the pickled ginger?",
+        "answer": "Clear plastic",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5fb4299bc4391d58134367db/1607453049811-DZU05ZBSW3YPHU2G2TX2/Special+rolls+party+tray.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Counting",
+        "question": "In the trying sushi mentioned by Andrew, there is an image. How many small transparent containers with lids are visible in the top area?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/laccj2oklvo71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the hype about sushi mentioned by Andrew, there is an image. What color is the shredded vegetable filling in some of the sushi rolls topped with red flakes?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.redd.it/laccj2oklvo71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the trying sushi mentioned by Andrew, there is an image. What color is the sauce contained in the larger, centrally located round plastic cup?",
+        "answer": "Brown",
+        "img_url": [
+            "https://i.redd.it/laccj2oklvo71.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Counting",
+        "question": "In the sushi mentioned by Audrey, there is an image. How many pieces of shrimp nigiri are visible on the platter?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5fb4299bc4391d58134367db/1607453049811-DZU05ZBSW3YPHU2G2TX2/Special+rolls+party+tray.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the sushi mentioned by Audrey, there is an image. What color is the pickled ginger provided in the small container?",
+        "answer": "Pale yellow",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5fb4299bc4391d58134367db/1607453049811-DZU05ZBSW3YPHU2G2TX2/Special+rolls+party+tray.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the sushi mentioned by Audrey, there is an image. What colors are the tiny fish roe sprinkled on some of the maki rolls?",
+        "answer": "Orange and red",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5fb4299bc4391d58134367db/1607453049811-DZU05ZBSW3YPHU2G2TX2/Special+rolls+party+tray.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Counting",
+        "question": "In the sushi mentioned by Audrey, there is an image. How many pieces of sushi are arranged on the plate?",
+        "answer": "8 pieces",
+        "img_url": [
+            "https://i.redd.it/ipekv4tz7oh31.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the different sauces and dips mentioned by Audrey, there is an image. What color is the sauce drizzled on top of each sushi piece?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://i.redd.it/ipekv4tz7oh31.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the sushi mentioned by Audrey, there is an image. Are there any dark sprinkles on top of the seared fish covering the sushi?",
+        "answer": "Yes, dark sprinkles",
+        "img_url": [
+            "https://i.redd.it/ipekv4tz7oh31.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Counting",
+        "question": "In the a California or salmon roll and try out some sauces mentioned by Andrew, there is an image. How many pieces of salmon nigiri are visible on the board?",
+        "answer": "4",
+        "img_url": [
+            "https://i.redd.it/tsyh3z2tdf591.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the a California or salmon roll and try out some sauces mentioned by Andrew, there is an image. What color are the small dishes holding the sauces?",
+        "answer": "Red and black",
+        "img_url": [
+            "https://i.redd.it/tsyh3z2tdf591.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the a California or salmon roll and try out some sauces mentioned by Andrew, there is an image. Are any of the sushi rolls topped with avocado slices?",
+        "answer": "Yes, some are",
+        "img_url": [
+            "https://i.redd.it/tsyh3z2tdf591.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Counting",
+        "question": "In the sushi adventure mentioned by Audrey, there is an image. How many individual sushi pieces are presented on the white plate?",
+        "answer": "22",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/salmon-california-roll-sushi-white-plate-53738173.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the sushi adventure mentioned by Audrey, there is an image. What is the primary color of the avocado slices used as topping on the vertically stacked sushi rolls?",
+        "answer": "Light green",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/salmon-california-roll-sushi-white-plate-53738173.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_25",
+        "visual_category": "Attribute",
+        "question": "In the sushi adventure mentioned by Audrey, there is an image. Are there any visible sesame seeds on the rice of the sushi rolls?",
+        "answer": "Yes",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/salmon-california-roll-sushi-white-plate-53738173.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Counting",
+        "question": "In the pic of them mentioned by Audrey, there is an image. How many grooming tools are visible on the table in front of the main dog?",
+        "answer": "Three",
+        "img_url": [
+            "https://s0.geograph.org.uk/geophotos/06/18/45/6184556_bc98b08f.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pic of them mentioned by Audrey, there is an image. What color is the leash attached to the main dog's head?",
+        "answer": "Blue",
+        "img_url": [
+            "https://s0.geograph.org.uk/geophotos/06/18/45/6184556_bc98b08f.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pic of them mentioned by Audrey, there is an image. What pattern is visible on the tablecloth under the main dog?",
+        "answer": "Paw prints",
+        "img_url": [
+            "https://s0.geograph.org.uk/geophotos/06/18/45/6184556_bc98b08f.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Action",
+        "question": "In the photo of the doggo mentioned by Andrew, there is an image. Is the dog in motion or standing still?",
+        "answer": "In motion",
+        "img_url": [
+            "https://i.redd.it/h1m9pir3y9jb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Attribute",
+        "question": "In the photo of the doggo mentioned by Andrew, there is an image. What pattern is visible on the person's sneakers?",
+        "answer": "Leopard print",
+        "img_url": [
+            "https://i.redd.it/h1m9pir3y9jb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Attribute",
+        "question": "In the photo of the doggo mentioned by Andrew, there is an image. What color is the cylindrical object the person is holding?",
+        "answer": "Gray",
+        "img_url": [
+            "https://i.redd.it/h1m9pir3y9jb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pic you of your dog at the park mentioned by Audrey, there is an image. What color is the dog's collar?",
+        "answer": "Red",
+        "img_url": [
+            "https://live.staticflickr.com/8257/8915975033_e7129952e5_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "Action",
+        "question": "In the pic you of your dog at the park mentioned by Audrey, there is an image. What action is the dog performing?",
+        "answer": "Running",
+        "img_url": [
+            "https://live.staticflickr.com/8257/8915975033_e7129952e5_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_28",
+        "visual_category": "OCR/Text",
+        "question": "In the pic you of your dog at the park mentioned by Audrey, there is an image. What brand name is visible on the tennis ball?",
+        "answer": "KONG",
+        "img_url": [
+            "https://live.staticflickr.com/8257/8915975033_e7129952e5_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the last Friday at the park incident mentioned by Audrey, there is an image. What is the primary color of the leash's plastic casing?",
+        "answer": "Red",
+        "img_url": [
+            "https://c8.alamy.com/comp/2HN9FFD/close-up-of-one-happy-mixed-breed-dog-with-cute-pointy-ears-smiling-in-a-pink-harness-and-owners-hand-showing-up-in-the-frame-petting-his-pet-2HN9FFD.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the last Friday at the park incident mentioned by Audrey, there is an image. What colors are visible on the webbing leash strap itself?",
+        "answer": "Red and black",
+        "img_url": [
+            "https://c8.alamy.com/comp/2HN9FFD/close-up-of-one-happy-mixed-breed-dog-with-cute-pointy-ears-smiling-in-a-pink-harness-and-owners-hand-showing-up-in-the-frame-petting-his-pet-2HN9FFD.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "OCR/Text",
+        "question": "In the last Friday at the park incident mentioned by Audrey, there is an image. What brand name is visible on the leash casing?",
+        "answer": "Flexi Classic",
+        "img_url": [
+            "https://c8.alamy.com/comp/2HN9FFD/close-up-of-one-happy-mixed-breed-dog-with-cute-pointy-ears-smiling-in-a-pink-harness-and-owners-hand-showing-up-in-the-frame-petting-his-pet-2HN9FFD.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the moments like these mentioned by Audrey, there is an image. What color are the dog's inner ears?",
+        "answer": "Brown and white",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/funny-guy-cute-pug-dog-party-hat-hugging-celebrating-pet-birthday-domestic-animal-love-pampering-concept-pets-284190029.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Action",
+        "question": "In the moments like these mentioned by Audrey, there is an image. How is the dog positioned on the bed?",
+        "answer": "Lying on its back",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/funny-guy-cute-pug-dog-party-hat-hugging-celebrating-pet-birthday-domestic-animal-love-pampering-concept-pets-284190029.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the moments like these mentioned by Audrey, there is an image. How many plastic bottles are visible on the nightstand?",
+        "answer": "Two",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/funny-guy-cute-pug-dog-party-hat-hugging-celebrating-pet-birthday-domestic-animal-love-pampering-concept-pets-284190029.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the adorable dog mentioned by Andrew, there is an image. What are the two main colors of the dog's fur?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/happy-dog-green-hat-celebrating-st-patrick-s-day-indoor-cute-pet-photography-joyful-atmosphere-happy-dog-green-hat-369661835.jpg?w=992"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the adorable dog mentioned by Andrew, there is an image. What object is the dog carrying in its mouth?",
+        "answer": "A ball",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/happy-dog-green-hat-celebrating-st-patrick-s-day-indoor-cute-pet-photography-joyful-atmosphere-happy-dog-green-hat-369661835.jpg?w=992"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the adorable dog mentioned by Andrew, there is an image. How many dogs are visible in the foreground?",
+        "answer": "One",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/happy-dog-green-hat-celebrating-st-patrick-s-day-indoor-cute-pet-photography-joyful-atmosphere-happy-dog-green-hat-369661835.jpg?w=992"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the building trust with them mentioned by Audrey, there is an image. How many dogs are wearing party hats?",
+        "answer": "Three",
+        "img_url": [
+            "https://png.pngtree.com/thumb_back/fh260/background/20250319/pngtree-cute-fluffy-puppy-wearing-green-hat-with-clover-image_17103779.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the building trust with them mentioned by Audrey, there is an image. What color is the collar worn by the dog on the far right?",
+        "answer": "Green",
+        "img_url": [
+            "https://png.pngtree.com/thumb_back/fh260/background/20250319/pngtree-cute-fluffy-puppy-wearing-green-hat-with-clover-image_17103779.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the building trust with them mentioned by Audrey, there is an image. What pattern is on the party hat of the dog in the middle?",
+        "answer": "Polka dots",
+        "img_url": [
+            "https://png.pngtree.com/thumb_back/fh260/background/20250319/pngtree-cute-fluffy-puppy-wearing-green-hat-with-clover-image_17103779.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the obedience and teach them tricks like sit, stay, shake, and roll over mentioned by Audrey, there is an image. How many dogs are visible on and around the armchair?",
+        "answer": "7",
+        "img_url": [
+            "https://i.redd.it/7yt2t54q6ho41.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the obedience and teach them tricks like sit, stay, shake, and roll over mentioned by Audrey, there is an image. What color is the armchair that the dogs are on?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.redd.it/7yt2t54q6ho41.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the obedience and teach them tricks like sit, stay, shake, and roll over mentioned by Audrey, there is an image. What is the texture of the white blanket draped over the armchair?",
+        "answer": "Ruffled/Crinkled",
+        "img_url": [
+            "https://i.redd.it/7yt2t54q6ho41.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Action",
+        "question": "In the mutts mentioned by Audrey, there is an image. What action is the third dog from the left performing?",
+        "answer": "Yawning",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/national-mutt-day-happy-group-dogs-outdoors-natural-setting-happy-group-dogs-outdoors-natural-setting-346276049.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the mutts mentioned by Audrey, there is an image. What color is the collar of the dog that is yawning?",
+        "answer": "Pink",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/national-mutt-day-happy-group-dogs-outdoors-natural-setting-happy-group-dogs-outdoors-natural-setting-346276049.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the mutts mentioned by Audrey, there is an image. How many individual leashes are connected to the central handler held by the person?",
+        "answer": "Four",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/national-mutt-day-happy-group-dogs-outdoors-natural-setting-happy-group-dogs-outdoors-natural-setting-346276049.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the dogs mentioned by Audrey, there is an image. How many dogs are visible on the couch?",
+        "answer": "Three",
+        "img_url": [
+            "https://i1.pickpik.com/photos/406/636/1011/dog-chihuahua-pet-animal-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Action",
+        "question": "In the dogs mentioned by Audrey, there is an image. What is the dog in the center doing?",
+        "answer": "Licking its nose",
+        "img_url": [
+            "https://i1.pickpik.com/photos/406/636/1011/dog-chihuahua-pet-animal-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the dogs mentioned by Audrey, there is an image. What color is the couch visible behind the white fluffy blanket?",
+        "answer": "Grey",
+        "img_url": [
+            "https://i1.pickpik.com/photos/406/636/1011/dog-chihuahua-pet-animal-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the something I've been taking care of lately mentioned by Andrew, there is an image. What color is the long planter holding the flowers?",
+        "answer": "Olive green",
+        "img_url": [
+            "https://www.flowerwindowboxes.com/v/vspfiles/assets/images/rail-planter-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In those flowers mentioned by Andrew, there is an image. What color are the vertical posts of the railing directly below the window box?",
+        "answer": "Brown",
+        "img_url": [
+            "https://www.flowerwindowboxes.com/v/vspfiles/assets/images/rail-planter-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the something I've been taking care of lately mentioned by Andrew, there is an image. What color is the downspout visible on the far right?",
+        "answer": "White",
+        "img_url": [
+            "https://www.flowerwindowboxes.com/v/vspfiles/assets/images/rail-planter-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the flowers mentioned by Audrey, there is an image. How many fully bloomed flowers are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/vibrant-orange-alstroemeria-peruvian-lily-flowers-bright-beautiful-variety-glory-summer-garden-154489376.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the flowers mentioned by Audrey, there is an image. What color are the tips of the unopened flower buds?",
+        "answer": "Reddish-pink",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/vibrant-orange-alstroemeria-peruvian-lily-flowers-bright-beautiful-variety-glory-summer-garden-154489376.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the flowers mentioned by Audrey, there is an image. Does the cactus stem have visible spines?",
+        "answer": "Yes",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/vibrant-orange-alstroemeria-peruvian-lily-flowers-bright-beautiful-variety-glory-summer-garden-154489376.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the taking care of them mentioned by Audrey, there is an image. What color is the dog's collar?",
+        "answer": "Pink",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/dog-playing-garden-cute-flowers-selective-soft-focus-ai-generated-315940553.jpg?w=768"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the taking care of them mentioned by Audrey, there is an image. How many of the dog's paws are clearly visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/dog-playing-garden-cute-flowers-selective-soft-focus-ai-generated-315940553.jpg?w=768"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the taking care of them mentioned by Audrey, there is an image. What material is the platform the dog is lying on?",
+        "answer": "Wood",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/dog-playing-garden-cute-flowers-selective-soft-focus-ai-generated-315940553.jpg?w=768"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the garden mentioned by Audrey, there is an image. How many dogs are running in the grass?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/65535/51632425349_e20c4919c5_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the garden mentioned by Audrey, there is an image. What color is the harness worn by the lighter-colored dog?",
+        "answer": "Dark green",
+        "img_url": [
+            "https://live.staticflickr.com/65535/51632425349_e20c4919c5_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the garden mentioned by Audrey, there is an image. What object is the brown dog on the left carrying in its mouth?",
+        "answer": "A stick",
+        "img_url": [
+            "https://live.staticflickr.com/65535/51632425349_e20c4919c5_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Counting",
+        "question": "In the \"my fur babies\" mentioned by Audrey, there is an image. How many dogs are visible on the couch?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/3563/3808347692_7ddc680e46_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Attribute",
+        "question": "In the \"my fur babies\" mentioned by Audrey, there is an image. What color is the couch upholstery?",
+        "answer": "Beige",
+        "img_url": [
+            "https://live.staticflickr.com/3563/3808347692_7ddc680e46_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_19",
+        "visual_category": "Action",
+        "question": "In the \"my fur babies\" mentioned by Audrey, there is an image. What position is the light brown curly-haired dog in?",
+        "answer": "On its back",
+        "img_url": [
+            "https://live.staticflickr.com/3563/3808347692_7ddc680e46_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Counting",
+        "question": "In the pic of them having a blast last summer mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2011,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the pic of them having a blast last summer mentioned by Audrey, there is an image. What color is the ball the dog is carrying?",
+        "answer": "Red",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2011,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the pic of them having a blast last summer mentioned by Audrey, there is an image. What color is the collar on the dog on the right?",
+        "answer": "Gray",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2011,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the pic I took at a national park mentioned by Andrew, there is an image. What color is the long-sleeved shirt worn by the person?",
+        "answer": "Red",
+        "img_url": [
+            "https://live.staticflickr.com/8194/8097374162_8d85c7b645_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Counting",
+        "question": "In the pic I took at a national park mentioned by Andrew, there is an image. How many patches of snow are visible on the hillside?",
+        "answer": "One",
+        "img_url": [
+            "https://live.staticflickr.com/8194/8097374162_8d85c7b645_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the pic I took at a national park mentioned by Andrew, there is an image. What color is the hydration tube visible coming from the backpack?",
+        "answer": "Blue",
+        "img_url": [
+            "https://live.staticflickr.com/8194/8097374162_8d85c7b645_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the pups mentioned by Andrew, there is an image. What color is the man's short-sleeved shirt?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://live.staticflickr.com/3094/2564651016_d9405477b9_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "OCR/Text",
+        "question": "In the pups mentioned by Andrew, there is an image. What text is visible on the sign?",
+        "answer": "PETS ON LEASH",
+        "img_url": [
+            "https://live.staticflickr.com/3094/2564651016_d9405477b9_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the pups mentioned by Andrew, there is an image. How is the dog's tail positioned?",
+        "answer": "Curled over its back",
+        "img_url": [
+            "https://live.staticflickr.com/3094/2564651016_d9405477b9_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the hiking and seeing nature mentioned by Audrey, there is an image. What color is the dog's collar?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.redd.it/8ugwccgkw6u81.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Counting",
+        "question": "In the hiking and seeing nature mentioned by Audrey, there is an image. How many large stone blocks form the visible portion of the wall behind the dog?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/8ugwccgkw6u81.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Action",
+        "question": "In the hiking and seeing nature mentioned by Audrey, there is an image. Are the dog's eyes open or closed?",
+        "answer": "Closed",
+        "img_url": [
+            "https://i.redd.it/8ugwccgkw6u81.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the photo of the lake mentioned by Audrey, there is an image. What is the predominant color of the clouds in the sky?",
+        "answer": "White",
+        "img_url": [
+            "https://photos.thedyrt.com/photo/131286/media/serene-lake-or_97eeadb9941e84ca9084f13abd07f6b0.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the photo of the lake mentioned by Audrey, there is an image. What is the texture of the lake's surface?",
+        "answer": "Rippled",
+        "img_url": [
+            "https://photos.thedyrt.com/photo/131286/media/serene-lake-or_97eeadb9941e84ca9084f13abd07f6b0.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Spatial",
+        "question": "In the photo of the lake mentioned by Audrey, there is an image. Is the sunlight directly illuminating the entire forest visible on the hill?",
+        "answer": "No, only the upper part",
+        "img_url": [
+            "https://photos.thedyrt.com/photo/131286/media/serene-lake-or_97eeadb9941e84ca9084f13abd07f6b0.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Counting",
+        "question": "In the being outside with our dogs mentioned by Audrey, there is an image. How many dogs are visible in the image?",
+        "answer": "Three",
+        "img_url": [
+            "https://s3-us-west-1.amazonaws.com/assets.wagwalkingweb.com/media/daily_wag/blog_articles/body/1660599786.6061006/5-best-dog-parks-in-portland-or-2.png"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the being outside with our dogs mentioned by Audrey, there is an image. What color is the collar or harness on the dog in the foreground?",
+        "answer": "Blue",
+        "img_url": [
+            "https://s3-us-west-1.amazonaws.com/assets.wagwalkingweb.com/media/daily_wag/blog_articles/body/1660599786.6061006/5-best-dog-parks-in-portland-or-2.png"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the being outside with our dogs mentioned by Audrey, there is an image. What type of agility equipment is made of two stacked dark circles on the left side of the background?",
+        "answer": "Tires",
+        "img_url": [
+            "https://s3-us-west-1.amazonaws.com/assets.wagwalkingweb.com/media/daily_wag/blog_articles/body/1660599786.6061006/5-best-dog-parks-in-portland-or-2.png"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Action",
+        "question": "In the being out in nature with our furry friends mentioned by Andrew, there is an image. What is the dog doing with the bowl?",
+        "answer": "Drinking water.",
+        "img_url": [
+            "https://growthzonesitesprod.azureedge.net/wp-content/uploads/sites/940/2023/12/Hiking-with-dogs.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the outdoor trips mentioned by Andrew, there is an image. What colors are visible on the dog's bandana?",
+        "answer": "Blue, pink, yellow, black.",
+        "img_url": [
+            "https://growthzonesitesprod.azureedge.net/wp-content/uploads/sites/940/2023/12/Hiking-with-dogs.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Counting",
+        "question": "In the outdoor trips mentioned by Andrew, there is an image. How many paw prints are visible on the dog's bandana?",
+        "answer": "Two.",
+        "img_url": [
+            "https://growthzonesitesprod.azureedge.net/wp-content/uploads/sites/940/2023/12/Hiking-with-dogs.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the hiking last time mentioned by Andrew, there is an image. What color is the hat Andrew is wearing?",
+        "answer": "Dark green",
+        "img_url": [
+            "https://live.staticflickr.com/1760/27752565907_f59bb6f236_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Counting",
+        "question": "In the hiking last time mentioned by Andrew, there is an image. How many orange carabiners are clipped to Andrew's backpack straps?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/1760/27752565907_f59bb6f236_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_26",
+        "visual_category": "Attribute",
+        "question": "In the hiking last time mentioned by Andrew, there is an image. Is the dog wearing a visible tag on its collar?",
+        "answer": "Yes",
+        "img_url": [
+            "https://live.staticflickr.com/1760/27752565907_f59bb6f236_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the awesome night playing board games mentioned by Andrew, there is an image. What type of animal is pictured?",
+        "answer": "Dog",
+        "img_url": [
+            "https://i2.pickpik.com/photos/717/632/853/dog-goldendoodle-chess-play-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the awesome night playing board games mentioned by Andrew, there is an image. How many dark-colored board game pieces are clearly visible in the foreground?",
+        "answer": "Four",
+        "img_url": [
+            "https://i2.pickpik.com/photos/717/632/853/dog-goldendoodle-chess-play-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the awesome night playing board games mentioned by Andrew, there is an image. What texture does the dog's fur appear to have?",
+        "answer": "Curly",
+        "img_url": [
+            "https://i2.pickpik.com/photos/717/632/853/dog-goldendoodle-chess-play-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the goodies recently mentioned by Audrey, there is an image. How many individual goodies are arranged on the baking sheet?",
+        "answer": "11",
+        "img_url": [
+            "https://pupsgourmetkitchen.com/wp-content/uploads/2025/08/Why-Make-Your-Own-Baked-Dog-Biscuits.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the goodies mentioned by Audrey, there is an image. What specific pattern is visible on the top surface of the baked items?",
+        "answer": "Criss-cross",
+        "img_url": [
+            "https://pupsgourmetkitchen.com/wp-content/uploads/2025/08/Why-Make-Your-Own-Baked-Dog-Biscuits.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the goodies mentioned by Audrey, there is an image. What white substance is visible, sprinkled on some of the goodies?",
+        "answer": "White powder",
+        "img_url": [
+            "https://pupsgourmetkitchen.com/wp-content/uploads/2025/08/Why-Make-Your-Own-Baked-Dog-Biscuits.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the cozy cafe mentioned by Andrew, there is an image. What material are the hanging light globes made of?",
+        "answer": "Glass",
+        "img_url": [
+            "https://embracesomeplace.com/wp-content/uploads/2022/01/DSC02393.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the cozy cafe mentioned by Andrew, there is an image. How many people are seated at the round table near the large windows?",
+        "answer": "Four",
+        "img_url": [
+            "https://embracesomeplace.com/wp-content/uploads/2022/01/DSC02393.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the cozy cafe mentioned by Andrew, there is an image. What is the prominent characteristic of the plants growing from the top of the white partition?",
+        "answer": "Trailing/Hanging",
+        "img_url": [
+            "https://embracesomeplace.com/wp-content/uploads/2022/01/DSC02393.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the new spot mentioned by Andrew, there is an image. What type of bulbs are used in the string lights?",
+        "answer": "Edison bulbs",
+        "img_url": [
+            "https://be-lavie.com/wp-content/uploads/2019/06/IMG_9281-e1560067147565.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the new spot mentioned by Andrew, there is an image. What color are the throw cushions on the dark gray outdoor sofas?",
+        "answer": "Black",
+        "img_url": [
+            "https://be-lavie.com/wp-content/uploads/2019/06/IMG_9281-e1560067147565.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the new spot mentioned by Andrew, there is an image. What brand logo is visible on the tall building with the spire in the background?",
+        "answer": "H&M",
+        "img_url": [
+            "https://be-lavie.com/wp-content/uploads/2019/06/IMG_9281-e1560067147565.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the exploring new places mentioned by Audrey, there is an image. What color is the glowing collar worn by the dog in the foreground?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/yfeccwau4dya1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the exploring new places mentioned by Audrey, there is an image. How many dogs visible in the image are wearing a full-body suit or sweater?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/yfeccwau4dya1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the exploring new places mentioned by Audrey, there is an image. What is the pattern on the full-body suit worn by the black dog?",
+        "answer": "Strawberry and floral",
+        "img_url": [
+            "https://i.redd.it/yfeccwau4dya1.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the dog park mentioned by Audrey, there is an image. What color is the collar on the dog that is carrying an object?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/6jbz5p9fxy051.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the dog park mentioned by Audrey, there is an image. What kind of object is one of the dogs holding in its mouth?",
+        "answer": "A stick",
+        "img_url": [
+            "https://i.redd.it/6jbz5p9fxy051.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Spatial",
+        "question": "In the dog park mentioned by Audrey, there is an image. Are the two dogs facing towards or away from each other?",
+        "answer": "Towards each other",
+        "img_url": [
+            "https://i.redd.it/6jbz5p9fxy051.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Action",
+        "question": "In the one time my pup got too excited and chased a squirrel mentioned by Andrew, there is an image. What is the pup doing with its tail?",
+        "answer": "Biting it",
+        "img_url": [
+            "https://i.ytimg.com/vi/nCKvu9uYWxA/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the one time my pup got too excited and chased a squirrel mentioned by Andrew, there is an image. How many white dandelion puffballs are visible in the grass?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.ytimg.com/vi/nCKvu9uYWxA/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the one time my pup got too excited and chased a squirrel mentioned by Andrew, there is an image. What color is the object directly under the pup's front left paw?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://i.ytimg.com/vi/nCKvu9uYWxA/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the pup mentioned by Audrey, there is an image. What pattern is on its sweater?",
+        "answer": "Tree and arrow shapes",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/dcc5fa88-74fb-4e04-a7f9-df5051a8b643/7babb05e-2478-445c-8ca9-4dc2113853ff_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the pup mentioned by Audrey, there is an image. What is the primary color of its fur?",
+        "answer": "Brown",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/dcc5fa88-74fb-4e04-a7f9-df5051a8b643/7babb05e-2478-445c-8ca9-4dc2113853ff_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the pup mentioned by Audrey, there is an image. What brand name is visible on its sweater tag?",
+        "answer": "LUCY & CO.",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/dcc5fa88-74fb-4e04-a7f9-df5051a8b643/7babb05e-2478-445c-8ca9-4dc2113853ff_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the happiness they bring mentioned by Audrey, there is an image. What kind of texture does the couch fabric have?",
+        "answer": "Ribbed",
+        "img_url": [
+            "https://live.staticflickr.com/3563/3808347692_7ddc680e46_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Spatial",
+        "question": "In the happiness they bring mentioned by Audrey, there is an image. What position is the lighter brown dog in?",
+        "answer": "On its back",
+        "img_url": [
+            "https://live.staticflickr.com/3563/3808347692_7ddc680e46_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the happiness they bring mentioned by Audrey, there is an image. What color is the blanket under the darker brown dog?",
+        "answer": "Blue",
+        "img_url": [
+            "https://live.staticflickr.com/3563/3808347692_7ddc680e46_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the tattoo mentioned by Audrey, there is an image. How many paw prints are visible in the design?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/55/47/8f/55478f3a1f3c22e60a729cd3806d2830.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the tattoo mentioned by Audrey, there is an image. What is the primary color of the tattoo ink?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.pinimg.com/originals/55/47/8f/55478f3a1f3c22e60a729cd3806d2830.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the tattoo mentioned by Audrey, there is an image. What color is Audrey's nail polish on the visible finger?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/55/47/8f/55478f3a1f3c22e60a729cd3806d2830.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Counting",
+        "question": "In the 'somewhere like this' mentioned by Andrew, there is an image. How many standing tree trunks are visible immediately next to the path in the foreground?",
+        "answer": "Three",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/640/472/990/away-path-forest-hiking.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Attribute",
+        "question": "In the 'somewhere like this' mentioned by Andrew, there is an image. What is the predominant color of the ground cover foliage?",
+        "answer": "Green",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/640/472/990/away-path-forest-hiking.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_23",
+        "visual_category": "Spatial",
+        "question": "In the 'somewhere like this' mentioned by Andrew, there is an image. Does the forest path appear straight or winding?",
+        "answer": "Winding",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/640/472/990/away-path-forest-hiking.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the bike ride mentioned by Andrew, there is an image. What color are the shirts worn by the two main cyclists?",
+        "answer": "Red",
+        "img_url": [
+            "https://www.oregon.com/sites/default/files/bike_bluelake.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the bike ride mentioned by Andrew, there is an image. What type of vegetation predominantly lines the paved path?",
+        "answer": "Grass",
+        "img_url": [
+            "https://www.oregon.com/sites/default/files/bike_bluelake.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Spatial",
+        "question": "In the park outside of town mentioned by Andrew, there is an image. Is the body of water to the left or right of the bike path from the viewer's perspective?",
+        "answer": "Right",
+        "img_url": [
+            "https://www.oregon.com/sites/default/files/bike_bluelake.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Counting",
+        "question": "In the new parks mentioned by Audrey, there is an image. How many people are sitting directly on rocks or the grass?",
+        "answer": "At least 7",
+        "img_url": [
+            "https://i.redd.it/hayawo8f86p51.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the last weekend mentioned by Audrey, there is an image. What color is the collar on the white dog standing prominently in the foreground?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.redd.it/hayawo8f86p51.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Spatial",
+        "question": "In the dog owners group mentioned by Audrey, there is an image. Are any buildings visible in the far background beyond the trees?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/hayawo8f86p51.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Counting",
+        "question": "In the happy dogs mentioned by Audrey, there is an image. How many dogs are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://elpaseogarden.files.wordpress.com/2021/06/img_2087.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the happy dogs mentioned by Audrey, there is an image. What are the main colors of the dog with the curled tail?",
+        "answer": "Brown and white",
+        "img_url": [
+            "https://elpaseogarden.files.wordpress.com/2021/06/img_2087.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the happy dogs mentioned by Audrey, there is an image. What type of fence is directly behind the grassy area?",
+        "answer": "Chain-link",
+        "img_url": [
+            "https://elpaseogarden.files.wordpress.com/2021/06/img_2087.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the pic of how she entertains her pup mentioned by Audrey, there is an image. What color is the word written on the green toy?",
+        "answer": "Red",
+        "img_url": [
+            "https://live.staticflickr.com/2839/12466466553_d534a96181_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Counting",
+        "question": "In the pic of how she entertains her pup mentioned by Audrey, there is an image. How many plush toys are visible outside of the basket on the wooden floor?",
+        "answer": "Four",
+        "img_url": [
+            "https://live.staticflickr.com/2839/12466466553_d534a96181_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the pic of how she entertains her pup mentioned by Audrey, there is an image. What material is the large container holding some of the toys made of?",
+        "answer": "Wicker",
+        "img_url": [
+            "https://live.staticflickr.com/2839/12466466553_d534a96181_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the pic of them playing fetch in the park mentioned by Audrey, there is an image. What color is the puppy's collar?",
+        "answer": "Red",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/golden-retriever-puppy-playing-fetch-park_605022-33070.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Counting",
+        "question": "In the pic of them playing fetch in the park mentioned by Audrey, there is an image. How many puppies are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/golden-retriever-puppy-playing-fetch-park_605022-33070.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the pic of them playing fetch in the park mentioned by Audrey, there is an image. What object is the puppy holding in its mouth?",
+        "answer": "Tennis ball",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/golden-retriever-puppy-playing-fetch-park_605022-33070.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the activities mentioned by Audrey, there is an image. What brand name is visible on the shoes of the person standing on the left?",
+        "answer": "Merrell",
+        "img_url": [
+            "https://live.staticflickr.com/340/32261973051_6709776893_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Counting",
+        "question": "In the activities mentioned by Audrey, there is an image. How many dogs are actively engaging with the puzzle toys?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/340/32261973051_6709776893_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Audrey_Andrew_session_27",
+        "visual_category": "Attribute",
+        "question": "In the activities mentioned by Audrey, there is an image. What color is the collar worn by the dog on the left?",
+        "answer": "Pink",
+        "img_url": [
+            "https://live.staticflickr.com/340/32261973051_6709776893_b.jpg"
+        ]
+    }
+]

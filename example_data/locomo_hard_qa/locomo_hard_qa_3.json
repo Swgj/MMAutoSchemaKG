@@ -1,0 +1,2000 @@
+[
+    {
+        "session_id": "Joanna_Nate_session_4",
+        "visual_category": "Attribute",
+        "question": "In the chocolate and vanilla swirl mentioned by Nate, there is an image. What color is the background wall?",
+        "answer": "Teal green",
+        "img_url": [
+            "https://i.redd.it/wj5c699jccx61.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_4",
+        "visual_category": "Attribute",
+        "question": "In the chocolate and vanilla swirl mentioned by Nate, there is an image. What color is the layer directly below the dark syrup?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://i.redd.it/wj5c699jccx61.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_4",
+        "visual_category": "Attribute",
+        "question": "In the chocolate and vanilla swirl mentioned by Nate, there is an image. What are the visible chunky pieces in the cone made of?",
+        "answer": "Nuts and chocolate",
+        "img_url": [
+            "https://i.redd.it/wj5c699jccx61.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_3",
+        "visual_category": "Attribute",
+        "question": "In the coconut milk icecream mentioned by Nate, there is an image. What color is the icecream?",
+        "answer": "Pinkish-red",
+        "img_url": [
+            "https://i.redd.it/4q9s9o2607ib1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_3",
+        "visual_category": "Attribute",
+        "question": "In the coconut milk icecream mentioned by Nate, there is an image. Does the icecream appear perfectly smooth or does it contain visible pieces?",
+        "answer": "Contains visible pieces",
+        "img_url": [
+            "https://i.redd.it/4q9s9o2607ib1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_3",
+        "visual_category": "Attribute",
+        "question": "In the coconut milk icecream mentioned by Nate, there is an image. What is the dominant color of the bowl holding the icecream?",
+        "answer": "Dark gray-blue",
+        "img_url": [
+            "https://i.redd.it/4q9s9o2607ib1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_2",
+        "visual_category": "OCR/Text",
+        "question": "In the my first full screenplay mentioned by Joanna, there is an image. what page number is visible?",
+        "answer": "7",
+        "img_url": [
+            "https://live.staticflickr.com/3159/2406045813_cab5f8211d_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_2",
+        "visual_category": "OCR/Text",
+        "question": "In the my first full screenplay mentioned by Joanna, there is an image. what title is visible in the top right corner?",
+        "answer": "eurabia montage",
+        "img_url": [
+            "https://live.staticflickr.com/3159/2406045813_cab5f8211d_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_2",
+        "visual_category": "Attribute",
+        "question": "In the my first full screenplay mentioned by Joanna, there is an image. what is the apparent color of the binding on the left?",
+        "answer": "Dark",
+        "img_url": [
+            "https://live.staticflickr.com/3159/2406045813_cab5f8211d_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_2",
+        "visual_category": "Counting",
+        "question": "In the having little ones around mentioned by Nate, there is an image. How many turtles are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/5126/5279947833_4ae1f16e96_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_2",
+        "visual_category": "Attribute",
+        "question": "In the little ones mentioned by Nate, there is an image. What colors are prominently striped on the body of the turtle in the back?",
+        "answer": "Yellow and black",
+        "img_url": [
+            "https://live.staticflickr.com/5126/5279947833_4ae1f16e96_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_2",
+        "visual_category": "Attribute",
+        "question": "In the little ones mentioned by Nate, there is an image. What color are the distinct markings along the lower edge of the front turtle's shell?",
+        "answer": "Red and orange",
+        "img_url": [
+            "https://live.staticflickr.com/5126/5279947833_4ae1f16e96_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_5",
+        "visual_category": "Counting",
+        "question": "In the cute pic mentioned by Nate, there is an image. How many shelled reptiles are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdn12.picryl.com/photo/2016/12/31/turtle-nature-slow-nature-landscapes-9a70ba-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_5",
+        "visual_category": "Attribute",
+        "question": "In the walking them mentioned by Nate, there is an image. What color is the ground they are on?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://cdn12.picryl.com/photo/2016/12/31/turtle-nature-slow-nature-landscapes-9a70ba-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_5",
+        "visual_category": "Spatial",
+        "question": "In the cute pic mentioned by Nate, there is an image. Which animal is positioned further from the viewer, the larger one or the smaller one?",
+        "answer": "The larger one",
+        "img_url": [
+            "https://cdn12.picryl.com/photo/2016/12/31/turtle-nature-slow-nature-landscapes-9a70ba-1024.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_7",
+        "visual_category": "Attribute",
+        "question": "In the look mentioned by Nate, there is an image. What color are the person's eyes?",
+        "answer": "Greenish-grey",
+        "img_url": [
+            "https://live.staticflickr.com/2378/2443069910_bf08328b2b_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_7",
+        "visual_category": "Attribute",
+        "question": "In the look mentioned by Nate, there is an image. What is the style of the person's hair?",
+        "answer": "Spiked",
+        "img_url": [
+            "https://live.staticflickr.com/2378/2443069910_bf08328b2b_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_7",
+        "visual_category": "Attribute",
+        "question": "In the look mentioned by Nate, there is an image. What color are the person's eyeglass frames?",
+        "answer": "Dark grey/black",
+        "img_url": [
+            "https://live.staticflickr.com/2378/2443069910_bf08328b2b_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_7",
+        "visual_category": "Attribute",
+        "question": "In the gorgeous sunset I saw while hiking mentioned by Joanna, there is an image. What is the dominant color of the illuminated clouds?",
+        "answer": "Pink and orange",
+        "img_url": [
+            "https://i.redd.it/ruvtfm6ixchb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_7",
+        "visual_category": "Counting",
+        "question": "In the gorgeous sunset I saw while hiking mentioned by Joanna, there is an image. How many main utility poles are visible directly alongside the road?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/ruvtfm6ixchb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_7",
+        "visual_category": "Attribute",
+        "question": "In the gorgeous sunset I saw while hiking mentioned by Joanna, there is an image. What color is the roof of the building closest to the right edge of the image?",
+        "answer": "Dark red/Maroon",
+        "img_url": [
+            "https://i.redd.it/ruvtfm6ixchb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the romantic drama mentioned by Joanna, there is an image. What is the full title of the movie shown on the poster?",
+        "answer": "Eternal Sunshine of the Spotless Mind",
+        "img_url": [
+            "https://i.pinimg.com/originals/80/ce/f7/80cef746e94a1720df6d3ffec883087e.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the romantic drama mentioned by Joanna, there is an image. Which actor's name is listed first at the top of the poster?",
+        "answer": "Jim Carrey",
+        "img_url": [
+            "https://i.pinimg.com/originals/80/ce/f7/80cef746e94a1720df6d3ffec883087e.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_1",
+        "visual_category": "Attribute",
+        "question": "In the romantic drama mentioned by Joanna, there is an image. What color is the woman's hair in the upper section of the poster?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/80/ce/f7/80cef746e94a1720df6d3ffec883087e.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_1",
+        "visual_category": "Attribute",
+        "question": "In the physical copy mentioned by Joanna, there is an image. What formats are indicated on the movie case?",
+        "answer": "4K Ultra HD and Blu-ray",
+        "img_url": [
+            "https://i.redd.it/3i39xdbz3td91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_1",
+        "visual_category": "Counting",
+        "question": "In the physical copy mentioned by Joanna, there is an image. How many actors are listed by name on the movie case cover?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.redd.it/3i39xdbz3td91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_1",
+        "visual_category": "Attribute",
+        "question": "In the physical copy mentioned by Joanna, there is an image. What color is the surface the movie case is resting on?",
+        "answer": "Brown",
+        "img_url": [
+            "https://i.redd.it/3i39xdbz3td91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_6",
+        "visual_category": "Counting",
+        "question": "In the go-to place for writing inspiration mentioned by Joanna, there is an image. How many distinct horizontal shelves are filled with books?",
+        "answer": "Three",
+        "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW88nSAhvDHq-ZyBSZlQ__czsDBW4hEFEvzdgkz06j4ByTnkAamu38jTEXQmzjkEgmS2VYyUYt4e0kz5cfhH7pChnTfAR2OKl9HZj7T91RxPZTV5qxTpi3jjpbFY1wD9Myi7633MAHlwiCL1LtCXt8iiQLed4Kzu2FY7thoxVxVBW8faEpQ-qyEFLwBTA/s4032/Photo%2023.07.23,%2014%2034%2052.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_6",
+        "visual_category": "Attribute",
+        "question": "In the go-to place for writing inspiration mentioned by Joanna, there is an image. What color is the book with 'CULINARIA Italia' written on its spine?",
+        "answer": "Green",
+        "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW88nSAhvDHq-ZyBSZlQ__czsDBW4hEFEvzdgkz06j4ByTnkAamu38jTEXQmzjkEgmS2VYyUYt4e0kz5cfhH7pChnTfAR2OKl9HZj7T91RxPZTV5qxTpi3jjpbFY1wD9Myi7633MAHlwiCL1LtCXt8iiQLed4Kzu2FY7thoxVxVBW8faEpQ-qyEFLwBTA/s4032/Photo%2023.07.23,%2014%2034%2052.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_6",
+        "visual_category": "Attribute",
+        "question": "In the go-to place for writing inspiration mentioned by Joanna, there is an image. Is there any item on the shelves that is spiral-bound?",
+        "answer": "Yes, notebooks",
+        "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW88nSAhvDHq-ZyBSZlQ__czsDBW4hEFEvzdgkz06j4ByTnkAamu38jTEXQmzjkEgmS2VYyUYt4e0kz5cfhH7pChnTfAR2OKl9HZj7T91RxPZTV5qxTpi3jjpbFY1wD9Myi7633MAHlwiCL1LtCXt8iiQLed4Kzu2FY7thoxVxVBW8faEpQ-qyEFLwBTA/s4032/Photo%2023.07.23,%2014%2034%2052.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_11",
+        "visual_category": "Attribute",
+        "question": "In the \"this spot on the hike\" mentioned by Joanna, there is an image. Are there clear skies or is it overcast?",
+        "answer": "Overcast",
+        "img_url": [
+            "https://burst.shopifycdn.com/photos/large-rolling-waterfall-though-a-lush-green-hill.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_11",
+        "visual_category": "Counting",
+        "question": "In the \"this spot on the hike\" mentioned by Joanna, there is an image. How many major distinct tiers of water are visible cascading down the hillside?",
+        "answer": "Three",
+        "img_url": [
+            "https://burst.shopifycdn.com/photos/large-rolling-waterfall-though-a-lush-green-hill.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_11",
+        "visual_category": "Attribute",
+        "question": "In the \"this spot on the hike\" mentioned by Joanna, there is an image. Is there any man-made structure visible on the distant hilltop?",
+        "answer": "Yes, a small building",
+        "img_url": [
+            "https://burst.shopifycdn.com/photos/large-rolling-waterfall-though-a-lush-green-hill.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_10",
+        "visual_category": "Attribute",
+        "question": "In the setup he is taking care of mentioned by Nate, there is an image. What is the primary color of the gaming chair?",
+        "answer": "Light pink",
+        "img_url": [
+            "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_10",
+        "visual_category": "Counting",
+        "question": "In the setup he is taking care of mentioned by Nate, there is an image. How many hexagonal light panels are mounted on the wall?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the setup he is taking care of mentioned by Nate, there is an image. What is the visible game title on the poster to the right?",
+        "answer": "Destiny 2",
+        "img_url": [
+            "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_10",
+        "visual_category": "Attribute",
+        "question": "In the cake mentioned by Joanna, there is an image. What pattern is created by the frosting on top?",
+        "answer": "Spiral pattern",
+        "img_url": [
+            "http://ventitobakery.com/cdn/shop/products/white-gluten-dairy-free-cake.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_10",
+        "visual_category": "Attribute",
+        "question": "In the cake mentioned by Joanna, there is an image. What is the texture of the frosting on the cake's sides?",
+        "answer": "Spiky",
+        "img_url": [
+            "http://ventitobakery.com/cdn/shop/products/white-gluten-dairy-free-cake.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_10",
+        "visual_category": "Attribute",
+        "question": "In the cake mentioned by Joanna, there is an image. What color is the background behind the cake?",
+        "answer": "Light gray",
+        "img_url": [
+            "http://ventitobakery.com/cdn/shop/products/white-gluten-dairy-free-cake.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_8",
+        "visual_category": "Counting",
+        "question": "In the activity mentioned by Nate, there is an image. How many turtles are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/56/fe/7e/56fe7e9b291f916e8c6578732d8aad8a.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_8",
+        "visual_category": "Attribute",
+        "question": "In the moment mentioned by Nate, there is an image. What color is the stripe on the side of the top turtle's head?",
+        "answer": "Red-orange",
+        "img_url": [
+            "https://i.pinimg.com/originals/56/fe/7e/56fe7e9b291f916e8c6578732d8aad8a.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_8",
+        "visual_category": "Attribute",
+        "question": "In the scene mentioned by Nate, there is an image. What type of fruit is visible near the turtles?",
+        "answer": "Strawberries",
+        "img_url": [
+            "https://i.pinimg.com/originals/56/fe/7e/56fe7e9b291f916e8c6578732d8aad8a.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_8",
+        "visual_category": "Counting",
+        "question": "In the food like this mentioned by Nate, there is an image. How many scoops of ice cream are present in the green bowl?",
+        "answer": "Two",
+        "img_url": [
+            "https://beadyarnspatula.files.wordpress.com/2023/05/img_6671.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_8",
+        "visual_category": "Attribute",
+        "question": "In the food like this mentioned by Nate, there is an image. What color is the rim of the bowl holding the ice cream?",
+        "answer": "Orange/Red",
+        "img_url": [
+            "https://beadyarnspatula.files.wordpress.com/2023/05/img_6671.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_8",
+        "visual_category": "Attribute",
+        "question": "In the food like this mentioned by Nate, there is an image. What pattern is visible on the surface beneath the bowls and cones?",
+        "answer": "Quatrefoil",
+        "img_url": [
+            "https://beadyarnspatula.files.wordpress.com/2023/05/img_6671.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_13",
+        "visual_category": "Attribute",
+        "question": "In the new pup mentioned by Nate, there is an image. What material is the pup toy made of?",
+        "answer": "Plush fabric",
+        "img_url": [
+            "https://i.redd.it/usll6z99c2tb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_13",
+        "visual_category": "Attribute",
+        "question": "In the new pup mentioned by Nate, there is an image. What color is the blanket the pup is resting on?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/usll6z99c2tb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_13",
+        "visual_category": "Counting",
+        "question": "In the new pup mentioned by Nate, there is an image. How many eyes does the pup toy have?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/usll6z99c2tb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_15",
+        "visual_category": "Attribute",
+        "question": "In the figures mentioned by Nate, there is an image. What are the two primary colors of the Iron Man figure?",
+        "answer": "Red and silver",
+        "img_url": [
+            "https://live.staticflickr.com/7148/6768759075_81b67d203f_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_15",
+        "visual_category": "Counting",
+        "question": "In the figures mentioned by Nate, there is an image. How many glowing circles are visible on the figure's chest?",
+        "answer": "One",
+        "img_url": [
+            "https://live.staticflickr.com/7148/6768759075_81b67d203f_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_15",
+        "visual_category": "Attribute",
+        "question": "In the figures mentioned by Nate, there is an image. Does the silver armor on the figure's torso appear smooth or segmented?",
+        "answer": "Segmented",
+        "img_url": [
+            "https://live.staticflickr.com/7148/6768759075_81b67d203f_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_15",
+        "visual_category": "Attribute",
+        "question": "In the pic of my cork board mentioned by Joanna, there is an image. What material is the frame around the cork board made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://i.pinimg.com/originals/cc/b0/14/ccb0147bd55dfa436f284fb5939a7808.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_15",
+        "visual_category": "Counting",
+        "question": "In the cork board mentioned by Joanna, there is an image. How many pineapple-shaped keepsakes are displayed on it?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/cc/b0/14/ccb0147bd55dfa436f284fb5939a7808.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_15",
+        "visual_category": "Attribute",
+        "question": "In the cork board mentioned by Joanna, there is an image. What is the background pattern on the top right portion of the board?",
+        "answer": "Polka dots",
+        "img_url": [
+            "https://i.pinimg.com/originals/cc/b0/14/ccb0147bd55dfa436f284fb5939a7808.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_12",
+        "visual_category": "Attribute",
+        "question": "In the new addition to the family mentioned by Nate, there is an image. What color is Max's fur?",
+        "answer": "Light brown",
+        "img_url": [
+            "https://i.redd.it/rgx6yqabu5e91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_12",
+        "visual_category": "Counting",
+        "question": "In the new addition to the family mentioned by Nate, there is an image. How many decorative studs are visible along the top edge of the chair?",
+        "answer": "13",
+        "img_url": [
+            "https://i.redd.it/rgx6yqabu5e91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_12",
+        "visual_category": "Attribute",
+        "question": "In the new addition to the family mentioned by Nate, there is an image. What is the material of the dog bowl on the floor?",
+        "answer": "Metal",
+        "img_url": [
+            "https://i.redd.it/rgx6yqabu5e91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_12",
+        "visual_category": "Attribute",
+        "question": "In the what I've been working on mentioned by Joanna, there is an image. What color are the patches on the dog sticker?",
+        "answer": "Brown",
+        "img_url": [
+            "https://media.s-bol.com/733KLkpMNDlw/550x827.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_12",
+        "visual_category": "Attribute",
+        "question": "In the what I've been working on mentioned by Joanna, there is an image. What color is the tip of the pen resting on the notebook?",
+        "answer": "Purple",
+        "img_url": [
+            "https://media.s-bol.com/733KLkpMNDlw/550x827.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_12",
+        "visual_category": "Counting",
+        "question": "In the what I've been working on mentioned by Joanna, there is an image. How many visible binding holes are present on the right edge of the notebook page?",
+        "answer": "Four",
+        "img_url": [
+            "https://media.s-bol.com/733KLkpMNDlw/550x827.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the context of her writing mentioned by Joanna, there is an image. What is the full date written at the top of the journal page?",
+        "answer": "July 18, 2020",
+        "img_url": [
+            "https://threeteacherstalk.files.wordpress.com/2021/06/fnqw-6.18.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Attribute",
+        "question": "In the context of her writing mentioned by Joanna, there is an image. What pattern is visible on the top left piece of tape securing the poem?",
+        "answer": "Yellow geometric lines",
+        "img_url": [
+            "https://threeteacherstalk.files.wordpress.com/2021/06/fnqw-6.18.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Counting",
+        "question": "In the context of her writing mentioned by Joanna, there is an image. How many distinct pieces of tape are used to attach the poem to the journal page?",
+        "answer": "Four",
+        "img_url": [
+            "https://threeteacherstalk.files.wordpress.com/2021/06/fnqw-6.18.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Attribute",
+        "question": "In the playing video games mentioned by Nate, there is an image. What color is the video game controller shown?",
+        "answer": "Black",
+        "img_url": [
+            "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/10/20201026_152436-scaled-e1604409626602.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Counting",
+        "question": "In the playing video games mentioned by Nate, there is an image. How many distinct colored buttons are on the right side of the controller?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/10/20201026_152436-scaled-e1604409626602.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Spatial",
+        "question": "In the playing video games mentioned by Nate, there is an image. Where is the console located in relation to the controller?",
+        "answer": "Behind it",
+        "img_url": [
+            "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/10/20201026_152436-scaled-e1604409626602.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Attribute",
+        "question": "In the trilogy mentioned by Nate, there is an image. What format are the two individual trilogy cases on the right?",
+        "answer": "4K Ultra HD",
+        "img_url": [
+            "https://i.redd.it/7vtqewbtg1181.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "OCR/Text",
+        "question": "In the trilogy mentioned by Nate, there is an image. What is the third movie title listed on The Hobbit box set?",
+        "answer": "The Battle of the Five Armies",
+        "img_url": [
+            "https://i.redd.it/7vtqewbtg1181.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Counting",
+        "question": "In the trilogy mentioned by Nate, there is an image. How many distinct movie trilogy collections are visible on the shelf?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/7vtqewbtg1181.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Counting",
+        "question": "In the series mentioned by Nate, there is an image. How many books are shown in total?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.redd.it/o2ifb25e7qa31.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Attribute",
+        "question": "In the series mentioned by Nate, there is an image. What is the dominant color of the dragon on the cover of 'Dragon Rule'?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/o2ifb25e7qa31.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_9",
+        "visual_category": "Spatial",
+        "question": "In the series mentioned by Nate, there is an image. What is the title of the book located in the top right position?",
+        "answer": "Dragon Outcast",
+        "img_url": [
+            "https://i.redd.it/o2ifb25e7qa31.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_20",
+        "visual_category": "Counting",
+        "question": "In the cute animals mentioned by Nate, there is an image. How many turtles are clearly visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://live.staticflickr.com/8056/8444279059_bbf0c79356_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_20",
+        "visual_category": "Attribute",
+        "question": "In the cute animals mentioned by Nate, there is an image. What color stripes are visible on the neck of the turtle with its head raised?",
+        "answer": "Yellow and black",
+        "img_url": [
+            "https://live.staticflickr.com/8056/8444279059_bbf0c79356_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_20",
+        "visual_category": "Attribute",
+        "question": "In the cute animals mentioned by Nate, there is an image. What is growing on the surface where the turtles are resting?",
+        "answer": "Moss",
+        "img_url": [
+            "https://live.staticflickr.com/8056/8444279059_bbf0c79356_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_20",
+        "visual_category": "Counting",
+        "question": "In the dairy-free chocolate coconut cupcakes with raspberry frosting mentioned by Joanna, there is an image. How many cupcakes are visible on the tray?",
+        "answer": "Four",
+        "img_url": [
+            "https://belleofthekitchen.com/wp-content/uploads/2023/02/chocolate-raspberry-cupcakes-3-3-680x991.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_20",
+        "visual_category": "Attribute",
+        "question": "In the dairy-free chocolate coconut cupcakes with raspberry frosting mentioned by Joanna, there is an image. What color is the frosting on the cupcake topped with sliced fruit pieces?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://belleofthekitchen.com/wp-content/uploads/2023/02/chocolate-raspberry-cupcakes-3-3-680x991.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_20",
+        "visual_category": "Attribute",
+        "question": "In the dairy-free chocolate coconut cupcakes with raspberry frosting mentioned by Joanna, there is an image. What is visible about the cupcake in the foreground?",
+        "answer": "It is partially eaten/cut",
+        "img_url": [
+            "https://belleofthekitchen.com/wp-content/uploads/2023/02/chocolate-raspberry-cupcakes-3-3-680x991.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Counting",
+        "question": "In the writing projects mentioned by Joanna, there is an image. How many unique visual styles are used for the word 'HEADER' or 'header' on the page?",
+        "answer": "16",
+        "img_url": [
+            "https://i.pinimg.com/originals/2f/df/23/2fdf2357bee9649780477b595cb2b003.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Attribute",
+        "question": "In the journal mentioned by Joanna, there is an image. What is the background color of the journal page?",
+        "answer": "White",
+        "img_url": [
+            "https://i.pinimg.com/originals/2f/df/23/2fdf2357bee9649780477b595cb2b003.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Attribute",
+        "question": "In the journal mentioned by Joanna, there is an image. What color are the spirals of the journal's binding?",
+        "answer": "Silver",
+        "img_url": [
+            "https://i.pinimg.com/originals/2f/df/23/2fdf2357bee9649780477b595cb2b003.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "OCR/Text",
+        "question": "In the letter mentioned by Joanna, there is an image. What is the name of the person who signed the letter?",
+        "answer": "Becky",
+        "img_url": [
+            "https://miro.medium.com/v2/resize:fit:1080/1*STWNNHylvChYFOt7801CQg.png"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Attribute",
+        "question": "In the letter mentioned by Joanna, there is an image. What color ink was used to write the letter?",
+        "answer": "Blue",
+        "img_url": [
+            "https://miro.medium.com/v2/resize:fit:1080/1*STWNNHylvChYFOt7801CQg.png"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "OCR/Text",
+        "question": "In the letter mentioned by Joanna, there is an image. What year is mentioned in the opening paragraph of the letter?",
+        "answer": "2023",
+        "img_url": [
+            "https://miro.medium.com/v2/resize:fit:1080/1*STWNNHylvChYFOt7801CQg.png"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Counting",
+        "question": "In the teaching people how to make this mentioned by Nate, there is an image. How many wafer rolls are placed in the dessert?",
+        "answer": "Two",
+        "img_url": [
+            "https://i2.pickpik.com/photos/798/109/80/ice-cream-sundae-ice-cream-sundae-vanilla-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Attribute",
+        "question": "In the teaching people how to make this mentioned by Nate, there is an image. What type of glass is the dessert served in?",
+        "answer": "A stemmed glass",
+        "img_url": [
+            "https://i2.pickpik.com/photos/798/109/80/ice-cream-sundae-ice-cream-sundae-vanilla-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_18",
+        "visual_category": "Attribute",
+        "question": "In the teaching people how to make this mentioned by Nate, there is an image. What pattern is visible on the surface beneath the dessert?",
+        "answer": "Horizontal slats",
+        "img_url": [
+            "https://i2.pickpik.com/photos/798/109/80/ice-cream-sundae-ice-cream-sundae-vanilla-preview.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Counting",
+        "question": "In the snap of the ice cream mentioned by Nate, there is an image. How many scoops of ice cream are in the white bowl?",
+        "answer": "3",
+        "img_url": [
+            "https://live.staticflickr.com/7055/6945130989_40895e5372_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Attribute",
+        "question": "In the snap of the ice cream mentioned by Nate, there is an image. What pattern and colors are on the cloth beneath the bowl?",
+        "answer": "Checkered, red, orange, green, purple",
+        "img_url": [
+            "https://live.staticflickr.com/7055/6945130989_40895e5372_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Attribute",
+        "question": "In the snap of the ice cream mentioned by Nate, there is an image. What material is the spoon next to the bowl made of?",
+        "answer": "Metal",
+        "img_url": [
+            "https://live.staticflickr.com/7055/6945130989_40895e5372_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Counting",
+        "question": "In the amazing chocolate raspberry tart mentioned by Joanna, there is an image. How many raspberries are placed directly on top of the tart?",
+        "answer": "35",
+        "img_url": [
+            "https://wornslapout.com/wp-content/uploads/2018/11/img_3684.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Attribute",
+        "question": "In the amazing chocolate raspberry tart mentioned by Joanna, there is an image. What is the design of the tart pan's edge?",
+        "answer": "Fluted/scalloped",
+        "img_url": [
+            "https://wornslapout.com/wp-content/uploads/2018/11/img_3684.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "OCR/Text",
+        "question": "In the amazing chocolate raspberry tart mentioned by Joanna, there is an image. What brand name is written on the chocolate squares near the tart?",
+        "answer": "Ghirardelli",
+        "img_url": [
+            "https://wornslapout.com/wp-content/uploads/2018/11/img_3684.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Counting",
+        "question": "In the dairy-free chocolate cake with raspberries mentioned by Joanna, there is an image. How many whole raspberries are visible on the plate?",
+        "answer": "Six",
+        "img_url": [
+            "https://yaycakeday.files.wordpress.com/2019/08/ice-cream-cake-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Attribute",
+        "question": "In the dairy-free chocolate cake with raspberries mentioned by Joanna, there is an image. What kind of pattern is on the plate holding the cake?",
+        "answer": "Floral",
+        "img_url": [
+            "https://yaycakeday.files.wordpress.com/2019/08/ice-cream-cake-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_21",
+        "visual_category": "Attribute",
+        "question": "In the dairy-free chocolate cake with raspberries mentioned by Joanna, there is an image. What appears to be coating the outer surface of the cake slice?",
+        "answer": "Chocolate glaze",
+        "img_url": [
+            "https://yaycakeday.files.wordpress.com/2019/08/ice-cream-cake-1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Counting",
+        "question": "In the my fourth video game tournament mentioned by Nate, there is an image. What number of wins is displayed for the 'PGA TOUR Event' trophy that is currently highlighted?",
+        "answer": "0",
+        "img_url": [
+            "https://c8.alamy.com/comp/2CX4E6J/winning-team-of-happy-professional-cyber-sport-gamers-celebrating-success-while-participating-in-esports-tournament-playing-online-video-games-2CX4E6J.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "OCR/Text",
+        "question": "In the my fourth video game tournament mentioned by Nate, there is an image. What is the name of the organization visible on the trophy showing 'Regular Wins: 1'?",
+        "answer": "Shriners Hospitals for Children",
+        "img_url": [
+            "https://c8.alamy.com/comp/2CX4E6J/winning-team-of-happy-professional-cyber-sport-gamers-celebrating-success-while-participating-in-esports-tournament-playing-online-video-games-2CX4E6J.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the my fourth video game tournament mentioned by Nate, there is an image. What kind of sporting activity is represented by the logo displayed under the 'PGA TOUR Event' text?",
+        "answer": "Golf",
+        "img_url": [
+            "https://c8.alamy.com/comp/2CX4E6J/winning-team-of-happy-professional-cyber-sport-gamers-celebrating-success-while-participating-in-esports-tournament-playing-online-video-games-2CX4E6J.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Counting",
+        "question": "In the library mentioned by Joanna, there is an image. How many horizontal shelves are fully visible?",
+        "answer": "Five",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/9/91/Old_Geodesy_library_books.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the library mentioned by Joanna, there is an image. What is the dominant color of the books on the top left shelf?",
+        "answer": "Tan/beige",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/9/91/Old_Geodesy_library_books.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the library mentioned by Joanna, there is an image. Do most of the book spines have small white labels near their bottom?",
+        "answer": "Yes",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/9/91/Old_Geodesy_library_books.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "OCR/Text",
+        "question": "In the super cool book from the 1900s with stories and sketches mentioned by Joanna, there is an image. What brand name is visible on the ink bottle?",
+        "answer": "Speedball",
+        "img_url": [
+            "https://i.etsystatic.com/8943494/r/il/c17dd4/5304611993/il_300x300.5304611993_73kn.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the super cool book from the 1900s with stories and sketches mentioned by Joanna, there is an image. What color ink is used for the handwriting?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.etsystatic.com/8943494/r/il/c17dd4/5304611993/il_300x300.5304611993_73kn.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the super cool book from the 1900s with stories and sketches mentioned by Joanna, there is an image. What color are the pages of the open book?",
+        "answer": "Cream/Tan",
+        "img_url": [
+            "https://i.etsystatic.com/8943494/r/il/c17dd4/5304611993/il_300x300.5304611993_73kn.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the book mentioned by Joanna, there is an image. What type of binding does it have?",
+        "answer": "Spiral",
+        "img_url": [
+            "https://s.studiobinder.com/wp-content/uploads/2022/12/How-to-Format-Dialogue-in-a-Script-Formatting-the-Dialogue-Block-StudioBinder-Screenwriting-Software.png"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "Attribute",
+        "question": "In the book mentioned by Joanna, there is an image. What color is the furniture armrest visible to the left of the notebook?",
+        "answer": "Dark brown",
+        "img_url": [
+            "https://s.studiobinder.com/wp-content/uploads/2022/12/How-to-Format-Dialogue-in-a-Script-Formatting-the-Dialogue-Block-StudioBinder-Screenwriting-Software.png"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_17",
+        "visual_category": "OCR/Text",
+        "question": "In the book mentioned by Joanna, there is an image. What is the earliest date explicitly written on the visible pages?",
+        "answer": "29/5/20",
+        "img_url": [
+            "https://s.studiobinder.com/wp-content/uploads/2022/12/How-to-Format-Dialogue-in-a-Script-Formatting-the-Dialogue-Block-StudioBinder-Screenwriting-Software.png"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Attribute",
+        "question": "In the newest dairy-free recipe mentioned by Joanna, there is an image. What is the shape of the tart's crust?",
+        "answer": "Fluted",
+        "img_url": [
+            "https://i0.wp.com/mittsandmeasures.com/wp-content/uploads/2019/10/img_0051.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Counting",
+        "question": "In the newest dairy-free recipe mentioned by Joanna, there is an image. How many whole raspberries are visible on the tart?",
+        "answer": "30",
+        "img_url": [
+            "https://i0.wp.com/mittsandmeasures.com/wp-content/uploads/2019/10/img_0051.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Attribute",
+        "question": "In the newest dairy-free recipe mentioned by Joanna, there is an image. What color is the plate holding the tart?",
+        "answer": "White",
+        "img_url": [
+            "https://i0.wp.com/mittsandmeasures.com/wp-content/uploads/2019/10/img_0051.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Counting",
+        "question": "In the really big video game tournament mentioned by Nate, there is an image. How many character figures are displayed with the trophy?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/0z7nrwjeqc431.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Attribute",
+        "question": "In the really big video game tournament mentioned by Nate, there is an image. What color are the handles of the trophy?",
+        "answer": "Gold",
+        "img_url": [
+            "https://i.redd.it/0z7nrwjeqc431.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Attribute",
+        "question": "In the really big video game tournament mentioned by Nate, there is an image. What color is the primary A button on the GameCube controller?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/0z7nrwjeqc431.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Counting",
+        "question": "In the creation mentioned by Nate, there is an image. How many distinct arrow drawings are present?",
+        "answer": "Seven",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "OCR/Text",
+        "question": "In the creation mentioned by Nate, there is an image. What specific date is written at the top?",
+        "answer": "Feb 24, 2020",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Attribute",
+        "question": "In the creation mentioned by Nate, there is an image. Is there a heart shape incorporated into one of the arrow designs?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "OCR/Text",
+        "question": "In the cute little bookmark mentioned by Joanna, there is an image. What phrase is written next to the stack of books?",
+        "answer": "just one more CHAPTER",
+        "img_url": [
+            "https://i.pinimg.com/originals/7e/d3/bb/7ed3bb9129ef6126259592e038e2cd17.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Counting",
+        "question": "In the cute little bookmark mentioned by Joanna, there is an image. How many books are stacked in the illustration?",
+        "answer": "17",
+        "img_url": [
+            "https://i.pinimg.com/originals/7e/d3/bb/7ed3bb9129ef6126259592e038e2cd17.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_22",
+        "visual_category": "Attribute",
+        "question": "In the cute little bookmark mentioned by Joanna, there is an image. What color is the plant pot resting on the stack of books?",
+        "answer": "Brown",
+        "img_url": [
+            "https://i.pinimg.com/originals/7e/d3/bb/7ed3bb9129ef6126259592e038e2cd17.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_26",
+        "visual_category": "Counting",
+        "question": "In these old notebooks mentioned by Joanna, there is an image. How many distinct ink colors are visible for the writing?",
+        "answer": "Two",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/stack-old-notebooks-with-handwritten-notes-pen-wooden-table_885831-72372.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_26",
+        "visual_category": "Attribute",
+        "question": "In these old notebooks mentioned by Joanna, there is an image. What is the approximate color of the notebook's cover?",
+        "answer": "Brown",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/stack-old-notebooks-with-handwritten-notes-pen-wooden-table_885831-72372.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_26",
+        "visual_category": "Attribute",
+        "question": "In these old notebooks mentioned by Joanna, there is an image. Is the paper in the notebook lined or unlined?",
+        "answer": "Lined",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/stack-old-notebooks-with-handwritten-notes-pen-wooden-table_885831-72372.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_26",
+        "visual_category": "Attribute",
+        "question": "In the yummy treat mentioned by Nate, there is an image. What color is the dessert itself?",
+        "answer": "Pink",
+        "img_url": [
+            "https://i.redd.it/4q9s9o2607ib1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_26",
+        "visual_category": "Attribute",
+        "question": "In the yummy treat mentioned by Nate, there is an image. What color is the bowl holding the dessert?",
+        "answer": "Dark grey and blue",
+        "img_url": [
+            "https://i.redd.it/4q9s9o2607ib1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_26",
+        "visual_category": "Attribute",
+        "question": "In the yummy treat mentioned by Nate, there is an image. What color is the shirt worn by the person holding the bowl?",
+        "answer": "Turquoise/Teal",
+        "img_url": [
+            "https://i.redd.it/4q9s9o2607ib1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Counting",
+        "question": "In the new tank mentioned by Nate, there is an image. How many turtles are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/57/31/42/57314282992ff77a40be8450c003b5c7.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the new tank mentioned by Nate, there is an image. What is the primary color of the gravel at the bottom of the tank?",
+        "answer": "Pink and white",
+        "img_url": [
+            "https://i.pinimg.com/originals/57/31/42/57314282992ff77a40be8450c003b5c7.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the new tank mentioned by Nate, there is an image. What is on the reddish-brown floating decoration?",
+        "answer": "White food pellets",
+        "img_url": [
+            "https://i.pinimg.com/originals/57/31/42/57314282992ff77a40be8450c003b5c7.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the sharing of her book with her writers group mentioned by Joanna, there is an image. What color is the laptop screen?",
+        "answer": "Black.",
+        "img_url": [
+            "https://halekatiedotcom.files.wordpress.com/2020/09/img_6976.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Counting",
+        "question": "In the sharing of her book with her writers group mentioned by Joanna, there is an image. How many wicker baskets are on the top shelf?",
+        "answer": "Three.",
+        "img_url": [
+            "https://halekatiedotcom.files.wordpress.com/2020/09/img_6976.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Spatial",
+        "question": "In the sharing of her book with her writers group mentioned by Joanna, there is an image. On which shelf is the red paper flower located?",
+        "answer": "Second from top.",
+        "img_url": [
+            "https://halekatiedotcom.files.wordpress.com/2020/09/img_6976.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Counting",
+        "question": "In the delicious treat mentioned by Joanna, there is an image. How many glasses of the treat are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://tastecando.com/cdn/shop/articles/Keto_Krisp_January_Post.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "OCR/Text",
+        "question": "In the delicious treat mentioned by Joanna, there is an image. What brand name is visible on the protein bar wrapper next to the glasses?",
+        "answer": "KETO KRISP",
+        "img_url": [
+            "https://tastecando.com/cdn/shop/articles/Keto_Krisp_January_Post.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the delicious treat mentioned by Joanna, there is an image. What material are the spoons in the glasses made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://tastecando.com/cdn/shop/articles/Keto_Krisp_January_Post.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Other",
+        "question": "In the a lot of books to choose from mentioned by Nate, there is an image. What other items are stored on top of the bookshelves, besides books?",
+        "answer": "Board games",
+        "img_url": [
+            "https://i.redd.it/k78gqk5c5kx71.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the a lot of books to choose from mentioned by Nate, there is an image. What are the colors of the two toy vehicles displayed on one of the shelves?",
+        "answer": "Red and white, blue",
+        "img_url": [
+            "https://i.redd.it/k78gqk5c5kx71.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "OCR/Text",
+        "question": "In the a lot of books to choose from mentioned by Nate, there is an image. What is the title of one of the book series visible on the shelves?",
+        "answer": "Dune",
+        "img_url": [
+            "https://i.redd.it/k78gqk5c5kx71.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the series mentioned by Nate, there is an image. What colors are the jewels visible on the crown next to the books?",
+        "answer": "Gold, brown, clear, dark",
+        "img_url": [
+            "https://thelitbitch.files.wordpress.com/2023/04/img_2043_jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Counting",
+        "question": "In the series mentioned by Nate, there is an image. How many books are visibly stacked in the image?",
+        "answer": "Three",
+        "img_url": [
+            "https://thelitbitch.files.wordpress.com/2023/04/img_2043_jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the series mentioned by Nate, there is an image. Does the wooden slice under the books have natural bark visible on its edge?",
+        "answer": "Yes",
+        "img_url": [
+            "https://thelitbitch.files.wordpress.com/2023/04/img_2043_jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "OCR/Text",
+        "question": "In the series mentioned by Nate, there is an image. What is the main title of the book shown?",
+        "answer": "Project Hail Mary",
+        "img_url": [
+            "https://i.redd.it/vx7o8gcqv01c1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Attribute",
+        "question": "In the series mentioned by Nate, there is an image. What type of suit is the figure on the cover wearing?",
+        "answer": "Astronaut suit",
+        "img_url": [
+            "https://i.redd.it/vx7o8gcqv01c1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_19",
+        "visual_category": "Counting",
+        "question": "In the series mentioned by Nate, there is an image. How many words are in the author's first and last name as displayed on the cover?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/vx7o8gcqv01c1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Counting",
+        "question": "In the characters Joanna worked so hard on mentioned by Joanna, there is an image. How many distinct character drawings are visible on the page?",
+        "answer": "8",
+        "img_url": [
+            "https://i.redd.it/ioa9eysnr9xb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the characters Joanna worked so hard on mentioned by Joanna, there is an image. What type of hat is the bear character wearing at the bottom of the page?",
+        "answer": "Top hat",
+        "img_url": [
+            "https://i.redd.it/ioa9eysnr9xb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the characters Joanna worked so hard on mentioned by Joanna, there is an image. What object is the rabbit-like character on the right holding?",
+        "answer": "A knife",
+        "img_url": [
+            "https://i.redd.it/ioa9eysnr9xb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Counting",
+        "question": "In the walk with his turtles mentioned by Nate, there is an image. How many turtles are visible on the log?",
+        "answer": "Two",
+        "img_url": [
+            "https://a-z-animals.com/media/2023/06/shutterstock-2007341807-huge-licensed-scaled-1024x683.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the walk with his turtles mentioned by Nate, there is an image. What colors are the prominent markings on the head of the turtle on the right?",
+        "answer": "Red and yellow",
+        "img_url": [
+            "https://a-z-animals.com/media/2023/06/shutterstock-2007341807-huge-licensed-scaled-1024x683.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Spatial",
+        "question": "In the walk with his turtles mentioned by Nate, there is an image. What natural object are the turtles resting on?",
+        "answer": "A log",
+        "img_url": [
+            "https://a-z-animals.com/media/2023/06/shutterstock-2007341807-huge-licensed-scaled-1024x683.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Counting",
+        "question": "In the relaxing in the tank mentioned by Nate, there is an image. How many tortoises are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tortoises_in_the_Cotswold_Wildlife_Park_restaurant_-_geograph.org.uk_-_1468751.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the relaxing in the tank mentioned by Nate, there is an image. What material covers the ground of the tank?",
+        "answer": "Wood chips",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tortoises_in_the_Cotswold_Wildlife_Park_restaurant_-_geograph.org.uk_-_1468751.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Spatial",
+        "question": "In the relaxing in the tank mentioned by Nate, there is an image. Where is the smaller tortoise positioned relative to the larger one?",
+        "answer": "On top",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tortoises_in_the_Cotswold_Wildlife_Park_restaurant_-_geograph.org.uk_-_1468751.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Counting",
+        "question": "In the moment of seeing them eat fruit mentioned by Nate, there is an image. How many turtle figurines are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/pet-turtle-eating-some-fruits-garden-exotic-domestic-animal-295442718.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the moment of seeing them eat fruit mentioned by Nate, there is an image. What color are the leaves attached to the fruit?",
+        "answer": "Green",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/pet-turtle-eating-some-fruits-garden-exotic-domestic-animal-295442718.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the moment of seeing them eat fruit mentioned by Nate, there is an image. What color is the main body of the fruit?",
+        "answer": "Red",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/pet-turtle-eating-some-fruits-garden-exotic-domestic-animal-295442718.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the holding them mentioned by Nate, there is an image. What color is the turtle's shell?",
+        "answer": "Brown and tan",
+        "img_url": [
+            "https://i.redd.it/i1d1xxfxqd251.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the holding them mentioned by Nate, there is an image. What color is the ring on the person's finger?",
+        "answer": "Dark gray",
+        "img_url": [
+            "https://i.redd.it/i1d1xxfxqd251.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_25",
+        "visual_category": "Attribute",
+        "question": "In the holding them mentioned by Nate, there is an image. Does the turtle have visible claws on its front foot?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/i1d1xxfxqd251.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the game convention mentioned by Nate, there is an image. What color is the cap the man in the foreground is wearing?",
+        "answer": "White",
+        "img_url": [
+            "http://scarlet-rhapsody.com/wp-content/uploads/2020/03/87613523_2854559627994666_1775718911015124992_n.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the game convention mentioned by Nate, there is an image. What is the player range displayed on the large poster behind the man?",
+        "answer": "1-5 Players",
+        "img_url": [
+            "http://scarlet-rhapsody.com/wp-content/uploads/2020/03/87613523_2854559627994666_1775718911015124992_n.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the game convention mentioned by Nate, there is an image. How many red dice are visible on the blue game mat?",
+        "answer": "4",
+        "img_url": [
+            "http://scarlet-rhapsody.com/wp-content/uploads/2020/03/87613523_2854559627994666_1775718911015124992_n.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the convention mentioned by Nate, there is an image. What color are the fishnet stockings worn by the person with pink hair?",
+        "answer": "Cream or beige",
+        "img_url": [
+            "https://i.redd.it/omjzdx4vo4h41.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the convention mentioned by Nate, there is an image. What text is written on the baseball cap of the person wearing the face mask?",
+        "answer": "KDA",
+        "img_url": [
+            "https://i.redd.it/omjzdx4vo4h41.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the convention mentioned by Nate, there is an image. How many people are making a peace sign with their hands?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/omjzdx4vo4h41.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the boardgame mentioned by Nate, there is an image. What is the name written on the game board?",
+        "answer": "Dune",
+        "img_url": [
+            "https://c8.alamy.com/comp/2YY2GHW/people-hands-playing-catan-board-game-2YY2GHW.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the shared hobbies mentioned by Nate, there is an image. How many open cans of soda are on the table?",
+        "answer": "One",
+        "img_url": [
+            "https://c8.alamy.com/comp/2YY2GHW/people-hands-playing-catan-board-game-2YY2GHW.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the people Nate mentioned meeting, there is an image. What color is the baseball cap worn by one of the players?",
+        "answer": "Dark grey",
+        "img_url": [
+            "https://c8.alamy.com/comp/2YY2GHW/people-hands-playing-catan-board-game-2YY2GHW.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the game Catan mentioned by Nate, how many number tokens with a red numeral are placed on the resource tiles?",
+        "answer": "4",
+        "img_url": [
+            "https://i.redd.it/byq7wy33k4w11.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the game Catan mentioned by Nate, what color is the robber piece placed on one of the desert tiles?",
+        "answer": "Gray",
+        "img_url": [
+            "https://i.redd.it/byq7wy33k4w11.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the game Catan mentioned by Nate, what trading ratio is indicated on the port tile visible in the top right section of the board?",
+        "answer": "3:1",
+        "img_url": [
+            "https://i.redd.it/byq7wy33k4w11.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the \"playing video games or watching movies\" mentioned by Nate, there is an image. What color is the waving cat's bib?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/806azldnt6bb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the \"playing video games or watching movies\" mentioned by Nate, there is an image. How many cardboard boxes with \"FRAGILE\" written on them are visible?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/806azldnt6bb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Spatial",
+        "question": "In the \"chilling at home\" mentioned by Nate, there is an image. Is the white dog figurine positioned in front of or behind the skateboard?",
+        "answer": "Behind",
+        "img_url": [
+            "https://i.redd.it/806azldnt6bb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the classic movie mentioned by Joanna, there is an image. What is the title of the movie poster?",
+        "answer": "Caddyshack",
+        "img_url": [
+            "http://mjbmemorabilia.com/cdn/shop/files/1_4c670c88-d207-4080-9b81-9b81ef1066fe.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the classic movie mentioned by Joanna, there is an image. How many distinct handwritten autographs are visible on the movie poster?",
+        "answer": "Four",
+        "img_url": [
+            "http://mjbmemorabilia.com/cdn/shop/files/1_4c670c88-d207-4080-9b81-9b81ef1066fe.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the classic movie mentioned by Joanna, there is an image. What is the primary background color of the movie poster?",
+        "answer": "Dark green",
+        "img_url": [
+            "http://mjbmemorabilia.com/cdn/shop/files/1_4c670c88-d207-4080-9b81-9b81ef1066fe.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Counting",
+        "question": "In the room like this mentioned by Joanna, there is an image. How many lit pillar candles are on the lower coffee table?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/1a/02/2c/1a022c736bdfb7c47f33272c27eac0e7.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "Attribute",
+        "question": "In the room like this mentioned by Joanna, there is an image. What is the large hanging light fixture in the top left corner shaped like?",
+        "answer": "A lotus flower",
+        "img_url": [
+            "https://i.pinimg.com/originals/1a/02/2c/1a022c736bdfb7c47f33272c27eac0e7.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the room like this mentioned by Joanna, there is an image. What specific company's logo is displayed on the television screen?",
+        "answer": "Walt Disney Pictures",
+        "img_url": [
+            "https://i.pinimg.com/originals/1a/02/2c/1a022c736bdfb7c47f33272c27eac0e7.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the filming her own movie mentioned by Joanna, there is an image. What is the title of the movie displayed on the clapperboard?",
+        "answer": "Mandho Returns",
+        "img_url": [
+            "https://i.redd.it/l7riz754xlj41.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Attribute",
+        "question": "In the filming her own movie mentioned by Joanna, there is an image. What colors are visible on the top striking part of the clapperboard?",
+        "answer": "Green, blue, white, gray",
+        "img_url": [
+            "https://i.redd.it/l7riz754xlj41.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Counting",
+        "question": "In the filming her own movie mentioned by Joanna, there is an image. How many screws secure the metal hinge of the clapperboard?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/l7riz754xlj41.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Counting",
+        "question": "In the moment of them soaking in the sun mentioned by Nate, how many turtles are visible on the log?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/q35gmvlsr6yb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Attribute",
+        "question": "In the moment of them soaking in the sun mentioned by Nate, what color are the stripes visible on the turtles' necks?",
+        "answer": "Orange and red",
+        "img_url": [
+            "https://i.redd.it/q35gmvlsr6yb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Other",
+        "question": "In the moment of them soaking in the sun mentioned by Nate, are there any small fish visible swimming in the water near the log?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/q35gmvlsr6yb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Counting",
+        "question": "In the colorful bowls of coconut milk ice cream mentioned by Nate, there is an image. How many scoops of ice cream are visible in the bowl?",
+        "answer": "Three",
+        "img_url": [
+            "https://www.biggerbolderbaking.com/wp-content/uploads/2015/01/BBB53-Dairy-Free-Ice-Cream-Thumbnail-NEW-FINAL.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Attribute",
+        "question": "In the colorful bowls of coconut milk ice cream mentioned by Nate, there is an image. What is the color of the bowl holding the ice cream?",
+        "answer": "Black",
+        "img_url": [
+            "https://www.biggerbolderbaking.com/wp-content/uploads/2015/01/BBB53-Dairy-Free-Ice-Cream-Thumbnail-NEW-FINAL.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_29",
+        "visual_category": "Attribute",
+        "question": "In the colorful bowls of coconut milk ice cream mentioned by Nate, there is an image. What type of utensil is partially visible in the bowl?",
+        "answer": "Spoon",
+        "img_url": [
+            "https://www.biggerbolderbaking.com/wp-content/uploads/2015/01/BBB53-Dairy-Free-Ice-Cream-Thumbnail-NEW-FINAL.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the homemade coconut ice cream mentioned by Nate, there is an image. What pattern is visible on some of the crushed toppings?",
+        "answer": "Red and white stripes",
+        "img_url": [
+            "https://beadyarnspatula.files.wordpress.com/2022/07/img_2596.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the homemade coconut ice cream mentioned by Nate, there is an image. What material is lining the pan holding the ice cream?",
+        "answer": "Parchment paper",
+        "img_url": [
+            "https://beadyarnspatula.files.wordpress.com/2022/07/img_2596.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the homemade coconut ice cream mentioned by Nate, there is an image. What type of utensil is resting in the ice cream?",
+        "answer": "Ice cream scoop",
+        "img_url": [
+            "https://beadyarnspatula.files.wordpress.com/2022/07/img_2596.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the writing mentioned by Joanna, there is an image. What color are the decorative bands on the pen?",
+        "answer": "Gold",
+        "img_url": [
+            "https://www.penboutique.com/cdn/shop/products/image_d3480c08-098f-481b-a456-de0607a4fe91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the writing mentioned by Joanna, there is an image. What color is the visible edge of the notebook's cover?",
+        "answer": "Red",
+        "img_url": [
+            "https://www.penboutique.com/cdn/shop/products/image_d3480c08-098f-481b-a456-de0607a4fe91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "OCR/Text",
+        "question": "In the writing mentioned by Joanna, there is an image. What brand name is printed on the open page of the notebook?",
+        "answer": "MONTBLANC",
+        "img_url": [
+            "https://www.penboutique.com/cdn/shop/products/image_d3480c08-098f-481b-a456-de0607a4fe91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "OCR/Text",
+        "question": "In the creating gaming content for YouTube mentioned by Nate, there is an image. What brand name is written on the headband of the headphones?",
+        "answer": "SENNHEISER",
+        "img_url": [
+            "https://i.redd.it/yldt4paim5k71.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the creating gaming content for YouTube mentioned by Nate, there is an image. What color is the gaming mouse on the desk?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/yldt4paim5k71.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Counting",
+        "question": "In the creating gaming content for YouTube mentioned by Nate, there is an image. What numerical value is displayed next to the in-game character's arm?",
+        "answer": "125",
+        "img_url": [
+            "https://i.redd.it/yldt4paim5k71.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Joanna, there is an image. What color are the seeds in the center of the largest sunflower?",
+        "answer": "Dark brown/black",
+        "img_url": [
+            "https://i.redd.it/ap48tronzy411.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Counting",
+        "question": "In the pic mentioned by Joanna, there is an image. How many unopened sunflower buds are prominently visible next to the largest open sunflower?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/ap48tronzy411.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Joanna, there is an image. What is the general shape of the clouds in the sky?",
+        "answer": "Wispy and scattered",
+        "img_url": [
+            "https://i.redd.it/ap48tronzy411.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the acquisition of a new friend mentioned by Nate, what is the predominant color of the rock the critters are resting on?",
+        "answer": "Light brown",
+        "img_url": [
+            "https://i.redd.it/hgcgvd0umzsb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Attribute",
+        "question": "In the acquisition of a new friend mentioned by Nate, what color markings are visible on the neck of the topmost turtle?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://i.redd.it/hgcgvd0umzsb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_28",
+        "visual_category": "Spatial",
+        "question": "In the acquisition of a new friend mentioned by Nate, where are the front legs of the lowest turtle positioned?",
+        "answer": "In the water",
+        "img_url": [
+            "https://i.redd.it/hgcgvd0umzsb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the presentation for producers mentioned by Joanna, there is an image. What color is the ink used for the handwritten notes?",
+        "answer": "Purple",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/streamlined-pitch-meeting-with-minimalist-presentation-corporate-conference_994764-104327.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Counting",
+        "question": "In the presentation for producers mentioned by Joanna, there is an image. How many main numbered sections are listed on the page?",
+        "answer": "Five",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/streamlined-pitch-meeting-with-minimalist-presentation-corporate-conference_994764-104327.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the presentation for producers mentioned by Joanna, there is an image. What is the main title written at the top of the page?",
+        "answer": "Fall of the Gatekeepers",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/streamlined-pitch-meeting-with-minimalist-presentation-corporate-conference_994764-104327.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Counting",
+        "question": "In the upgraded equipment mentioned by Nate, there is an image. How many display monitors are on the desk?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/92/1a/c3/921ac332715f9ecb9f50155427aa8ffc.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the upgraded equipment mentioned by Nate, there is an image. What kind of pattern is displayed on the computer screens?",
+        "answer": "Green leafy pattern",
+        "img_url": [
+            "https://i.pinimg.com/originals/92/1a/c3/921ac332715f9ecb9f50155427aa8ffc.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the upgraded equipment mentioned by Nate, there is an image. What color is the light visible on the front-facing side of the PC tower?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.pinimg.com/originals/92/1a/c3/921ac332715f9ecb9f50155427aa8ffc.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the something like this for his career mentioned by Nate, there is an image. What brand name is visible on the side of the headset?",
+        "answer": "Sennheiser",
+        "img_url": [
+            "https://i.redd.it/h99h0hvw6x761.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the something like this for his career mentioned by Nate, there is an image. What is the dominant color scheme of the gaming controller?",
+        "answer": "White and black",
+        "img_url": [
+            "https://i.redd.it/h99h0hvw6x761.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Counting",
+        "question": "In the something like this for his career mentioned by Nate, there is an image. How many analog joysticks are visible on the gaming controller?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/h99h0hvw6x761.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the awesome fantasy RPG called \"Xeonoblade Chronicles\" mentioned by Nate, there is an image. What console logo is displayed on the game cases?",
+        "answer": "Nintendo Switch",
+        "img_url": [
+            "https://i.redd.it/7xcxqz1onyg91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Counting",
+        "question": "In the game \"Xeonoblade Chronicles\" mentioned by Nate, there is an image. How many distinct game cases are shown?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/7xcxqz1onyg91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Counting",
+        "question": "In the game \"Xeonoblade Chronicles\" mentioned by Nate, there is an image. How many main characters are prominently featured on the front cover of the right game case?",
+        "answer": "Five",
+        "img_url": [
+            "https://i.redd.it/7xcxqz1onyg91.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the intro to her next movie script mentioned by Joanna, there is an image. What color are the lines on the paper?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.ytimg.com/vi/Ur2g6Ioom9c/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the intro to her next movie script mentioned by Joanna, there is an image. What color is the handwriting ink?",
+        "answer": "Dark grey",
+        "img_url": [
+            "https://i.ytimg.com/vi/Ur2g6Ioom9c/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Spatial",
+        "question": "In the intro to her next movie script mentioned by Joanna, there is an image. Is the left margin of the paper perforated?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.ytimg.com/vi/Ur2g6Ioom9c/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Counting",
+        "question": "In the writing some of my favorite memories down mentioned by Joanna, there is an image. How many constellation drawings are visible on the left page?",
+        "answer": "8",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/thumbnails/025/288/569/small_2x/a-person-writing-in-a-notebook-or-journal-with-a-pen-capturing-their-thoughts-or-ideas-in-a-quiet-setting-ai-generated-photo.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "Attribute",
+        "question": "In the writing some of my favorite memories down mentioned by Joanna, there is an image. What color ink is primarily used for the notes on the right page?",
+        "answer": "Blue",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/thumbnails/025/288/569/small_2x/a-person-writing-in-a-notebook-or-journal-with-a-pen-capturing-their-thoughts-or-ideas-in-a-quiet-setting-ai-generated-photo.jpg"
+        ]
+    },
+    {
+        "session_id": "Joanna_Nate_session_27",
+        "visual_category": "OCR/Text",
+        "question": "In the writing some of my favorite memories down mentioned by Joanna, there is an image. What is the title written at the top of the right page?",
+        "answer": "Myst Island",
+        "img_url": [
+            "https://static.vecteezy.com/system/resources/thumbnails/025/288/569/small_2x/a-person-writing-in-a-notebook-or-journal-with-a-pen-capturing-their-thoughts-or-ideas-in-a-quiet-setting-ai-generated-photo.jpg"
+        ]
+    }
+]

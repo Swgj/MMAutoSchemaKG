@@ -19,3 +19,7 @@ test.py
 todo.md
 import/hotpotqa_corpus_kg_input
 vllm
+.vscode
+z_*
+.env
+.DS_Store

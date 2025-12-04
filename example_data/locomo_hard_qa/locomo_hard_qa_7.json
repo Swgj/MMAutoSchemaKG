@@ -1,0 +1,2702 @@
+[
+    {
+        "session_id": "Deborah_Jolene_session_3",
+        "visual_category": "Counting",
+        "question": "In the robotics project mentioned by Jolene, there is an image. How many black legs does the robot currently have attached?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.redd.it/nx6fg5910bb61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_3",
+        "visual_category": "Attribute",
+        "question": "In the robotics project mentioned by Jolene, there is an image. What is the dominant color of the robot's main structural frame?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.redd.it/nx6fg5910bb61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the robotics project mentioned by Jolene, there is an image. What is the output voltage value displayed in red on the central power supply unit?",
+        "answer": "10.8",
+        "img_url": [
+            "https://i.redd.it/nx6fg5910bb61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_5",
+        "visual_category": "Counting",
+        "question": "In the sketches in the planner mentioned by Jolene, there is an image. How many writing instruments are placed next to the planner?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.pinimg.com/originals/12/ee/9a/12ee9ab40a074f87e1c89f1c0b084de8.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_5",
+        "visual_category": "Attribute",
+        "question": "In the sketches in the planner mentioned by Jolene, there is an image. What color is the spiral binding of the planner?",
+        "answer": "Gold",
+        "img_url": [
+            "https://i.pinimg.com/originals/12/ee/9a/12ee9ab40a074f87e1c89f1c0b084de8.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the sketches in the planner mentioned by Jolene, there is an image. What letter labels a point on the parabola in the upper right graph?",
+        "answer": "A",
+        "img_url": [
+            "https://i.pinimg.com/originals/12/ee/9a/12ee9ab40a074f87e1c89f1c0b084de8.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "Attribute",
+        "question": "In the last photo together mentioned by Deborah, there is an image. What color is the watch worn by the elderly woman?",
+        "answer": "Gold",
+        "img_url": [
+            "https://jubileewriter.files.wordpress.com/2021/05/20171019_174608.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the last photo together mentioned by Deborah, there is an image. What text is visible on the younger woman's shirt logo?",
+        "answer": "DONATE BLOOD",
+        "img_url": [
+            "https://jubileewriter.files.wordpress.com/2021/05/20171019_174608.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "Counting",
+        "question": "In the last photo together mentioned by Deborah, there is an image. How many rings are visible on the elderly woman's left hand?",
+        "answer": "Two",
+        "img_url": [
+            "https://jubileewriter.files.wordpress.com/2021/05/20171019_174608.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "Attribute",
+        "question": "In the room in her house mentioned by Jolene, there is an image. What is the dominant pattern on the long cushion under the window?",
+        "answer": "Birds and branches",
+        "img_url": [
+            "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "Counting",
+        "question": "In the room in her house mentioned by Jolene, there is an image. How many individual glass panes are visible in the window?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the room in her house mentioned by Jolene, there is an image. What text is visible on the metal hanging decoration in the window?",
+        "answer": "Gone Fishin'",
+        "img_url": [
+            "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the pendant mentioned by Jolene, there is an image. What is the first word inscribed on the heart-shaped pendant?",
+        "answer": "Brother",
+        "img_url": [
+            "https://i.etsystatic.com/10548457/r/il/dc72f3/2515414622/il_1080xN.2515414622_gjmx.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "Attribute",
+        "question": "In the pendant mentioned by Jolene, there is an image. What shape is the small charm attached to the chain next to the main pendant?",
+        "answer": "Fish",
+        "img_url": [
+            "https://i.etsystatic.com/10548457/r/il/dc72f3/2515414622/il_1080xN.2515414622_gjmx.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_1",
+        "visual_category": "Spatial",
+        "question": "In the pendant mentioned by Jolene, there is an image. What natural material is partially visible in the upper background of the image?",
+        "answer": "Wood",
+        "img_url": [
+            "https://i.etsystatic.com/10548457/r/il/dc72f3/2515414622/il_1080xN.2515414622_gjmx.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the yoga class mentioned by Deborah, there is an image. What color is the sports bra worn by the woman with blonde hair?",
+        "answer": "Light grey",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/64343f0505054d3701b51289/ead98f94-3604-496b-8a00-9f796aafb2d7/Reve_December22_CarleyRuddPhotography%2865of86%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Counting",
+        "question": "In the yoga class mentioned by Deborah, there is an image. How many light fixtures are visible on the ceiling?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/64343f0505054d3701b51289/ead98f94-3604-496b-8a00-9f796aafb2d7/Reve_December22_CarleyRuddPhotography%2865of86%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the yoga class mentioned by Deborah, there is an image. What color is the nail polish on the hands of the woman with dark hair?",
+        "answer": "Red",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/64343f0505054d3701b51289/ead98f94-3604-496b-8a00-9f796aafb2d7/Reve_December22_CarleyRuddPhotography%2865of86%29.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the bookshelf mentioned by Jolene, there is an image. What color is the robe worn by the Yoda figure?",
+        "answer": "Beige",
+        "img_url": [
+            "https://i.redd.it/bxxmms712w0b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Counting",
+        "question": "In the bookshelf mentioned by Jolene, there is an image. How many anime figures are displayed on the shelves?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/bxxmms712w0b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the bookshelf mentioned by Jolene, there is an image. What pattern is visible on the decorative box in the upper-middle section of the shelf?",
+        "answer": "Diamond/Geometric",
+        "img_url": [
+            "https://i.redd.it/bxxmms712w0b1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Counting",
+        "question": "In the \"creation\" mentioned by Deborah, there is an image. How many distinct primary colors are prominently visible in the flowers of the bouquet?",
+        "answer": "Five",
+        "img_url": [
+            "https://motherofwildflowerhouse.com/cdn/shop/products/AfterlightImage3.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the \"creation\" mentioned by Deborah, there is an image. What pattern is visible on the sleeve of the person holding the bouquet?",
+        "answer": "White floral dots on black",
+        "img_url": [
+            "https://motherofwildflowerhouse.com/cdn/shop/products/AfterlightImage3.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the \"creation\" mentioned by Deborah, there is an image. What color is the ribbon wrapped around the stems of the bouquet?",
+        "answer": "Light peachy pink",
+        "img_url": [
+            "https://motherofwildflowerhouse.com/cdn/shop/products/AfterlightImage3.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the watching the sunset over the water mentioned by Jolene, there is an image. What is the dominant pattern of the clouds in the sky?",
+        "answer": "Streaky/Layered",
+        "img_url": [
+            "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the watching the sunset over the water mentioned by Jolene, there is an image. What color is the water in the immediate foreground where the light reflection is less intense?",
+        "answer": "Dark blue-grey",
+        "img_url": [
+            "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Counting",
+        "question": "In the watching the sunset over the water mentioned by Jolene, there is an image. How many main horizontal visual elements are clearly visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the spot by the water near her mom's old house mentioned by Deborah, there is an image. What is the dominant color of the distant land?",
+        "answer": "Brown and orange",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Counting",
+        "question": "In the spot by the water near her mom's old house mentioned by Deborah, there is an image. How many vertical utility poles are visible on the crest of the hill?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the spot by the water near her mom's old house mentioned by Deborah, there is an image. What is the color of the sky?",
+        "answer": "Light gray blue",
+        "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the amulet mentioned by Deborah, there is an image. What color is the necklace chain?",
+        "answer": "Gold",
+        "img_url": [
+            "https://alvjewels.com/cdn/shop/products/image_2b791370-8eae-4e4d-8c8f-4fe581f9240a.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the amulet mentioned by Deborah, there is an image. What is the primary material appearance of the heart-shaped pendant?",
+        "answer": "Iridescent / Mother-of-pearl",
+        "img_url": [
+            "https://alvjewels.com/cdn/shop/products/image_2b791370-8eae-4e4d-8c8f-4fe581f9240a.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_4",
+        "visual_category": "Attribute",
+        "question": "In the amulet mentioned by Deborah, there is an image. What kind of texture does the person's white shirt have?",
+        "answer": "Textured weave / Linen-like",
+        "img_url": [
+            "https://alvjewels.com/cdn/shop/products/image_2b791370-8eae-4e4d-8c8f-4fe581f9240a.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Attribute",
+        "question": "In the last photo mentioned by Jolene, there is an image. What color is the yoga mat?",
+        "answer": "Teal/blue",
+        "img_url": [
+            "http://www.talisyoga.com/wp-content/uploads/2017/06/IMG_3532-e1498054278130.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Counting",
+        "question": "In the last photo mentioned by Jolene, there is an image. How many yoga blocks are visible on the floor?",
+        "answer": "One",
+        "img_url": [
+            "http://www.talisyoga.com/wp-content/uploads/2017/06/IMG_3532-e1498054278130.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Attribute",
+        "question": "In the last photo mentioned by Jolene, there is an image. What color are the visible straps of the person's bra or undershirt?",
+        "answer": "Pink",
+        "img_url": [
+            "http://www.talisyoga.com/wp-content/uploads/2017/06/IMG_3532-e1498054278130.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Attribute",
+        "question": "In our random photo mentioned by Jolene, there is an image. What color is the nail polish on the hand with painted nails?",
+        "answer": "Dark red",
+        "img_url": [
+            "https://api.army.mil/e2/c/images/2017/12/22/502617/original.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Attribute",
+        "question": "In our random photo mentioned by Jolene, there is an image. What type of pattern is visible on the clothing sleeve?",
+        "answer": "Camouflage",
+        "img_url": [
+            "https://api.army.mil/e2/c/images/2017/12/22/502617/original.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Spatial",
+        "question": "In our random photo mentioned by Jolene, there is an image. Which hand is positioned on top?",
+        "answer": "The hand with the ring",
+        "img_url": [
+            "https://api.army.mil/e2/c/images/2017/12/22/502617/original.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Counting",
+        "question": "In the reflecting outdoors mentioned by Deborah, there is an image. How many dominant colors are visible in the clouds?",
+        "answer": "Four",
+        "img_url": [
+            "https://i0.wp.com/thirdeyemom.com/wp-content/uploads/2017/08/img_2197.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Attribute",
+        "question": "In the reflecting outdoors mentioned by Deborah, there is an image. What color is the shirt worn by the person?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://i0.wp.com/thirdeyemom.com/wp-content/uploads/2017/08/img_2197.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_7",
+        "visual_category": "Counting",
+        "question": "In the reflecting outdoors mentioned by Deborah, there is an image. How many sailboats are visible on the water?",
+        "answer": "One",
+        "img_url": [
+            "https://i0.wp.com/thirdeyemom.com/wp-content/uploads/2017/08/img_2197.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Counting",
+        "question": "In the pic mentioned by Jolene, there is an image. How many snakes are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/scwm4w6fknu41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Jolene, there is an image. What is the predominant pattern on the snake's body?",
+        "answer": "Stripes",
+        "img_url": [
+            "https://i.redd.it/scwm4w6fknu41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Attribute",
+        "question": "In the pic mentioned by Jolene, there is an image. What is the general shape of the individual green leaves surrounding the snake?",
+        "answer": "Heart-shaped",
+        "img_url": [
+            "https://i.redd.it/scwm4w6fknu41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Attribute",
+        "question": "In the to-do list mentioned by Jolene, there is an image. Does the main purple notepad have horizontal lines?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/s5gqwkbhuce91.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Counting",
+        "question": "In the to-do list mentioned by Jolene, there is an image. How many yellow sticky notes are attached to the black tablet?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/s5gqwkbhuce91.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Counting",
+        "question": "In the to-do list mentioned by Jolene, there is an image. How many tasks are crossed out under 'TO DO TASKS' on the purple notepad?",
+        "answer": "Five",
+        "img_url": [
+            "https://i.redd.it/s5gqwkbhuce91.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Attribute",
+        "question": "In the a mug just like this one mentioned by Deborah, there is an image. What color is the text written on it?",
+        "answer": "Blue",
+        "img_url": [
+            "https://themugshotlk.com/cdn/shop/products/IMG_9782.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the a mug just like this one mentioned by Deborah, there is an image. What exact phrase is written on the mug?",
+        "answer": "believe in yourself",
+        "img_url": [
+            "https://themugshotlk.com/cdn/shop/products/IMG_9782.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_8",
+        "visual_category": "Counting",
+        "question": "In the a mug just like this one mentioned by Deborah, there is an image. How many vertical wooden fence posts are visible in the background?",
+        "answer": "5",
+        "img_url": [
+            "https://themugshotlk.com/cdn/shop/products/IMG_9782.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the parents' wedding in 1993 mentioned by Deborah, there is an image. Is the groom wearing glasses?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/dt61gwlzp3e31.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the parents' wedding in 1993 mentioned by Deborah, there is an image. What color are the flowers in the bride's bouquet?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/dt61gwlzp3e31.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Spatial",
+        "question": "In the parents' wedding in 1993 mentioned by Deborah, there is an image. What object is partially visible behind the groom on the far left?",
+        "answer": "A vehicle",
+        "img_url": [
+            "https://i.redd.it/dt61gwlzp3e31.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "OCR/Text",
+        "question": "In the letter I received yesterday mentioned by Deborah, there is an image. What name is written in the P.S. section?",
+        "answer": "Thad",
+        "img_url": [
+            "https://i.pinimg.com/originals/7a/cf/fe/7acffe40f628dca6a167a5724157ae11.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the letter I received yesterday mentioned by Deborah, there is an image. What color ink is used for the handwritten message?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/7a/cf/fe/7acffe40f628dca6a167a5724157ae11.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Counting",
+        "question": "In the letter I received yesterday mentioned by Deborah, there is an image. How many punched holes are visible on the left side of the paper?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/7a/cf/fe/7acffe40f628dca6a167a5724157ae11.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the place mentioned by Deborah, there is an image. What color are the horizontal window blinds?",
+        "answer": "Off-white",
+        "img_url": [
+            "https://i.redd.it/1s7ojxx0yra61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Counting",
+        "question": "In the place mentioned by Deborah, there is an image. How many teal storage cubes are present in the black shelf unit?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/1s7ojxx0yra61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Action",
+        "question": "In the place mentioned by Deborah, there is an image. Is the candle on the black shelf unit lit?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/1s7ojxx0yra61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Counting",
+        "question": "In the spot where she sits mentioned by Deborah, there is an image. How many throw pillows are arranged on the window seat?",
+        "answer": "Four",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1658863926/at/house%20tours/2022-07/India/StairwayBench.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the spot where she sits mentioned by Deborah, there is an image. What pattern is visible on the lower panes of the large windows?",
+        "answer": "Frosted texture",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1658863926/at/house%20tours/2022-07/India/StairwayBench.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the spot where she sits mentioned by Deborah, there is an image. What material is the staircase banister made of?",
+        "answer": "Wood",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1658863926/at/house%20tours/2022-07/India/StairwayBench.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the one of my snakes mentioned by Jolene, there is an image. What is the dominant color of the snake's markings?",
+        "answer": "Reddish-orange",
+        "img_url": [
+            "https://i.redd.it/gvb5983gs2z71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Action",
+        "question": "In the Susie mentioned by Jolene, there is an image. What action is the snake performing on the white surface?",
+        "answer": "Raising its head",
+        "img_url": [
+            "https://i.redd.it/gvb5983gs2z71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Counting",
+        "question": "In the my snakes mentioned by Jolene, there is an image. How many plant pots are clearly visible on the shelving unit in the background?",
+        "answer": "11",
+        "img_url": [
+            "https://i.redd.it/gvb5983gs2z71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the moment Seraphim slinked out of her cage mentioned by Jolene, there is an image. What is the primary color of the snake's head?",
+        "answer": "Golden/tan",
+        "img_url": [
+            "https://i.redd.it/8aunav15kyq01.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the description of her sly eyes mentioned by Jolene, there is an image. What color are the snake's eyes?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.redd.it/8aunav15kyq01.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the event of Seraphim coiling up next to Jolene mentioned by Jolene, there is an image. Does the fabric to the right of the snake have colorful specks?",
+        "answer": "Yes, it does",
+        "img_url": [
+            "https://i.redd.it/8aunav15kyq01.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the gaming last week mentioned by Jolene, there is an image. What game is displayed on the upper screen?",
+        "answer": "Stardew Valley",
+        "img_url": [
+            "https://www.shutterstock.com/shutterstock/photos/2218356765/display_1500/stock-photo-two-people-couple-man-and-woman-boyfriend-and-girlfriend-husband-and-wife-or-friends-play-console-2218356765.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Attribute",
+        "question": "In the gaming last week mentioned by Jolene, there is an image. What color is the plate lying on the blanket?",
+        "answer": "Red",
+        "img_url": [
+            "https://www.shutterstock.com/shutterstock/photos/2218356765/display_1500/stock-photo-two-people-couple-man-and-woman-boyfriend-and-girlfriend-husband-and-wife-or-friends-play-console-2218356765.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_2",
+        "visual_category": "Counting",
+        "question": "In the gaming last week mentioned by Jolene, there is an image. How many cigarette butts are visible in the ashtray?",
+        "answer": "Six",
+        "img_url": [
+            "https://www.shutterstock.com/shutterstock/photos/2218356765/display_1500/stock-photo-two-people-couple-man-and-woman-boyfriend-and-girlfriend-husband-and-wife-or-friends-play-console-2218356765.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Attribute",
+        "question": "In the yoga class mentioned by Deborah, there is an image. What material do the majority of the yoga blocks appear to be made from?",
+        "answer": "Cork",
+        "img_url": [
+            "https://lotuslandyogasf.com/wp-content/uploads/Jasmine-Class-cobra-e1674461734640.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Counting",
+        "question": "In the yoga class mentioned by Deborah, there is an image. How many people, including the instructor, are visible in the room?",
+        "answer": "Nine",
+        "img_url": [
+            "https://lotuslandyogasf.com/wp-content/uploads/Jasmine-Class-cobra-e1674461734640.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Spatial",
+        "question": "In the yoga class mentioned by Deborah, there is an image. Where are the two red flower vases placed on the central altar?",
+        "answer": "On the left and right",
+        "img_url": [
+            "https://lotuslandyogasf.com/wp-content/uploads/Jasmine-Class-cobra-e1674461734640.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Attribute",
+        "question": "In the new details for this case mentioned by Jolene, there is an image. What color is the yoga strap coiled on the blocks?",
+        "answer": "Dark brown",
+        "img_url": [
+            "https://caramiamay.com/cdn/shop/products/image_1e09790f-e4ab-4589-ac14-a6dbdf6f3b83.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Counting",
+        "question": "In the new details for this case mentioned by Jolene, there is an image. How many yoga blocks are visible on the mat?",
+        "answer": "Two",
+        "img_url": [
+            "https://caramiamay.com/cdn/shop/products/image_1e09790f-e4ab-4589-ac14-a6dbdf6f3b83.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "OCR/Text",
+        "question": "In the new details for this case mentioned by Jolene, there is an image. What brand name is written on the bottom of the yoga mat?",
+        "answer": "CARA MIA MAY",
+        "img_url": [
+            "https://caramiamay.com/cdn/shop/products/image_1e09790f-e4ab-4589-ac14-a6dbdf6f3b83.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "OCR/Text",
+        "question": "In the candle for the atmosphere mentioned by Deborah, there is an image. What is the main brand name written on the candle's label?",
+        "answer": "Settle Petal",
+        "img_url": [
+            "http://www.settlepetalyoga.com/cdn/shop/products/IMG_8556.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Counting",
+        "question": "In the candle for the atmosphere mentioned by Deborah, there is an image. How many pieces of driftwood are visible behind the candle?",
+        "answer": "Two",
+        "img_url": [
+            "http://www.settlepetalyoga.com/cdn/shop/products/IMG_8556.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_11",
+        "visual_category": "Attribute",
+        "question": "In the candle for the atmosphere mentioned by Deborah, there is an image. Is the candle wick lit or unlit?",
+        "answer": "Unlit",
+        "img_url": [
+            "http://www.settlepetalyoga.com/cdn/shop/products/IMG_8556.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Counting",
+        "question": "In the example for today mentioned by Deborah, there is an image. How many tasks on the list are marked as completed with a checkmark?",
+        "answer": "4",
+        "img_url": [
+            "https://johnaugust.com/wp-content/uploads/2020/04/front.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the example for today mentioned by Deborah, there is an image. What day of the week is handwritten at the top of the list?",
+        "answer": "Wednesday",
+        "img_url": [
+            "https://johnaugust.com/wp-content/uploads/2020/04/front.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Attribute",
+        "question": "In the example for today mentioned by Deborah, there is an image. Is there any visible damage to the top edge of the paper?",
+        "answer": "Yes, a tear",
+        "img_url": [
+            "https://johnaugust.com/wp-content/uploads/2020/04/front.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Counting",
+        "question": "In the example from last Friday mentioned by Jolene, there is an image. How many pink sticky notes are attached to the main list?",
+        "answer": "Five",
+        "img_url": [
+            "https://i.redd.it/3int1hmnou0a1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Attribute",
+        "question": "In the example from last Friday mentioned by Jolene, there is an image. What color is used to highlight the section titles like 'Kitchen' and 'Upstairs' on the main list?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/3int1hmnou0a1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the example from last Friday mentioned by Jolene, there is an image. What is the date written in the top left corner of the main list?",
+        "answer": "11/09/22",
+        "img_url": [
+            "https://i.redd.it/3int1hmnou0a1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Attribute",
+        "question": "In the Eisenhower Matrix breakdown mentioned by Deborah, there is an image. What are the two primary colors of the scissors' handles?",
+        "answer": "Blue and green",
+        "img_url": [
+            "https://i0.wp.com/writeintolife.com/wp-content/uploads/2021/03/important-urgent.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the Eisenhower Matrix breakdown mentioned by Deborah, there is an image. What symbol is used to denote 'not' important or 'not' urgent in the box labels?",
+        "answer": "An 'x'",
+        "img_url": [
+            "https://i0.wp.com/writeintolife.com/wp-content/uploads/2021/03/important-urgent.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Attribute",
+        "question": "In the Eisenhower Matrix breakdown mentioned by Deborah, there is an image. What is the texture of the surface beneath the paper?",
+        "answer": "Rough and pebbled",
+        "img_url": [
+            "https://i0.wp.com/writeintolife.com/wp-content/uploads/2021/03/important-urgent.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Attribute",
+        "question": "In the sea in this photo mentioned by Deborah, there is an image. What is the prominent color reflected on the sea's surface?",
+        "answer": "Golden",
+        "img_url": [
+            "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Attribute",
+        "question": "In the sea in this photo mentioned by Deborah, there is an image. Is the sky mostly clear or cloudy?",
+        "answer": "Cloudy",
+        "img_url": [
+            "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_10",
+        "visual_category": "Spatial",
+        "question": "In the sea in this photo mentioned by Deborah, there is an image. From which general direction is the bright light illuminating the clouds and water?",
+        "answer": "From the right",
+        "img_url": [
+            "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Counting",
+        "question": "In the tough engineering project mentioned by Jolene, there is an image. How many solar panels are attached to the device?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/avkvvy4fqr331.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Attribute",
+        "question": "In the tough engineering project mentioned by Jolene, there is an image. What is the primary color of the multimeter shown?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/avkvvy4fqr331.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the tough engineering project mentioned by Jolene, there is an image. What number is displayed on the multimeter screen?",
+        "answer": "001",
+        "img_url": [
+            "https://i.redd.it/avkvvy4fqr331.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Counting",
+        "question": "In the yoga on top of mount Talkeetna mentioned by Jolene, there is an image. How many hands is the person using to hold their foot?",
+        "answer": "One",
+        "img_url": [
+            "https://i2.wp.com/azwonders.com/wp-content/uploads/2020/12/IMG_1095.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Attribute",
+        "question": "In the yoga on top of mount Talkeetna mentioned by Jolene, there is an image. What is the general color of the person's shorts?",
+        "answer": "Dark",
+        "img_url": [
+            "https://i2.wp.com/azwonders.com/wp-content/uploads/2020/12/IMG_1095.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Spatial",
+        "question": "In the yoga on top of mount Talkeetna mentioned by Jolene, there is an image. Where is the main source of the sun's light relative to the prominent mountain peak in the distance?",
+        "answer": "To the left",
+        "img_url": [
+            "https://i2.wp.com/azwonders.com/wp-content/uploads/2020/12/IMG_1095.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Attribute",
+        "question": "In the favorite studio mentioned by Deborah, there is an image. What is the primary background color of the long cushion?",
+        "answer": "Orange",
+        "img_url": [
+            "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "Counting",
+        "question": "In the favorite studio mentioned by Deborah, there is an image. How many individual panes are visible in the window?",
+        "answer": "Six",
+        "img_url": [
+            "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the favorite studio mentioned by Deborah, there is an image. What text is written on the sign hanging in front of the window?",
+        "answer": "GONE FISHIN'",
+        "img_url": [
+            "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the visit to this place mentioned by Deborah, there is an image. What text is visible on the wooden sign?",
+        "answer": "Bed & Breakfast",
+        "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrcCxkcqe0DgHUVVqbd_YzertOqBQr0xfgZsSIgfLnWCCm8hh-gbggmBWzSnBLHfRuzRH9Z8nKkHZBaxBp3siwhJfyoUMzkM48nD0QSEHLQ-x6Mh2TpD00a_78-zVImBnIe2BQguR_B9W0FD12fOo6NceMKKfnprpIqnsVwl7ERzIBfSbB-VggxYMPdg/s4032/IMG_4386.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "Counting",
+        "question": "In the visit to this place mentioned by Deborah, there is an image. How many metal pots are placed on the wooden bench?",
+        "answer": "5",
+        "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrcCxkcqe0DgHUVVqbd_YzertOqBQr0xfgZsSIgfLnWCCm8hh-gbggmBWzSnBLHfRuzRH9Z8nKkHZBaxBp3siwhJfyoUMzkM48nD0QSEHLQ-x6Mh2TpD00a_78-zVImBnIe2BQguR_B9W0FD12fOo6NceMKKfnprpIqnsVwl7ERzIBfSbB-VggxYMPdg/s4032/IMG_4386.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "Attribute",
+        "question": "In the visit to this place mentioned by Deborah, there is an image. What color is the siding of the house behind the garden?",
+        "answer": "Blue-gray",
+        "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrcCxkcqe0DgHUVVqbd_YzertOqBQr0xfgZsSIgfLnWCCm8hh-gbggmBWzSnBLHfRuzRH9Z8nKkHZBaxBp3siwhJfyoUMzkM48nD0QSEHLQ-x6Mh2TpD00a_78-zVImBnIe2BQguR_B9W0FD12fOo6NceMKKfnprpIqnsVwl7ERzIBfSbB-VggxYMPdg/s4032/IMG_4386.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "Attribute",
+        "question": "In the last photo with Karlie mentioned by Deborah, there is an image. What color is the long-sleeved top worn by the person on top?",
+        "answer": "Teal/Dark green",
+        "img_url": [
+            "https://i.pinimg.com/originals/cc/79/b1/cc79b1f0ce550924e25b629477305e48.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the last summer when they hiked mentioned by Deborah, there is an image. What name is visible on the red sign on the right side of the path?",
+        "answer": "St. Bernard",
+        "img_url": [
+            "https://i.pinimg.com/originals/cc/79/b1/cc79b1f0ce550924e25b629477305e48.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "Counting",
+        "question": "In the last summer when they hiked mentioned by Deborah, there is an image. How many distinct white clouds are visible in the sky?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/cc/79/b1/cc79b1f0ce550924e25b629477305e48.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "Counting",
+        "question": "In the trip to Bali mentioned by Deborah, there is an image. How many swing seats are attached to the ropes?",
+        "answer": "Four",
+        "img_url": [
+            "https://zohrasrose.files.wordpress.com/2022/01/img_1273.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the gorgeous island mentioned by Deborah, there is an image. What is the first full word visible on the white banner of the sign?",
+        "answer": "PETITENGET",
+        "img_url": [
+            "https://zohrasrose.files.wordpress.com/2022/01/img_1273.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_6",
+        "visual_category": "Attribute",
+        "question": "In the gorgeous island mentioned by Deborah, there is an image. What material are the main vertical supports of the swing structure made from?",
+        "answer": "Wood",
+        "img_url": [
+            "https://zohrasrose.files.wordpress.com/2022/01/img_1273.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_19",
+        "visual_category": "Counting",
+        "question": "In the console bought as a gift mentioned by Jolene, there is an image. How many rows of green lights are illuminated on the top of the black console?",
+        "answer": "Six rows",
+        "img_url": [
+            "https://i.redd.it/90qd3jqxi2781.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_19",
+        "visual_category": "Attribute",
+        "question": "In the console bought as a gift mentioned by Jolene, there is an image. What color is the character figurine's robe?",
+        "answer": "Brownish-yellow",
+        "img_url": [
+            "https://i.redd.it/90qd3jqxi2781.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_19",
+        "visual_category": "Attribute",
+        "question": "In the console bought as a gift mentioned by Jolene, there is an image. What color is the controller located directly in front of the black console?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.redd.it/90qd3jqxi2781.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_18",
+        "visual_category": "Attribute",
+        "question": "In the newest spread mentioned by Jolene, there is an image. What color is the word 'TOMORROW' written in?",
+        "answer": "Light pink",
+        "img_url": [
+            "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_18",
+        "visual_category": "OCR/Text",
+        "question": "In the newest spread mentioned by Jolene, there is an image. What page number is visible in the bottom right corner of the spread?",
+        "answer": "11",
+        "img_url": [
+            "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_18",
+        "visual_category": "Attribute",
+        "question": "In the newest spread mentioned by Jolene, there is an image. What type of grid pattern is visible on the journal page?",
+        "answer": "Dot grid",
+        "img_url": [
+            "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_18",
+        "visual_category": "Counting",
+        "question": "In the meditation yoga session mentioned by Deborah, there is an image. How many visible individuals are performing the yoga pose?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.naplesnews.com/gcdn/-mm-/06756bca6c979c173ae23c1ba44f60a8fd2bcbee/c\\u003d0-0-3024-4032/local/-/media/2017/04/25/Naples/Naples/636287249454494595-Yoga-4.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_18",
+        "visual_category": "Attribute",
+        "question": "In the meditation yoga session mentioned by Deborah, there is an image. What color is the tank top worn by the person closest to the camera?",
+        "answer": "Pink",
+        "img_url": [
+            "https://www.naplesnews.com/gcdn/-mm-/06756bca6c979c173ae23c1ba44f60a8fd2bcbee/c\\u003d0-0-3024-4032/local/-/media/2017/04/25/Naples/Naples/636287249454494595-Yoga-4.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_18",
+        "visual_category": "Action",
+        "question": "In the meditation yoga session mentioned by Deborah, there is an image. What specific yoga pose are the individuals performing?",
+        "answer": "Tree Pose",
+        "img_url": [
+            "https://www.naplesnews.com/gcdn/-mm-/06756bca6c979c173ae23c1ba44f60a8fd2bcbee/c\\u003d0-0-3024-4032/local/-/media/2017/04/25/Naples/Naples/636287249454494595-Yoga-4.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Attribute",
+        "question": "In the pets have been great company mentioned by Jolene, there is an image. What color is the clothing visible under the person's arm?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/0uzy21np69b51.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Attribute",
+        "question": "In the Susie really helps when times get tough mentioned by Jolene, there is an image. What is the primary pattern type on the snake's body?",
+        "answer": "Brown and black blotches",
+        "img_url": [
+            "https://i.redd.it/0uzy21np69b51.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Counting",
+        "question": "In the pets have been great company mentioned by Jolene, there is an image. How many dark framed items are visible on the cabinet in the blurry background?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/0uzy21np69b51.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Counting",
+        "question": "In the great place for yoga mentioned by Deborah, there is an image. How many yoga mats are fully visible on the floor?",
+        "answer": "Five",
+        "img_url": [
+            "https://res.cloudinary.com/peerspace-inc/image/upload/q_80,c_crop,g_custom/w_2048/awuqrhwdbakdu4eeyll1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Counting",
+        "question": "In the great place for yoga mentioned by Deborah, there is an image. How many individual light bulbs are illuminated on the ceiling track fixture?",
+        "answer": "Six",
+        "img_url": [
+            "https://res.cloudinary.com/peerspace-inc/image/upload/q_80,c_crop,g_custom/w_2048/awuqrhwdbakdu4eeyll1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Attribute",
+        "question": "In the great place for yoga mentioned by Deborah, there is an image. What type of plant is hanging from the ceiling near the left side of the room?",
+        "answer": "Fern",
+        "img_url": [
+            "https://res.cloudinary.com/peerspace-inc/image/upload/q_80,c_crop,g_custom/w_2048/awuqrhwdbakdu4eeyll1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Attribute",
+        "question": "In the process mentioned by Deborah, there is an image. What color is the woman's shirt?",
+        "answer": "Pink",
+        "img_url": [
+            "https://kathsdruyoga.files.wordpress.com/2020/04/img_5644.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Counting",
+        "question": "In the process mentioned by Deborah, there is an image. How many decorative pillows are on the sofa?",
+        "answer": "Two",
+        "img_url": [
+            "https://kathsdruyoga.files.wordpress.com/2020/04/img_5644.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_16",
+        "visual_category": "Attribute",
+        "question": "In the process mentioned by Deborah, there is an image. What color are the rolled-up window shades?",
+        "answer": "Orange-brown",
+        "img_url": [
+            "https://kathsdruyoga.files.wordpress.com/2020/04/img_5644.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_21",
+        "visual_category": "Attribute",
+        "question": "In the yoga retreat mentioned by Deborah, there is an image. What color is the moss covering the forest floor and logs?",
+        "answer": "Green",
+        "img_url": [
+            "https://holmanhealthconnections.com/wp-content/uploads/2019/01/IMG_0412.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_21",
+        "visual_category": "Counting",
+        "question": "In the yoga retreat mentioned by Deborah, there is an image. How many large, prominent moss-covered fallen logs are directly adjacent to the path?",
+        "answer": "One",
+        "img_url": [
+            "https://holmanhealthconnections.com/wp-content/uploads/2019/01/IMG_0412.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_21",
+        "visual_category": "Attribute",
+        "question": "In the yoga retreat mentioned by Deborah, there is an image. What plant growth is hanging from many of the tree branches?",
+        "answer": "Moss/Lichen",
+        "img_url": [
+            "https://holmanhealthconnections.com/wp-content/uploads/2019/01/IMG_0412.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Counting",
+        "question": "In the yoga retreat mentioned by Deborah, there is an image. How many people are participating in the yoga session?",
+        "answer": "5",
+        "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/crm/maineta/7D10D61B-FFA4-44EB-B4DF-5E6002D715F5_14D84855-064F-4EDB-86FAE0FA2AB35244_60bff6ce-b8b0-4146-b88bb1d2cef69fcb.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the yoga retreat mentioned by Deborah, there is an image. What color is the yoga mat closest to the viewer?",
+        "answer": "Purple",
+        "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/crm/maineta/7D10D61B-FFA4-44EB-B4DF-5E6002D715F5_14D84855-064F-4EDB-86FAE0FA2AB35244_60bff6ce-b8b0-4146-b88bb1d2cef69fcb.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the yoga retreat mentioned by Deborah, there is an image. What celestial body is visible in the upper right portion of the sky?",
+        "answer": "A crescent moon",
+        "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/crm/maineta/7D10D61B-FFA4-44EB-B4DF-5E6002D715F5_14D84855-064F-4EDB-86FAE0FA2AB35244_60bff6ce-b8b0-4146-b88bb1d2cef69fcb.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the new pose - Dancer Pose (Natarajasana) mentioned by Deborah, there is an image. What is the main color of the person's flowing top?",
+        "answer": "Light-colored",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the new pose - Dancer Pose (Natarajasana) mentioned by Deborah, there is an image. What are the predominant colors seen in the sky during this time?",
+        "answer": "Pink, purple, orange, blue",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the new pose - Dancer Pose (Natarajasana) mentioned by Deborah, there is an image. Is the reflection of the person in the wet sand clear or distorted?",
+        "answer": "Clear",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the new photos of Seraphim in the new aquarium mentioned by Jolene, there is an image. What is the primary color of Seraphim?",
+        "answer": "Cream and orange",
+        "img_url": [
+            "https://i.redd.it/6moonjm3bypa1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Counting",
+        "question": "In the new photos of Seraphim in the new aquarium mentioned by Jolene, there is an image. How many of Seraphim's eyes are clearly visible?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/6moonjm3bypa1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the new photos of Seraphim in the new aquarium mentioned by Jolene, there is an image. What type of naturalistic material is used for decoration near Seraphim?",
+        "answer": "Moss and leaves",
+        "img_url": [
+            "https://i.redd.it/6moonjm3bypa1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Attribute",
+        "question": "In the project mentioned by Jolene, there is an image. What is the dominant color of the architectural templates visible?",
+        "answer": "Green",
+        "img_url": [
+            "https://ffalcons.files.wordpress.com/2021/06/stephen-paper-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "Counting",
+        "question": "In the project mentioned by Jolene, there is an image. How many doors are indicated with an arc in the drawn floor plan?",
+        "answer": "Six",
+        "img_url": [
+            "https://ffalcons.files.wordpress.com/2021/06/stephen-paper-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_14",
+        "visual_category": "OCR/Text",
+        "question": "In the project mentioned by Jolene, there is an image. What specific type of room is labeled in the bottom-left section of the floor plan?",
+        "answer": "Mini record studio",
+        "img_url": [
+            "https://ffalcons.files.wordpress.com/2021/06/stephen-paper-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the place that held a lot of memories mentioned by Deborah, there is an image. What color are the prominent full-bloom tulips in the flower cart?",
+        "answer": "Pink",
+        "img_url": [
+            "https://bmoreenergy.files.wordpress.com/2023/08/img_2540.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Counting",
+        "question": "In the place that held a lot of memories mentioned by Deborah, there is an image. How many large black wheels are visible on the flower cart?",
+        "answer": "One",
+        "img_url": [
+            "https://bmoreenergy.files.wordpress.com/2023/08/img_2540.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the place that held a lot of memories mentioned by Deborah, there is an image. What is the name of the establishment visible on the round sign in the background?",
+        "answer": "Sarabeth's",
+        "img_url": [
+            "https://bmoreenergy.files.wordpress.com/2023/08/img_2540.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Counting",
+        "question": "In the these flowers mentioned by Deborah, there is an image. How many large pink peonies are visible?",
+        "answer": "Six",
+        "img_url": [
+            "https://www.inbloomhomestead.com/wp-content/uploads/2023/07/stunning.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the these flowers mentioned by Deborah, there is an image. What is the primary color of the container holding the flowers?",
+        "answer": "Dark blue",
+        "img_url": [
+            "https://www.inbloomhomestead.com/wp-content/uploads/2023/07/stunning.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Spatial",
+        "question": "In the these flowers mentioned by Deborah, there is an image. Are the flowers placed indoors or outdoors?",
+        "answer": "Outdoors",
+        "img_url": [
+            "https://www.inbloomhomestead.com/wp-content/uploads/2023/07/stunning.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Counting",
+        "question": "In the flowers mentioned by Deborah, there is an image. How many bouquets are being held?",
+        "answer": "Two",
+        "img_url": [
+            "https://images.pexels.com/photos/12473781/pexels-photo-12473781.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-pexels-user-12473781.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the flowers mentioned by Deborah, there is an image. What pattern is visible on the person's shirt?",
+        "answer": "Polka dots",
+        "img_url": [
+            "https://images.pexels.com/photos/12473781/pexels-photo-12473781.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-pexels-user-12473781.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the flowers mentioned by Deborah, there is an image. What color is the wrapping paper on the lower bouquet?",
+        "answer": "Orange",
+        "img_url": [
+            "https://images.pexels.com/photos/12473781/pexels-photo-12473781.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-pexels-user-12473781.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the photos on walks mentioned by Deborah, there is an image. What shape is the visible portion of the sun?",
+        "answer": "Half-circle",
+        "img_url": [
+            "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Counting",
+        "question": "In the photos on walks mentioned by Deborah, there is an image. How many distinct contrails are visible in the sky?",
+        "answer": "One",
+        "img_url": [
+            "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Spatial",
+        "question": "In the photos on walks mentioned by Deborah, there is an image. What appears directly behind the setting sun across the horizon?",
+        "answer": "Mountains",
+        "img_url": [
+            "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the savasana - aka the corpse pose mentioned by Jolene, there is an image. What color is the top surface of the mat the person is using?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/12yit6phiwl21.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Attribute",
+        "question": "In the savasana - aka the corpse pose mentioned by Jolene, there is an image. What color are the pants worn by the person?",
+        "answer": "Khaki",
+        "img_url": [
+            "https://i.redd.it/12yit6phiwl21.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_20",
+        "visual_category": "Counting",
+        "question": "In the savasana - aka the corpse pose mentioned by Jolene, there is an image. How many bare feet are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/12yit6phiwl21.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the running group mentioned by Deborah, there is an image. How many runners are wearing race bibs displaying their names or numbers?",
+        "answer": "Three",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/grc-cim-1671133645.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Action",
+        "question": "In the running group mentioned by Deborah, there is an image. What is the man on the far right doing with his hand?",
+        "answer": "Giving thumbs up",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/grc-cim-1671133645.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the running group mentioned by Deborah, there is an image. What color are the shorts of the runner on the left?",
+        "answer": "Teal green",
+        "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/grc-cim-1671133645.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the runs mentioned by Deborah, there is an image. What color is the reflective harness she is wearing?",
+        "answer": "Fluorescent yellow/green",
+        "img_url": [
+            "https://www.milebymileblog.com/wp-content/uploads/2020/11/saturday-sunrise-run.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the runs mentioned by Deborah, there is an image. What time of day does the sky suggest the activity is taking place?",
+        "answer": "Sunrise or sunset",
+        "img_url": [
+            "https://www.milebymileblog.com/wp-content/uploads/2020/11/saturday-sunrise-run.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the runs mentioned by Deborah, there is an image. What color are the soles of her running shoes?",
+        "answer": "White",
+        "img_url": [
+            "https://www.milebymileblog.com/wp-content/uploads/2020/11/saturday-sunrise-run.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the cute photos mentioned by Jolene, there is an image. How many pink pigs are visible on the main computer screen?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/30/08/ee/3008ee2c8041c333b9757d24b8246986.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the cute photos mentioned by Jolene, there is an image. What color is the nail polish on the visible fingers of the person in the chair?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://i.pinimg.com/originals/30/08/ee/3008ee2c8041c333b9757d24b8246986.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the cute photos mentioned by Jolene, there is an image. What are the two primary colors of the headphones lying on the desk?",
+        "answer": "Pink and white",
+        "img_url": [
+            "https://i.pinimg.com/originals/30/08/ee/3008ee2c8041c333b9757d24b8246986.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the yoga/meditation with others mentioned by Deborah, there is an image. How many people are visibly participating in a yoga pose?",
+        "answer": "Thirteen",
+        "img_url": [
+            "https://georgetowner.com/wp-content/uploads/2019/05/Photo-Aug-27-10-26-09-AM-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the workshops and events mentioned by Deborah, there is an image. What material is the primary building structure in the background made of?",
+        "answer": "Brick",
+        "img_url": [
+            "https://georgetowner.com/wp-content/uploads/2019/05/Photo-Aug-27-10-26-09-AM-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the yoga/meditation with others mentioned by Deborah, there is an image. What are some of the colors of the yoga mats visible on the grass?",
+        "answer": "Purple, pink, blue, grey, orange",
+        "img_url": [
+            "https://georgetowner.com/wp-content/uploads/2019/05/Photo-Aug-27-10-26-09-AM-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Jolene, there is an image. What color light illuminates the snake's enclosure?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/3096c8dr8tr71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the photo mentioned by Jolene, there is an image. How many eyes are visible on the snake's head?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/3096c8dr8tr71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Jolene, there is an image. What is the texture of the material the snake is resting on?",
+        "answer": "Rough, gnarled wood",
+        "img_url": [
+            "https://i.redd.it/3096c8dr8tr71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the snake adventure mentioned by Jolene, there is an image. What is the primary color of the snake's scales?",
+        "answer": "Yellowish orange",
+        "img_url": [
+            "https://content-cdn.tips-and-tricks.co/wp-content/uploads/2023/03/21143140/ChristianWeBlog_this_woman_cuddling_with_her_python_in_bed_28f150c5-137d-4f75-a508-2a88bad70c91.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the snake adventure mentioned by Jolene, there is an image. How many distinct hideouts are present in the enclosure?",
+        "answer": "Two",
+        "img_url": [
+            "https://content-cdn.tips-and-tricks.co/wp-content/uploads/2023/03/21143140/ChristianWeBlog_this_woman_cuddling_with_her_python_in_bed_28f150c5-137d-4f75-a508-2a88bad70c91.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "OCR/Text",
+        "question": "In the snake adventure mentioned by Jolene, there is an image. What temperature is displayed on the digital gauge?",
+        "answer": "78 degrees",
+        "img_url": [
+            "https://content-cdn.tips-and-tricks.co/wp-content/uploads/2023/03/21143140/ChristianWeBlog_this_woman_cuddling_with_her_python_in_bed_28f150c5-137d-4f75-a508-2a88bad70c91.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the introduction of her pets mentioned by Deborah, there is an image. How many cats are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/two-cats-playing-garden-summer-have-fun-play-together-333752105.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the introduction of her pets mentioned by Deborah, there is an image. What color are the eyes of the black and white cat?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/two-cats-playing-garden-summer-have-fun-play-together-333752105.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the introduction of her pets mentioned by Deborah, there is an image. Are the eyes of the mostly white cat the same color?",
+        "answer": "No",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/two-cats-playing-garden-summer-have-fun-play-together-333752105.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photos like this mentioned by Jolene, there is an image. What colors are predominantly visible in the upper part of the sky?",
+        "answer": "Light blue, pale orange",
+        "img_url": [
+            "https://images.pexels.com/photos/14464647/pexels-photo-14464647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the photos like this mentioned by Jolene, there is an image. How many visible contrails are in the sky?",
+        "answer": "One",
+        "img_url": [
+            "https://images.pexels.com/photos/14464647/pexels-photo-14464647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Spatial",
+        "question": "In the photos like this mentioned by Jolene, there is an image. Is the sun fully visible above the horizon?",
+        "answer": "No, partially hidden",
+        "img_url": [
+            "https://images.pexels.com/photos/14464647/pexels-photo-14464647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Counting",
+        "question": "In the photo mentioned by Jolene, there is an image. How many full wooden planks make up the visible part of the pier?",
+        "answer": "5",
+        "img_url": [
+            "https://images.pexels.com/photos/12314495/pexels-photo-12314495.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lera-mk-12314495.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Jolene, there is an image. What is reflected on the surface of the lake?",
+        "answer": "Sky and trees",
+        "img_url": [
+            "https://images.pexels.com/photos/12314495/pexels-photo-12314495.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lera-mk-12314495.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_15",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Jolene, there is an image. What color are the leaves on the tree branches framing the top of the image?",
+        "answer": "Green",
+        "img_url": [
+            "https://images.pexels.com/photos/12314495/pexels-photo-12314495.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lera-mk-12314495.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_22",
+        "visual_category": "Attribute",
+        "question": "In the yoga session mentioned by Deborah, there is an image. What are the dominant colors visible in the sky?",
+        "answer": "Pink, purple, blue, yellow",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_22",
+        "visual_category": "Spatial",
+        "question": "In the yoga session mentioned by Deborah, there is an image. Is a clear reflection of the person visible on the wet sand?",
+        "answer": "Yes",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_22",
+        "visual_category": "Counting",
+        "question": "In the yoga session mentioned by Deborah, there is an image. How many distinct dark shapes are visible in the ocean beyond the immediate waves?",
+        "answer": "One",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_22",
+        "visual_category": "Attribute",
+        "question": "In the cats mentioned by Deborah, there is an image. What color are the eyes of the cat sitting on the right?",
+        "answer": "Greenish-yellow",
+        "img_url": [
+            "https://catsandcoffee.me/wp-content/uploads/2020/01/Louis-and-Olivia-on-the-windowsill.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_22",
+        "visual_category": "Attribute",
+        "question": "In the cats mentioned by Deborah, there is an image. What is the prominent color of the curtains next to the window?",
+        "answer": "Grey",
+        "img_url": [
+            "https://catsandcoffee.me/wp-content/uploads/2020/01/Louis-and-Olivia-on-the-windowsill.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_22",
+        "visual_category": "Counting",
+        "question": "In the pets mentioned by Deborah, there is an image. How many distinct palm tree trunks are clearly visible outside the window?",
+        "answer": "Two",
+        "img_url": [
+            "https://catsandcoffee.me/wp-content/uploads/2020/01/Louis-and-Olivia-on-the-windowsill.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Counting",
+        "question": "In the old photo mentioned by Deborah, there is an image. How many children is the woman holding?",
+        "answer": "Two",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/young-mother-daughter-doing-yoga-exercise_211251-999.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Attribute",
+        "question": "In the old photo mentioned by Deborah, there is an image. What color are the leggings of the child on the viewer's left?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/young-mother-daughter-doing-yoga-exercise_211251-999.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Attribute",
+        "question": "In the old photo mentioned by Deborah, there is an image. What is the woman wearing around her neck?",
+        "answer": "A silver necklace",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/young-mother-daughter-doing-yoga-exercise_211251-999.jpg?w=2000"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the start of her passion for video games mentioned by Jolene, there is an image. What game cartridge is inserted into the console?",
+        "answer": "Boxy Boy",
+        "img_url": [
+            "https://i.redd.it/h2oi87j1cty71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Attribute",
+        "question": "In the start of her passion for video games mentioned by Jolene, there is an image. What color is the ball on the joystick controller?",
+        "answer": "Orange",
+        "img_url": [
+            "https://i.redd.it/h2oi87j1cty71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Counting",
+        "question": "In the start of her passion for video games mentioned by Jolene, there is an image. How many main circular grey buttons are on the TurboStick controller?",
+        "answer": "Five",
+        "img_url": [
+            "https://i.redd.it/h2oi87j1cty71.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Attribute",
+        "question": "In the games mentioned by Jolene, there is an image. What type of device is displaying the game?",
+        "answer": "Handheld console",
+        "img_url": [
+            "https://i.redd.it/etnsyns3zh931.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "Counting",
+        "question": "In the games mentioned by Jolene, there is an image. How many distinct circular features are visible on the console's top edge, above the game screen?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/etnsyns3zh931.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the games mentioned by Jolene, there is an image. What word is written above the blue archway in the game's environment?",
+        "answer": "WEAPON",
+        "img_url": [
+            "https://i.redd.it/etnsyns3zh931.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_25",
+        "visual_category": "Attribute",
+        "question": "In the retreat near a lake mentioned by Jolene, there is an image. What is the dominant architectural style of the main building?",
+        "answer": "Modern, curvilinear",
+        "img_url": [
+            "https://www.ic.org/wp-content/uploads/formidable/2/temple_may2021.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_25",
+        "visual_category": "Counting",
+        "question": "In the retreat near a lake mentioned by Jolene, there is an image. How many levels does the outdoor wooden deck on the left side of the building have?",
+        "answer": "One",
+        "img_url": [
+            "https://www.ic.org/wp-content/uploads/formidable/2/temple_may2021.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_25",
+        "visual_category": "Attribute",
+        "question": "In the retreat near a lake mentioned by Jolene, there is an image. What type of ground cover is directly surrounding the base of the building on the hillside?",
+        "answer": "Mulch/Wood chips",
+        "img_url": [
+            "https://www.ic.org/wp-content/uploads/formidable/2/temple_may2021.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_25",
+        "visual_category": "Counting",
+        "question": "In the wonderful sunrise mentioned by Deborah, there is an image. How many visible contrails are present in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_25",
+        "visual_category": "Attribute",
+        "question": "In the wonderful sunrise mentioned by Deborah, there is an image. What is the visible shape of the sun?",
+        "answer": "Half circle",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_25",
+        "visual_category": "Attribute",
+        "question": "In the wonderful sunrise mentioned by Deborah, there is an image. Are the ocean waves calm or breaking?",
+        "answer": "Breaking",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Counting",
+        "question": "In the cafe next Monday mentioned by Jolene, there is an image. How many clear hoppers filled with coffee beans are visible on the counter?",
+        "answer": "Two",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2000,w_1333,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/CaseStudy-10009161130_nstsp1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the cafe next Monday mentioned by Jolene, there is an image. What colors are on the hanging decorative ornament?",
+        "answer": "Red and green",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2000,w_1333,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/CaseStudy-10009161130_nstsp1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the cafe next Monday mentioned by Jolene, there is an image. Are the string lights in the background on or off?",
+        "answer": "On",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2000,w_1333,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/CaseStudy-10009161130_nstsp1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Counting",
+        "question": "In the coffee mentioned by Jolene, there is an image. How many distinct colors of dried decorative plants are visible in the background?",
+        "answer": "Three",
+        "img_url": [
+            "https://images.pexels.com/photos/12910957/pexels-photo-12910957.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-sena-12910957.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the coffee mentioned by Jolene, there is an image. What design is visible on the cuff of the person's sleeve?",
+        "answer": "Lace pattern",
+        "img_url": [
+            "https://images.pexels.com/photos/12910957/pexels-photo-12910957.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-sena-12910957.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the coffee mentioned by Jolene, there is an image. What is visible on the surface of the coffee?",
+        "answer": "Bubbles/Foam",
+        "img_url": [
+            "https://images.pexels.com/photos/12910957/pexels-photo-12910957.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-sena-12910957.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Counting",
+        "question": "In the cool hidden coffee shop mentioned by Deborah, there is an image. How many people are visible inside the shop?",
+        "answer": "Three",
+        "img_url": [
+            "https://media.architecturaldigest.com/photos/5a6790689acb4d19c359a638/16:9/w_320%2Cc_limit/OregonUmamiCafe.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the cool hidden coffee shop mentioned by Deborah, there is an image. What is the primary material of the long service counter?",
+        "answer": "Wood",
+        "img_url": [
+            "https://media.architecturaldigest.com/photos/5a6790689acb4d19c359a638/16:9/w_320%2Cc_limit/OregonUmamiCafe.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the cool hidden coffee shop mentioned by Deborah, there is an image. What material forms the extensive exterior walls overlooking the forest?",
+        "answer": "Glass",
+        "img_url": [
+            "https://media.architecturaldigest.com/photos/5a6790689acb4d19c359a638/16:9/w_320%2Cc_limit/OregonUmamiCafe.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Counting",
+        "question": "In the sorting out the books from this bookcase mentioned by Jolene, there is an image. How many light fixtures are on the ceiling fan above it?",
+        "answer": "3",
+        "img_url": [
+            "https://i.redd.it/d1g89l9ba7b61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Attribute",
+        "question": "In the sorting out the books from this bookcase mentioned by Jolene, there is an image. What color is the skull-shaped decoration on the second shelf from the top, on the right side?",
+        "answer": "Gold",
+        "img_url": [
+            "https://i.redd.it/d1g89l9ba7b61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_26",
+        "visual_category": "Spatial",
+        "question": "In the sorting out the books from this bookcase mentioned by Jolene, there is an image. In what direction does the red arrow sign on the left section of the bookcase point?",
+        "answer": "Right",
+        "img_url": [
+            "https://i.redd.it/d1g89l9ba7b61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "OCR/Text",
+        "question": "In the festival mentioned by Jolene, there is an image. What is written on Jolene's partner's black t-shirt?",
+        "answer": "HENDRIX LIVE IN CONCERT",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/sunrise-couple-s-retreat-sits-meadow-basking-warmth-casts-golden-hue-over-tranquil-landscape-311756866.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the festival mentioned by Jolene, there is an image. What color are Jolene's sneakers?",
+        "answer": "White",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/sunrise-couple-s-retreat-sits-meadow-basking-warmth-casts-golden-hue-over-tranquil-landscape-311756866.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the festival mentioned by Jolene, there is an image. What color is the bandana Jolene's partner is wearing on his head?",
+        "answer": "Red",
+        "img_url": [
+            "https://thumbs.dreamstime.com/b/sunrise-couple-s-retreat-sits-meadow-basking-warmth-casts-golden-hue-over-tranquil-landscape-311756866.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the yoga retreat mentioned by Jolene, there is an image. Are there distinct sun rays visible in the sky?",
+        "answer": "Yes, several",
+        "img_url": [
+            "https://atharvyogshala.com/assets/images/sunset-view.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Spatial",
+        "question": "In the yoga retreat mentioned by Jolene, there is an image. Does the main valley in the middle ground appear to wind through the mountains?",
+        "answer": "Yes, it winds",
+        "img_url": [
+            "https://atharvyogshala.com/assets/images/sunset-view.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Counting",
+        "question": "In the yoga retreat mentioned by Jolene, there is an image. Are there any visible buildings or settlements on the mountain slopes in the mid-ground?",
+        "answer": "Yes, faint clusters",
+        "img_url": [
+            "https://atharvyogshala.com/assets/images/sunset-view.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the gorgeous blossom tree mentioned by Deborah, there is an image. What kind of insect is on one of the pink flowers?",
+        "answer": "A bee",
+        "img_url": [
+            "https://www.lsuagcenter.com/~/media/system/8/a/0/b/8a0beeb70c88046e95c4cc398cb5242b/cherry%20flowers%20and%20beepng.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Counting",
+        "question": "In the gorgeous blossom tree mentioned by Deborah, there is an image. How many distinct petals are visible on the most prominent pink flower in the center foreground?",
+        "answer": "Five",
+        "img_url": [
+            "https://www.lsuagcenter.com/~/media/system/8/a/0/b/8a0beeb70c88046e95c4cc398cb5242b/cherry%20flowers%20and%20beepng.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the gorgeous blossom tree mentioned by Deborah, there is an image. Does the sky behind the tree have any clouds?",
+        "answer": "Yes",
+        "img_url": [
+            "https://www.lsuagcenter.com/~/media/system/8/a/0/b/8a0beeb70c88046e95c4cc398cb5242b/cherry%20flowers%20and%20beepng.png"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Jolene, there is an image. What is the texture of the wall directly behind the plant?",
+        "answer": "Pebbled",
+        "img_url": [
+            "https://i.redd.it/kwnuvwl3wha01.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Counting",
+        "question": "In the photo mentioned by Jolene, there is an image. How many yellow poles are visible?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/kwnuvwl3wha01.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_30",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Jolene, there is an image. What color is the main plant growing against the wall?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/kwnuvwl3wha01.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the 'Here I am and my mom' mentioned by Deborah, there is an image. What design element is present along the button placket of the shirt worn by the woman holding the phone?",
+        "answer": "Ruffles",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/close-friends-reminiscing-old-photos-memories_1079150-89007.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the 'Here I am and my mom' mentioned by Deborah, there is an image. What pattern covers the floor?",
+        "answer": "Grid pattern",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/close-friends-reminiscing-old-photos-memories_1079150-89007.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the 'Here I am and my mom' mentioned by Deborah, there is an image. What color are the toenails of the woman on the right?",
+        "answer": "Grey",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/close-friends-reminiscing-old-photos-memories_1079150-89007.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Counting",
+        "question": "In the 'this one' mentioned by Deborah, there is an image. How many distinct contrails are visible in the upper sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Spatial",
+        "question": "In the 'this one' mentioned by Deborah, there is an image. Is the visible portion of the sun fully above the ocean's surface?",
+        "answer": "No",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the 'this one' mentioned by Deborah, there is an image. What is the predominant color of the breaking waves in the foreground?",
+        "answer": "Grayish blue",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the classes mentioned by Deborah, there is an image. What colors are prominent in the sky?",
+        "answer": "Pink, purple, orange",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Spatial",
+        "question": "In the classes mentioned by Deborah, there is an image. Is the person's reflection visible on the ground?",
+        "answer": "Yes",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the classes mentioned by Deborah, there is an image. What color is the person's top?",
+        "answer": "White",
+        "img_url": [
+            "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Counting",
+        "question": "In the serene yoga space mentioned by Jolene, there is an image. How many rolled towels are on the white surface?",
+        "answer": "Two",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/308/322/334/wellness-relaxation-relax-spa.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the meditation in Thailand mentioned by Jolene, there is an image. What color are the prominent spots on the white flowers?",
+        "answer": "Red/Purple",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/308/322/334/wellness-relaxation-relax-spa.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the serene yoga space with candles and oils mentioned by Jolene, there is an image. What material appears to be used for the candle holders?",
+        "answer": "Wood",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/308/322/334/wellness-relaxation-relax-spa.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Counting",
+        "question": "In the place that feels safe and chill mentioned by Jolene, there is an image. How many lit candles are on the side table?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.pinimg.com/originals/3d/d9/b0/3dd9b048cca05344a7bf805705bd7f17.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the place that feels safe and chill mentioned by Jolene, there is an image. What color is the main wall behind the bedding?",
+        "answer": "Teal",
+        "img_url": [
+            "https://i.pinimg.com/originals/3d/d9/b0/3dd9b048cca05344a7bf805705bd7f17.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "OCR/Text",
+        "question": "In the place that feels safe and chill mentioned by Jolene, there is an image. What word is written in purple script on the wall?",
+        "answer": "Namaste",
+        "img_url": [
+            "https://i.pinimg.com/originals/3d/d9/b0/3dd9b048cca05344a7bf805705bd7f17.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pals keeping me company mentioned by Jolene, there is an image. What colors are primarily visible in the snake's pattern?",
+        "answer": "Brown, tan, and orange",
+        "img_url": [
+            "https://i.redd.it/ckp5j9w7q7q41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Counting",
+        "question": "In the pals keeping me company mentioned by Jolene, there is an image. How many distinct pieces of wood are visible inside the container?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/ckp5j9w7q7q41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_28",
+        "visual_category": "Attribute",
+        "question": "In the pals keeping me company mentioned by Jolene, there is an image. What color is the lamp hanging directly above the container?",
+        "answer": "Dark grey",
+        "img_url": [
+            "https://i.redd.it/ckp5j9w7q7q41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the cool yoga classes mentioned by Jolene, there is an image. What color and pattern is the top worn by the person doing the yoga pose?",
+        "answer": "Pink and black geometric",
+        "img_url": [
+            "https://thegoodstuffbyajaespoo.files.wordpress.com/2017/09/img_20170723_184612_691.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Counting",
+        "question": "In the cool yoga classes mentioned by Jolene, there is an image. How many other individuals are visible in the background of the yoga studio?",
+        "answer": "Two",
+        "img_url": [
+            "https://thegoodstuffbyajaespoo.files.wordpress.com/2017/09/img_20170723_184612_691.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the cool yoga classes mentioned by Jolene, there is an image. What color are the yoga blocks placed on the floor near the mirror?",
+        "answer": "Brown",
+        "img_url": [
+            "https://thegoodstuffbyajaespoo.files.wordpress.com/2017/09/img_20170723_184612_691.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the my mom`s house mentioned by Deborah, there is an image. What color are the roof tiles?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/03tq3y75jmy41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the my mom`s house mentioned by Deborah, there is an image. What phrase is written on the man's shirt?",
+        "answer": "SUPPORT YOUR LOCAL BREWERY",
+        "img_url": [
+            "https://i.redd.it/03tq3y75jmy41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Counting",
+        "question": "In the my mom`s house mentioned by Deborah, there is an image. How many arched windows are visible on the front of the house's second floor?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/03tq3y75jmy41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the nearby place to meditate mentioned by Jolene, there is an image. What color is the fully open water lily in the pond?",
+        "answer": "Pink",
+        "img_url": [
+            "https://pandolinadventures.files.wordpress.com/2016/05/img_3720.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Action",
+        "question": "In the tranquil spot mentioned by Jolene, there is an image. Is the irrigation sprinkler on the bank spraying water?",
+        "answer": "Yes",
+        "img_url": [
+            "https://pandolinadventures.files.wordpress.com/2016/05/img_3720.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the nearby place to meditate mentioned by Jolene, there is an image. Does the small shelter in the distance have enclosed sides?",
+        "answer": "No",
+        "img_url": [
+            "https://pandolinadventures.files.wordpress.com/2016/05/img_3720.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Counting",
+        "question": "In the spot mentioned by Deborah, there is an image. How many prominent, tall trees are silhouetted on the small landmass?",
+        "answer": "Five",
+        "img_url": [
+            "https://i.redd.it/jygby0ihz7o41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the spot mentioned by Deborah, there is an image. What color is predominantly reflected in the water from the sky?",
+        "answer": "Orange and pink",
+        "img_url": [
+            "https://i.redd.it/jygby0ihz7o41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the spot mentioned by Deborah, there is an image. What is the overall dominant color of the clouds in the upper left portion of the sky?",
+        "answer": "Gray",
+        "img_url": [
+            "https://i.redd.it/jygby0ihz7o41.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Counting",
+        "question": "In the one of the excursions mentioned by Deborah, there is an image. How many stupas with prominent pointy tops are visible on the main temple structure in the foreground?",
+        "answer": "Seven",
+        "img_url": [
+            "http://cdn.supadupa.me/shop/14281/images/1875466/rio_de_janeiro_1904_18_21_p2_grande.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the one of the excursions mentioned by Deborah, there is an image. What color is the sky around the rising sun?",
+        "answer": "Orange and yellow",
+        "img_url": [
+            "http://cdn.supadupa.me/shop/14281/images/1875466/rio_de_janeiro_1904_18_21_p2_grande.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the one of the excursions mentioned by Deborah, there is an image. Is the statue in the foreground surrounded by a solid structure or an open enclosure?",
+        "answer": "Open enclosure",
+        "img_url": [
+            "http://cdn.supadupa.me/shop/14281/images/1875466/rio_de_janeiro_1904_18_21_p2_grande.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the photo mentioned by Deborah, there is an image. What specific date is visible written on the card?",
+        "answer": "29.1.49",
+        "img_url": [
+            "https://zubairrabbani.com/wp-content/uploads/2024/05/Rio-De-Janeiro-Quotes-For-Instagram-1024x1024.webp"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the photo mentioned by Deborah, there is an image. What color ink was used for the writing on the card?",
+        "answer": "Dark black",
+        "img_url": [
+            "https://zubairrabbani.com/wp-content/uploads/2024/05/Rio-De-Janeiro-Quotes-For-Instagram-1024x1024.webp"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Counting",
+        "question": "In the photo mentioned by Deborah, there is an image. How many fingers are clearly visible holding the card?",
+        "answer": "One",
+        "img_url": [
+            "https://zubairrabbani.com/wp-content/uploads/2024/05/Rio-De-Janeiro-Quotes-For-Instagram-1024x1024.webp"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the quote in my notebook mentioned by Jolene, there is an image. What color is the surface the notebook is resting on?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the quote in my notebook mentioned by Jolene, there is an image. What page number is displayed on the bottom right of the open notebook?",
+        "answer": "11",
+        "img_url": [
+            "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the quote in my notebook mentioned by Jolene, there is an image. What type of ruling pattern is on the pages of the notebook?",
+        "answer": "Dot grid",
+        "img_url": [
+            "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the great reminder mentioned by Jolene, there is an image. What is the predominant color of the pen?",
+        "answer": "Gold glitter",
+        "img_url": [
+            "http://swaygirls.com/cdn/shop/products/IMG_1932_jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Counting",
+        "question": "In the great reminder mentioned by Jolene, there is an image. How many spiral-bound notebooks are visible?",
+        "answer": "Two",
+        "img_url": [
+            "http://swaygirls.com/cdn/shop/products/IMG_1932_jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "OCR/Text",
+        "question": "In the great reminder mentioned by Jolene, there is an image. What is the full quote written on the cover of the dark gray notebook?",
+        "answer": "Never forget how wildly capable you are",
+        "img_url": [
+            "http://swaygirls.com/cdn/shop/products/IMG_1932_jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the new plant mentioned by Jolene, there is an image. What material is the plant's pot made of?",
+        "answer": "Plastic",
+        "img_url": [
+            "https://i.redd.it/w0ycj9vmb6fb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the new plant mentioned by Jolene, there is an image. What kind of surface is the plant's pot resting on?",
+        "answer": "Concrete",
+        "img_url": [
+            "https://i.redd.it/w0ycj9vmb6fb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_23",
+        "visual_category": "Attribute",
+        "question": "In the new plant mentioned by Jolene, there is an image. What geometric shape do the shadows on the ground form?",
+        "answer": "Diamonds",
+        "img_url": [
+            "https://i.redd.it/w0ycj9vmb6fb1.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the pineapple birthday cakes mentioned by Deborah, there is an image. What color are the leaves on top of the cake?",
+        "answer": "Green",
+        "img_url": [
+            "https://ronnascakeblog.files.wordpress.com/2022/09/pineapple.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Counting",
+        "question": "In the pineapple birthday cakes mentioned by Deborah, there is an image. How many pink cheek decorations are visible on the cake?",
+        "answer": "Two",
+        "img_url": [
+            "https://ronnascakeblog.files.wordpress.com/2022/09/pineapple.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the pineapple birthday cakes mentioned by Deborah, there is an image. What pattern is visible on the silver cake board?",
+        "answer": "Swirls and floral designs",
+        "img_url": [
+            "https://ronnascakeblog.files.wordpress.com/2022/09/pineapple.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Counting",
+        "question": "In the bake cookies mentioned by Jolene, there is an image. How many cookies are on the baking sheet?",
+        "answer": "4",
+        "img_url": [
+            "https://i.redd.it/t45dmigsmtu61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the bake cookies mentioned by Jolene, there is an image. What material is the baking sheet made of?",
+        "answer": "Metal",
+        "img_url": [
+            "https://i.redd.it/t45dmigsmtu61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the bake cookies mentioned by Jolene, there is an image. What brand name is visible on the edge of the baking sheet?",
+        "answer": "ANOLON",
+        "img_url": [
+            "https://i.redd.it/t45dmigsmtu61.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In what I have here mentioned by Jolene, there is an image. What color is the nail polish on Jolene's thumb?",
+        "answer": "Red",
+        "img_url": [
+            "https://citysupplyfayetteville.com/cdn/shop/products/IMG_6684.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In what I have here mentioned by Jolene, there is an image. What page number is visible at the bottom of the left page?",
+        "answer": "17",
+        "img_url": [
+            "https://citysupplyfayetteville.com/cdn/shop/products/IMG_6684.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Other",
+        "question": "In what I have here mentioned by Jolene, there is an image. Is the book shown in the image open or closed?",
+        "answer": "Open",
+        "img_url": [
+            "https://citysupplyfayetteville.com/cdn/shop/products/IMG_6684.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the big bookshelf mentioned by Deborah, there is an image. What color are the bookshelves themselves?",
+        "answer": "Dark gray",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617734021/at/news-culture/2021-04/lupita-aquino-nook-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Counting",
+        "question": "In the big bookshelf mentioned by Deborah, there is an image. How many individual window panes are visible in the large window?",
+        "answer": "Eight",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617734021/at/news-culture/2021-04/lupita-aquino-nook-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the big bookshelf mentioned by Deborah, there is an image. What color is the accent pillow on the armchair?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617734021/at/news-culture/2021-04/lupita-aquino-nook-2.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Counting",
+        "question": "In the space like this mentioned by Deborah, there is an image. How many lit candles are placed on the edge of the bathtub?",
+        "answer": "Two",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617640374/at/house%20tours/2021-04/Amara/21.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the space like this mentioned by Deborah, there is an image. What are the two primary colors of the large artwork hanging above the bathtub?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617640374/at/house%20tours/2021-04/Amara/21.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the space like this mentioned by Deborah, there is an image. What material is used for the woven seat of the wooden stool?",
+        "answer": "Black rope",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1617640374/at/house%20tours/2021-04/Amara/21.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Counting",
+        "question": "In the cozy nook to chill mentioned by Deborah, there is an image. How many distinct contrails are visible in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the cozy nook to chill mentioned by Deborah, there is an image. Is the sun fully exposed or partly hidden by a cloud or haze?",
+        "answer": "Partly hidden",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the cozy nook to chill mentioned by Deborah, there is an image. What colors are dominant in the small, scattered clouds higher in the sky?",
+        "answer": "Light orange and gray",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the confirmation mentioned by Deborah, there is an image. What color is the prominent logo on the side of the person's helmet?",
+        "answer": "Red",
+        "img_url": [
+            "http://badfishsup.com/cdn/shop/articles/IMG_7804.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Action",
+        "question": "In the confirmation mentioned by Deborah, there is an image. Which of the person's hands is raised in the air?",
+        "answer": "Right hand",
+        "img_url": [
+            "http://badfishsup.com/cdn/shop/articles/IMG_7804.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the confirmation mentioned by Deborah, there is an image. What text is visible on the blue logo on the surfboard?",
+        "answer": "WAVE FRONTIER",
+        "img_url": [
+            "http://badfishsup.com/cdn/shop/articles/IMG_7804.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Counting",
+        "question": "In the fate mentioned by Jolene, there is an image. How many birds are depicted in the sky portion of the artwork?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.grasshopperyatra.com/assets/images/main/1580973661719.jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "Attribute",
+        "question": "In the fate mentioned by Jolene, there is an image. What is the distinguishing feature of the right edge of the surfboard-shaped artwork?",
+        "answer": "Jagged/Torn",
+        "img_url": [
+            "https://www.grasshopperyatra.com/assets/images/main/1580973661719.jpg.jpg"
+        ]
+    },
+    {
+        "session_id": "Deborah_Jolene_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the fate mentioned by Jolene, there is an image. What name is visibly signed on the small plate at the bottom of the artwork?",
+        "answer": "Pete Kiza",
+        "img_url": [
+            "https://www.grasshopperyatra.com/assets/images/main/1580973661719.jpg.jpg"
+        ]
+    }
+]

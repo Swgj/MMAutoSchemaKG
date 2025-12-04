@@ -1,0 +1,3893 @@
+[
+    {
+        "id": "Deborah_Jolene_session_3",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hi Deb! How're you? I've been busy. My engineering professor gave us a huge robotics project. It's tough but fun, it's making me get creative and problem-solve.",
+                "img_url": [
+                    "https://i.redd.it/nx6fg5910bb61.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! It's great to hear from you. It sounds challenging but interesting! It must be really putting your creative and problem-solving skills to the test. How did you feel when you first received the project? Are you enjoying working on it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "When I got it, I felt a mix of emotions - excited and nervous. But now, I'm really enjoying it! It's like trying to solve a puzzle, figuring out the best design and programming. Seeing the robot come together is awesome too!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's awesome, Jolene! You're enjoying the process. It must be really satisfying to see it come together. Keep up the good work! Oh, by the way, I met my new neighbor Anna yesterday!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "How did you two meet?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It happened at yoga in the park.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, that's awesome! It's great connecting with people who have similar interests. Did you two talk about it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, we talked about how it has improved our lives and the sense of community it gives.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sounds great!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you ever thought about resuming yoga?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Well... we planned to play the console with my partner.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's also good that you have something to do together.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks for the kind words!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Gotta run bye!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "See you soon!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:03 pm on 1 February, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_5",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deborah! Been a few days since we last talked so I wanted to fill you in on something cool. Last Wednesday I did a mini retreat to assess where I'm at in life. It was a dope experience that totally gave me a new outlook.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Sounds great. Taking time to reflect can be really awesome. Did you gain any new insights from it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yep! I achieved so much more than I imagined. It was a real confidence boost.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You deserve credit for stepping outside your comfort zone and believing in yourself. What cool stuff did you accomplish at the retreat?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I really accomplished something with my engineering project - I came up with some neat solutions and I'm really excited about it.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Let's go into more detail.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Green tech could really make a difference in disadvantaged areas. I'd like to look into it and see how I can contribute. Hey, speaking of helping out, I had an idea: a volunteer program where engineers teach STEM to underprivileged kids. What do you think of that?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That sounds great, Jolene! It's a great way to help and inspire others. They would benefit a lot from your knowledge. Have you thought of a plan yet?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Haven't finished planning yet but I'm thinking of teaming up with local schools/centers to do workshops. We could even invite engineers as guest speakers to show kids their career options.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Having guest speakers, like them, would definitely give the kids a real-world view. Have you reached out to any schools or centers yet?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "No, not yet. I want to solidify the plan first. Can't wait to start reaching out, though!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That makes sense. I'm excited to hear how you reach out and help those kids. Let me know how it goes!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'll keep you posted! Appreciate the support! Here are my sketches in the planner.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/12/ee/9a/12ee9ab40a074f87e1c89f1c0b084de8.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds like you're doing great. Let me know if you need more tips or information.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! If I need anything else, I'll let you know. You're awesome!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You're awesome too! Take care!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Stay safe!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:03 pm on 9 February, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_1",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, nice to meet you! How's your week going? Anything fun happened?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Congrats! Last week I visited a place that holds a lot of memories for me. It was my mother`s old house.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Why does it hold such special memories for you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It was full of memories, she passed away a few years ago. This is our last photo together.",
+                "img_url": [
+                    "https://jubileewriter.files.wordpress.com/2021/05/20171019_174608.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember?",
+                "img_url": [
+                    "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "My mom's house had a special bench near the window. She loved to sit there every morning and take in the view. I come to sit here sometimes, it helps me stay connected to her.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.",
+                "img_url": [
+                    "https://i.etsystatic.com/10548457/r/il/dc72f3/2515414622/il_1080xN.2515414622_gjmx.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Yes, I also have a pendant that reminds me of my mother. And what is special for you about your jewelry?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It has a special symbol on it that represents freedom for me. It's a nice reminder to go for my goals and not get held back.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It should really give you strength and energy!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Do you have goals?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "One of my goals is to keep teaching yoga and supporting my community. I'm passionate about helping people find peace and joy through it.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "What inspired you to go down this route?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yoga helped me find peace during a rough time, and now I'm passionate about sharing that with others.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It is truly inspiring!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Gotta run, bye!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Looking forward to the next chat!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:06 pm on 23 January, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_4",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deborah! Good to hear from you. How've you been? I've been on an emotional rollercoaster lately, but I'm coping.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Good to hear from you. All good here - how about you? Anything new happening lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I had a major milestone last week and it went really well - I'm so relieved and proud. It was a huge accomplishment for me as an engineer.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's awesome. You must have worked really hard for that. I'm so proud of you. Care to share more about it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks so much! I had to plan and research a lot to design and build a sustainable water purifier for a rural community in need. It was tough, but I loved the experience.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Your engineering skills really made a difference for people in a rural area. That's amazing! How did it feel when you saw it working?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It was such a surreal moment. Seeing it working and providing clean water to the community was incredibly satisfying. It reminded me of how engineering can make a difference in people's lives. It made me feel like I had a purpose and had done something good.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "So, what are your career aspirations now?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I want to keep working in engineering and continue to make a positive impact on communities in need by creating sustainable solutions. My goal is to contribute towards making the world a better place with my work.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I'm sure great things will keep coming your way. Keep up the good work and follow your passions!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Your support means a lot. I'm determined to keep going and make a difference. Your encouragement really motivates me to pursue my passions.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "When things get tough, just take a deep breath and remember why you're doing this. This is where I spend a lot of my time, teaching yoga. It's a great way to find balance and reconnect with ourselves. I bonded with Anna during yesterday's l yoga class.",
+                "img_url": [
+                    "https://images.squarespace-cdn.com/content/v1/64343f0505054d3701b51289/ead98f94-3604-496b-8a00-9f796aafb2d7/Reve_December22_CarleyRuddPhotography%2865of86%29.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, that's awesome! What new poses did you try?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "We were trying out different dance poses, like Warrior II, which builds strength and boosts focus.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Is it difficult to do?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yes, but this brought us closer to Anna! We supported each other, that means a lot.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Can you explain how to do it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sure! To do this modified pose, sit on the edge of a chair with your feet planted. Twist your torso to one side and use your hand on your knee for support. You'll feel a stretch in your back and shoulders as you hold it for a few breaths, then switch sides. It's great for relaxing tense muscles.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sounds really hard! Here's my bookshelf!",
+                "img_url": [
+                    "https://i.redd.it/bxxmms712w0b1.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That's quite a collection! Have you had a favorite book lately? I'd love to hear your thoughts.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks Deborah! I'm really into this book called \"Sapiens\" - it's a fascinating look at human history and how technology has affected us. It's giving me a lot to think about!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Great, this is interesting! Have you come across any recent ones that really struck you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Two weeks ago I read \"Avalanche\" by Neal Stephenson in one sitting! ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That sounds cool, Jolene. Stories can be so powerful - they can teach us, motivate us, and bring us together. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I also read a recent story about someone who became successful despite facing numerous challenges. It really showed me that anything is possible if you believe and work hard.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's a really powerful message. It reminds me of someone special and their grace and strength when they faced hardships. Check out this creation!",
+                "img_url": [
+                    "https://motherofwildflowerhouse.com/cdn/shop/products/AfterlightImage3.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, Deb! That's beautiful! Can you tell me the backstory of that bouquet?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "My friend gave me this bouquet when I was struggling, and it gives me hope and courage. I'm filled with warmth and appreciation when I look at it.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "That's really sweet. Such a small thing can make a real difference.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's amazing how something as simple as flowers can make a real difference. Nature sure is beautiful.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Where are some of your favorite nature spots?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Oh, there's so many great places! My favorite is a park with a forest trail - it's so calming getting lost in nature. Then there's this beach nearby that I love - the sound of the waves and the sand under my feet make me feel all peaceful and happy. Do you have any favorite spots, Jolene?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Here's a picture I took on vacation last summer in Bogota. It was so beautiful and calming watching the sunset over the water. It definitely made me appreciate nature's calming power.",
+                "img_url": [
+                    "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That sounds great, Jolene. Nature's calming for sure. Guess it helps us forget the daily craziness and find inner peace. No wonder you're a fan! I like to come to this spot by the water near my mom's old house. It's where I reflect on her life and find some peace. Being surrounded by nature helps a lot.",
+                "img_url": [
+                    "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "That's so touching! Do you have any little traditions that you do when you come to reflect on your mom?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Do you remember this amulet from her? Whenever I come here, I bring it with me. It's how I feel her love and stay close to her. Holding it brings me comfort.",
+                "img_url": [
+                    "https://alvjewels.com/cdn/shop/products/image_2b791370-8eae-4e4d-8c8f-4fe581f9240a.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "It's amazing how something so small can have such a big impact, huh?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, even small things like this can make a big difference. It's a reminder of all the love and strength we have inside, connecting us to people we've lost and comforting us.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It can keep them close in our hearts every day.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Anna also has a pendant that she wears in memory of her mother! This also brought us closer.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It's nice to have those reminders as a source of strength when we need it.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Life's tough but hang in there. Look to your sources of strength and you'll do great. Stay in touch, take care of yourself, and know I'm always here to cheer you on!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! Your encouragement means a lot to me. I'll definitely stay in touch. Bye, take care and keep shining!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Stay safe!  Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:48 am on 4 February, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_7",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hi Deborah, it's been a while! Since we last talked, so much has happened. Balancing engineering school with my partner's video games is quite a feat. But I'm also setting aside time for myself, doing yoga and meditation. It helps give me calm amidst the craziness.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Great to hear from you. Taking a break is key. How have those practices been helping with everything?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "They seriously saved me. I chill out and gain perspective when I do yoga. Afterward, I'm more alert and motivated. Here is my last photo.",
+                "img_url": [
+                    "http://www.talisyoga.com/wp-content/uploads/2017/06/IMG_3532-e1498054278130.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, cool that yoga has been helping you out! Do they also do yoga with you? Does your partner do yoga with you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "He started joining me sometimes, which is nice for bonding and relaxing. It's brought us closer. This is just our random photo.",
+                "img_url": [
+                    "https://api.army.mil/e2/c/images/2017/12/22/502617/original.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Aw, that's wonderful! How long have you been married?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We're not married yet but we've been together for three years. We're taking it slow and loving the ride. This ring on his hand is just a decoration, not a wedding ring.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds nice, Jolene. Enjoying the journey is the main thing. So, how did you two meet?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We actually met in an engineering class in college and quickly became friends. It eventually blossomed into something more and it's been great!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, your relationship started from a strong friendship. Do you still enjoy working on engineering projects together?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yep, teaming up for these projects feels great! We get each other's struggles and both love it.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have yoga or meditation helped with any stress?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Whenever I'm overwhelmed, I just take a break and do some breathing or meditate. It really helps me feel calmer and clearer, so I'm able to handle challenges more easily.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's been great to see your progress since we last chatted - keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! Your support really means a lot. I'm gonna keep pushing forward and continue taking time for myself.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Always rooting for you. Remember to listen to your heart and take good care. Here's a photo I took while reflecting outdoors. It's a reminder to find peace even in chaos.",
+                "img_url": [
+                    "https://i0.wp.com/thirdeyemom.com/wp-content/uploads/2017/08/img_2197.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": " I'm curious, what does your daily routine look like?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "In the morning, I meditate, do yoga, and teach classes. And yesterday I went for a morning jog for the first time in a nearby park. I will now incorporate this into my daily routine. And in the evenings, I spend time with loved ones.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Why did you decide that?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Exercise is key for me - it makes me feel connected to my body. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "This is a great healthy habit!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's like they say - \"Can't pour from an empty cup.\" Looking out for ourselves gives us the energy to help others. And don't forget, you're worth it too!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb. Your words really mean something to me. I'll keep remembering to prioritize self-care.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:50 pm on 25 February, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_9",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hi Jolene! We haven't corresponded for a long time!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hey Deb, yeah life can get chaotic. How's it been going lately?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "So much has been going on lately. I started this yoga class in the neighborhood - it's such a good feeling! Now I get to share the exercise with my neighbors and watch it really transform them.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Congrats. How did you do this?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks! My neighbors were interested in trying yoga, so I hosted a class for them on Friday. It was great to see everyone embrace and enjoy it. Here is our photo together.",
+                "img_url": [
+                    "https://img.freepik.com/premium-photo/yoga-class-diverse-group-training-meditation-exercise-balance-women-fitness-studio-calm-relaxed-spiritual-yogi-leading-peaceful-training-healthy-workout-mindful-wellness-lesson_590464-78830.jpg?w=2000"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "That's cool! What made you want to start teaching it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I find it calming and wanted to share that with others. Giving people peace and awareness brings me so much happiness.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, Deb! It's awesome when we can share something we love and make things better for others.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Teaching it is awesome because it can help others and I've made such great friends through it. It's really nice for building community connections.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "That's really motivating. It's great to have support in tough times.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's one of life's best parts, right?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, having someone to rely on is key in tough times. It really makes a difference in how we handle life. Plus, there's something I wanted to tell you.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "What's up? I'm listening. We'll figure it out.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm having a hard time dealing with my Engineering assignments. It's a lot to manage and I'm struggling to keep up. Can we still talk about time management?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sure, Jolene. Let's find a time that works for both of us.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Let's find a time to chat - I'll check my schedule and get back to you.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Take your time, Jolene. We'll work it out. Take care of yourself, OK?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'll make sure to take it. See you soon!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I'm here for you if you need me. Let's catch up soon.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Have a great day!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "11:22 am on 13 March, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_8",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, Anna got me a vegan stir-fry the other day - tofu and veg with ginger and soy sauce. It was really tasty! Food is such a wonderful source of pleasure and nourishment. What dishes are comforting to you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "One of my favorite dishes is lasagna! Comfort food can be a great pick-me-up. I've got a lot going on with my studies and exams.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you been able to find time for yourself lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I've been trying to squeeze in some me-time. Last Friday, I did yoga and meditation to relax. Did you find time for yourself too?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I also did the same, it helped me reset my mind. How does it make you feel?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It's amazing how a few quiet moments can work wonders for the soul.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you been able to get outside lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I did take Seraphim to the park last Sunday. She loved it and here's a pic.",
+                "img_url": [
+                    "https://i.redd.it/scwm4w6fknu41.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Looks like you guys had fun!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We explored new places. People are surprised when they see a tamed snake. What do you like about being outdoors?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Hmm... The birds chirping and the breeze gently blowing! It reminds me of what really matters.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yep, it's like a reminder to slow down and appreciate the little things.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Is there anything you want to be more mindful of right now?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I need to be more mindful of my stress levels and take care of my mental health. Sometimes I get too caught up in my studies and forget to prioritize self-care.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Life can get hectic and it's easy to forget about ourselves. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Exams and deadlines got me feeling overwhelmed. Just look at my to-do list! It seems never-ending... Trying my best but it's been challenging.",
+                "img_url": [
+                    "https://i.redd.it/s5gqwkbhuce91.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Your efforts will bear fruit, don't give up!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb. Any tips on studying or time management?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "My tip is to break it into smaller pieces and set goals for yourself. For time management, planners or schedulers help you stay organized and give you time for yourself. Let me know if you need help with a study plan!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I appreciate your help with that.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Take care and good luck with your exams. I'll give you a mug just like this one! It encourages.",
+                "img_url": [
+                    "https://themugshotlk.com/cdn/shop/products/IMG_9782.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! This really cheered me up. All the best with your classes. Bye!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks, Jolene! Glad I could bring a smile to your face. Take care and make sure to give yourself some time to relax. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:18 pm on 2 March, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_12",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Great to see you! Had a blast biking nearby with my neighbor last week - was so freeing and beautiful. Checked out an art show with a friend today - really cool and inspiring stuff. Reminded me of my mom.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hey Deborah! Sounds like you had a blast biking and at the art show. Your photo looks like you were really into it! Did it make you think profound thoughts?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "My mom was interested in art. She believed art could give out strong emotions and uniquely connect us. When I go to an art show, it's like we're still experiencing it together even though she's gone. It's hard but comforting.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Losing someone is hard, but finding something that helps you cope is great.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Finding ways to keep her memory alive gives me peace. It's amazing how something simple like artwork can bring back powerful emotions and remind us of those we've lost. It's about finding solace in the things we love, and art has done that for me.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Even though my snakes can't chat or understand what I'm going through, our time together is valuable and teaches me to take time and be in tune with myself. Similarly, playing video games with my partner after a long day is a great way for me to relax.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Simple things can indeed bring us the most happiness. How have these activities helped you during tough times?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It brings us closer together!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "This kind of comfort can be really helpful when times get tough.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Just so you know, I've been working on a big project lately - it's been tough but also really cool to watch it take shape. Can't wait to see the final result!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I am waiting to hear how everything turns out. Keep up the good work!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks Deb! Your support means a lot. I'll keep you updated on the progress of the project.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Glad my support means a lot to you! I'll always be here for you. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Take care!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Enjoy your day and make time for the things that bring you joy. See ya!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'll make sure to find time for that. Have a good one!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:30 pm on 9 April, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_2",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, sorry to tell you this but my dad passed away two days ago. It's been really tough on us all - his sudden death left us all kinda shell-shocked. I'm trying to channel my grief by spending more time with family and cherishing the memories. These moments remind me to live life fully.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sorry to hear about your dad, Deborah. Losing a parent is tough - how's it going for you and your family?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Even though it's hard, it's comforting to look back on the great memories. We looked at the family album. Photos give me peace during difficult times. This is my parents' wedding in 1993.",
+                "img_url": [
+                    "https://i.redd.it/dt61gwlzp3e31.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "They were a beautiful couple!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "My husband and I are trying to be as good a family as my parents were!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "What do you value in your relationship?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It is love, and openness that have kept us close all these years. Being there for each other has made us both happy. Look what letter I received yesterday!",
+                "img_url": [
+                    "https://i.pinimg.com/originals/7a/cf/fe/7acffe40f628dca6a167a5724157ae11.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "What touching words! Who is this letter from?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "The group members sent this to me! They thanked me for the positive influence I had on them. Those moments remind me why I'm so passionate about yoga.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Where do you most often do yoga?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "This is one of the places where I do it.",
+                "img_url": [
+                    "https://i.redd.it/1s7ojxx0yra61.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Where is it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's my old home. I go there now and then for my mom, who passed away. Sitting in that spot by the window gives me peace.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Must be great to have that place where you feel connected to her.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, it's special. I can feel her presence when I sit there and it comforts me.",
+                "img_url": [
+                    "https://cdn.apartmenttherapy.info/image/upload/v1658863926/at/house%20tours/2022-07/India/StairwayBench.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, it sounds like that spot holds a lot of sentimental value. Does it bring back any special memories?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, Jolene. She'd sit there every night with a book and a smile, reading was one of her hobbies. It was one of her favorite places in the house. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "What other hobbies did your mother have?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Travel was also her great passion!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I want to show you one of my snakes! They always calm me down and make me happy. This is Susie.",
+                "img_url": [
+                    "https://i.redd.it/gvb5983gs2z71.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Having a pet totally brightens up your life. It's great that it brings you comfort. Do you have any fun moments with your pet that you'd like to share?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I was playing video games and my pet just slinked out of her cage and coiled up next to me - it was too funny! My second snake Seraphim did it. Look at her sly eyes!",
+                "img_url": [
+                    "https://i.redd.it/8aunav15kyq01.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Awww, that's so nice! ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I bought it a year ago in Paris.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Cool, Jolene! Pets bring so much happiness!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "They are very unusual pets! Here's me and my partner gaming last week - it's so fun. We played the game \"Detroit\" on the console. We are both crazy about this activity!",
+                "img_url": [
+                    "https://www.shutterstock.com/shutterstock/photos/2218356765/display_1500/stock-photo-two-people-couple-man-and-woman-boyfriend-and-girlfriend-husband-and-wife-or-friends-play-console-2218356765.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Did your boyfriend teach you to play?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Even as a child I learned to play on my own.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Do you only play old games or try new ones?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We are planning to play \"Walking Dead\" next Saturday.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Take care and keep spreading those good vibes!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! You too, take care. See ya!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:49 am on 27 January, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_11",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deb, long time no talk. A lot's happened! On Friday I had a breakthrough with my engineering project. Finally found a solution to a prob that's been bugging me. Feels great to see my hard work paying off.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You've really proven your skills. Feels great, right? Keep it up! And I bought new props for the yoga class! Here it is in action.",
+                "img_url": [
+                    "https://lotuslandyogasf.com/wp-content/uploads/Jasmine-Class-cobra-e1674461734640.png"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Oh, I also have new details for this case! Rate it!",
+                "img_url": [
+                    "https://caramiamay.com/cdn/shop/products/image_1e09790f-e4ab-4589-ac14-a6dbdf6f3b83.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That`s cool! I also bought this candle for the atmosphere and to improve my yoga practice. How about you? When you do it, what feelings do you get?",
+                "img_url": [
+                    "http://www.settlepetalyoga.com/cdn/shop/products/IMG_8556.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "I feel relaxed during this activity. I love creating a serene space with soothing scents like lavender and rosemary. Do you have any favorite scents or rituals for when you do it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I'm also a big fan of scents like this! Candles and essential oils add warmth and calm to my yoga session. It's amazing how certain smells can transport you to a place of peace.  Do you have any other ways to enhance your yoga practice?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I find music helps me. Any favorite tracks?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I find instrumental tracks with mellow melodies and rhythms help create a peaceful vibe. One of my favorites is a track called \"Savana.\" What songs/artists do you like listening to during your practice?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I love listening to Nils Frahm and Olafur Arnalds during my practice. Their music is so calming and puts me in a different headspace. Do you have any recommendations for other similar artists or tracks I should check out?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Also, I'm listening to an album called 'Sleep,' which is great for meditation and deep relaxation. Hope you find it as calming as I do!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks for the tips, Deborah! I'm gonna check them out. It's always good to have some new tunes for yoga!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Let me know your thoughts on the albums!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "See you!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Take care and keep up the good work!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:03 pm on 28 March, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_10",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, it's been a while. Hope you're doing okay with all your exams and deadlines. I know it's difficult for you right now.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hey Deb! Yeah, it can be tough. Trying to find time for everything is like playing catch-up - really stressful!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " How do you manage your time and stay organized with all the projects and deadlines?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm using the Pomodoro Technique - 25 minutes work, 5-minute break - to avoid burnout but I'm still struggling to prioritize. Do you have any other tips on time management?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I create a daily schedule or to-do list. Here's my example for today.",
+                "img_url": [
+                    "https://johnaugust.com/wp-content/uploads/2020/04/front.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "I tried making one but it's kinda overwhelming when it's a big stack of tasks. Here's an example from last Friday.",
+                "img_url": [
+                    "https://i.redd.it/3int1hmnou0a1.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you tried breaking it down or prioritizing the tasks?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It can often feel overwhelming and difficult to figure out where to start.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I get it, Jolene. When I'm overloaded, I use a certain method. It helps me figure out what's important and urgent so I'm more organized. Do you know about it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Nah, I'm not familiar with that one. What's it about?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Want me to tell you about it? It helps you organize things based on how important and urgent they are.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sure, tell me more about it! It sounds useful.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "The Eisenhower Matrix sorts tasks into four boxes, categorizing them based on their urgency and importance. It can be really useful for organizing and prioritizing. Here's a breakdown. ",
+                "img_url": [
+                    "https://i0.wp.com/writeintolife.com/wp-content/uploads/2021/03/important-urgent.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "The visualization is helpful too. Thanks for sharing!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I am glad, it was helpful. Let's give it a try and see if it helps you stay focused and less stressed. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, I'll give it a go. Fingers crossed it'll help me. Thanks for the help!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Don't forget to take it easy and look after yourself. Wishing you all the best! Recently, Anna and I were sitting by the sea, watching the sunset and talking about each other. And we realized that we inspire each other. What thoughts does the sea in this photo make you think of?",
+                "img_url": [
+                    "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "This gets me thinking of when I'll learn to surf. Gotta find that spare time!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Surfing, huh Jolene? Chase your dreams, don't be daunted. Have you thought about the steps you can take?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Definitely! I've been gathering information, watching videos, and I even got a beginners' guide to surfing. Just need to find the right time and place to get a lesson.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Way to go! Taking those first steps is key. Believe in yourself and keep going!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks for the support! Those got me pumped to try surfing. Gonna keep pushing myself to make it happen.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Keep it up, Jolene! Remember, the experience matters just as much as the end result. Step by step and have fun along the way. You can do it!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks for the boost!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "5:35 pm on 22 March, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_13",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deborah! Long time no talk - I had lots of stuff going on. Remember the tough engineering project? I finally wrapped that up last month. Look at the result!",
+                "img_url": [
+                    "https://i.redd.it/avkvvy4fqr331.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Jolene! Congrats on wrapping up your with it! You really put in the work and it paid off. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'm really proud of myself for sticking it out despite the problems and finishing it. It's definitely a big milestone.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Now that you've reached this big milestone, what do you have planned next?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'm interning at a well-known engineering firm. It's been a great opportunity to test my skills and gain real-world experience. These are my new colleagues!",
+                "img_url": [
+                    "https://www.alamy.com/aggregator-api/download?url=https://c8.alamy.com/comp/2NH09XA/engineering-team-and-portrait-of-a-construction-workers-on-a-site-outdoor-in-the-city-in-collaboration-teamwork-colleagues-and-group-of-female-2NH09XA.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "What's been the best part of it so far?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "The best part so far has been being able to apply what I learned in school to real projects. It's so fulfilling to see my ideas come to life.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Mind if I ask how the internship has impacted you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It has had a positive impact on my life. It has stoked my love of engineering and has encouraged me to keep striving for my dreams.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " How has it inspired you to keep striving for your dreams?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hanging out with people who love what they do has really inspired me to stay focused and keep working towards my goals. It's shown me that with dedication and effort, anything is possible.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you been able to find a good work-life balance during your internship?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Honestly, finding that balance has been tough. I've been slogging away and it's been hard to make time for my hobbies and chilling out.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Have you considered taking some breaks and finding activities like yoga to help you relax and unwind? That might make a difference.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, I`m trying to do it. Here's an example of how I spent yesterday morning, yoga on top of mount Talkeetna.",
+                "img_url": [
+                    "https://i2.wp.com/azwonders.com/wp-content/uploads/2020/12/IMG_1095.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Nice job, Jolene! How long have you been doing yoga and meditation? It looks like it's really helping you regroup and recharge.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I've been doing them sporadically for about 3 years now and they've had a real positive effect on me.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Has it benefited you in any way? Have you found it helpful in difficult moments?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It has helped me with stress and kept me centered.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Glad they've been helpful for you!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "No idea how I would've survived without them!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "This is my favorite studio and it's always so calming. ",
+                "img_url": [
+                    "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": " I was wondering if you have any advice on calming the mind and breathing during yoga?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I'd recommend practicing mindful breathing for yoga. Set aside a few minutes each day to sit with your eyes closed, take deep breaths, and focus on how the air feels entering and leaving your body. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deborah! I'll definitely give it a try. Appreciate the advice!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " If you need more tips or help, just let me know. Take care!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "See you!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "3:56 pm on 6 June, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_6",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deborah, totally buzzing! Had a great night out last night - dinner, and drinks with my friends. So glad I got to let my hair down. You?",
+                "img_url": [
+                    "https://i.redd.it/l2ug8nsuyt0b1.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds great, Jolene! I just visited this place and it was so calming. Nostalgic too.",
+                "img_url": [
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrcCxkcqe0DgHUVVqbd_YzertOqBQr0xfgZsSIgfLnWCCm8hh-gbggmBWzSnBLHfRuzRH9Z8nKkHZBaxBp3siwhJfyoUMzkM48nD0QSEHLQ-x6Mh2TpD00a_78-zVImBnIe2BQguR_B9W0FD12fOo6NceMKKfnprpIqnsVwl7ERzIBfSbB-VggxYMPdg/s4032/IMG_4386.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, those flowers are beautiful! What type are they? It looks so peaceful there.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sorry to hear about your friend, Deb. Losing someone can be really tough. How are you holding up?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks for the kind words. It's been tough, but I'm comforted by remembering our time together. It reminds me of how special life is.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Memories can give us so much comfort and joy.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Memories keep our loved ones close. This is the last photo with Karlie which was taken last summer when we hiked. It was our last one. We had such a great time! Every time I see it, I can't help but smile.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/cc/79/b1/cc79b1f0ce550924e25b629477305e48.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, looks like a great trip! Where else have you traveled?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga.",
+                "img_url": [
+                    "https://zohrasrose.files.wordpress.com/2022/01/img_1273.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, that's great! Is yoga on the beach a thing? I've been wanting to try it.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "The sound of the waves and the fresh air is wonderful!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'll definitely give it a go! It sounds peaceful. Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Let me know how it goes. Enjoy it!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'll keep you posted if I decide to go there.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Take care!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:12 pm on 22 February, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_17",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Since we last spoke, I made a meditation guide for my yoga retreat. How about you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I have been stressed since I lost my work files. I was so overwhelmed...but meditation kept me chill and I got my clarity back, thank goodness. Really appreciate the practice!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's amazing how it can give you peace and calm in times like that. If you ever need any support, just let me know - we're in this together!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Appreciate your support! BTW, I wanted to share this with you.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/b2/45/99/b245990063d2f101efca8343d70f0494.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Your creativity is amazing! ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! I was inspired by my love for space and engines, so I designed these notebooks with elements like galaxies and circuitry. I think they turned out really cool!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You have such a knack for turning these into art. They make me feel excited just by looking at them. Your creativity is amazing! Does that usually inspire your engineering projects too?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Seeing art and design in various things gives me a unique perspective on problems.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Got any neat projects or ideas you're pumped about?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Working on a cool project now - a prototype that could revolutionize aerial surveillance. Can't wait to see the results!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I admire your ambition to make a difference. Do you have any specific plans or goals for this project?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "My aim is to devise a more productive and affordable aerial surveillance system. It'll help with responding to emergencies and monitoring the environment. It'll make the world a better, safer place.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I love your commitment. Keep going!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! Your support means a lot. I'll keep pushing and doing my best to make a difference.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You got this!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "8:50 pm on 12 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_19",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Hope you're having a good one. Last Friday I told Anna the story of my life and they were super kind about it. It was so nice to have a meaningful connection. How's the mindfulness workshops and reading going? Need any help?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Life's been hella busy since we last talked. I bought a console for my partner as a gift on the 17th and it's so much fun, he even managed to play it.! Engineering studies are still going strong too. Balance has been key for me lately. How about you? What's been up?",
+                "img_url": [
+                    "https://i.redd.it/90qd3jqxi2781.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": " Well done! As for me, I've been focusing on teaching yoga and spending time with the community. Organizing a yoga event last month was really cool.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Was it rewarding seeing everyone come together? Can you tell me more about how you put it together? Also, any tips for maintaining a balance between hobbies and studies?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I reached out to different nearby businesses and places to make it happen. We had yoga, food stalls, and even some live music - it was amazing! As for balancing hobbies and studies, I find it helpful to prioritize and manage my time effectively. Making a schedule and setting aside specific time for studying and pursuing hobbies can go a long way in maintaining balance.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, that's awesome! Gonna make a plan to manage my studies and hobbies. Say, do you ever play video games?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I used to play some video games, but it's been a while. It's a good way to relax after a busy day. Do you have any game suggestions? What's your favorite game?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Cool recs! I'll definitely check those out. What about your favorite memories of playing video games?\n",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Oh, I forgot to mention Overcooked 2 - this is a good co-op game if you're into hilarious and chaotic cooking. My partner and I often play for bets! I once won three large pizzas!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Reminds me of when I used to play games with my husband. We'd take turns and it was a great way to bond and make memories. Gaming really can bring people closer, right?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, you`re right! What's your favorite game to play with that person?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "We prefer to play detective games together.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "What other activities do you both enjoy doing together?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "We also enjoyed spending time outdoors and exploring nature. It was always so refreshing to be outside and soak up the fresh air.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm a big fan of being outside too! It's so calming and refreshing. Do you have any special spots you like to go to?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I love going to this park near my house - it has a nice forest trail and a beach. It's a peaceful spot where I can do some yoga and reflect. There's also a special bench that holds special meaning to me.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sounds lovely! Nature can be calming. What makes this bench special to you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It holds a lot of special memories for me and my mom - we would come here and chat about dreams and life. It's full of good moments. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "That's awesome, Deborah! What were some of your favorite memories with your mom at this spot? It looks super peaceful and pretty.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I'll always cherish my memories with her at this spot. I remember a beautiful sunset we watched together in silence - the colors in the sky were so special. Every time I go back, I feel so much peace and gratitude for the time I spent with her.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Places and moments like that can mean so much, and it's a gift to find peace and gratitude in them.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I'm really thankful for all the time we had.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It's so important to cherish it. ",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "12:52 am on 19 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_18",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Been thinking a lot about my plans lately, especially after checking in with my bf. It's been up and down!  Some days it feels like I'm trying to juggle my engineering, relationship, and growing as a person, and I just don't know how to handle it all. How do you manage when it's too much?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Finding ways to restore balance is important. Taking time for yourself and recognizing your needs can make a difference. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! I've been trying out some time management strategies recently and started using a bullet journal. It's been really helpful for tracking my tasks and staying organized.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " It's great to hear that it's been helping you out!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Not only does it help me stay on top of everything, but it's also so satisfying when I cross tasks off my list. Here's a pic of my newest spread with one of my favorite quotes.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "I love this quote. So uplifting. Does it motivate you when you see it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, it's like a little reminder to stick to my goals and never give up.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Gotcha! Visual reminders like this photo can be super motivating. Keep focusing on your goals, Jolene, and don't give up! I led a meditation yoga sessionto the elderly at a local care home last week during sunset. Nature can be really helpful for finding peace. Have you tried mindfulness too? ",
+                "img_url": [
+                    "https://www.naplesnews.com/gcdn/-mm-/06756bca6c979c173ae23c1ba44f60a8fd2bcbee/c\\u003d0-0-3024-4032/local/-/media/2017/04/25/Naples/Naples/636287249454494595-Yoga-4.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Haven't tried it yet, but I'm keen to give it a shot. That sounds really peaceful. I could use some of that calm in my life right now.  I'm interested in destressing and trying mindfulness. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I started with workshops and books, and now mindfulness is a huge part of my life.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'll definitely look into some of it. Can't wait to get started!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's great, Jolene! I'm so glad you're willing to try some mindfulness. It can be really helpful. Let me know if you need any help getting started - I'm happy to assist you with your journey!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I really appreciate it.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "We're in this together. Give me a shout if you need anything. Bye for now.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, I'll hit you up if I need anything. Bye for now.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "2:58 pm on 16 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_16",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Great news - I just started a project for a cleanup in our community and have been trying to raise funds for it. It's been amazing to see everyone come together to make a difference. How've you been? Anything new going on?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hey Debs! Congrats on your project for the community! As for me, life's been a rollercoaster lately. Last week, I had a huge setback with my project. I put in so much work and it all crashed and I lost everything. SO frustrating and depressing.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Jolene, sorry to hear that. It must be really tough. I'm here for you and if I can do anything, just let me know. Is there anything that's helping you cope?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Your support means a lot. Susie really helps when times get tough. Pets have been great company. Video games have also been a nice distraction.",
+                "img_url": [
+                    "https://i.redd.it/0uzy21np69b51.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "They can really provide love and comfort, especially during tough times. How did you come to have Susie?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I adopted her two years ago when I was feeling lonely and wanted some company.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's great, Jolene! Animals sure have a way of bringing us happiness. They understand us and provide us with comfort. Plus, having a pet teaches us responsibility. She came at the perfect time - cherish those moments with her and find strength in her presence.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks Deborah. Having her around shows me I can stay strong and find joy in the small stuff.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Enjoying the little things is key. Those little moments can give us a boost and push us forward. How have you been taking care of yourself lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm trying to prioritize self-care, like yoga and meditation. It helps me stay balanced and grounded.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " If you're interested, I can suggest some routines for you to try.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'm always on the lookout for new routines to mix things up.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "In the meantime, check out this great place for yoga.",
+                "img_url": [
+                    "https://res.cloudinary.com/peerspace-inc/image/upload/q_80,c_crop,g_custom/w_2048/awuqrhwdbakdu4eeyll1.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "This room looks perfect for it. Do you have any favorite routines you can share?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "One of my favorite yoga routines is a gentle flow that's all about breathing and grounding. It helps me find my chill. I'll send you a tutorial video with the poses. This is me in the process :)",
+                "img_url": [
+                    "https://kathsdruyoga.files.wordpress.com/2020/04/img_5644.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow! Does that help you find your chill or improve your concentration?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's a great way to find balance in tough times. Try it out and let me know what you think!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Can't wait to try it out. Let's chat soon!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Let me know how it goes. Talk to you later!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yep, I'll practice and update you. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:26 am on 1 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_21",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Good to hear from you! A lot's happened since we talked - last week I got to go to this yoga retreat near my mom's place. It was so cool - I got to hang with nature and really get to know myself. Definitely life-changing! That's how beautiful it was there!",
+                "img_url": [
+                    "https://holmanhealthconnections.com/wp-content/uploads/2019/01/IMG_0412.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, Deb, sounds great! Glad you got to connect with yourself and nature. That's my own way to relax. What are your thoughts on life now?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Life's been super meaningful lately. Nature and self-reflection have helped me see how beautiful every moment is. We can really grow and learn when we listen to ourselves. What's been up with you lately? Any insights or experiences?\n",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Life's been hectic, but I'm making strides toward my goals. It's tough, but satisfying.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Can you tell me a bit more about it and what you've achieved?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You really put your heart and soul into it. Must have been amazing having it go so well. How did it feel when people gave you positive feedback? Any ideas for what comes next?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I was thrilled to receive such positive feedback! It felt so rewarding to know that my efforts were appreciated. Right now, I'm focusing on studying and gaining more experience. I'm even thinking about more internships to further enhance my skills. Exciting times! Hopefully, there will be more updates to share with you soon.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, Jolene! Way to go! I'm super proud of all you've achieved. Let me know if you need any help. Onward!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! Your support means a lot to me. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "No problem. You got this! ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'm not giving up, just gonna keep pushing forward.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Reach for your goals and don't forget to enjoy the journey. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb. Your support means a lot. I'll keep pushing forward and remember to enjoy every step of the way.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Come on! The journey's as important as the destination. Take time for yourself and find joy in it. We believe in you!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, you're right! I'll take your advice and find joy on the way. Cheers for the support!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Always by your side!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:34 am on 24 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_14",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! How's it going? We haven't talked in a while. I've been busy getting ready for a yoga retreat with some buddies. A chance to hang out with people who think like me and find peace and understanding. Sounds awesome!",
+                "img_url": [
+                    "https://assets.simpleviewinc.com/simpleview/image/upload/crm/maineta/7D10D61B-FFA4-44EB-B4DF-5E6002D715F5_14D84855-064F-4EDB-86FAE0FA2AB35244_60bff6ce-b8b0-4146-b88bb1d2cef69fcb.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Hey Deb! Been super hectic with internship and stuff. That retreat sounds awesome, I could definitely use a break!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "By the way, I tried a new pose - Dancer Pose (Natarajasana). Rate, did I succeed?",
+                "img_url": [
+                    "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "You are amazing as always! Here are new photos of Seraphim in the new aquarium that I bought the day before yesterday.",
+                "img_url": [
+                    "https://i.redd.it/6moonjm3bypa1.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Where'd you get it? I'm always drawn to animals, they bring so much joy. What's its story?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Pets really do make life more enjoyable and bright. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I'm so thankful it's here. Plus, it's nice to have a calm creature around.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "How have things been besides that?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Things have been intense lately. I'm really pushing myself to succeed, and sometimes it feels overwhelming. But I'm determined to overcome any obstacles and achieve my goals.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Keep up the hard work and remember to relax too.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deborah! I had a big breakthrough with this project - so exciting and rewarding!",
+                "img_url": [
+                    "https://ffalcons.files.wordpress.com/2021/06/stephen-paper-2.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Awesome, Jolene! I'm really glad your project worked out. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Stop talking about me, tell me more about your retreat.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I'd rather show you a photo. This is also a new yoga pose that we tried. It is a tree pose.",
+                "img_url": [
+                    "https://thehammockllc.com/wp-content/uploads/2019/07/Yoga-all-ages.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "What's that statue in the picture?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's a symbol of peace and enlightenment.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, it looks gorgeous! I'd love to visit a retreat like that. It seems like the ideal spot to find peace and refreshment.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's perfect for reflecting and getting centered.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I could really use some chill time like that. Sounds so peaceful.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, we all need some peaceful time to relax.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Gotta run, have a nice day!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "See you!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:17 am on 26 June, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_20",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": " Long time no talk! We were given a new game for the console last week, it is Battlefield 1. What's been up with you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! Good to hear from you. That`s cool! Been thinking about a few big moments lately - went to a place that held a lot of memories for me. Sat on a bench where we used to chat and it brought back a lot of emotions. ",
+                "img_url": [
+                    "https://bmoreenergy.files.wordpress.com/2023/08/img_2540.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Mostly happy or a bit of everything?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It was quite a mix, Jolene. I felt nostalgia and longing, but also grateful for the memories. It's amazing how a place can mean so much. I brought these flowers there.",
+                "img_url": [
+                    "https://www.inbloomhomestead.com/wp-content/uploads/2023/07/stunning.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Do you think she would like it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, my mom really loved flowers. They always made her so happy. She appreciated the simple things in life.\n",
+                "img_url": [
+                    "https://images.pexels.com/photos/12473781/pexels-photo-12473781.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-pexels-user-12473781.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, that's a great photo! How did she show you to appreciate it?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "By taking it slow, seeing beauty in them, and finding joy.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow Deb, that's awesome! We should definitely take time to enjoy that and not let the business of life cause us to miss out on the good stuff.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, Jolene. Life can be so busy that we often overlook the small things that truly matter. Let's make an effort to appreciate them more.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yep Deb, slowing down and enjoying simple moments can bring a lot of balance and happiness. I'm trying to do more yoga and meditation myself to help relax and stay focused. Are there any calming habits that you practice to feel balanced?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yeah, same here, Jolene! Yoga and meditation help me find balance and inner peace. Going out for walks and staying mindful also keep me grounded. I take similar photos on walks.",
+                "img_url": [
+                    "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Gorgeous! Going for a walk and feeling so peaceful must be amazing.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Moments like that I'll always cherish.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "That calm and peaceful feeling is so nice - it's great for recharging and thinking.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " It's like a reboot for me.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Got it! It's like hitting the refresh button and coming back even better.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "What's your favorite yoga pose for some rest?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm a fan of savasana - aka the corpse pose. It's so calming and helps me just let go and surrender.",
+                "img_url": [
+                    "https://i.redd.it/12yit6phiwl21.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Funny photo! How long have you been doing yoga?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Been doing it for 3 years. It's a great way to escape studying and work stress.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, Jolene! Taking time to unwind is key and that seems just right for you!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm really finding my zen again!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks for your support, Deb! ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Good luck with everything. Stay in touch.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "9:11 am on 21 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_15",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene! I started a running group with Anna - it's awesome connecting with people who care about fitness!",
+                "img_url": [
+                    "https://hips.hearstapps.com/hmg-prod/images/grc-cim-1671133645.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Cool, Deb! Glad you found some people to get fit with. I'm trying to add workouts into my studying schedule, which has been tough but fun. How about you? Any challenges with the running group?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Oh, I'm having a blast with it! We help and push each other during our runs, which makes it so much easier to stay motivated.  I have a lot of my photos from this activity.",
+                "img_url": [
+                    "https://www.milebymileblog.com/wp-content/uploads/2020/11/saturday-sunrise-run.png"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Deborah, that's awesome! Being part of a supportive group must be super motivating. Finding a team that's passionate about something makes a huge difference. Just thinking about my own journey too.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Having people who can cheer you on and give you advice really makes a difference. What has it been like for you finding supportive folks?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Gaming's been tough lately, but I'm grateful I have someone who's also into it. My partner helps me stay focused on our goals. We have a lot of cute photos, I want to share with you.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/30/08/ee/3008ee2c8041c333b9757d24b8246986.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": " What do you like best about gaming together?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We get to tackle challenges and have a shared experience. It's always a blast when we're into the same game and achieve something tough. Plus, it's a great way to bond and get closer.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Woah, that's cool! Gaming is so good for strengthening relationships. Do you two have a favorite game to play together?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, we love playing \"It takes two\" together! It's a fun team-strategy game and it's competitive. Plus, it's a great way for us to bond. Do you have any activities you like doing with people?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yep, I do running and yoga/meditation with others. Connecting with people and creating a community is great. Plus, I love organizing workshops and events to practice mindfulness and self-care. It's an awesome way to have fun, build relationships, and support each other's growth.",
+                "img_url": [
+                    "https://georgetowner.com/wp-content/uploads/2019/05/Photo-Aug-27-10-26-09-AM-2.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Sounds like a great way to relax. What do your workshops and events involve?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It involves various activities such as yoga, meditation, and self-reflection. They aim to cultivate self-awareness, promote mental and emotional well-being, and help individuals find inner peace. It's a space where people can connect, explore, and grow.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Your events are awesome for helping people connect and learn, it is so important. How has everything been going for you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks, Jolene! It's been great seeing everyone come together and support each other. It's amazing to witness the growth and transformation that happens through these workshops. I'm honored to be a part of it.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, Deb! I can imagine how rewarding it must be to create a space for growth and change. It's great to hear that everything's going well. You can always count on me for support! I just want to share a photo with you.",
+                "img_url": [
+                    "https://i.redd.it/3096c8dr8tr71.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks, Jolene! Your support means a lot to me. I'm here for you too. By the way, I noticed your pet in the picture. What made you decide to get a snake?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I was fascinated by reptiles, and it felt like the perfect pet for me. Taking care of it has been really calming, and it's a great way to connect with nature.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Glad you found something that gives you peace and calm. Do you have a favorite memory with \"it\" to share?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I have lots of great memories, like our little 'snake adventure'. She got out and I spent hours searching, so relieved when I finally found her snuggling under the bed. It really showed how much I love her.",
+                "img_url": [
+                    "https://content-cdn.tips-and-tricks.co/wp-content/uploads/2023/03/21143140/ChristianWeBlog_this_woman_cuddling_with_her_python_in_bed_28f150c5-137d-4f75-a508-2a88bad70c91.png"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "What was it like when you found her? I can imagine the relief!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Seeing her snuggled under the bed made me feel so much love and gratitude. It made me realize how important she is to me.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "They bring so much joy and remind us of what's important.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Animals teach us a lot about love and gratitude, and they bring so much joy. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I haven't introduced you to my pets yet! I don't like dogs, that's why I have cats.",
+                "img_url": [
+                    "https://thumbs.dreamstime.com/b/two-cats-playing-garden-summer-have-fun-play-together-333752105.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Looks like they're having a blast! How often do you take them out?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Exercise and nature are really important to me, so I make sure to take them out for a run in the park every morning and evening.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow Deb, that's great! I'd love to experience that every day.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Nature helps me find peace every day - it's so refreshing!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It's a pity that my snakes don't run!  I'd love to do that more often. They would motivate me and together it would be more fun.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " It's like hitting a reset button that helps me put things into perspective and gives me time to reflect.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, I totally get it. Whenever I can, I love going for walks to take it all in. And I take photos like this",
+                "img_url": [
+                    "https://images.pexels.com/photos/14464647/pexels-photo-14464647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "It's amazing how nature has the power to bring us peace and clarity.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "This photo captures the peacefulness of a lake surrounded by trees.",
+                "img_url": [
+                    "https://images.pexels.com/photos/12314495/pexels-photo-12314495.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lera-mk-12314495.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Why did you choose that spot? It looks so calm.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It's such a hidden gem! It makes me feel so peaceful and tranquil.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Lucky you for having somewhere to relax and tune out!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We'll definitely go there together sometime!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "We all need a timeout!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:37 pm on 9 July, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_22",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, since we talked I've been thinking about my mom's influence. Remembering those we love is important.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I understand, Deb. Remembering and cherishing the memories of our loved ones is so important. It's comforting to know that their influence still guides us. Last Friday, my partner and I talked about how our loved ones have influenced us and what their values meant to us. It was an emotional chat, but it made us feel closer and showed us what really matters. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Those types of conversations really help build relationships. Can you tell me more about the values they have given you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Definitely! Our loved ones have taught us to persevere and stay resilient, like my mom always said to never give up, and my partner's dad showed them to stay determined. Their values have influenced us to pursue our goals, such as me with engineering and my partner with their creative endeavors. Even though they're not here, we both feel their values encouraging us along our paths.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's wonderful to hear, Jolene! It's amazing how their values continue to guide you, even in their absence. It sounds like you and your partner are honoring their memory by pursuing your respective passions. Have you ever considered incorporating those values into your work as well?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, Deborah! We've been figuring out how to add these values into our projects. As an engineering student, I want to use my talents to do good and help solve important problems. I'm keen on coming up with new ideas and making things more efficient to make the world a better place. Going further, my mom stressed the value of helping others and that's something I want to keep in mind for my engineering projects.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "When our work ties into our values, it becomes more meaningful. What goals or ideas do you have for incorporating those values into your future projects?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "In the future, I'm aiming to work on projects that make a real difference to communities. I'm interested in sustainable initiatives and developing innovative solutions for environmental issues. I also want to get involved with organizations that focus on social causes, using my skills to help out. It's about connecting my passion for engineering with my commitment to making a positive impact.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You've got a lot of amazing plans for the future. Which projects are you most interested in getting involved in?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm keen on two projects in particular. One is focused on developing renewable energy, like solar, to help communities and reduce dependence on non-renewables. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow Jolene, that's really inspiring!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "The other is finding ways to supply clean water to those with limited access. Both align with my beliefs about sustainability and assisting those in need. I still have so much to figure out before beginning, but I'm up for the challenge.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds great, Jolene! Research is key to success. Little steps and being up for challenges make you stronger. I'm here for you. Connecting to yourself helps tackle any issue. Here's a photo that reminds me of the beauty of nature during a yoga session.",
+                "img_url": [
+                    "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "It helps with challenges, giving balance and strength. Any tips for staying relaxed while studying?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Taking breaks, doing some stretching/yoga, or just going for a walk is really helpful. And don't forget to get enough sleep and take time for self-care. Finding a balance between work and taking care of yourself is important. What self-care activities have you been doing lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I've been into yoga and meditation lately. It helps me recharge. Doing different poses relieves tension and calms my mind. I've already shared my newfound love for yoga with my partner, and we're planning to go on a meditation retreat together to enhance our practice together.",
+                "img_url": [
+                    "https://people.com/thmb/fC0L-edsIfV-FWKi1pQDdFmkbGA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/lxryoga-snake-yoga-5-c365b41cbe5240b19d89efa2c36e9068.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Glad to hear that yoga is helping you rest and recharge. It's great for reflection and self-care. Do your snakes also enjoy it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "My snakes just like watching me chill. But she's a great company and always brings a sense of calm.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Having a pet around is such a calming feeling. They sure can bring a great sense of comfort. I still have cats, Luna is sitting on the left.",
+                "img_url": [
+                    "https://catsandcoffee.me/wp-content/uploads/2020/01/Louis-and-Olivia-on-the-windowsill.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Aww, that's adorable! What's the second one's name?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Max! They bring lots of joy and peace to our home.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "How did you get them?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Max is my mother's cat, I took him when my mother passed away.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "You're great for taming him. How did you get Luna?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I took Luna from the shelter.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It\u2019s wonderful that you have become their loving owner!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yes, I really love cats, and they also need a home, love, and care! Moreover, Max is already old, he is 8 years old.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "How old is Luna?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "She is younger, she is 5 years old.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I am proud of your action to tame these pets!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "5:33 pm on 26 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_27",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deb! So sorry for the late reply, been super busy. Last weekend my partner and I traveled to a meditation retreat for a few weeks in Phuket. Amazing experience! Nature, reflection and a break from engineering studies were awesome - it helped me find inner peace.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I'd love to hear more about your reflections there and how they changed you.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "At the retreat, I had time to reflect on what makes me happy. It made me realize the importance of incorporating relaxation, self-care, and balance in life alongside my engineering studies. The beauty of nature there was so inspiring and refreshing!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Was there anything from the retreat that stood out to you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "The one session that really stood out was about releasing expectations and judgments and just savoring the present. It was a strong reminder to not just dwell on the finish line, but to appreciate the journey too. I usually get too consumed with hitting my goals that I forget to appreciate the ride.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " I've been thinking about this a lot, too. Life's full of small moments and being grateful for those can really boost our happiness.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yup, totally agree! Sometimes we get too focused on the big stuff and don't appreciate all the tiny wins. Like the feeling of the sun or a great cup of coffee - can be small but they make life much better. Trying to be more mindful and grateful to take it all in now.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That's great, Jolene! Practicing mindfulness and gratitude can really change our day-to-day. Even just a different outlook can make the little things in life joyful. Glad you're getting into it!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm experiencing a new level of joy and happiness!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " It's wonderful to see your progress, and I'm excited to be on this journey with you!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! Appreciate your support. It's great that we can do this together.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Having a supportive community definitely helps. We can motivate and encourage each other! By the way, I recently played a game. I don't remember what it's called. This is a card game about cats, where you take cards one by one from a deck, and then you can attack your opponent with them. We'll definitely play it with you!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I look forward to meeting you and playing this game!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "2:18 pm on 12 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_24",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, just catching up. I went to a cool event last week with the aim to support each other - pretty inspiring. Have you been connecting with anyone lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Hey Deb, great to hear from you! I've been focusing on studying and my relationship with my partner. We're taking little trips to the beach, it's a great way to relax. How about you, anything new going on?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I was busy too - went to a community meetup last Friday. We shared stories and it was nice to feel how connected we are. It made me think about how important relationships are. How about you, how are things going in that area?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm really thankful for my significant other right now. It's great to have someone encouraging my goals! How are things with your friends and family? Any updates on that front?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Relationships with family and friends are so vital. My yoga pals have been my second family - we've held each other up through a lot. The other day I found this old photo. That was when I first started doing yoga. My mum was my biggest fan and source of motivation. She'd often come to my classes with me.",
+                "img_url": [
+                    "https://img.freepik.com/premium-photo/young-mother-daughter-doing-yoga-exercise_211251-999.jpg?w=2000"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.",
+                "img_url": [
+                    "https://i.redd.it/h2oi87j1cty71.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Cool that they shared that with you. Did you learn on your own or did they teach you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I taught myself, but my dad was always supportive and my mom would play games with me. ",
+                "img_url": [
+                    "https://i.redd.it/etnsyns3zh931.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That's awesome! Sounds like you had a lot of support from your parents. What was your favorite game to play with mom?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "One of my favorites was \"Monster Hunter: World\". The immersive story and open-world gaming are amazing!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " It can be so freeing when you get immersed in a game like that. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah! It's my way to de-stress and take a break from life.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "What's up this month? Anything fun happening for you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Got a lot of finals coming up this month, so I've been studying real hard. It's been quite stressful, but it'll be worth it in the end. Thinking about taking a trip somewhere to relax and recharge afterward.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Good luck with it! Let me know if there's anything I can do to assist you.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "2:14 pm on 3 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_25",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Woohoo! I signed up for a meditation course at a retreat near a lake. Can't wait to share this experience with my partner and learn some new techniques. Sooo excited!",
+                "img_url": [
+                    "https://www.ic.org/wp-content/uploads/formidable/2/temple_may2021.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That`s awesome! It looks so calm in the pic - I hope you enjoy your experience and learn some new techniques!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " It's amazing how something so easy can make such a big difference to our health!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yep, it's become part of my routine now. Can't imagine my life without it.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, same! It helps me stay balanced during my studies.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Glad to hear it, Jolene. How's the project going?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " It's tough but I'm chugging along. Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "You're so strong for handling all the challenges. You've got this!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deb! Your support really means a lot. I'll keep pushing forward.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "No worries, Jolene. I'm here if you need me. Take care of yourself and don't forget to rest up.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "What have you been doing lately?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I recently saw this wonderful sunrise again.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Glimpsing that calms me. Taking beach walks relaxes me. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Did my photo remind you of something?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "That shot was like a reminder of my last beach getaway. So chill and nice. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Glad it brought back good memories. ",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Maybe one day we will be able to watch the sunrise together!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "An offer I can't refuse!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Bye, Deb! See you later!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "See ya! Stay safe and catch you later. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "8:31 pm on 6 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_26",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, had a tough week. Storm forced us to cancel our yoga getaway.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sorry to hear about it. How are you feeling now?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I was bummed about it, but I'm doing better now. It was just a setback, but I found comfort in my work and spending time at home. Reminds me to be grateful for the little things. And you? How's it going?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "My partner and I plan a camping trip to connect with nature and practice yoga.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It can be both good and tough to plan activities with a busy schedule - what strategies do you use?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Having a routine helps me stay on top of everything I need to do. I have a schedule for classes, studying, and personal time. Self-care activities like yoga and meditation help me stay balanced and relax.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I'd love to learn more about how you do it.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I can tell you about it if you're interested. It took a bit of experimenting, but it's really helped me.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds great! Let's set up a coffee date and talk about it!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wanna meet up at that cafe next Monday? Let's try fresh pastries.",
+                "img_url": [
+                    "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2000,w_1333,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/CaseStudy-10009161130_nstsp1.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds good, Jolene! When did you have in mind? That cafe rocks.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "How about Wednesday at 4? Can't wait to catch up over coffee!",
+                "img_url": [
+                    "https://images.pexels.com/photos/12910957/pexels-photo-12910957.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-sena-12910957.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That pic looks so peaceful. Reminded me of a cool hidden coffee shop near me. Rate it!",
+                "img_url": [
+                    "https://media.architecturaldigest.com/photos/5a6790689acb4d19c359a638/16:9/w_320%2Cc_limit/OregonUmamiCafe.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Tell me more about it when we meet, maybe next time we\u2019ll be there.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sorry, I remembered that I already have plans for this day.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Now I'll see when it's more convenient for me.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thank you for your understanding, I'm waiting.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "How about Friday at 5? I will need to sort out the books from this bookcase and I will be free.",
+                "img_url": [
+                    "https://i.redd.it/d1g89l9ba7b61.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Absolutely, let's do that! Can't wait for our coffee date next week. See you then. Stay safe!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "See ya soon, Deb! Be safe and I'm excited for our coffee date!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Maybe just grab me some interesting books!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:39 pm on 8 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_30",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "I had a great time at the music festival with my pals! The vibes were unreal and the music was magical. It was so freeing to dance and bop around. Music brings us together and helps us show our feelings. It reminds me of my mom and her soothing voice when she'd sing lullabies to me. Lucky to have those memories!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, festivals sound so fun! Here's me and my partner at one last year - had an awesome time! It's my way of expressing myself and getting away from all the stress of everyday life. Just got back from a trip with my partner - so cool!",
+                "img_url": [
+                    "https://thumbs.dreamstime.com/b/sunrise-couple-s-retreat-sits-meadow-basking-warmth-casts-golden-hue-over-tranquil-landscape-311756866.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, what a gorgeous shot! It looks so tranquil and serene. You two look very happy together. Trips create awesome memories that we can share. Where did you go on your trip and what's something you'll never forget?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks! We had an awesome yoga retreat. The place was so peaceful and the view during yoga was amazing - the sunrise lit up the whole sky with bright colors. It was so beautiful, it made us feel so alive and grateful.",
+                "img_url": [
+                    "https://atharvyogshala.com/assets/images/sunset-view.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, what a view!  How did it make you feel?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It was amazing! Doing yoga with that backdrop made me feel connected to nature and myself. I felt incredibly peaceful and thankful.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Like, it's no wonder looking at such beauty can really help us refocus and connect with who we are. Have you ever experienced that?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I remember taking a hike with my partner and coming across a waterfall oasis. Everything just felt so peaceful and my worries just disappeared. It was such a refreshing experience.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Are you planning to experience it again soon?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah! I'm planning to get out in nature again next month. It's going to be great reconnecting with it!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Enjoy it! This photo made me think of a gorgeous blossom tree from near my home. Every spring, it was magical to watch it bloom.",
+                "img_url": [
+                    "https://www.lsuagcenter.com/~/media/system/8/a/0/b/8a0beeb70c88046e95c4cc398cb5242b/cherry%20flowers%20and%20beepng.png"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "That sounds magical! How was it watching the tree bloom each spring?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It was like admiring nature's artwork. It filled me with awe and made me appreciate the beauty of life. Even in tough times, there's hope for growth.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "This photo I took is a great visual representation of that idea. It reminds me that I can keep growing through any obstacles.",
+                "img_url": [
+                    "https://i.redd.it/kwnuvwl3wha01.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "It really captures resilience and strength. I love how you find inspiration in the small things.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks, Deborah! Appreciating those small things is important. It helps me remember that even when times are tough, there's always something positive to hang onto.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's a great habit. Thanks for reminding me!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sure Deb, it's great catching up. Keep on finding those beauties!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "10:17 am on 20 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_28",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Since speaking last, I reconnected with my mom's old friends. Their stories made me tear up and reminded me how lucky I am to have had her.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " It's great that you could reconnect with them. Hearing stories about our loved ones can be tough but also comforting.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Hearing stories about my mom was emotional. It was both happy and sad to hear things I hadn't heard before. It was a mix of emotions, but overall it was comforting to reconnect with her friends.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It can bring up a range of emotions, and it's okay to feel a mix of happiness and sadness. Those moments with her friends must've been meaningful to you.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, it was so special. A glimpse into her life beyond what I knew. Through their eyes, I appreciate her more. Here I am and my mom.",
+                "img_url": [
+                    "https://img.freepik.com/premium-photo/close-friends-reminiscing-old-photos-memories_1079150-89007.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "That looks like a blast! What did you and your mom's friends do on that day?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "We reminisced and looked through her photos. It was really sweet.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Looking at old photos must have been so nostalgic! It's great that you could share that experience with friends. It's amazing how photos and memories can give us a deeper appreciation for the people we love.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Pictures really have a way of bringing back memories and making us appreciate the special bond we have with our loved ones. They remind me of how strong love is and how amazing human relationships can be. Just like this one.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, what a gorgeous pic! Do you have any special memories of that beach or just love surfing in general?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "What pleasant memories.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Here is another photo from my classes.",
+                "img_url": [
+                    "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, that yoga pose looks amazing! Does it help you relax?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Oh yeah! Doing this on the beach is so peaceful - the ocean, sand, and fresh air create a super relaxing atmosphere. The perfect way to take care of myself.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " I like to create my own serene yoga space with candles and oils for extra chill vibes. Also, we tried a new style of meditation in Thailand - with flowers.",
+                "img_url": [
+                    "https://c1.wallpaperflare.com/preview/308/322/334/wellness-relaxation-relax-spa.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Oh, same for me!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I find calm when I do yoga or meditate. I use essential oils and put on some soft, soothing music in the background to create a peaceful atmosphere. It really helps me chill out and center myself.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " It's amazing how our environment can enhance our practice.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yeah, totally! Our surroundings can really affect our mood and how much zen we can get from our routine. Creating a place that feels safe and chill is key.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/3d/d9/b0/3dd9b048cca05344a7bf805705bd7f17.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, that looks so comfy and inviting! Where do you usually go to relax in your house?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "In my room, I usually go to relax and feel at ease. After a busy day, it's my little haven for peace and rest - the perfect spot to relax and recharge.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Sounds like your room does the job. That's awesome.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": " Here are my pals keeping me company.",
+                "img_url": [
+                    "https://i.redd.it/ckp5j9w7q7q41.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Hey, that's Susie or Seraphim? How long has he been hanging out with you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It`s Susie! I've had her for two years now. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's awesome how pets can bring us comfort and peace when we need it.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Susie is a great companion.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "The love pets give is priceless.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Plus, they make life a lot brighter!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "3:09 pm on 15 September, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_23",
+        "messages": [
+            {
+                "role": "Jolene",
+                "content": "Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+                "img_url": [
+                    "https://thegoodstuffbyajaespoo.files.wordpress.com/2017/09/img_20170723_184612_691.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "That yoga pose looks great. Must've been a cool experience for the two of you. What did the trip teach you?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Yep, last month I visited my mom`s house which holds a special place in my heart. My mom had good and bad times there, but it's still a symbol of her strength and the love she shared with me. This is my husband in front of this house.",
+                "img_url": [
+                    "https://i.redd.it/03tq3y75jmy41.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "What was it like?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It brought back fond memories as I relaxed outside.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Sounds great! So glad you have a place to relax and find peace.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks, Jolene. It's special for me. How about you? Is there a place that helps you relax?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I go to this nearby place to meditate by a tranquil spot.",
+                "img_url": [
+                    "https://pandolinadventures.files.wordpress.com/2016/05/img_3720.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Looks chill. What's been the effect of that?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It helps me make sense of everything and relieves stress. It's like a restart.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Cool, glad you found a place to chill. We all need that occasionally. This is one of my favorite spots to ponder and let things go.\n",
+                "img_url": [
+                    "https://i.redd.it/jygby0ihz7o41.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Looks great! What made you pick that spot?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "The soothing vibes and nice views made it ideal for reflecting and letting go.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Here is one more photo from Rio de Janeiro. We went on many excursions there.",
+                "img_url": [
+                    "https://c8.alamy.com/comp/2E2TPYB/escadaria-selarn-selaron-steps-in-rio-de-janeiro-brazil-2E2TPYB.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, those stairs look cool! Where were they taken?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We had a great time visiting an old temple. The stairs were amazing!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions.",
+                "img_url": [
+                    "http://cdn.supadupa.me/shop/14281/images/1875466/rio_de_janeiro_1904_18_21_p2_grande.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "The architecture and history of it all were really interesting. I'm sure you also liked the places you visited there!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Exploring historical places and learning their stories is so fun. It was a great experience. I want to share this photo with you.",
+                "img_url": [
+                    "https://zubairrabbani.com/wp-content/uploads/2024/05/Rio-De-Janeiro-Quotes-For-Instagram-1024x1024.webp"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": " By the way, what did that paper have written on it in the photo?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "This was written to me by a friend who, unfortunately, will never be able to support me. I miss him here. This quote says\"Let go of what no longer serves you.\"",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I'm sorry! That's a good reminder to stay focused and let go of what no longer serves us. Remember the quote in my notebook? It also inspires me!",
+                "img_url": [
+                    "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "What other quotes give you strength?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I came across this one while browsing and it really hit home with me. It's a great reminder to ditch the negative stuff and focus on growing and being positive.",
+                "img_url": [
+                    "http://swaygirls.com/cdn/shop/products/IMG_1932_jpg.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Surrounding ourselves with good stuff and striving to improve is key.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Yep, Deborah! It's about creating a good atmosphere to help us grow and improve. By the way, I have a new plant.",
+                "img_url": [
+                    "https://i.redd.it/w0ycj9vmb6fb1.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "What made you pick it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I got this as a reminder to nurture myself and embrace fresh starts.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Nice job, Jolene! Take care of yourself and embrace new beginnings.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Thanks Deb! Will do. Good talking to you. Take care!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have a great day!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "11:46 am on 30 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Deborah_Jolene_session_29",
+        "messages": [
+            {
+                "role": "Deborah",
+                "content": "Hey Jolene, I'm so excited to tell you! Yesterday, me and my neighbor ran a free gardening class for the community, it was awesome! People of any age joined in and it was such a great thing to see.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Wow, Deborah, that's awesome! Keep up the great work, and here's hoping for more events like this in the future!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Gardening is really amazing. It brings us together in such a cool way. It was awesome to share my love of plants and help people take care of the world. So, what about you? Anything new happened lately?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "We tried a scuba diving lesson last Friday and had an awesome time! We found a cool dive spot we can explore together. Trying new things opens up a world of adventure - maybe one day I'll be a certified diver. Anything fun going on with you?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "That sounds amazing, Jolene! I've been interested in underwater life, but I haven't had the chance to try scuba diving yet. Recently, I've been spending time remembering my mom. Last Sunday, I visited her old house and sat on a bench. It was a comforting experience, as if I could feel her presence guide me and remind me of her love.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Visiting your mom's old home sounds like it was really special. Is there something special you remember about her?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Thanks, Jolene! It was really special. My mom had a big passion for cooking. She would make amazing meals for us, each one full of love and warmth. I can still remember the smell of her special dish, it would fill the house and bring us all together.",
+                "img_url": [
+                    "https://www.aheadofthyme.com/wp-content/uploads/2022/09/50-best-comfort-food-recipes-1024x1536.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Mmm, that looks delicious, Deb! So sweet how cooking with your mom brought everyone together. What's your best memory of cooking with her?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I loved it when she would bake pineapple birthday cakes for me when I was a kid. It always made me feel so special.",
+                "img_url": [
+                    "https://ronnascakeblog.files.wordpress.com/2022/09/pineapple.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "No wonder it made you feel special. ",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you ever had something like that with someone close?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I used to bake cookies with someone close to me.",
+                "img_url": [
+                    "https://i.redd.it/t45dmigsmtu61.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "What's your favorite cookie to make?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "The warm, gooey chocolate and soft, buttery cookie are a match made in heaven.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "I really want to eat this now.",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Well look what I have here!",
+                "img_url": [
+                    "https://citysupplyfayetteville.com/cdn/shop/products/IMG_6684.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": " Is there anything special about it or the photo?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "It takes me to another world when I read it!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Did I show you that I have a big bookshelf too?",
+                "img_url": [
+                    "https://cdn.apartmenttherapy.info/image/upload/v1617734021/at/news-culture/2021-04/lupita-aquino-nook-2.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "I think not, I really like it!",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Having a space like this is important for escaping reality and relaxing with a book. Do you have any books that really moved you?",
+                "img_url": [
+                    "https://cdn.apartmenttherapy.info/image/upload/v1617640374/at/house%20tours/2021-04/Amara/21.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "My bathroom has an aesthetic vibe. Once I read a self-discovery book there and it really resonated with me.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Wow! A special book that speaks to you and helps with self-discovery? That's awesome. Plus, having a cozy nook to chill? That's my best one!",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "Sounds nice, Deb! A cozy nook is a must! The beach is a great place for finding peace and relaxation. Have you ever tried surfing?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "Certainly! Here's the confirmation.",
+                "img_url": [
+                    "http://badfishsup.com/cdn/shop/articles/IMG_7804.jpg"
+                ]
+            },
+            {
+                "role": "Jolene",
+                "content": "How cool! But I never decided to try it.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It's okay, maybe we can try it together sometime!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "I already know what fate awaits me if I do this!",
+                "img_url": [
+                    "https://www.grasshopperyatra.com/assets/images/main/1580973661719.jpg.jpg"
+                ]
+            },
+            {
+                "role": "Deborah",
+                "content": "Have you ever been interested in this or do you know nothing about it?",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Just started learning, but haven't gone yet. Want to come with me sometime?",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": "It'll be an adventure! Let's make it happen soon!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "So glad, all that remains is to agree and choose the right time for both of us.",
+                "img_url": []
+            },
+            {
+                "role": "Deborah",
+                "content": " Can't wait. What day works for you? I'm really excited!",
+                "img_url": []
+            },
+            {
+                "role": "Jolene",
+                "content": "Let's plan for next month - I'll check my schedule and let you know. Can't wait!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:24 pm on 17 September, 2023",
+            "lang": "en"
+        }
+    }
+]
