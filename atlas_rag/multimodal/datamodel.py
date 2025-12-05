@@ -1,6 +1,9 @@
 from dataclasses import dataclass, field
 from typing import List, Dict, Optional, Any
+from atlas_rag.multimodal.utils import url_to_base64
+import logging
 
+logger = logging.getLogger(__name__)
 
 @dataclass
 class MultimodalMessage:
@@ -50,12 +53,16 @@ class MultimodalMessage:
                     "text": f"(Image uploaded by {self.role}: <{img_node_id}> following:)\n"
                 })
 
-                content_list.append({
-                    "type": "image_url",
-                    "image_url": {
-                        "url": img
-                    }
-                })
+                base64_img = url_to_base64(img)
+                if base64_img is not None:
+                    content_list.append({
+                        "type": "image_url",
+                        "image_url": {
+                            "url": base64_img
+                        }
+                    })
+                else:
+                    logger.warning(f"Warning: Failed to convert image {img} to base64")
 
                 # for Human-readable transcript
                 transcript_parts.append(f"(Image: {img_node_id})")

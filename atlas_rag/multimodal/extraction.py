@@ -2,7 +2,7 @@
 Multimodal Knowledge Graph Extraction
 """
 
-from typing import List, Dict
+from typing import List, Dict, Any
 from atlas_rag.kg_construction.triple_config import ProcessingConfig
 from atlas_rag.kg_construction.triple_extraction import KnowledgeGraphExtractor
 from atlas_rag.llm_generator.llm_generator import LLMGenerator

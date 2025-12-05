@@ -78,20 +78,24 @@ class LLMGenerator():
                            reasoning_effort=None,
                            **kwargs):
         start_time = time.time()
-        response = self.client.chat.completions.create(
-                model=self.model_name,
-                messages=message,
-                max_tokens=max_new_tokens,
-                temperature=temperature,
-                frequency_penalty= NOT_GIVEN if frequency_penalty is None else frequency_penalty,
-                response_format = response_format if response_format is not None else {"type": "text"},
-                timeout = 120,
-                reasoning_effort= NOT_GIVEN if reasoning_effort is None else reasoning_effort,
-                extra_body = {
-                    "chat_template_kwargs": {"enable_thinking": False if reasoning_effort is None else True}
-                }
-                
-            )
+        try:
+            response = self.client.chat.completions.create(
+                    model=self.model_name,
+                    messages=message,
+                    max_tokens=max_new_tokens,
+                    temperature=temperature,
+                    frequency_penalty= NOT_GIVEN if frequency_penalty is None else frequency_penalty,
+                    response_format = response_format if response_format is not None else {"type": "text"},
+                    timeout = 120,
+                    reasoning_effort= NOT_GIVEN if reasoning_effort is None else reasoning_effort,
+                    # extra_body = {
+                    #     "chat_template_kwargs": {"enable_thinking": False if reasoning_effort is None else True}
+                    # }
+                    
+                )
+        except Exception as e:
+            print(f"API inference failed: {e}")
+            raise e
         time_cost = time.time() - start_time
         content = response.choices[0].message.content
         if content is None and hasattr(response.choices[0].message, 'reasoning_content'):

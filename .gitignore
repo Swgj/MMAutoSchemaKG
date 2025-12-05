@@ -23,3 +23,5 @@ vllm
 z_*
 .env
 .DS_Store
+images_cache/
+generation_result/
