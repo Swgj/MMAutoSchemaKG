@@ -1,5 +1,192 @@
 [
     {
+        "id": "Tim_John_session_10",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John, it's been a few days! I got a no for a summer job I wanted which wasn't great but I'm staying positive. On your NYC trip, did you have any troubles? How did you handle them?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! Sorry to hear about the job, but your positivity will help you find something great! My trip went okay - I had some trouble figuring out the subway at first, but then it was easy after someone helped explain it. How about you? Anything new you've tackled?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! Appreciate your encouragement. Yesterday, I tackled something new - I gave a presentation in class. I was nervous but I made it. Small step, but feels like progress.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cool, Tim! Taking the plunge and presenting can be tough, but awesome work! Progress is progress, keep it up. By the way, I've been trying out cooking recipes. Made this tasty soup recently - it was real good!",
+                "img_url": [
+                    "https://i.redd.it/zr17msb27uy91.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that looks great! How did you make it? Do you have a recipe you can share?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks, I just sort of made it up on the spot so I don't have a recipe.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's ok! I can look some up. Can you tell me what spices you used in the soup?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I added some sage for a nice flavor. Enjoy!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! Excited to try this. Love experimenting with spices. By the way, have you been to Universal Studios? Planning a trip there next month.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cool! Haven't been there yet, but I've heard great things about Universal Studios. It's definitely on my bucket list. Have you been before?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Nope, but it's my first time going. I'm super stoked for the Harry Potter stuff. Can't wait!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cool! It's gonna be a blast, like stepping into another world. Have a great time!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! I'll definitely have a blast. I'll let you know how it goes!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Great! Can't wait to hear about it. Have a safe trip!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! I'll make sure to have a safe trip.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Bye! Take care and let's catch up soon!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Take care! Can't wait to catch up. Talk soon!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "2:52 pm on 31 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_7",
+        "messages": [
+            {
+                "role": "John",
+                "content": "Hey Tim! We had a wild few days since we talked. I met back up with my teammates on the 15th after my trip and it was amazing! Everyone missed me. The atmosphere was electric and I felt so welcome being back with them. I'm so lucky to be a part of this team!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, John, that sounds amazing! I'm so happy they gave you a warm welcome back. It's such a special feeling when you realize that you share the same passions and talents with others. It's like finding your true place in the world.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Wow, it was such an incredible experience. Being around people who share the same love for basketball creates a special kind of bond. Have you ever felt like you truly belonged somewhere?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah, definitely. I felt like I belonged a few times, but last month at that event was one of my favorites. Everyone shared the same love for it and it felt like being in a world where everyone understood it. I'm really thankful for those experiences - it's great to know there are people out there who appreciate and share my interests.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cool! It's great when you find a group that appreciates the same things. It really adds something special to our lives. So, do you have any exciting plans or events coming up?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I have no big events coming up, but I'm hoping to attend a book conference next month. It's an interesting gathering of authors, publishers and book lovers where we talk about our favorite novels and new releases. I'm excited to go because it'll help me learn more about literature and create a stronger bond to it.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "You're a real bookworm! It would be awesome to go to a book conference with you. Check out this photo of what my teammates gave me when we met. It's a sign of our friendship and all the love we have for each other.",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/6/61/2018_DII_Elite_Eight_Northern_State_Signed_Basketball.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "That's so cool of your teammates. Did they sign it for a special reason?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! They signed it to show our friendship and appreciation. It's a great reminder of our bond.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's really cool. It's great that you have something to remind you of your friends. Keeping a bit of their energy and support with you is always nice.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Having something like this ball to remind me of the bond and support from my teammates is really comforting. It's a nice reminder of why I started playing basketball and my journey. It motivates me to stay strong and give it my all.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's so sweet. It's great to have something so meaningful to keep you motivated. I'll keep that in mind next time I need a push to reach my goals.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It's really motivating to have something that reminds you of why you started, and having supportive people around is like having a cheer team that helps you through tough times.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah, that's true. Having them there to cheer you on can be a powerful source of strength.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, having that support really encourages me to give it my all and never give up. It's an awesome feeling!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "It's awesome how much strength people can get from each other. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:54 pm on 17 August, 2023",
+            "lang": "en"
+        }
+    },
+    {
         "id": "Tim_John_session_5",
         "messages": [
             {
@@ -305,93 +492,442 @@
         }
     },
     {
-        "id": "Tim_John_session_7",
+        "id": "Tim_John_session_16",
         "messages": [
             {
+                "role": "Tim",
+                "content": "Hey John, long time no see! Hope you've been doing well. Since we last chat, some stuff's happened. Last week, I had a huge writing issue - got stuck on a plot twist and couldn't find my way out. It was crazy frustrating, but I kept pushing and eventually got the ideas flowing again.",
+                "img_url": []
+            },
+            {
                 "role": "John",
-                "content": "Hey Tim! We had a wild few days since we talked. I met back up with my teammates on the 15th after my trip and it was amazing! Everyone missed me. The atmosphere was electric and I felt so welcome being back with them. I'm so lucky to be a part of this team!",
+                "content": "Hey Tim! Awesome to hear from you. Yeah, I get how that would've been so annoying! But you stuck it out, that's so cool. Same with me on the court. Just gotta find a way to tough it out and keep things flowing. Then when you make it through, it's all the more satisfying, right?",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "Wow, John, that sounds amazing! I'm so happy they gave you a warm welcome back. It's such a special feeling when you realize that you share the same passions and talents with others. It's like finding your true place in the world.",
+                "content": "Yeah! It was hard but once it's over, the feeling is amazing. That's what makes it so beautiful, the struggle and then the satisfaction.",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "Thanks! Wow, it was such an incredible experience. Being around people who share the same love for basketball creates a special kind of bond. Have you ever felt like you truly belonged somewhere?",
+                "content": "Yeah! Struggles make it worth it. Like in sports, that's when the win feels great! Challenges force us to develop and become better.",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "Yeah, definitely. I felt like I belonged a few times, but last month at that event was one of my favorites. Everyone shared the same love for it and it felt like being in a world where everyone understood it. I'm really thankful for those experiences - it's great to know there are people out there who appreciate and share my interests.",
+                "content": "Overcoming challenges builds strength and pushes personal growth. It's about the journey and what we learn, not just winning. This was a great reminder for me. Got any examples from that sport you mentioned?",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "Cool! It's great when you find a group that appreciates the same things. It really adds something special to our lives. So, do you have any exciting plans or events coming up?",
+                "content": "Yeah, last year I had a basketball game where we were trailing big time in the 4th quarter. We had to dig deep and keep on pushing to overturn the deficit and it was amazing when that final buzzer sounded. Unforgettable feeling.",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "I have no big events coming up, but I'm hoping to attend a book conference next month. It's an interesting gathering of authors, publishers and book lovers where we talk about our favorite novels and new releases. I'm excited to go because it'll help me learn more about literature and create a stronger bond to it.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "You're a real bookworm! It would be awesome to go to a book conference with you. Check out this photo of what my teammates gave me when we met. It's a sign of our friendship and all the love we have for each other.",
+                "content": "Wow, that must have been an incredible feeling! You really showed determination and perseverance. Do you have any photos or keepsakes from the game? I'd love to see them! By the way, I have something special too - this is my prized possession, a basketball signed by my favorite player. It serves as a reminder of all the hard work.",
                 "img_url": [
-                    "https://upload.wikimedia.org/wikipedia/commons/6/61/2018_DII_Elite_Eight_Northern_State_Signed_Basketball.jpg"
+                    "https://bostonmemorabilia.com/cdn/shop/files/LeBron_James_signed_basketball.jpg?v=1732429505"
                 ]
             },
             {
+                "role": "John",
+                "content": "Wow! What makes your favorite player so inspiring? Do you have any special stories or moments with them?",
+                "img_url": []
+            },
+            {
                 "role": "Tim",
-                "content": "That's so cool of your teammates. Did they sign it for a special reason?",
+                "content": "I just love watching LeBron. There was this Finals game a few years back with an epic block that totally changed the game and ended up winning it. Seeing him go for it like that was such an inspiration - never give up, you know?",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "Thanks! They signed it to show our friendship and appreciation. It's a great reminder of our bond.",
+                "content": "Remember that epic block in Game 7 of the '16 Finals? He chased down Iguodala and pinned the ball against the backboard. That kind of determination and heart is why I love basketball.",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "That's really cool. It's great that you have something to remind you of your friends. Keeping a bit of their energy and support with you is always nice.",
+                "content": "Yeah, that's the one! It was awesome. Moments like that make me love sports and admire the players' determination and heart.",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "Having something like this ball to remind me of the bond and support from my teammates is really comforting. It's a nice reminder of why I started playing basketball and my journey. It motivates me to stay strong and give it my all.",
+                "content": "LeBron's moments of determination and heart are incredible. It's why I enjoy playing and pushing myself. You never know when those special moments might occur, but it's always fun to be part of it.",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "That's so sweet. It's great to have something so meaningful to keep you motivated. I'll keep that in mind next time I need a push to reach my goals.",
+                "content": "Those special moments make it all worth it. It's amazing to be part of something bigger and feel the joy and fulfillment. Keep pushing and having those moments on the court!",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "It's really motivating to have something that reminds you of why you started, and having supportive people around is like having a cheer team that helps you through tough times.",
+                "content": "Speaking of special moments, my wife and I just left for our European vacation! It will be short but sweet. You've been before, any recommendations?",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "Yeah, that's true. Having them there to cheer you on can be a powerful source of strength.",
+                "content": "That's great! I hope you two have a great time. I would recommend visiting some castles, they are just so magical!",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "Yeah, having that support really encourages me to give it my all and never give up. It's an awesome feeling!",
+                "content": "Thanks! We'll have to check some out. Wishing you all the best with everything you're pursuing. Stay safe!",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "It's awesome how much strength people can get from each other. Bye!",
+                "content": "Thanks! You too, buddy. Take it easy and keep going for it. Stay safe and let's stay in touch!",
                 "img_url": []
             }
         ],
         "metadata": {
-            "datetime": "7:54 pm on 17 August, 2023",
+            "datetime": "11:41 am on 6 November, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_19",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John! Haven't talked in a bit, how ya been? Hope your injury is feeling better.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! Thanks for checking in. It's been tough, but I'm staying positive and taking it slow. How about you? How have you been?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I've been swamped with studies and projects, but last week I had a setback. I tried writing a story based on my experiences in the UK, but it didn't go the way I wanted. It's been tough, do you have any advice for getting better with storytelling?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Sorry to hear about the setback with your story. I understand how frustrating it can be when things don't go as planned. When I face challenges on the court, I try to reflect on what went wrong and find ways to improve. Maybe you can try doing the same with your storytelling.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool idea. Reflecting on what went wrong and how to improve could definitely help me get back on track. Thanks! Out of curiosity, what's been one of your toughest challenges in basketball?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Last season, I had a major challenge when I hurt my ankle. It required some time off and physical therapy. It was frustrating because I couldn't play or help the team. I stayed focused on my recovery and worked hard to strengthen my body. It was a tough mental and physical challenge, but it made me realize the importance of patience and perseverance. I'm grateful that I was able to overcome it.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That must have been tough not being able to play and help your team. You did an amazing job staying focused and overcoming it. Your resilience and determination are inspiring! Thanks for sharing.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! That means a lot. Difficult times are part of life \u2013 what's important is how we handle them. When things get tough, I try to remember why I'm so passionate about basketball. That love and enthusiasm keeps me motivated, no matter what.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "When things get tough, it's so important to remember why we love what we do. For me, it's writing and reading. That's what helps me stay motivated and push myself to get better. Has anything similar happened with basketball for you? Tell me about it!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I faced some tough times while playing basketball. I messed up during a big game, and it was really hard to accept. Instead of getting stuck in that moment, I worked hard to get better. It taught me that resilience is key and owning up to mistakes is important. Gotta keep growing and striving to be a strong player and teammate. So grateful.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that's awesome. Admitting mistakes and using them to get better is super important. You really show how much you care about improving. Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! I appreciate your support. It's all about growing and getting better, both on and off the court. Let's keep working hard!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah, John! Let's keep growing and improving. We got this! These are my companions on my growth journey.",
+                "img_url": [
+                    "https://i.redd.it/28n5c71uffu71.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Fantasy books always fuel my creativity, both in and outside of my hobbies. Are Harry Potter and GoT still your favorites?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yes, they are still my favorites - I love how they take me to other places. What other books do you like?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I love non-fiction books about personal development and mindset. They help me know myself better. Do you enjoy reading other types of books as well?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yep, John! I love getting lost in fantasy stories, but also discovering new ways to better myself through books on growth, psychology, and improving myself. It's wild how much you can learn from them, right?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, Tim! Books really can shift how we think and help us learn totally new things. Have you come across any that made a big impact on you recently?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah, John! I recently read a book that really made a big impact on me. It's all about how small changes can make big differences. It really changed the way I do things. Have you read any good books lately?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I recently finished rereading \"The Alchemist\" - it was really inspiring. It made me think again about following dreams and searching for our own personal legends. I felt really motivated and hopeful after reading it.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that book is great! I read it a while back and it really changed my perspective on my goals. I'm glad it had the same impact on you!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, that book is really something. It really helped motivate me to keep chasing my dreams and to trust the process. It's amazing how books can have such an impact on us, right?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Definitely! Books have a way of opening up new worlds, inspiring us, and making us think. They have the power to make us feel better and help us grow, which is amazing. It's great that we share a love for reading. Let's keep exploring books and motivating each other! Talk to you later!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "10:22 am on 21 November, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_14",
+        "messages": [
+            {
+                "role": "John",
+                "content": "Hey Tim! Long time no talk - a lot has been going on since then!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Hey John! Long time no see! Can't wait to catch up and hear all about what you've been up to.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Seems like forever since we caught up! I'm now mentoring the younger players on my team. It's super rewarding and I'm loving sharing my skills and knowledge with them. It's also a great way for me to stay involved in the game during the off-season.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! Mentoring must be so rewarding. You get to show others what you know - that's awesome! Is it difficult? Any hiccups?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "There are challenges, since everyone is so different. But it's been awesome gaining experience and adapting, motivating and encouraging everyone. It's been great to watch each of them develop and reach their goals - such a reward!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that's awesome! It must be really rewarding to see them reach their goals. What's it like mentoring them?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Mentoring them has been awesome! Seeing their growth, improvement, and confidence is so fulfilling. I'm glad I could make a positive impact on their lives. Here's a pic of me and some of the younger players at a recent practice.",
+                "img_url": [
+                    "https://cdn2.picryl.com/photo/2020/01/16/members-of-the-local-and-us-communities-attend-the-edfa79-1024.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "You're really doing great with them. Do any of them see you as a mentor?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Some of them do see me as a mentor, which is really rewarding. I try to provide them with advice and support on and off the court. Being a positive role model for them is something I enjoy.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's incredible! How does it feel to have their trust and admiration? It must be such an honor to be a positive role model for them.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It feels great to have their trust and admiration. Being a role model for these young athletes is so fulfilling. I'm glad my experiences can help shape their future and inspire them to go after their dreams.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "You're doing a great job with them. Way to go! This is what I've been up to.",
+                "img_url": [
+                    "https://images.pexels.com/photos/12312263/pexels-photo-12312263.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-tanya-badillo-12312263.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Wow, stunning! And thanks. Really appreciate it. Means a lot.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I took this pic last summer. Seeing it was so stunning. Thanks for appreciating it. It means a lot to me.",
+                "img_url": [
+                    "https://i.redd.it/hf54pvtf8rt51.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Where did you capture this? Nature is truly amazing, isn't it?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, it's amazing how nature's beauty and grandeur can take our breath away. It's so nice to escape the noise of the city and relax in nature. Good for you to get to enjoy that stunning view!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Nature is indeed refreshing. A good break from school.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "How are you doing in shcool?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Doing good! Busy with studies but finding time to relax with books - good balance.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cool! Finding that balance is key. Are you currently reading any books?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I'm reading this book and I'm totally hooked! What about you?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I haven't had much time to read, but after we talked I finally picked up a book and it's been awesome! Talk to you later!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:50 pm on 17 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_18",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John! Hope you're doing good. Guess what? I went to a castle during my trip to the UK last Friday and it was unbelievable! The architecture and the history were amazing!",
+                "img_url": [
+                    "https://static.independent.co.uk/2021/07/28/09/26073722-6212c4b6-62f4-4d1f-b2d9-fab1e4ba16a8.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! That's awesome! Yeah, it was really cool. Oh man, it's been a tough week for me with this injury. But I'm staying positive. How about you? How's your week been?",
+                "img_url": [
+                    "https://i.redd.it/plgl67c48sg91.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Ouch, bummer about the injury. Hang tight. This week has been swamped with exams for me but I'm plowing through.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cheers, Tim. Injury's been rough, but I'm staying positive. How's the exam prep coming? Confident?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Exams can be challenging, but I'm putting in my best effort. Feeling optimistic and working diligently! How do you stay motivated during difficult study sessions?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I visualize my goals and success for focus and motivation. It really helps me stay motivated during tough studying. Do you have any study tricks?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's cool! I like breaking up my studying into smaller parts. 25 minutes on, then 5 minutes off for something fun. It's less overwhelming and keeps me on track.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Nice work! Breaking it down into smaller parts is definitely a smart move. I wish you all the best on your exams!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! Appreciate your support. I hope your injury heals soon.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Sure thing, Tim! Got your back. I hope so too. The doctor said it's not too serious.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's good to hear, I'm glad.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I hate not being on the court.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I bet. It's like if I couldn't read due to an injury.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I'm pushing on though. Talk soon!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Take care! Keep pushing on. Talk soon.",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "3:59 pm on 16 November, 2023",
             "lang": "en"
         }
     },
@@ -446,7 +982,7 @@
                 "role": "John",
                 "content": "That book sounds awesome! Love a good fantasy with strong characters and cool world-building. Cheers for the suggestion. Adding it to my list. These are my lucky basketball shoes. They've been with me through the good and bad. Every mark has a story.",
                 "img_url": [
-                    "https://thumbs.dreamstime.com/b/worn-out-sneakers-scuffed-leather-dirt-stains-close-up-isolated-white-background-photo-va-327929232.jpg"
+                    "https://images.novelship.com/product-lookbook/ao7VLb2K1Qnp-1682611652416-54349732-76B9-483E-B2C2-CE8033DA879E.jpg"
                 ]
             },
             {
@@ -526,213 +1062,110 @@
         }
     },
     {
-        "id": "Tim_John_session_1",
+        "id": "Tim_John_session_17",
         "messages": [
             {
                 "role": "John",
-                "content": "Hey Tim, nice to meet you! What's up? Anything new happening?",
+                "content": "Hey Tim! Great to chat again. So much has happened!",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "Hey John! Great to meet you. Been discussing collaborations for a Harry Potter fan project I am working on - super excited! Anything interesting happening for you?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "That's great! I just signed with a new team - excited for the season!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Woohoo! Congrats on the new team. Which team did you sign with?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "The Minnesota Wolves! I can't wait to play with them!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool! What position are you playing for the team? Any exciting games coming up?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I'm a shooting guard for the team and our season opener is next week - so excited!",
+                "content": "Hey John! Great chatting with you as always. What's been happening lately? I've been reading as usual.",
                 "img_url": [
-                    "https://basketballcentralblog.files.wordpress.com/2022/05/how-to-play-shooting-guard-in-basketball.jpg?w=768"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Cool! Have any goals in mind?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, my goal is to improve my shooting percentage. Been practicing hard and gonna make it happen.",
-                "img_url": [
-                    "https://blog.drdishbasketball.com/hubfs/IMG_0232%20%282%29.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Sounds good! What challenges have you encountered during your pre-season training?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Fitting into the new team's style of play was a challenge during pre-season.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That sounds rough. How are things going with the new team?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Things are going well! The team has been really nice and I'm having fun. How's your fan project coming along?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "It's been going well! Last week I talked to my friend who is a fan of Harry Potter and we're figuring out ideas, so it's been great to get lost in that magical world!",
-                "img_url": [
-                    "https://i.redd.it/l30ofyg973ja1.jpg"
+                    "https://i.redd.it/7a8i8uea5au51.jpg"
                 ]
             },
             {
                 "role": "John",
-                "content": "That's great! Loving it when people are passionate about their work. What kind of collaborations are you involved in for the fan project? I love talking to people about my sneaker collection.",
-                "img_url": []
+                "content": "My wife and I were road tripping out on the European coastline, and it was amazing! The views were spectacular, and we had lots of fun bonding and creating amazing memories. It was such a nice change to my regular life.",
+                "img_url": [
+                    "https://img.freepik.com/premium-photo/exploring-picturesque-european-coastline-summer-road-trip-concept-european-coastline-summer-road-trip-scenic-vistas-coastal-villages-travel-photography_918839-101010.jpg"
+                ]
             },
             {
                 "role": "Tim",
-                "content": "Thanks! We'll be discussing various aspects of the Harry Potter universe, like characters, spells, and magical creatures. It's great to see fans coming together for this.",
+                "content": "Wow! Sounds like an incredible road trip. I'm glad you and your wife had such a great time!",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "Wow! Have you been to any places related to it?",
+                "content": "Thanks! Yeah, it was awesome. We got to see some epic spots. It's hard to describe how beautiful they were!",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+                "content": "Those places must've been amazing! Nature sure has a way of leaving us speechless.",
                 "img_url": []
             },
             {
                 "role": "John",
-                "content": "No, but it sounds fun! Going to those places is definitely on my to-do list.",
+                "content": "Nature sure is powerful and beautiful! It's really humbling to witness such sights.",
                 "img_url": []
             },
             {
                 "role": "Tim",
-                "content": "Definitely add it to your list! It's a really fun experience. Let me know if you need any tips for visiting. Bye!",
+                "content": "Yeah! It always makes us realize how huge the world is and how special it is. These moments really show us the beauty around us. Anyways, have you read or watched anything good recently?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yep, I just finished this amazing fantasy series. It was a wild ride with so many twists. The author is amazing at creating awesome storylines and characters - I love getting lost in those fantasy worlds.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's amazing! Same here. There's something special about being lost in an awesome fantasy realm and seeing what happens. It's like an escape. \"That\" is one of my favorite fantasy shows. Have you seen it?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, I saw \"That\"! It's amazing to see those worlds and characters come alive. It's a great way to escape reality!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah, it's awesome how books and movies can take you away. A great escape, right?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Definitely, it's like a mental break, giving our minds a rest and letting them wander. So refreshing!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "It's like entering another world! We get to take a break from everything and just let our minds wander. It's so nice and refreshing.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "And that's just what we need sometimes.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Taking a break from life can help us recharge and get some peace. Plus, it gives us a chance to reconnect with ourselves and tackle life's challenges with a new outlook.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, taking time for ourselves is crucial. It helps us stay sharp and focused. Plus, it helps us gain new perspectives and tackle challenges with more energy. Finding the right balance is key and I'll keep that in mind as I continue my journey.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Balance is key and it varies. Take care of yourself, both mentally and physically, and you'll rock it. You got this, bud!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Your support means a lot. I'll keep pushing forward. Take care, buddy!",
                 "img_url": []
             }
         ],
         "metadata": {
-            "datetime": "7:48 pm on 21 May, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_10",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John, it's been a few days! I got a no for a summer job I wanted which wasn't great but I'm staying positive. On your NYC trip, did you have any troubles? How did you handle them?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Sorry to hear about the job, but your positivity will help you find something great! My trip went okay - I had some trouble figuring out the subway at first, but then it was easy after someone helped explain it. How about you? Anything new you've tackled?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! Appreciate your encouragement. Yesterday, I tackled something new - I gave a presentation in class. I was nervous but I made it. Small step, but feels like progress.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cool, Tim! Taking the plunge and presenting can be tough, but awesome work! Progress is progress, keep it up. By the way, I've been trying out cooking recipes. Made this tasty soup recently - it was real good!",
-                "img_url": [
-                    "https://i.redd.it/zr17msb27uy91.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that looks great! How did you make it? Do you have a recipe you can share?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks, I just sort of made it up on the spot so I don't have a recipe.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's ok! I can look some up. Can you tell me what spices you used in the soup?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I added some sage for a nice flavor. Enjoy!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! Excited to try this. Love experimenting with spices. By the way, have you been to Universal Studios? Planning a trip there next month.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cool! Haven't been there yet, but I've heard great things about Universal Studios. It's definitely on my bucket list. Have you been before?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Nope, but it's my first time going. I'm super stoked for the Harry Potter stuff. Can't wait!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cool! It's gonna be a blast, like stepping into another world. Have a great time!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! I'll definitely have a blast. I'll let you know how it goes!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Great! Can't wait to hear about it. Have a safe trip!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! I'll make sure to have a safe trip.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Bye! Take care and let's catch up soon!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Take care! Can't wait to catch up. Talk soon!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "2:52 pm on 31 August, 2023",
+            "datetime": "3:36 pm on 11 November, 2023",
             "lang": "en"
         }
     },
@@ -743,7 +1176,7 @@
                 "role": "Tim",
                 "content": "Hey John, this week's been really busy for me. Assignments and exams are overwhelming. I'm not giving up though! I'm trying to find a way to juggle studying with my fantasy reading hobby. How have you been?",
                 "img_url": [
-                    "https://media.istockphoto.com/photos/high-school-teammates-in-locker-room-after-baseball-game-picture-id169944224?k=20&m=169944224&s=612x612&w=0&h=Lf9-edx8YbOHh9H2pmDOsPxDly9VkagIwPhzfJfiaIs="
+                    "https://i.redd.it/nziqtijj65i11.jpg"
                 ]
             },
             {
@@ -996,6 +1429,758 @@
         }
     },
     {
+        "id": "Tim_John_session_1",
+        "messages": [
+            {
+                "role": "John",
+                "content": "Hey Tim, nice to meet you! What's up? Anything new happening?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Hey John! Great to meet you. Been discussing collaborations for a Harry Potter fan project I am working on - super excited! Anything interesting happening for you?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "That's great! I just signed with a new team - excited for the season!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Woohoo! Congrats on the new team. Which team did you sign with?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "The Minnesota Wolves! I can't wait to play with them!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool! What position are you playing for the team? Any exciting games coming up?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I'm a shooting guard for the team and our season opener is next week - so excited!",
+                "img_url": [
+                    "http://a.espncdn.com/photo/2016/0107/r42175_2_2527x2826cc.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Cool! Have any goals in mind?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, my goal is to improve my shooting percentage. Been practicing hard and gonna make it happen.",
+                "img_url": [
+                    "https://blog.drdishbasketball.com/hubfs/IMG_0232%20%282%29.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Sounds good! What challenges have you encountered during your pre-season training?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Fitting into the new team's style of play was a challenge during pre-season.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That sounds rough. How are things going with the new team?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Things are going well! The team has been really nice and I'm having fun. How's your fan project coming along?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "It's been going well! Last week I talked to my friend who is a fan of Harry Potter and we're figuring out ideas, so it's been great to get lost in that magical world!",
+                "img_url": [
+                    "https://i.redd.it/l30ofyg973ja1.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "That's great! Loving it when people are passionate about their work. What kind of collaborations are you involved in for the fan project? I love talking to people about my sneaker collection.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! We'll be discussing various aspects of the Harry Potter universe, like characters, spells, and magical creatures. It's great to see fans coming together for this.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Wow! Have you been to any places related to it?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "No, but it sounds fun! Going to those places is definitely on my to-do list.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Definitely add it to your list! It's a really fun experience. Let me know if you need any tips for visiting. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:48 pm on 21 May, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_29",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John! How's it going? Hope all is good.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! Things have been good. Something exciting happened recently for me. What about you? How's everything going?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool news! I'm trying to get my head around the visa requirements for some places I want to visit. It's kind of overwhelming but I'm excited! What have you been up to?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Last week was wild - something incredible happened. But it's a total dream come true - just crazy! I got an endorsement with a popular beverage company!",
+                "img_url": [
+                    "https://i.redd.it/g33orfsja8ha1.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats! How did it feel to seal the deal?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! It felt crazy. It's not just about the signing, but it's about feeling like all the hard work paid off - like all those training hours weren't for nothing.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! I bet you were thrilled when everything finally worked out. That sense of accomplishment is awesome and really boosts your self-esteem. I can imagine all the hard work you put into it was definitely worth it.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, it's great when you reach a goal and it feels rewarding. It's a reminder that you're going in the right direction, and all the hard work was worth it. What's something you feel proud of recently?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I'm proud of researching visa requirements for countries I want to visit. It feels like taking initiative is a step towards making my travel dreams a reality!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Great going! Taking initiative is a must if you wanna achieve your goals. I'm excited to hear about all your future adventures!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! I'll keep you in the loop about my travels. Is there anywhere you recommend visiting?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Barcelona is a must-visit city! You'll love exploring the culture, admiring the architecture, and tasting the amazing food in each neighborhood. Plus, the nearby beaches are great for soaking up the sun. Definitely add it to your travel list!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Barcelona sounds awesome! I've heard so many great things. Definitely adding it to my list. Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "No problem! Glad you liked the suggestion. Let me know if you have any other questions or need help with anything.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cheers! I owe you one. Let me know if you need anything. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:41 pm on 12 January, 2024",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_23",
+        "messages": [
+            {
+                "role": "John",
+                "content": "Hey Tim, great to see you! Any new success stories?",
+                "img_url": [
+                    "https://assets-global.website-files.com/60ed47e10552352d9d7e0a44/61e5cf5d296761732633ffcc_wsp_banner_w_joanne__dO8vP.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Hey John, I had a tough time with my English lit class. Did an analysis on this series and I think it went ok!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! It's a bummer about your English lit class, but you did your best. By the way, I had a career-high in assists last Friday in our big game against our rival. Yay!",
+                "img_url": [
+                    "https://i.pinimg.com/originals/cf/a0/7f/cfa07fa76047b5d731b3af313d98fc01.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats! That's awesome. How did it feel being out there making those plays?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! It felt great being out there, making plays for my team. I love seeing my teammates succeed because of the opportunities I create for them. The atmosphere in the arena was really electric and playing against our rivals added an extra level of intensity. It was a memorable night!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Sounds incredible! Must have been quite an atmosphere. Have you had any other games that were as thrilling as this one?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I've had some thrilling games in my career. My favorite was when we were down 10 in the 4th and I hit the buzzer-beater shot to win. The atmosphere was incredible and it was such a thrilling experience. Those moments make me love basketball so much.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, John! Moments like that make us love sports, huh? I still think about this pic you sent me a while back.",
+                "img_url": [
+                    "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Yeah, that pic reminds me of when I was younger. I'd practice basketball outside for hours, dreaming of playing in big games. It was my way of dealing with doubts and stress. It's amazing how a ball and hoop can be so powerful, right?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah! Sports are the best. When we're feeling down, it's a way to express ourselves and stay positive. It's awesome how much basketball has done for you. Keep going with your dreams!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Appreciate the support. It's been a significant part of my life and allows me to be myself and pursue my passions. Gonna keep chasing my dreams!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! It's really important to do our own thing and follow our dreams. Keep it up, you're gonna do amazing things!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Your encouragement means a lot. Let's keep pushing and following our dreams - we can make a difference!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Definitely. We both have so much potential! Let's keep supporting each other on our journey towards our dreams.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, you're super inspiring and motivating. Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks, it means a lot. Let's keep each other motivated. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "8:28 pm on 11 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_25",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John, been a while since we chatted. How's it going?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yo Tim! Great to hear from you. Things have been wild! Last week I got this amazing deal with a renowned outdoor gear company. So pumped!",
+                "img_url": [
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDMnkQOmMQNKQfQDDRQlTRpNME7oy0xNlcHjLYB8n_ZwvnWe8nYlRKA3WkZNHEQLsME&usqp=CAU"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "That's awesome about the deal! I'm curious, what kind of gear did you end up getting? And how did the photoshoot turn out?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cheers! Got some awesome hiking stuff and outdoor gear - all top-notch. The photoshoot went really well too. We did it in a gorgeous forest and the photographer got some epic shots of me doing my thing - it was amazing!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! That sounds amazing. Being out in such a gorgeous location must have been incredible. I'd love to see one of the epic shots you got! Do you have any pictures from the photoshoot?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Here you go, here's a pic. Nature puts me in a great mood and always gets me energized!",
+                "img_url": [
+                    "https://images.pexels.com/photos/28458005/pexels-photo-28458005/free-photo-of-serene-river-rocks-in-lush-forest-setting.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "That's an amazing photo! I can see why it inspires you - the rocks and river look so peaceful. What drew you to that spot?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I stumbled across this spot while hiking. The sound of that river was so soothing, I felt so at peace surrounded by those rocks. It was like nature was telling me to stop and admire its beauty.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that sounds amazing. It's true, nature has a way of bringing peace and joy. Anything else like that been happening lately?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Things have been going great on the court. We've been putting in a lot of work and achieving our goals, which is awesome.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Hard work pays off, right? What have you and your team been up to lately?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "We gave it our all during last week's scrimmage. It's amazing to see our team's growth. We know it won't be easy, but it'll be worth it when we see the results.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "What areas have you seen the most growth in during your training?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Our team has seen the most growth in communication and bonding. It has really helped our performances by allowing us to understand each other's strengths and weaknesses.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that's awesome! Glad to hear you guys are bonding. Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Let's keep at it and continue supporting each other. Appreciate your assistance!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah, let's support each other. I'm here for you. Just keep believing in yourself! Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "10:04 am on 19 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_13",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John! It's been ages since we last talked. Guess what? Last week I went to a Harry Potter conference in the UK - it was incredible! There were so many people who shared the same love of HP as me, it was like a magical family. I felt so inspired and like I got a new lease of life. I love how my passion for fantasy stuff brings me closer to people from all over the world, it's pretty cool.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! Great to hear from you. It's awesome how our passions connect us with others, yeah? You sound like you fit right in and got a real buzz out of it. I feel the same way with my team.",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/4/4c/USA_men%27s_national_basketball_team_%2851910110377%29.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, you guys look great! How have games been going?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It was an intense season with both tough losses and great wins. Overall, I'd say we did pretty well.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool! Sounds like you guys had some tough games. How did you handle those?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! We faced tough opponents but that's what drives us to get better. We back each other up and won't quit.",
+                "img_url": [
+                    "https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_9e2201886c43d264dbef_IMG_6460.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats! That's awesome. It must feel good, right?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, it feels great! All that hard work and effort was totally worth it. We even won a trophy!",
+                "img_url": [
+                    "https://img.freepik.com/premium-photo/winner-trophy-award-group-happy-people-celebrate-winning-business-success-employee-achieveme_94574-14369.jpg?w=2000"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Way to go! You must have been elated up there with that trophy. All the hard work paid off! Congrats - I'm so proud of you. Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! I was definitely elated. Your support really means a lot to me. I'll keep working hard.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "No problem! I'm here for you anytime. Keep believing in yourself!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Appreciate your support. Always staying filled with self-belief.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "You got this! Stay motivated and remember that anything is possible with hard work. Keep pushing for your goals!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Your encouragement means a lot to me. I'm feeling motivated and ready to keep pushing for my goals! I'm going to need some new shoes after all these games though.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Glad my encouragement helped! These are amazing - like walking on clouds! Game changer!",
+                "img_url": [
+                    "http://www.binxberryconsignment.com/cdn/shop/products/IMG_3958.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "They look comfortable. Where did you get them?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I got them online - they're super comfy! Definitely recommend!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Cheers! I'll definitely check them out. Thanks for the recommendation!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "No worries. Let me know if there's anything else I can assist you with. Always here to help!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Appreciate it. I'll reach out if I need anything.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool! Stay motivated and keep chasing those dreams! Chat soon!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! I'll definitely stay motivated and keep chasing those dreams. You too, keep up the passion. Talk soon!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "1:50 pm on 13 October, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_21",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John! Haven't talked in a few days, wanted to let you know I joined a travel club! Always been interested in different cultures and countries and I'm excited to check it out. Can't wait to meet new people and learn about what makes them unique!",
+                "img_url": [
+                    "https://c8.alamy.com/comp/2XBER22/diverse-team-demonstrating-teamwork-and-inclusion-at-a-conference-focusing-on-unity-and-collaboration-2XBER22.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! That's cool! I love learning about different cultures. It's really cool to meet people with different backgrounds. My teammates come from all over.",
+                "img_url": [
+                    "https://bloximages.chicago2.vip.townnews.com/syvnews.com/content/tncms/assets/v3/editorial/3/38/338dd0b4-adc1-5a60-97e6-9eb3508b3f77/63c7306e4f912.hires.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! How long have you been playing professionally?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I've been playing professionally for just under a year now. It's been a wild ride.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow,! Being a pro basketball player must be quite a journey. Is it living up to your expectations?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, it's been great! Challenges, growth, all that jazz\u2014it's been amazing.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool! Glad to hear that this journey has been rewarding for you. Could you tell me more about your growth?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yup, on the court, I'm getting better at my overall game. Money-wise, I've gotten some cool endorsement deals. Plus, I'm learning how to market myself and boost my brand. It's been really rewarding to see all these areas progress. What about you? Anything new happening?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Joined a travel club and, like I said, working on studies. Also picked up new skills. Recently started learning an instrument. Challenging but fun, always admired musicians. Finally giving it a go.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Learning an instrument is really cool. What instrument are you playing? What genres of music do you want to learn?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I'm learning how to play the violin now. I'm mostly into classical music but I'm keen to try out jazz and film scores too. It's a great way to chill and get creative.",
+                "img_url": [
+                    "https://i1.pickpik.com/photos/964/641/216/musical-instrument-violin-curl-tuning-pegs-preview.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Wow! I hope I can hear you play the violin some day. How long have you been playing the piano again?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I've been playing for about four months now and it's been an amazing adventure. I'm really enjoying the progress I've been making.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Nice one! Learning something new is always a great adventure. Keep up the hard work and let's see where you end up. It's all about dedication and effort. It feels great to finally achieve something after putting in so much time and energy.",
+                "img_url": [
+                    "https://live.staticflickr.com/7162/6733335339_3a64489025_b.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats on the trophy! It must have felt great to finally get something after putting in so much effort. Do you have any tips on motivating others on your team?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Winning was awesome. When motivating others, it's important to show care for teammates, celebrate their achievements, provide constructive feedback, and remind them of the bigger goal. Creating a positive environment and giving a pep talk before a game can also be helpful. It's all about supporting and uplifting each other. Do you have any specific strategies in mind?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks for the helpful advice. Creating a constructive atmosphere and setting an example by working hard can really inspire people. It\u2019s also inspiring to use our own stories to encourage others. Much appreciated!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "No problem! It's great to use our own experiences to inspire others. Hard work can lead to success. Keep it up! Let me know if you need any assistance.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! Appreciate the offer. Let me know if you can lend a hand. Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "5:34 pm on 6 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_24",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John, catch up time! What've you been up to? Any good b-ball games lately?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! Nice to talk again. The b-ball games have been crazy. We had a real battle against another team last week. It was close until the final buzzer but we got the win.",
+                "img_url": [
+                    "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/03/Catawba-basketball-01.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats, John! That sounds like an intense game.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! We won! It was really close, but we made it!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that's amazing! Winning must have been so thrilling!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Winning was such a thrill, and it was an awesome moment. These experiences really make me love the game.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "You must have been so pumped when it happened! Winning can give us a real confidence boost and makes us keep going with our passions.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, it really does. It keeps me motivated to keep putting in the effort and makes all the tough times worth it. Here's a pic I took during a morning workout, it's a reminder that the journey can be awesome.",
+                "img_url": [
+                    "https://images.fineartamerica.com/images-medium-large-5/basketball-court-sunset-jun-pinzon.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "That's a good spot for a morning workout! Can you tell me about some challenges you've faced?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, I injured myself not too long ago. It sucked because I had to miss some games and couldn't help my team.",
+                "img_url": [
+                    "https://i.redd.it/o20k6p31qoe41.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Ouch, that's rough. Have you been able to stay active or keep up with your fitness routine while you're recovering?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It's been tough, but I'm trying to stay active and do my rehab. I do physical therapy exercises every day.",
+                "img_url": [
+                    "https://media.istockphoto.com/id/628092082/photo/just-a-little-more.jpg?s=612x612&w=0&k=20&c=0CTm1GJxZk7zXva3PAchqgf7Bqzi2CE-FdO7puUzAlU="
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Cool, rehab can be tough but it's key to keep it up. How's it coming along?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It's going great! I've been working hard and it's paying off. Last Friday, I had a milestone moment at the gym. I was able to jog a bit with no pain, which was such a relief!",
+                "img_url": [
+                    "https://live.staticflickr.com/5189/5618665304_b2e0ccd051_b.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! How was it jogging without any discomfort?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It was great! After being out for so long, jogging without any pain was a huge success. My wife and I hosted a small get-together with friends and family to celebrate.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats! That's awesome. Keep at it and you'll be back in no time. That sounds fun, how was it?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Appreciate the support and encouragement. I'm gonna keep pushing and staying positive. It was good to see everyone again! We had a ton of fun.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I'm glad everyone had fun!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Me too. Talk to you later!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "3:37 pm on 16 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
         "id": "Tim_John_session_12",
         "messages": [
             {
@@ -1039,7 +2224,7 @@
                 "role": "John",
                 "content": "Oh yeah! Picking a favorite memory was tough, but seeing her walking down the aisle, her face lit up and it got me all choked up. What a magical moment - one I'll always remember.",
                 "img_url": [
-                    "https://thumbs.dreamstime.com/b/gorgeous-bride-stylish-groom-performing-first-dance-light-wedding-reception-restaurant-luxury-couple-sensually-dancing-134954202.jpg"
+                    "https://media2.insideweddings.com/images/x4rOgcIlwEWShQOx8y8x.original.jpg"
                 ]
             },
             {
@@ -1160,6 +2345,239 @@
         }
     },
     {
+        "id": "Tim_John_session_28",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Congrats, Tim! That's amazing news. So, where are you going to stay?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Thanks! I'm gonna stay in Galway, it's great for its arts and Irish music. This place has such a vibrant atmosphere.",
+                "img_url": [
+                    "https://roadworksbooks.files.wordpress.com/2022/07/img_4242.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Awesome, Galway looks amazing! Is there anything in particular that you're keen to check out while you're there?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yep! I'm so excited to explore the nature - it looks amazing!",
+                "img_url": [
+                    "https://images.pexels.com/photos/8456767/pexels-photo-8456767.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-david-riand-8456767.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Wow, great view! Have you visited any other places?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I want to visit The Cliffs of Moher. It has amazing ocean views and awesome cliffs.",
+                "img_url": [
+                    "https://i.redd.it/t98kzzhuocp81.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Wow, that's awesome! I could stop by there after my season.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Cool, let me know if you're around!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yep, I'll let you know. Oh, I held a benefit basketball game last week.",
+                "img_url": [
+                    "https://outandaboutmummy.files.wordpress.com/2019/11/img_6609.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! How did the game go?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "The game turned out to be a total success! Lots of people showed up and had a great time, plus we were able to raise some money for charity.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Great job organizing the event. That's really making a difference!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! It's amazing how basketball brings people together and creates a positive impact!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "You rock! Keep it up!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks, Tim! It's awesome to see how sports can unite people. By the way, what book are you currently reading?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I'm currently reading a fantasy novel called \"The Name of the Wind\" by Patrick Rothfuss. It's really good!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "\"The Name of the Wind\" sounds cool. I'll add it to my list. Thanks!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I hope you enjoy it! Let me know your thoughts.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Will do! Thanks for the recommendation!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "No problem. Talk to you soon!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "5:24 pm on 7 January, 2024",
+            "lang": "en"
+        }
+    },
+    {
+        "id": "Tim_John_session_22",
+        "messages": [
+            {
+                "role": "Tim",
+                "content": "Hey John! Long time no see! I just got back from the coolest Harry Potter party. Met lots of awesome people who were into the same stuff as me, had so much fun!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Hey Tim! Sounds awesome! So glad you had a blast at the Harry Potter party. Last August I told you about my fun time at a charity event with Harry Potter trivia. Love being with people who are as passionate about Harry Potter as us! Did you dress up as any character?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "It was awesome. I didn't dress as any character, but I wore my Gryffindor scarf. Everyone had cool costumes. I even got this as a treat. Any recent meet-ups with your basketball team?",
+                "img_url": [
+                    "https://dixiedelightsonline.com/wp-content/uploads/2018/05/IMG_4747.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "That frog looks yummy! I haven't had one in ages. Been having some wild games lately, we played a top team and it was tough, but we fought hard and got the win! It's awesome having my team to push us all.",
+                "img_url": [
+                    "https://img.freepik.com/premium-photo/basketball-players-celebrating-victory_1209158-8494.jpg?w=2000"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, looks fun! What was the best part for you? And congratulations on the win!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! The best part for me was the camaraderie we built both on and off the court. Winning felt amazing and it was definitely worth all the hard work we put in.",
+                "img_url": [
+                    "https://live.staticflickr.com/4030/4426181605_d36196a029_c.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, that's awesome! It's great to see how close you all have become. You must feel a great sense of unity. I'm reading this amazing series about the power of friendship and loyalty \u2013 really inspiring stuff. Anything special you do to keep that bond strong?",
+                "img_url": [
+                    "https://www.thegibsonedge.com/hs-fs/hubfs/images/Blog_Images/Beware%20The%20Person%20Of%20One%20Book%20-%20Flashback%20Friday.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Sounds awesome! What kind of stuff do they do in the series? I'm sure the importance of friendship is emphasized. Same with us - we have team dinners, outings, and basketball games. It's those moments away from practice that really build and strengthen our unity.",
+                "img_url": [
+                    "https://live.staticflickr.com/5128/5297313790_4330145c09_b.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Awesome! Sounds like your team has something similar to the characters in the series. They rely on each other to push through challenges. By the way, what book are you currently reading? I'm always on the lookout for new reads!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! I'm currently reading a book that I really enjoy. I highly recommend it!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Sounds cool! Let me know the title so I can add it to my list!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I'm reading \"Dune\" by Frank Herbert. It's a great story about religion and human control over ecology. What about you? What's the last book that moved you?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!",
+                "img_url": [
+                    "https://live.staticflickr.com/4467/24220955708_7548812488_b.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "That's cool! I've heard it's such an inspiring book. Have you read all of George R. R. Martin's books?",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Just the GoT series. Have you tried reading any of them?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "No, I haven't read them yet but I'll definitely check them out. Cheers!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Let me know if you get around to them! Have a great day!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! I'll let you know. Have a great day!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "7:42 pm on 8 December, 2023",
+            "lang": "en"
+        }
+    },
+    {
         "id": "Tim_John_session_8",
         "messages": [
             {
@@ -1250,7 +2668,7 @@
                 "role": "John",
                 "content": "Wow, that sounds great, Tim! I love that first movie too, I even have the whole collection! It was so magical! Must've been a dream watching it with your family.",
                 "img_url": [
-                    "https://thumbs.dreamstime.com/b/cozy-family-movie-night-blankets-popcorn-delight-experience-warmth-togetherness-cozy-family-movie-night-complete-301978526.jpg"
+                    "https://i.pinimg.com/originals/cd/7e/e3/cd7ee35c916de76a1752cd476911cce9.jpg"
                 ]
             },
             {
@@ -1267,7 +2685,7 @@
                 "role": "Tim",
                 "content": "Family time means a lot to me. This photo is from a special day when we all got together to eat. It was a great day full of love and laughter!",
                 "img_url": [
-                    "https://fydn.imgix.net/m/gen/art-print-std-portrait-p1/c861f986-d119-4bfc-8706-138074e64387.jpg?auto=format,compress&q=75"
+                    "https://i.redd.it/peqj8rke7zz11.jpg"
                 ]
             },
             {
@@ -1366,1000 +2784,6 @@
         ],
         "metadata": {
             "datetime": "4:29 pm on 21 August, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_14",
-        "messages": [
-            {
-                "role": "John",
-                "content": "Hey Tim! Long time no talk - a lot has been going on since then!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Hey John! Long time no see! Can't wait to catch up and hear all about what you've been up to.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Seems like forever since we caught up! I'm now mentoring the younger players on my team. It's super rewarding and I'm loving sharing my skills and knowledge with them. It's also a great way for me to stay involved in the game during the off-season.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! Mentoring must be so rewarding. You get to show others what you know - that's awesome! Is it difficult? Any hiccups?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "There are challenges, since everyone is so different. But it's been awesome gaining experience and adapting, motivating and encouraging everyone. It's been great to watch each of them develop and reach their goals - such a reward!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that's awesome! It must be really rewarding to see them reach their goals. What's it like mentoring them?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Mentoring them has been awesome! Seeing their growth, improvement, and confidence is so fulfilling. I'm glad I could make a positive impact on their lives. Here's a pic of me and some of the younger players at a recent practice.",
-                "img_url": [
-                    "https://cdn2.picryl.com/photo/2020/01/16/members-of-the-local-and-us-communities-attend-the-edfa79-1024.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "You're really doing great with them. Do any of them see you as a mentor?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Some of them do see me as a mentor, which is really rewarding. I try to provide them with advice and support on and off the court. Being a positive role model for them is something I enjoy.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's incredible! How does it feel to have their trust and admiration? It must be such an honor to be a positive role model for them.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "It feels great to have their trust and admiration. Being a role model for these young athletes is so fulfilling. I'm glad my experiences can help shape their future and inspire them to go after their dreams.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "You're doing a great job with them. Way to go! This is what I've been up to.",
-                "img_url": [
-                    "https://images.pexels.com/photos/12312263/pexels-photo-12312263.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-tanya-badillo-12312263.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Wow, stunning! And thanks. Really appreciate it. Means a lot.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I took this pic last summer. Seeing it was so stunning. Thanks for appreciating it. It means a lot to me.",
-                "img_url": [
-                    "https://i.redd.it/hf54pvtf8rt51.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Where did you capture this? Nature is truly amazing, isn't it?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, it's amazing how nature's beauty and grandeur can take our breath away. It's so nice to escape the noise of the city and relax in nature. Good for you to get to enjoy that stunning view!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Nature is indeed refreshing. A good break from school.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "How are you doing in shcool?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Doing good! Busy with studies but finding time to relax with books - good balance.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cool! Finding that balance is key. Are you currently reading any books?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I'm reading this book and I'm totally hooked! What about you?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I haven't had much time to read, but after we talked I finally picked up a book and it's been awesome! Talk to you later!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "1:50 pm on 17 October, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_16",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John, long time no see! Hope you've been doing well. Since we last chat, some stuff's happened. Last week, I had a huge writing issue - got stuck on a plot twist and couldn't find my way out. It was crazy frustrating, but I kept pushing and eventually got the ideas flowing again.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Awesome to hear from you. Yeah, I get how that would've been so annoying! But you stuck it out, that's so cool. Same with me on the court. Just gotta find a way to tough it out and keep things flowing. Then when you make it through, it's all the more satisfying, right?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah! It was hard but once it's over, the feeling is amazing. That's what makes it so beautiful, the struggle and then the satisfaction.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah! Struggles make it worth it. Like in sports, that's when the win feels great! Challenges force us to develop and become better.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Overcoming challenges builds strength and pushes personal growth. It's about the journey and what we learn, not just winning. This was a great reminder for me. Got any examples from that sport you mentioned?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, last year I had a basketball game where we were trailing big time in the 4th quarter. We had to dig deep and keep on pushing to overturn the deficit and it was amazing when that final buzzer sounded. Unforgettable feeling.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that must have been an incredible feeling! You really showed determination and perseverance. Do you have any photos or keepsakes from the game? I'd love to see them! By the way, I have something special too - this is my prized possession, a basketball signed by my favorite player. It serves as a reminder of all the hard work.",
-                "img_url": [
-                    "https://bostonmemorabilia.com/cdn/shop/files/LeBron_James_signed_basketball.jpg?v=1732429505"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Wow! What makes your favorite player so inspiring? Do you have any special stories or moments with them?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I just love watching LeBron. There was this Finals game a few years back with an epic block that totally changed the game and ended up winning it. Seeing him go for it like that was such an inspiration - never give up, you know?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Remember that epic block in Game 7 of the '16 Finals? He chased down Iguodala and pinned the ball against the backboard. That kind of determination and heart is why I love basketball.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah, that's the one! It was awesome. Moments like that make me love sports and admire the players' determination and heart.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "LeBron's moments of determination and heart are incredible. It's why I enjoy playing and pushing myself. You never know when those special moments might occur, but it's always fun to be part of it.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Those special moments make it all worth it. It's amazing to be part of something bigger and feel the joy and fulfillment. Keep pushing and having those moments on the court!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Speaking of special moments, my wife and I just left for our European vacation! It will be short but sweet. You've been before, any recommendations?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's great! I hope you two have a great time. I would recommend visiting some castles, they are just so magical!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! We'll have to check some out. Wishing you all the best with everything you're pursuing. Stay safe!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! You too, buddy. Take it easy and keep going for it. Stay safe and let's stay in touch!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "11:41 am on 6 November, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_13",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John! It's been ages since we last talked. Guess what? Last week I went to a Harry Potter conference in the UK - it was incredible! There were so many people who shared the same love of HP as me, it was like a magical family. I felt so inspired and like I got a new lease of life. I love how my passion for fantasy stuff brings me closer to people from all over the world, it's pretty cool.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Great to hear from you. It's awesome how our passions connect us with others, yeah? You sound like you fit right in and got a real buzz out of it. I feel the same way with my team.",
-                "img_url": [
-                    "https://upload.wikimedia.org/wikipedia/commons/4/4c/USA_men%27s_national_basketball_team_%2851910110377%29.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, you guys look great! How have games been going?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "It was an intense season with both tough losses and great wins. Overall, I'd say we did pretty well.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool! Sounds like you guys had some tough games. How did you handle those?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! We faced tough opponents but that's what drives us to get better. We back each other up and won't quit.",
-                "img_url": [
-                    "https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_9e2201886c43d264dbef_IMG_6460.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats! That's awesome. It must feel good, right?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, it feels great! All that hard work and effort was totally worth it. We even won a trophy!",
-                "img_url": [
-                    "https://as2.ftcdn.net/v2/jpg/05/74/26/09/1000_F_574260931_wcsjdtIi8YE9XIGnoqVdFltEuV9flJdM.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Way to go! You must have been elated up there with that trophy. All the hard work paid off! Congrats - I'm so proud of you. Keep it up!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! I was definitely elated. Your support really means a lot to me. I'll keep working hard.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "No problem! I'm here for you anytime. Keep believing in yourself!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Appreciate your support. Always staying filled with self-belief.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "You got this! Stay motivated and remember that anything is possible with hard work. Keep pushing for your goals!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Your encouragement means a lot to me. I'm feeling motivated and ready to keep pushing for my goals! I'm going to need some new shoes after all these games though.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Glad my encouragement helped! These are amazing - like walking on clouds! Game changer!",
-                "img_url": [
-                    "http://www.binxberryconsignment.com/cdn/shop/products/IMG_3958.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "They look comfortable. Where did you get them?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I got them online - they're super comfy! Definitely recommend!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cheers! I'll definitely check them out. Thanks for the recommendation!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "No worries. Let me know if there's anything else I can assist you with. Always here to help!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Appreciate it. I'll reach out if I need anything.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool! Stay motivated and keep chasing those dreams! Chat soon!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! I'll definitely stay motivated and keep chasing those dreams. You too, keep up the passion. Talk soon!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "1:50 pm on 13 October, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_18",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John! Hope you're doing good. Guess what? I went to a castle during my trip to the UK last Friday and it was unbelievable! The architecture and the history were amazing!",
-                "img_url": [
-                    "https://static.independent.co.uk/2021/07/28/09/26073722-6212c4b6-62f4-4d1f-b2d9-fab1e4ba16a8.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! That's awesome! Yeah, it was really cool. Oh man, it's been a tough week for me with this injury. But I'm staying positive. How about you? How's your week been?",
-                "img_url": [
-                    "https://i.redd.it/plgl67c48sg91.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Ouch, bummer about the injury. Hang tight. This week has been swamped with exams for me but I'm plowing through.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cheers, Tim. Injury's been rough, but I'm staying positive. How's the exam prep coming? Confident?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Exams can be challenging, but I'm putting in my best effort. Feeling optimistic and working diligently! How do you stay motivated during difficult study sessions?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I visualize my goals and success for focus and motivation. It really helps me stay motivated during tough studying. Do you have any study tricks?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's cool! I like breaking up my studying into smaller parts. 25 minutes on, then 5 minutes off for something fun. It's less overwhelming and keeps me on track.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Nice work! Breaking it down into smaller parts is definitely a smart move. I wish you all the best on your exams!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! Appreciate your support. I hope your injury heals soon.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Sure thing, Tim! Got your back. I hope so too. The doctor said it's not too serious.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's good to hear, I'm glad.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I hate not being on the court.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I bet. It's like if I couldn't read due to an injury.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I'm pushing on though. Talk soon!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Take care! Keep pushing on. Talk soon.",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "3:59 pm on 16 November, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_19",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John! Haven't talked in a bit, how ya been? Hope your injury is feeling better.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Thanks for checking in. It's been tough, but I'm staying positive and taking it slow. How about you? How have you been?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I've been swamped with studies and projects, but last week I had a setback. I tried writing a story based on my experiences in the UK, but it didn't go the way I wanted. It's been tough, do you have any advice for getting better with storytelling?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Sorry to hear about the setback with your story. I understand how frustrating it can be when things don't go as planned. When I face challenges on the court, I try to reflect on what went wrong and find ways to improve. Maybe you can try doing the same with your storytelling.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool idea. Reflecting on what went wrong and how to improve could definitely help me get back on track. Thanks! Out of curiosity, what's been one of your toughest challenges in basketball?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Last season, I had a major challenge when I hurt my ankle. It required some time off and physical therapy. It was frustrating because I couldn't play or help the team. I stayed focused on my recovery and worked hard to strengthen my body. It was a tough mental and physical challenge, but it made me realize the importance of patience and perseverance. I'm grateful that I was able to overcome it.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That must have been tough not being able to play and help your team. You did an amazing job staying focused and overcoming it. Your resilience and determination are inspiring! Thanks for sharing.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! That means a lot. Difficult times are part of life \u2013 what's important is how we handle them. When things get tough, I try to remember why I'm so passionate about basketball. That love and enthusiasm keeps me motivated, no matter what.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "When things get tough, it's so important to remember why we love what we do. For me, it's writing and reading. That's what helps me stay motivated and push myself to get better. Has anything similar happened with basketball for you? Tell me about it!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I faced some tough times while playing basketball. I messed up during a big game, and it was really hard to accept. Instead of getting stuck in that moment, I worked hard to get better. It taught me that resilience is key and owning up to mistakes is important. Gotta keep growing and striving to be a strong player and teammate. So grateful.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that's awesome. Admitting mistakes and using them to get better is super important. You really show how much you care about improving. Keep it up!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! I appreciate your support. It's all about growing and getting better, both on and off the court. Let's keep working hard!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah, John! Let's keep growing and improving. We got this! These are my companions on my growth journey.",
-                "img_url": [
-                    "https://i.redd.it/28n5c71uffu71.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Fantasy books always fuel my creativity, both in and outside of my hobbies. Are Harry Potter and GoT still your favorites?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yes, they are still my favorites - I love how they take me to other places. What other books do you like?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I love non-fiction books about personal development and mindset. They help me know myself better. Do you enjoy reading other types of books as well?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yep, John! I love getting lost in fantasy stories, but also discovering new ways to better myself through books on growth, psychology, and improving myself. It's wild how much you can learn from them, right?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, Tim! Books really can shift how we think and help us learn totally new things. Have you come across any that made a big impact on you recently?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah, John! I recently read a book that really made a big impact on me. It's all about how small changes can make big differences. It really changed the way I do things. Have you read any good books lately?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I recently finished rereading \"The Alchemist\" - it was really inspiring. It made me think again about following dreams and searching for our own personal legends. I felt really motivated and hopeful after reading it.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that book is great! I read it a while back and it really changed my perspective on my goals. I'm glad it had the same impact on you!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, that book is really something. It really helped motivate me to keep chasing my dreams and to trust the process. It's amazing how books can have such an impact on us, right?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Definitely! Books have a way of opening up new worlds, inspiring us, and making us think. They have the power to make us feel better and help us grow, which is amazing. It's great that we share a love for reading. Let's keep exploring books and motivating each other! Talk to you later!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "10:22 am on 21 November, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_3",
-        "messages": [
-            {
-                "role": "John",
-                "content": "Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
-                "img_url": [
-                    "https://live.staticflickr.com/44/145388126_0fd9b13887_b.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats on your achievement! I'm so proud of you. Last week, I had a nice chat with a Harry Potter fan in California. It was magical!",
-                "img_url": [
-                    "https://www.universalstudioshollywood.com/tridiondata/ush/en/us/files/images/ush-wwohp-universal-hollywood-ride-family-at-castle-f-svp-1.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Thank you! Scoring those points was an incredible experience. The atmosphere was electric, and my teammates and I were thrilled. We pulled off a tough win!",
-                "img_url": [
-                    "https://thumbs.dreamstime.com/b/basketball-soaring-towards-hoop-dramatic-sports-arena-setting-dynamic-shot-flying-air-heading-packed-363931217.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, sounds awesome! Winning after that game must have felt amazing - what was it like? Did you celebrate afterward?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "We were all exhausted but so happy. After that, we celebrated at a restaurant, laughing and reliving the intense moments - it felt amazing!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, sounds like a blast! I had an incredible time meeting with that fellow fan. You can really feel the love when you're surrounded by people who share the same passion. Does that happen with your sport too?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Definitely! Being surrounded by teammates who are equally passionate creates a strong bond. We push each other to be our best and the love for the game is infectious. It's like having a second family.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's awesome! Having a second family through sport must be such a great feeling. Glad you have that support. Oh, you mentioned exploring endorsements - have you made any progress?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, I'm getting somewhere with endorsements. I've talked to some big names, which looks promising. Exciting to see what's in store!",
-                "img_url": [
-                    "https://therookiewire.usatoday.com/gcdn/authoring/images/smg/2025/01/11/SROK/77621715007-12-80757.jpeg?crop=4451,2504,x0,y229&width=3200&height=1801&format=pjpg&auto=webp"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "How did you manage to connect with these big companies?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I used my contacts in the basketball industry and my marketing skills to make connections. Networking plays a big role in getting endorsements, and I'm grateful for the support I've received.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, what endorsements have you managed to get through networking?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, Congrats on those deals with Nike and Gatorade! You're killing it! Any other brands you're dreaming of working with?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! The Nike and Gatorade deals have me stoked! I've always liked Under Armour, working with them would be really cool.",
-                "img_url": [
-                    "https://img.freepik.com/premium-photo/beautiful-forest-path-as-panorama-background-bright-green-leaves-spring-summer-trail-forest_663265-4127.jpg?w=2000"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! What kind of stuff are you exploring? It looks like good things are coming your way.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Just checking out some exciting things that are happening. Really looking forward to what's coming next! This is where I'm headed.",
-                "img_url": [
-                    "https://thumbs.dreamstime.com/b/breathtaking-panoramic-view-seattles-skyline-queen-anne-hill-stunning-cityscape-experience-awe-inspiring-beauty-360689521.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, amazing view! Where's that? What's got you so excited?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
-                "img_url": [
-                    "https://media.istockphoto.com/id/1224963129/photo/colorful-seattle-city-scape-with-cloudy-at-sunset-seattle-washington-usa.jpg?s=612x612&w=0&k=20&c=MStN7aHMT4J1ciGBOI9LbTkNepsU7BxyF9wEqeNh22Q="
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Cool! What do you love about Seattle?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I love the energy, diversity, and awesome food of this city. Trying local seafood is a must! Plus, the support from the fans at games is incredible.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Sounds fab! Seattle is definitely a great and colorful city. I've always wanted to try the seafood there. Good luck with everything!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Can't wait for the seafood too. I love the ocean.",
-                "img_url": [
-                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "That looks peaceful! Do you have a favorite beach memory?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I had an awesome summer with my friends, surfing and riding the waves. The feeling was unreal!",
-                "img_url": [
-                    "https://images.pexels.com/photos/8890340/pexels-photo-8890340.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-anastasia-baranova-8890340.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! How long have you been surfing?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I started surfing five years ago and it's been great. I love the connection to nature.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! That sounds amazing! The connection to nature must be incredible.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yup! Being out in the water can be amazing. The waves, the wind, it's super exciting and free-feeling. Nature's pretty special.",
-                "img_url": [
-                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "That's awesome! I don't surf, but reading a great fantasy book helps me escape and feel free.",
-                "img_url": [
-                    "https://d3525k1ryd2155.cloudfront.net/h/072/089/1318089072.0.x.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Cool! We all find our own way to escape and feel free!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah! It's great to find stuff that makes us happy and feel free. It's like bliss for me when I do this in a comfy spot. It's like being in another world, same as surfing is for you.",
-                "img_url": [
-                    "https://cdn.apartmenttherapy.info/image/upload/v1617734023/at/news-culture/2021-04/katharine-scrivener-nook.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Yeah! Those moments of happiness and freedom are amazing. Let's all find our own bliss.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Sure thing! It's what makes life awesome!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah. Awesome catching up! Bye!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "4:21 pm on 16 July, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_17",
-        "messages": [
-            {
-                "role": "John",
-                "content": "Hey Tim! Great to chat again. So much has happened!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Hey John! Great chatting with you as always. What's been happening lately? I've been reading as usual.",
-                "img_url": [
-                    "https://i.redd.it/7a8i8uea5au51.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "My wife and I were road tripping out on the European coastline, and it was amazing! The views were spectacular, and we had lots of fun bonding and creating amazing memories. It was such a nice change to my regular life.",
-                "img_url": [
-                    "https://img.freepik.com/premium-photo/exploring-picturesque-european-coastline-summer-road-trip-concept-european-coastline-summer-road-trip-scenic-vistas-coastal-villages-travel-photography_918839-101010.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! Sounds like an incredible road trip. I'm glad you and your wife had such a great time!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Yeah, it was awesome. We got to see some epic spots. It's hard to describe how beautiful they were!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Those places must've been amazing! Nature sure has a way of leaving us speechless.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Nature sure is powerful and beautiful! It's really humbling to witness such sights.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah! It always makes us realize how huge the world is and how special it is. These moments really show us the beauty around us. Anyways, have you read or watched anything good recently?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yep, I just finished this amazing fantasy series. It was a wild ride with so many twists. The author is amazing at creating awesome storylines and characters - I love getting lost in those fantasy worlds.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "That's amazing! Same here. There's something special about being lost in an awesome fantasy realm and seeing what happens. It's like an escape. \"That\" is one of my favorite fantasy shows. Have you seen it?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, I saw \"That\"! It's amazing to see those worlds and characters come alive. It's a great way to escape reality!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah, it's awesome how books and movies can take you away. A great escape, right?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Definitely, it's like a mental break, giving our minds a rest and letting them wander. So refreshing!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "It's like entering another world! We get to take a break from everything and just let our minds wander. It's so nice and refreshing.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "And that's just what we need sometimes.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Taking a break from life can help us recharge and get some peace. Plus, it gives us a chance to reconnect with ourselves and tackle life's challenges with a new outlook.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, taking time for ourselves is crucial. It helps us stay sharp and focused. Plus, it helps us gain new perspectives and tackle challenges with more energy. Finding the right balance is key and I'll keep that in mind as I continue my journey.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Balance is key and it varies. Take care of yourself, both mentally and physically, and you'll rock it. You got this, bud!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Your support means a lot. I'll keep pushing forward. Take care, buddy!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "3:36 pm on 11 November, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_22",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John! Long time no see! I just got back from the coolest Harry Potter party. Met lots of awesome people who were into the same stuff as me, had so much fun!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Sounds awesome! So glad you had a blast at the Harry Potter party. Last August I told you about my fun time at a charity event with Harry Potter trivia. Love being with people who are as passionate about Harry Potter as us! Did you dress up as any character?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "It was awesome. I didn't dress as any character, but I wore my Gryffindor scarf. Everyone had cool costumes. I even got this as a treat. Any recent meet-ups with your basketball team?",
-                "img_url": [
-                    "https://dixiedelightsonline.com/wp-content/uploads/2018/05/IMG_4747.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "That frog looks yummy! I haven't had one in ages. Been having some wild games lately, we played a top team and it was tough, but we fought hard and got the win! It's awesome having my team to push us all.",
-                "img_url": [
-                    "https://foreignfork.com/wp-content/uploads/2020/10/Frog-Legs-Recipe-8-scaled.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, looks fun! What was the best part for you? And congratulations on the win!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! The best part for me was the camaraderie we built both on and off the court. Winning felt amazing and it was definitely worth all the hard work we put in.",
-                "img_url": [
-                    "https://live.staticflickr.com/4030/4426181605_d36196a029_c.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that's awesome! It's great to see how close you all have become. You must feel a great sense of unity. I'm reading this amazing series about the power of friendship and loyalty \u2013 really inspiring stuff. Anything special you do to keep that bond strong?",
-                "img_url": [
-                    "https://www.thegibsonedge.com/hs-fs/hubfs/images/Blog_Images/Beware%20The%20Person%20Of%20One%20Book%20-%20Flashback%20Friday.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Sounds awesome! What kind of stuff do they do in the series? I'm sure the importance of friendship is emphasized. Same with us - we have team dinners, outings, and basketball games. It's those moments away from practice that really build and strengthen our unity.",
-                "img_url": [
-                    "https://live.staticflickr.com/5128/5297313790_4330145c09_b.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Awesome! Sounds like your team has something similar to the characters in the series. They rely on each other to push through challenges. By the way, what book are you currently reading? I'm always on the lookout for new reads!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! I'm currently reading a book that I really enjoy. I highly recommend it!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Sounds cool! Let me know the title so I can add it to my list!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I'm reading \"Dune\" by Frank Herbert. It's a great story about religion and human control over ecology. What about you? What's the last book that moved you?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!",
-                "img_url": [
-                    "https://live.staticflickr.com/4467/24220955708_7548812488_b.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "That's cool! I've heard it's such an inspiring book. Have you read all of George R. R. Martin's books?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Just the GoT series. Have you tried reading any of them?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "No, I haven't read them yet but I'll definitely check them out. Cheers!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Let me know if you get around to them! Have a great day!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! I'll let you know. Have a great day!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "7:42 pm on 8 December, 2023",
             "lang": "en"
         }
     },
@@ -2583,430 +3007,6 @@
         }
     },
     {
-        "id": "Tim_John_session_21",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John! Haven't talked in a few days, wanted to let you know I joined a travel club! Always been interested in different cultures and countries and I'm excited to check it out. Can't wait to meet new people and learn about what makes them unique!",
-                "img_url": [
-                    "https://www.sportindustry.biz/wp-content/uploads/2023/09/Sport-Team-of-the-Year-1.png"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! That's cool! I love learning about different cultures. It's really cool to meet people with different backgrounds. My teammates come from all over.",
-                "img_url": [
-                    "https://bloximages.chicago2.vip.townnews.com/syvnews.com/content/tncms/assets/v3/editorial/3/38/338dd0b4-adc1-5a60-97e6-9eb3508b3f77/63c7306e4f912.hires.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! How long have you been playing professionally?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I've been playing professionally for just under a year now. It's been a wild ride.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow,! Being a pro basketball player must be quite a journey. Is it living up to your expectations?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, it's been great! Challenges, growth, all that jazz\u2014it's been amazing.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool! Glad to hear that this journey has been rewarding for you. Could you tell me more about your growth?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yup, on the court, I'm getting better at my overall game. Money-wise, I've gotten some cool endorsement deals. Plus, I'm learning how to market myself and boost my brand. It's been really rewarding to see all these areas progress. What about you? Anything new happening?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Joined a travel club and, like I said, working on studies. Also picked up new skills. Recently started learning an instrument. Challenging but fun, always admired musicians. Finally giving it a go.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Learning an instrument is really cool. What instrument are you playing? What genres of music do you want to learn?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I'm learning how to play the violin now. I'm mostly into classical music but I'm keen to try out jazz and film scores too. It's a great way to chill and get creative.",
-                "img_url": [
-                    "https://i1.pickpik.com/photos/964/641/216/musical-instrument-violin-curl-tuning-pegs-preview.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Wow! I hope I can hear you play the violin some day. How long have you been playing the piano again?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I've been playing for about four months now and it's been an amazing adventure. I'm really enjoying the progress I've been making.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Nice one! Learning something new is always a great adventure. Keep up the hard work and let's see where you end up. It's all about dedication and effort. It feels great to finally achieve something after putting in so much time and energy.",
-                "img_url": [
-                    "https://live.staticflickr.com/7162/6733335339_3a64489025_b.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats on the trophy! It must have felt great to finally get something after putting in so much effort. Do you have any tips on motivating others on your team?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Winning was awesome. When motivating others, it's important to show care for teammates, celebrate their achievements, provide constructive feedback, and remind them of the bigger goal. Creating a positive environment and giving a pep talk before a game can also be helpful. It's all about supporting and uplifting each other. Do you have any specific strategies in mind?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks for the helpful advice. Creating a constructive atmosphere and setting an example by working hard can really inspire people. It\u2019s also inspiring to use our own stories to encourage others. Much appreciated!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "No problem! It's great to use our own experiences to inspire others. Hard work can lead to success. Keep it up! Let me know if you need any assistance.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! Appreciate the offer. Let me know if you can lend a hand. Bye!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "5:34 pm on 6 December, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_25",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John, been a while since we chatted. How's it going?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yo Tim! Great to hear from you. Things have been wild! Last week I got this amazing deal with a renowned outdoor gear company. So pumped!",
-                "img_url": [
-                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDMnkQOmMQNKQfQDDRQlTRpNME7oy0xNlcHjLYB8n_ZwvnWe8nYlRKA3WkZNHEQLsME&usqp=CAU"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "That's awesome about the deal! I'm curious, what kind of gear did you end up getting? And how did the photoshoot turn out?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Cheers! Got some awesome hiking stuff and outdoor gear - all top-notch. The photoshoot went really well too. We did it in a gorgeous forest and the photographer got some epic shots of me doing my thing - it was amazing!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! That sounds amazing. Being out in such a gorgeous location must have been incredible. I'd love to see one of the epic shots you got! Do you have any pictures from the photoshoot?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Here you go, here's a pic. Nature puts me in a great mood and always gets me energized!",
-                "img_url": [
-                    "https://img.freepik.com/premium-photo/spring-forest-nature-landscape-beautiful-spring-stream-river-rocks-mountain-forest_1111209-17468.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "That's an amazing photo! I can see why it inspires you - the rocks and river look so peaceful. What drew you to that spot?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I stumbled across this spot while hiking. The sound of that river was so soothing, I felt so at peace surrounded by those rocks. It was like nature was telling me to stop and admire its beauty.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that sounds amazing. It's true, nature has a way of bringing peace and joy. Anything else like that been happening lately?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Things have been going great on the court. We've been putting in a lot of work and achieving our goals, which is awesome.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Hard work pays off, right? What have you and your team been up to lately?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "We gave it our all during last week's scrimmage. It's amazing to see our team's growth. We know it won't be easy, but it'll be worth it when we see the results.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "What areas have you seen the most growth in during your training?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Our team has seen the most growth in communication and bonding. It has really helped our performances by allowing us to understand each other's strengths and weaknesses.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that's awesome! Glad to hear you guys are bonding. Keep it up!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Let's keep at it and continue supporting each other. Appreciate your assistance!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah, let's support each other. I'm here for you. Just keep believing in yourself! Bye!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "10:04 am on 19 December, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_23",
-        "messages": [
-            {
-                "role": "John",
-                "content": "Hey Tim, great to see you! Any new success stories?",
-                "img_url": [
-                    "https://staticg.sportskeeda.com/editor/2023/11/1caf8-17002697090698-1920.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Hey John, I had a tough time with my English lit class. Did an analysis on this series and I think it went ok!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! It's a bummer about your English lit class, but you did your best. By the way, I had a career-high in assists last Friday in our big game against our rival. Yay!",
-                "img_url": [
-                    "https://i.pinimg.com/originals/cf/a0/7f/cfa07fa76047b5d731b3af313d98fc01.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats! That's awesome. How did it feel being out there making those plays?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! It felt great being out there, making plays for my team. I love seeing my teammates succeed because of the opportunities I create for them. The atmosphere in the arena was really electric and playing against our rivals added an extra level of intensity. It was a memorable night!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Sounds incredible! Must have been quite an atmosphere. Have you had any other games that were as thrilling as this one?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "I've had some thrilling games in my career. My favorite was when we were down 10 in the 4th and I hit the buzzer-beater shot to win. The atmosphere was incredible and it was such a thrilling experience. Those moments make me love basketball so much.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, John! Moments like that make us love sports, huh? I still think about this pic you sent me a while back.",
-                "img_url": [
-                    "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Yeah, that pic reminds me of when I was younger. I'd practice basketball outside for hours, dreaming of playing in big games. It was my way of dealing with doubts and stress. It's amazing how a ball and hoop can be so powerful, right?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yeah! Sports are the best. When we're feeling down, it's a way to express ourselves and stay positive. It's awesome how much basketball has done for you. Keep going with your dreams!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Appreciate the support. It's been a significant part of my life and allows me to be myself and pursue my passions. Gonna keep chasing my dreams!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! It's really important to do our own thing and follow our dreams. Keep it up, you're gonna do amazing things!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Your encouragement means a lot. Let's keep pushing and following our dreams - we can make a difference!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Definitely. We both have so much potential! Let's keep supporting each other on our journey towards our dreams.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, you're super inspiring and motivating. Keep it up!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks, it means a lot. Let's keep each other motivated. Bye!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "8:28 pm on 11 December, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_24",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John, catch up time! What've you been up to? Any good b-ball games lately?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Nice to talk again. The b-ball games have been crazy. We had a real battle against another team last week. It was close until the final buzzer but we got the win.",
-                "img_url": [
-                    "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/03/Catawba-basketball-01.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats, John! That sounds like an intense game.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! We won! It was really close, but we made it!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow, that's amazing! Winning must have been so thrilling!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Winning was such a thrill, and it was an awesome moment. These experiences really make me love the game.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "You must have been so pumped when it happened! Winning can give us a real confidence boost and makes us keep going with our passions.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, it really does. It keeps me motivated to keep putting in the effort and makes all the tough times worth it. Here's a pic I took during a morning workout, it's a reminder that the journey can be awesome.",
-                "img_url": [
-                    "https://images.fineartamerica.com/images-medium-large-5/basketball-court-sunset-jun-pinzon.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "That's a good spot for a morning workout! Can you tell me about some challenges you've faced?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, I injured myself not too long ago. It sucked because I had to miss some games and couldn't help my team.",
-                "img_url": [
-                    "https://i.redd.it/o20k6p31qoe41.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Ouch, that's rough. Have you been able to stay active or keep up with your fitness routine while you're recovering?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "It's been tough, but I'm trying to stay active and do my rehab. I do physical therapy exercises every day.",
-                "img_url": [
-                    "https://c8.alamy.com/comp/RDEKGW/positive-delighted-male-person-doing-rehabilitation-exercises-RDEKGW.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Cool, rehab can be tough but it's key to keep it up. How's it coming along?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "It's going great! I've been working hard and it's paying off. Last Friday, I had a milestone moment at the gym. I was able to jog a bit with no pain, which was such a relief!",
-                "img_url": [
-                    "https://live.staticflickr.com/5189/5618665304_b2e0ccd051_b.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! How was it jogging without any discomfort?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "It was great! After being out for so long, jogging without any pain was a huge success. My wife and I hosted a small get-together with friends and family to celebrate.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats! That's awesome. Keep at it and you'll be back in no time. That sounds fun, how was it?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! Appreciate the support and encouragement. I'm gonna keep pushing and staying positive. It was good to see everyone again! We had a ton of fun.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I'm glad everyone had fun!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Me too. Talk to you later!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "3:37 pm on 16 December, 2023",
-            "lang": "en"
-        }
-    },
-    {
         "id": "Tim_John_session_20",
         "messages": [
             {
@@ -3109,7 +3109,7 @@
                 "role": "Tim",
                 "content": "Yeah, check it out - here's my bookshelf! I have some of my favorites on there, like these ones. It's an amazing journey!",
                 "img_url": [
-                    "https://i.etsystatic.com/29963245/r/il/2e35d6/5788345539/il_fullxfull.5788345539_9vml.jpg"
+                    "https://c8.alamy.com/comp/2BKYEPH/harry-potter-the-hobbit-and-lord-of-the-rings-book-spines-on-a-bookshelf-at-home-personal-collection-of-childrens-and-young-adult-literature-2BKYEPH.jpg"
                 ]
             },
             {
@@ -3217,14 +3217,14 @@
                 "role": "Tim",
                 "content": "Yeah, nature has that effect on me too. It's like a reset for the soul.",
                 "img_url": [
-                    "https://wallpaperaccess.com/full/1096552.jpg"
+                    "https://images.pexels.com/photos/16598991/pexels-photo-16598991.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-cheng-cj-16598991.jpg"
                 ]
             },
             {
                 "role": "John",
                 "content": "Yeah, nature's great for clearing the mind and calming the soul. This was my Rocky Mountains trip last year and it was stunning. Seeing those mountains, fresh air - it makes you realize how incredible the world is.",
                 "img_url": [
-                    "https://as2.ftcdn.net/v2/jpg/02/93/70/03/1000_F_293700319_jtzHhtSGRKA5Ev5QRvgD242Inw5MmkOM.jpg"
+                    "https://i.natgeofe.com/n/69399667-44db-442a-8be5-b60107631a2e/92571_3x2.jpg"
                 ]
             },
             {
@@ -3247,214 +3247,6 @@
         ],
         "metadata": {
             "datetime": "9:52 am on 1 December, 2023",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_29",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John! How's it going? Hope all is good.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Hey Tim! Things have been good. Something exciting happened recently for me. What about you? How's everything going?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool news! I'm trying to get my head around the visa requirements for some places I want to visit. It's kind of overwhelming but I'm excited! What have you been up to?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Last week was wild - something incredible happened. But it's a total dream come true - just crazy! I got an endorsement with a popular beverage company!",
-                "img_url": [
-                    "https://i.redd.it/g33orfsja8ha1.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Congrats! How did it feel to seal the deal?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! It felt crazy. It's not just about the signing, but it's about feeling like all the hard work paid off - like all those training hours weren't for nothing.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! I bet you were thrilled when everything finally worked out. That sense of accomplishment is awesome and really boosts your self-esteem. I can imagine all the hard work you put into it was definitely worth it.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yeah, it's great when you reach a goal and it feels rewarding. It's a reminder that you're going in the right direction, and all the hard work was worth it. What's something you feel proud of recently?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I'm proud of researching visa requirements for countries I want to visit. It feels like taking initiative is a step towards making my travel dreams a reality!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Great going! Taking initiative is a must if you wanna achieve your goals. I'm excited to hear about all your future adventures!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! I'll keep you in the loop about my travels. Is there anywhere you recommend visiting?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Barcelona is a must-visit city! You'll love exploring the culture, admiring the architecture, and tasting the amazing food in each neighborhood. Plus, the nearby beaches are great for soaking up the sun. Definitely add it to your travel list!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Barcelona sounds awesome! I've heard so many great things. Definitely adding it to my list. Thanks!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "No problem! Glad you liked the suggestion. Let me know if you have any other questions or need help with anything.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cheers! I owe you one. Let me know if you need anything. Bye!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "1:41 pm on 12 January, 2024",
-            "lang": "en"
-        }
-    },
-    {
-        "id": "Tim_John_session_28",
-        "messages": [
-            {
-                "role": "Tim",
-                "content": "Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Congrats, Tim! That's amazing news. So, where are you going to stay?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Thanks! I'm gonna stay in Galway, it's great for its arts and Irish music. This place has such a vibrant atmosphere.",
-                "img_url": [
-                    "https://roadworksbooks.files.wordpress.com/2022/07/img_4242.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Awesome, Galway looks amazing! Is there anything in particular that you're keen to check out while you're there?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Yep! I'm so excited to explore the nature - it looks amazing!",
-                "img_url": [
-                    "https://images.pexels.com/photos/8456767/pexels-photo-8456767.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-david-riand-8456767.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Wow, great view! Have you visited any other places?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I want to visit The Cliffs of Moher. It has amazing ocean views and awesome cliffs.",
-                "img_url": [
-                    "https://i.redd.it/t98kzzhuocp81.jpg"
-                ]
-            },
-            {
-                "role": "John",
-                "content": "Wow, that's awesome! I could stop by there after my season.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Cool, let me know if you're around!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Yep, I'll let you know. Oh, I held a benefit basketball game last week.",
-                "img_url": [
-                    "https://outandaboutmummy.files.wordpress.com/2019/11/img_6609.jpg"
-                ]
-            },
-            {
-                "role": "Tim",
-                "content": "Wow! How did the game go?",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "The game turned out to be a total success! Lots of people showed up and had a great time, plus we were able to raise some money for charity.",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "Great job organizing the event. That's really making a difference!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks! It's amazing how basketball brings people together and creates a positive impact!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "You rock! Keep it up!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Thanks, Tim! It's awesome to see how sports can unite people. By the way, what book are you currently reading?",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I'm currently reading a fantasy novel called \"The Name of the Wind\" by Patrick Rothfuss. It's really good!",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "\"The Name of the Wind\" sounds cool. I'll add it to my list. Thanks!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "I hope you enjoy it! Let me know your thoughts.",
-                "img_url": []
-            },
-            {
-                "role": "John",
-                "content": "Will do! Thanks for the recommendation!",
-                "img_url": []
-            },
-            {
-                "role": "Tim",
-                "content": "No problem. Talk to you soon!",
-                "img_url": []
-            }
-        ],
-        "metadata": {
-            "datetime": "5:24 pm on 7 January, 2024",
             "lang": "en"
         }
     },
@@ -3676,6 +3468,214 @@
         }
     },
     {
+        "id": "Tim_John_session_3",
+        "messages": [
+            {
+                "role": "John",
+                "content": "Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+                "img_url": [
+                    "https://live.staticflickr.com/44/145388126_0fd9b13887_b.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Congrats on your achievement! I'm so proud of you. Last week, I had a nice chat with a Harry Potter fan in California. It was magical!",
+                "img_url": [
+                    "https://live.staticflickr.com/2174/2061292757_73e8ef5397_b.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Thank you! Scoring those points was an incredible experience. The atmosphere was electric, and my teammates and I were thrilled. We pulled off a tough win!",
+                "img_url": [
+                    "https://cdn.nba.com/teams/legacy/www.nba.com/celtics/sites/celtics/files/crowd-2.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, sounds awesome! Winning after that game must have felt amazing - what was it like? Did you celebrate afterward?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "We were all exhausted but so happy. After that, we celebrated at a restaurant, laughing and reliving the intense moments - it felt amazing!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, sounds like a blast! I had an incredible time meeting with that fellow fan. You can really feel the love when you're surrounded by people who share the same passion. Does that happen with your sport too?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Definitely! Being surrounded by teammates who are equally passionate creates a strong bond. We push each other to be our best and the love for the game is infectious. It's like having a second family.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "That's awesome! Having a second family through sport must be such a great feeling. Glad you have that support. Oh, you mentioned exploring endorsements - have you made any progress?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah, I'm getting somewhere with endorsements. I've talked to some big names, which looks promising. Exciting to see what's in store!",
+                "img_url": [
+                    "https://fortyeightminutes.com/wp-content/uploads/2022/06/5a563cc1-1366-4ef1-adc4-11b07d1b20fd.png"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "How did you manage to connect with these big companies?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I used my contacts in the basketball industry and my marketing skills to make connections. Networking plays a big role in getting endorsements, and I'm grateful for the support I've received.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, what endorsements have you managed to get through networking?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, Congrats on those deals with Nike and Gatorade! You're killing it! Any other brands you're dreaming of working with?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! The Nike and Gatorade deals have me stoked! I've always liked Under Armour, working with them would be really cool.",
+                "img_url": [
+                    "https://hips.hearstapps.com/hmg-prod/images/img-8577-1571255920.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! What kind of stuff are you exploring? It looks like good things are coming your way.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Just checking out some exciting things that are happening. Really looking forward to what's coming next! This is where I'm headed.",
+                "img_url": [
+                    "https://media.istockphoto.com/id/1482573996/photo/panoramic-seattle-city-view-from-kerry-park-washington.jpg?s=1024x1024&w=is&k=20&c=QYSQ77GGu6ZYpMwkXKGPs__C8PrW19wWh4qiHjXucaE="
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow, amazing view! Where's that? What's got you so excited?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
+                "img_url": [
+                    "https://i.redd.it/ua7cvodhrkca1.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Cool! What do you love about Seattle?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I love the energy, diversity, and awesome food of this city. Trying local seafood is a must! Plus, the support from the fans at games is incredible.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Sounds fab! Seattle is definitely a great and colorful city. I've always wanted to try the seafood there. Good luck with everything!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Thanks! Can't wait for the seafood too. I love the ocean.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "That looks peaceful! Do you have a favorite beach memory?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I had an awesome summer with my friends, surfing and riding the waves. The feeling was unreal!",
+                "img_url": [
+                    "https://images.pexels.com/photos/8890340/pexels-photo-8890340.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-anastasia-baranova-8890340.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! How long have you been surfing?",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "I started surfing five years ago and it's been great. I love the connection to nature.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Wow! That sounds amazing! The connection to nature must be incredible.",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yup! Being out in the water can be amazing. The waves, the wind, it's super exciting and free-feeling. Nature's pretty special.",
+                "img_url": [
+                    "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+                ]
+            },
+            {
+                "role": "Tim",
+                "content": "That's awesome! I don't surf, but reading a great fantasy book helps me escape and feel free.",
+                "img_url": [
+                    "https://d3525k1ryd2155.cloudfront.net/h/072/089/1318089072.0.x.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Cool! We all find our own way to escape and feel free!",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Yeah! It's great to find stuff that makes us happy and feel free. It's like bliss for me when I do this in a comfy spot. It's like being in another world, same as surfing is for you.",
+                "img_url": [
+                    "https://cdn.apartmenttherapy.info/image/upload/v1617734023/at/news-culture/2021-04/katharine-scrivener-nook.jpg"
+                ]
+            },
+            {
+                "role": "John",
+                "content": "Yeah! Those moments of happiness and freedom are amazing. Let's all find our own bliss.",
+                "img_url": []
+            },
+            {
+                "role": "Tim",
+                "content": "Sure thing! It's what makes life awesome!",
+                "img_url": []
+            },
+            {
+                "role": "John",
+                "content": "Yeah. Awesome catching up! Bye!",
+                "img_url": []
+            }
+        ],
+        "metadata": {
+            "datetime": "4:21 pm on 16 July, 2023",
+            "lang": "en"
+        }
+    },
+    {
         "id": "Tim_John_session_27",
         "messages": [
             {
@@ -3722,7 +3722,7 @@
                 "role": "Tim",
                 "content": "Yeah, knowing another language opens up a lot of opportunities. Have you come across any good resources for learning Spanish? I've been using this app.",
                 "img_url": [
-                    "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/1ffe37ee-ba14-4de2-9a89-a0f032c0df9c/4095336456/jumpspeak-language-learning-screenshot.png"
+                    "https://promova.com/content/8_9de50958e8.png"
                 ]
             },
             {
@@ -3785,7 +3785,7 @@
                 "role": "John",
                 "content": "Cool! Glad you're enjoying that book! Do you have any favorite fantasy movies as well? These are mine.",
                 "img_url": [
-                    "https://i.etsystatic.com/49313952/r/il/ce7a6c/5703376183/il_794xN.5703376183_7w8v.jpg"
+                    "https://i.redd.it/ur3tz0poja151.jpg"
                 ]
             },
             {

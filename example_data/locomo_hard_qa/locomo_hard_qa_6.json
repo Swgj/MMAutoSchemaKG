@@ -1,359 +1,8 @@
 [
     {
-        "session_id": "James_John_session_2",
-        "visual_category": "Attribute",
-        "question": "In the pic of my best buds mentioned by James, there is an image. What object is the larger dog holding in its mouth?",
-        "answer": "A red apple",
-        "img_url": [
-            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_2",
-        "visual_category": "Attribute",
-        "question": "In the pic of my best buds mentioned by James, there is an image. What color is the tag on the smaller dog's collar?",
-        "answer": "Red",
-        "img_url": [
-            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_2",
-        "visual_category": "Action",
-        "question": "In the pic of my best buds mentioned by James, there is an image. What primary action are both dogs performing?",
-        "answer": "Running",
-        "img_url": [
-            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_2",
-        "visual_category": "OCR/Text",
-        "question": "In the picture of Daisy waiting for a treat mentioned by James, there is an image. What name is written on the dog's tag?",
-        "answer": "BERNIE",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/beautiful-dog-is-waiting-his-treat_873421-72.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_2",
-        "visual_category": "Attribute",
-        "question": "In the picture of Daisy waiting for a treat mentioned by James, there is an image. What color are the patterns on the bedding the puppy is lying on?",
-        "answer": "Blue",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/beautiful-dog-is-waiting-his-treat_873421-72.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_2",
-        "visual_category": "Attribute",
-        "question": "In the picture of Daisy waiting for a treat mentioned by James, there is an image. What is the shape of the dog's tag?",
-        "answer": "Hexagonal",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/beautiful-dog-is-waiting-his-treat_873421-72.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Counting",
-        "question": "In the instrument mentioned by James, there is an image. How many cymbals are visible?",
-        "answer": "5",
-        "img_url": [
-            "https://thumbs.dreamstime.com/b/drum-kit-full-professional-set-small-amateur-stage-89721378.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Attribute",
-        "question": "In the instrument mentioned by James, there is an image. What color are the metal stands holding the drums and cymbals?",
-        "answer": "Silver/Chrome",
-        "img_url": [
-            "https://thumbs.dreamstime.com/b/drum-kit-full-professional-set-small-amateur-stage-89721378.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Attribute",
-        "question": "In the instrument mentioned by James, there is an image. What pattern is visible on the exterior of the drum bodies?",
-        "answer": "Wood grain",
-        "img_url": [
-            "https://thumbs.dreamstime.com/b/drum-kit-full-professional-set-small-amateur-stage-89721378.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Counting",
-        "question": "In the pic of my set mentioned by John, there is an image. How many drum stools are visible?",
-        "answer": "One",
-        "img_url": [
-            "https://i.redd.it/ky9jybgp0bi91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Attribute",
-        "question": "In the pic of my set mentioned by John, there is an image. What color is the main upholstered part of the drum stool?",
-        "answer": "Red",
-        "img_url": [
-            "https://i.redd.it/ky9jybgp0bi91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Spatial",
-        "question": "In the pic of my set mentioned by John, there is an image. On which side of the drum set is the black amplifier located?",
-        "answer": "Right",
-        "img_url": [
-            "https://i.redd.it/ky9jybgp0bi91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "OCR/Text",
-        "question": "In the gaming convention mentioned by John, there is an image. What is the title visible on the book Yoda is holding on the large banner?",
-        "answer": "La Grammaire",
-        "img_url": [
-            "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "OCR/Text",
-        "question": "In the gaming convention mentioned by John, there is an image. What brand name is prominently displayed in blue text at the top left section?",
-        "answer": "PlayStation",
-        "img_url": [
-            "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_3",
-        "visual_category": "Counting",
-        "question": "In the gaming convention mentioned by John, there is an image. How many distinct horizontal rows of caps are displayed on the merchandise wall in the mid-ground?",
-        "answer": "10",
-        "img_url": [
-            "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Counting",
-        "question": "In the pup from a shelter mentioned by James, there is an image. How many dogs are on the grey dog bed?",
-        "answer": "Two",
-        "img_url": [
-            "https://static.vecteezy.com/system/resources/previews/056/317/946/non_2x/young-woman-hugging-newly-adopted-happy-dog-in-animal-shelter-blurred-background-friendship-happiness-of-pet-adoption-photo.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Attribute",
-        "question": "In the pup named Ned mentioned by James, there is an image. What color is the tongue of the larger dog?",
-        "answer": "Pink",
-        "img_url": [
-            "https://static.vecteezy.com/system/resources/previews/056/317/946/non_2x/young-woman-hugging-newly-adopted-happy-dog-in-animal-shelter-blurred-background-friendship-happiness-of-pet-adoption-photo.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Attribute",
-        "question": "In the pup in the fam mentioned by James, there is an image. What is the pattern on the rug next to the dog bed?",
-        "answer": "Swirls",
-        "img_url": [
-            "https://static.vecteezy.com/system/resources/previews/056/317/946/non_2x/young-woman-hugging-newly-adopted-happy-dog-in-animal-shelter-blurred-background-friendship-happiness-of-pet-adoption-photo.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Attribute",
-        "question": "In the futuristic dystopia mentioned by John, there is an image. What are the two most prominent colors illuminating the city?",
-        "answer": "Blue and pink/red",
-        "img_url": [
-            "https://i.redd.it/941ph75y0yb91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Counting",
-        "question": "In the futuristic dystopia mentioned by John, there is an image. How many large buildings in the midground and foreground are predominantly illuminated with blue light?",
-        "answer": "At least 3",
-        "img_url": [
-            "https://i.redd.it/941ph75y0yb91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Spatial",
-        "question": "In the futuristic dystopia mentioned by John, there is an image. Are there any visible signs of moving vehicles on the streets?",
-        "answer": "Yes, some light streaks",
-        "img_url": [
-            "https://i.redd.it/941ph75y0yb91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "OCR/Text",
-        "question": "In the one of them that I came across yesterday mentioned by John, there is an image. What specific problem does the error message describe?",
-        "answer": "Failed to load the main menu from the current game mod.",
-        "img_url": [
-            "https://i.redd.it/xu1i4gjzg6jb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Attribute",
-        "question": "In the one of them that I came across yesterday mentioned by John, there is an image. What color is the 'Accept' button displayed on the error screen?",
-        "answer": "Blue",
-        "img_url": [
-            "https://i.redd.it/xu1i4gjzg6jb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_5",
-        "visual_category": "Spatial",
-        "question": "In the one of them that I came across yesterday mentioned by John, there is an image. What object is located on the desk directly below the monitor?",
-        "answer": "A white figurine",
-        "img_url": [
-            "https://i.redd.it/xu1i4gjzg6jb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the game mod example mentioned by James, there is an image. What color are the prominent accents on the player character's dark armor?",
-        "answer": "Blue and green",
-        "img_url": [
-            "https://i.redd.it/gjudms7o1o881.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Counting",
-        "question": "In the game mod example mentioned by James, there is an image. How many lit braziers are visible on the walkway?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/gjudms7o1o881.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "OCR/Text",
-        "question": "In the game mod example mentioned by James, there is an image. What brand name is partially visible on the webcam mounted on top of the monitor?",
-        "answer": "Logitech",
-        "img_url": [
-            "https://i.redd.it/gjudms7o1o881.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Counting",
-        "question": "In the my dogs mentioned by James, there is an image. How many dogs are visible?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/gbmnyrqwbde91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the my dogs mentioned by James, there is an image. What color is the leash attached to the dog lying on the ground?",
-        "answer": "Blue with white dots",
-        "img_url": [
-            "https://i.redd.it/gbmnyrqwbde91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the my dogs mentioned by James, there is an image. What color is the collar on the standing dog?",
-        "answer": "Pink",
-        "img_url": [
-            "https://i.redd.it/gbmnyrqwbde91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the notebook mentioned by James, there is an image. What colors are the vertical lines that separate the daily basic tasks?",
-        "answer": "Red, green, purple, blue",
-        "img_url": [
-            "https://i.redd.it/lsebjnbguz881.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "OCR/Text",
-        "question": "In the goals in a notebook mentioned by James, there is an image. What is one of the monthly goals written on the left page?",
-        "answer": "Schedule Physical",
-        "img_url": [
-            "https://i.redd.it/lsebjnbguz881.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the notebook mentioned by James, there is an image. What pattern is on the notebook paper?",
-        "answer": "Dot grid",
-        "img_url": [
-            "https://i.redd.it/lsebjnbguz881.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the sketches of the main character mentioned by James, there is an image. What symbol is prominently displayed on the character's shield?",
-        "answer": "A Triforce symbol",
-        "img_url": [
-            "https://i.redd.it/e48of6zqmmi71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Attribute",
-        "question": "In the sketches of the main character mentioned by James, there is an image. What is the shape of the character's ears?",
-        "answer": "Pointed",
-        "img_url": [
-            "https://i.redd.it/e48of6zqmmi71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_1",
-        "visual_category": "Spatial",
-        "question": "In the sketches of the main character mentioned by James, there is an image. What object is drawn in the top left corner?",
-        "answer": "A winged emblem",
-        "img_url": [
-            "https://i.redd.it/e48of6zqmmi71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_7",
-        "visual_category": "Attribute",
-        "question": "In the great experience mentioned by James, there is an image. What color is the vest worn by the person?",
-        "answer": "Grey",
-        "img_url": [
-            "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_7",
-        "visual_category": "Attribute",
-        "question": "In the trails to discover mentioned by James, there is an image. What is covering the wooden path?",
-        "answer": "Fallen leaves",
-        "img_url": [
-            "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_7",
-        "visual_category": "Counting",
-        "question": "In the trails to discover mentioned by James, there is an image. How many dogs are visible on the trail?",
-        "answer": "Two",
-        "img_url": [
-            "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
-        ]
-    },
-    {
         "session_id": "James_John_session_10",
         "visual_category": "Attribute",
-        "question": "In the organizing something with my friends yesterday mentioned by John, there is an image. What color is the video game controller?",
+        "question": "In the something organized yesterday mentioned by John, there is an image. What is the primary color of the controller part of the object?",
         "answer": "Gold",
         "img_url": [
             "https://i.redd.it/eh02fep1qnw01.jpg"
@@ -362,7 +11,7 @@
     {
         "session_id": "James_John_session_10",
         "visual_category": "Counting",
-        "question": "In the organizing something with my friends yesterday mentioned by John, there is an image. How many analog sticks are on the controller?",
+        "question": "In the something organized yesterday mentioned by John, there is an image. How many analog joysticks are visible on the controller?",
         "answer": "Two",
         "img_url": [
             "https://i.redd.it/eh02fep1qnw01.jpg"
@@ -371,361 +20,280 @@
     {
         "session_id": "James_John_session_10",
         "visual_category": "Attribute",
-        "question": "In the organizing something with my friends yesterday mentioned by John, there is an image. What material is the trophy's base made of?",
+        "question": "In the something organized yesterday mentioned by John, there is an image. What material is the multi-tiered base of the object made from?",
         "answer": "Wood",
         "img_url": [
             "https://i.redd.it/eh02fep1qnw01.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_6",
-        "visual_category": "Attribute",
-        "question": "In the canyon John found mentioned by John, there is an image. Is the sky completely clear or partly cloudy?",
-        "answer": "Partly cloudy",
-        "img_url": [
-            "https://i.redd.it/emrf986oa7bb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_6",
-        "visual_category": "Attribute",
-        "question": "In the canyon John found mentioned by John, there is an image. What is the primary color of the river flowing through it?",
-        "answer": "Greenish-blue",
-        "img_url": [
-            "https://i.redd.it/emrf986oa7bb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_6",
-        "visual_category": "Spatial",
-        "question": "In the calming view John found mentioned by John, there is an image. Are there visible walking paths or trails on the canyon floor?",
-        "answer": "Yes, several",
-        "img_url": [
-            "https://i.redd.it/emrf986oa7bb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_6",
-        "visual_category": "OCR/Text",
-        "question": "In the trip to Japan mentioned by John, there is an image. What street is indicated on the blue and white sign on the right side of the image?",
-        "answer": "West 42 St & 7 Avenue",
-        "img_url": [
-            "https://wallpaperaccess.com/full/1257568.png"
-        ]
-    },
-    {
-        "session_id": "James_John_session_6",
-        "visual_category": "OCR/Text",
-        "question": "In the trip to Japan mentioned by John, there is an image. What brand logo is visible on the large, curved blue screen on one of the buildings?",
-        "answer": "CHASE",
-        "img_url": [
-            "https://wallpaperaccess.com/full/1257568.png"
-        ]
-    },
-    {
-        "session_id": "James_John_session_6",
-        "visual_category": "Attribute",
-        "question": "In the trip to Japan mentioned by John, there is an image. What color is the beanie worn by the person in the light-colored coat looking at a phone in the right foreground?",
-        "answer": "Light gray",
-        "img_url": [
-            "https://wallpaperaccess.com/full/1257568.png"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Counting",
-        "question": "In the online gaming tournament mentioned by James, there is an image. How many people are visible in the photo?",
-        "answer": "5",
-        "img_url": [
-            "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "OCR/Text",
-        "question": "In the online gaming tournament mentioned by James, there is an image. What specific game title is clearly visible on the banner behind the people?",
-        "answer": "NBA2K1",
-        "img_url": [
-            "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Attribute",
-        "question": "In the online gaming tournament mentioned by James, there is an image. What color are the frames of the girl's glasses?",
-        "answer": "Blue and purple",
-        "img_url": [
-            "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "OCR/Text",
-        "question": "In the screenshot of my character mentioned by James, there is an image. What word is prominently displayed at the top of the game screen?",
-        "answer": "PAUSED",
-        "img_url": [
-            "https://i.redd.it/zk7j8z2ik3l71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Attribute",
-        "question": "In the screenshot of my character mentioned by James, there is an image. What color are the fletchings of the arrows sticking out of the character?",
-        "answer": "Orange",
-        "img_url": [
-            "https://i.redd.it/zk7j8z2ik3l71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Counting",
-        "question": "In the screenshot of my character mentioned by James, there is an image. How many other character names are visible on the screen besides the main character?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/zk7j8z2ik3l71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "OCR/Text",
-        "question": "In the autographs mentioned by James, there is an image. What game title is written prominently on the paper?",
-        "answer": "Nancy Drew Legend of the Crystal Skull",
-        "img_url": [
-            "https://preview.redd.it/dune-2-core-design-team-autographs-v0-zwm2l2e9oijc1.jpeg?width=640&crop=smart&auto=webp&s=7ccaf55e5d54ef2d474c4eec1dc71cd192dc2ddc"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Counting",
-        "question": "In the autographs mentioned by James, there is an image. How many asterisks are used to frame the main game title on the paper?",
-        "answer": "Four",
-        "img_url": [
-            "https://preview.redd.it/dune-2-core-design-team-autographs-v0-zwm2l2e9oijc1.jpeg?width=640&crop=smart&auto=webp&s=7ccaf55e5d54ef2d474c4eec1dc71cd192dc2ddc"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Attribute",
-        "question": "In the autographs mentioned by James, there is an image. What color are the horizontal lines on the notebook paper?",
-        "answer": "Blue",
-        "img_url": [
-            "https://preview.redd.it/dune-2-core-design-team-autographs-v0-zwm2l2e9oijc1.jpeg?width=640&crop=smart&auto=webp&s=7ccaf55e5d54ef2d474c4eec1dc71cd192dc2ddc"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Attribute",
-        "question": "In the screenshot of us playing mentioned by James, there is an image. What are the primary colors of the human-like character's armor?",
-        "answer": "Yellow and black",
-        "img_url": [
-            "https://i.redd.it/4zewk2444ag71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Counting",
-        "question": "In the screenshot of us playing mentioned by James, there is an image. How many characters are fully visible from the waist up?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/4zewk2444ag71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "OCR/Text",
-        "question": "In the screenshot of us playing mentioned by James, there is an image. What word is written on the red button at the top of the screen?",
-        "answer": "PLAY",
-        "img_url": [
-            "https://i.redd.it/4zewk2444ag71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "OCR/Text",
-        "question": "In the new games mentioned by James, there is an image. What platform is the game specified for on the top left corner of the case?",
-        "answer": "PC DVD ROM",
-        "img_url": [
-            "https://i.redd.it/bwoh4be8d3m41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "Counting",
-        "question": "In the RPGs mentioned by James, there is an image. How many main characters are prominently featured on the game's cover art?",
-        "answer": "5",
-        "img_url": [
-            "https://i.redd.it/bwoh4be8d3m41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_4",
-        "visual_category": "OCR/Text",
-        "question": "In the games mentioned by James, there is an image. What is the age rating displayed on the bottom left corner of the game case?",
-        "answer": "16",
-        "img_url": [
-            "https://i.redd.it/bwoh4be8d3m41.jpg"
-        ]
-    },
-    {
         "session_id": "James_John_session_12",
         "visual_category": "OCR/Text",
-        "question": "In the trophy mentioned by John, there is an image. What year is displayed on the plaque at the bottom?",
+        "question": "In the trophy mentioned by John, there is an image. What year is displayed on the plaque?",
         "answer": "2015",
         "img_url": [
-            "https://c8.alamy.com/comp/2tf97h2/animation-of-second-place-award-trophy-at-floodlit-red-carpet-winners-prize-giving-ceremony-competition-achievement-and-event-concept-digitally-generated-video-2tf97h2.jpg"
+            "https://sc04.alicdn.com/kf/Hcdada85e5412478bb63e47746ffc7c53e.jpg"
         ]
     },
     {
         "session_id": "James_John_session_12",
         "visual_category": "Attribute",
-        "question": "In the trophy mentioned by John, there is an image. What color is the scroll-like part of the trophy?",
-        "answer": "Bronze",
-        "img_url": [
-            "https://c8.alamy.com/comp/2tf97h2/animation-of-second-place-award-trophy-at-floodlit-red-carpet-winners-prize-giving-ceremony-competition-achievement-and-event-concept-digitally-generated-video-2tf97h2.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_12",
-        "visual_category": "Attribute",
-        "question": "In the trophy mentioned by John, there is an image. What color is the tassel attached to the graduation cap?",
+        "question": "In the trophy mentioned by John, there is an image. What color is the tassel hanging from the graduation cap?",
         "answer": "Gold",
         "img_url": [
-            "https://c8.alamy.com/comp/2tf97h2/animation-of-second-place-award-trophy-at-floodlit-red-carpet-winners-prize-giving-ceremony-competition-achievement-and-event-concept-digitally-generated-video-2tf97h2.jpg"
+            "https://sc04.alicdn.com/kf/Hcdada85e5412478bb63e47746ffc7c53e.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_12",
+        "visual_category": "Attribute",
+        "question": "In the trophy mentioned by John, there is an image. What kind of decorative lines are carved into the scroll-like part of the trophy?",
+        "answer": "Wavy lines",
+        "img_url": [
+            "https://sc04.alicdn.com/kf/Hcdada85e5412478bb63e47746ffc7c53e.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_7",
+        "visual_category": "Attribute",
+        "question": "In the trails to discover mentioned by James, there is an image. What color is the harness worn by the dog in the foreground?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_7",
+        "visual_category": "Attribute",
+        "question": "In the trails to discover mentioned by James, there is an image. What is the dominant color of the leaves scattered on the ground next to the path?",
+        "answer": "Brown and orange",
+        "img_url": [
+            "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_7",
+        "visual_category": "Attribute",
+        "question": "In the trails to discover mentioned by James, there is an image. What type of outer garment is the person walking the dogs wearing?",
+        "answer": "A vest",
+        "img_url": [
+            "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_16",
+        "visual_category": "Counting",
+        "question": "In the imaginative worlds of authors mentioned by John, there is an image. How many books on the top shelf have a prominent gold or yellow colored spine?",
+        "answer": "3",
+        "img_url": [
+            "https://i.redd.it/d0eoj5t4py351.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_16",
+        "visual_category": "Attribute",
+        "question": "In the imaginative worlds of authors mentioned by John, there is an image. What is the color of the spine for the first Harry Potter book in the series visible on the middle shelf?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.redd.it/d0eoj5t4py351.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_16",
+        "visual_category": "Attribute",
+        "question": "In the imaginative worlds of authors mentioned by John, there is an image. What specific symbol is depicted on the large black box set on the top shelf?",
+        "answer": "An eye within a ring, with two smaller rings",
+        "img_url": [
+            "https://i.redd.it/d0eoj5t4py351.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_11",
+        "visual_category": "Counting",
+        "question": "In the screenshot of the system mentioned by John, there is an image. How many different types of orders are indicated by icons in the 'Orders' section on the dashboard screen?",
+        "answer": "Four",
+        "img_url": [
+            "https://mir-s3-cdn-cf.behance.net/projects/404/5566cf129921617.Y3JvcCw5MjUyLDcyMzYsMCwyMjk.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_11",
+        "visual_category": "Attribute",
+        "question": "In the screenshot of the system mentioned by John, there is an image. What is the color of the large button labeled 'Inventory'?",
+        "answer": "Blue",
+        "img_url": [
+            "https://mir-s3-cdn-cf.behance.net/projects/404/5566cf129921617.Y3JvcCw5MjUyLDcyMzYsMCwyMjk.jpg"
         ]
     },
     {
         "session_id": "James_John_session_11",
         "visual_category": "OCR/Text",
-        "question": "In the screenshot of the system mentioned by John, there is an image. What is the name of the software displayed?",
-        "answer": "Open Hardware Monitor",
+        "question": "In the screenshot of the system mentioned by John, there is an image. What text label is beneath the rightmost icon in the bottom navigation bar of the app screens?",
+        "answer": "Profile",
         "img_url": [
-            "https://media.sortly.com/wp-content/uploads/2022/08/12125645/all_items_table-1.png"
+            "https://mir-s3-cdn-cf.behance.net/projects/404/5566cf129921617.Y3JvcCw5MjUyLDcyMzYsMCwyMjk.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_11",
+        "session_id": "James_John_session_2",
         "visual_category": "Attribute",
-        "question": "In the screenshot of the system mentioned by John, there is an image. What is the current temperature of the CPU Package?",
-        "answer": "54.8 \u00b0C",
+        "question": "In the pic of his best buds having a blast in the park mentioned by James, there is an image. What color is the ball in the dog's mouth?",
+        "answer": "Red",
         "img_url": [
-            "https://media.sortly.com/wp-content/uploads/2022/08/12125645/all_items_table-1.png"
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_11",
-        "visual_category": "Counting",
-        "question": "In the screenshot of the system mentioned by John, there is an image. How many fan control entries are listed?",
-        "answer": "7",
+        "session_id": "James_John_session_2",
+        "visual_category": "Spatial",
+        "question": "In the pic of his best buds having a blast in the park mentioned by James, there is an image. Which side of the larger dog is the smaller dog running on?",
+        "answer": "Right side",
         "img_url": [
-            "https://media.sortly.com/wp-content/uploads/2022/08/12125645/all_items_table-1.png"
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_9",
-        "visual_category": "Counting",
-        "question": "In the spending time with my beloved pets again mentioned by James, there is an image. How many dogs are visible?",
-        "answer": "Two",
-        "img_url": [
-            "https://c8.alamy.com/comp/MA66C4/two-german-shepherds-are-playing-in-the-meadow-MA66C4.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_9",
+        "session_id": "James_John_session_2",
         "visual_category": "Attribute",
-        "question": "In the spending time with my beloved pets again mentioned by James, there is an image. What is the main color of the flattened kiddie pool?",
+        "question": "In the pic of his best buds having a blast in the park mentioned by James, there is an image. What color is the tag on the smaller dog's collar?",
+        "answer": "Red",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the picture of Daisy waiting for a treat mentioned by James, there is an image. What color is the person's sleeve holding the treat?",
+        "answer": "Red orange",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/beautiful-dog-is-waiting-his-treat_873421-72.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the picture of Daisy waiting for a treat mentioned by James, there is an image. What color is Daisy's nose?",
+        "answer": "Black",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/beautiful-dog-is-waiting-his-treat_873421-72.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_2",
+        "visual_category": "Attribute",
+        "question": "In the picture of Daisy waiting for a treat mentioned by James, there is an image. What color is the leash hanging on the person's side?",
         "answer": "Blue",
         "img_url": [
-            "https://c8.alamy.com/comp/MA66C4/two-german-shepherds-are-playing-in-the-meadow-MA66C4.jpg"
+            "https://img.freepik.com/premium-photo/beautiful-dog-is-waiting-his-treat_873421-72.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_9",
-        "visual_category": "Attribute",
-        "question": "In the spending time with my beloved pets again mentioned by James, there is an image. What covers most of the ground where the dogs are standing?",
-        "answer": "Mud",
-        "img_url": [
-            "https://c8.alamy.com/comp/MA66C4/two-german-shepherds-are-playing-in-the-meadow-MA66C4.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_9",
-        "visual_category": "Attribute",
-        "question": "In the Hawaiian pizza mentioned by John, there is an image. What color are the small sprinkled herbs on top of the pizza?",
-        "answer": "Green",
-        "img_url": [
-            "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_9",
-        "visual_category": "Attribute",
-        "question": "In the Hawaiian pizza mentioned by John, there is an image. What is the overall shape of the pizza?",
-        "answer": "Round",
-        "img_url": [
-            "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_9",
-        "visual_category": "Attribute",
-        "question": "In the Hawaiian pizza mentioned by John, there is an image. What material is the pizza resting on?",
-        "answer": "Wood",
-        "img_url": [
-            "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_16",
+        "session_id": "James_John_session_15",
         "visual_category": "Counting",
-        "question": "In the relaxation by reading mentioned by John, there is an image. How many shelves of books are visible?",
+        "question": "In the great pic mentioned by James, there is an image. How many dogs are visible?",
         "answer": "Three",
         "img_url": [
-            "https://i.redd.it/d0eoj5t4py351.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_16",
-        "visual_category": "Attribute",
-        "question": "In the imaginative worlds of authors mentioned by John, there is an image. What main design is on the dark book slipcase on the top left shelf?",
-        "answer": "An eye with a ring",
-        "img_url": [
-            "https://i.redd.it/d0eoj5t4py351.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_16",
-        "visual_category": "Counting",
-        "question": "In the fun escape from reality mentioned by John, there is an image. How many Harry Potter books are visible on the middle shelf?",
-        "answer": "Seven",
-        "img_url": [
-            "https://i.redd.it/d0eoj5t4py351.jpg"
+            "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
         ]
     },
     {
         "session_id": "James_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the great pic mentioned by James, there is an image. What color is the fur of the dog on the far left?",
+        "answer": "White",
+        "img_url": [
+            "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_15",
+        "visual_category": "Action",
+        "question": "In the great pic mentioned by James, there is an image. What is the posture of the dog in the center?",
+        "answer": "Sitting",
+        "img_url": [
+            "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the volunteering event mentioned by James, there is an image. What kind of fruits are visible in the black crate on the table?",
+        "answer": "Apples and lemons",
+        "img_url": [
+            "https://media.gettyimages.com/id/1350409084/photo/volunteers-distributing-grocery-donations.jpg?s=612x612&w=gi&k=20&c=qnp2wINS_t1U8PFG6Uu8awG9p5U2Cu4GLyhJuy05wCs="
+        ]
+    },
+    {
+        "session_id": "James_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the volunteering event mentioned by James, there is an image. What festive headwear is the woman in the center wearing?",
+        "answer": "Reindeer antlers",
+        "img_url": [
+            "https://media.gettyimages.com/id/1350409084/photo/volunteers-distributing-grocery-donations.jpg?s=612x612&w=gi&k=20&c=qnp2wINS_t1U8PFG6Uu8awG9p5U2Cu4GLyhJuy05wCs="
+        ]
+    },
+    {
+        "session_id": "James_John_session_15",
+        "visual_category": "Attribute",
+        "question": "In the volunteering event mentioned by James, there is an image. What color is the lanyard holding the ID badge of the man on the left?",
+        "answer": "Blue",
+        "img_url": [
+            "https://media.gettyimages.com/id/1350409084/photo/volunteers-distributing-grocery-donations.jpg?s=612x612&w=gi&k=20&c=qnp2wINS_t1U8PFG6Uu8awG9p5U2Cu4GLyhJuy05wCs="
+        ]
+    },
+    {
+        "session_id": "James_John_session_9",
         "visual_category": "Counting",
-        "question": "In the pic last night mentioned by James, there is an image. How many dogs are lying down on the grass?",
+        "question": "In the spending time with his beloved pets mentioned by James, there is an image. How many dogs are visible?",
         "answer": "Two",
         "img_url": [
-            "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
+            "https://i.redd.it/1go6sson1bk41.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_15",
+        "session_id": "James_John_session_9",
         "visual_category": "Attribute",
-        "question": "In the pic last night mentioned by James, there is an image. What is the primary color of the fur on the dog sitting upright?",
-        "answer": "Tan and white",
+        "question": "In the spending time with his beloved pets mentioned by James, there is an image. What color is the overturned plastic pool?",
+        "answer": "Blue",
         "img_url": [
-            "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
+            "https://i.redd.it/1go6sson1bk41.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_15",
-        "visual_category": "Attribute",
-        "question": "In the pic last night mentioned by James, there is an image. What color is the collar worn by the spotted dog?",
-        "answer": "Dark blue",
+        "session_id": "James_John_session_9",
+        "visual_category": "Action",
+        "question": "In the spending time with his beloved pets mentioned by James, there is an image. Is the black and tan dog sitting or standing?",
+        "answer": "Sitting",
         "img_url": [
-            "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
+            "https://i.redd.it/1go6sson1bk41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_9",
+        "visual_category": "Attribute",
+        "question": "In the Hawaiian pizza mentioned by John, there is an image. What is the general shape of the pineapple pieces?",
+        "answer": "Irregularly cut chunks",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_9",
+        "visual_category": "Attribute",
+        "question": "In the Hawaiian pizza mentioned by John, there is an image. Are there any green herbs sprinkled on top of the pizza?",
+        "answer": "Yes",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_9",
+        "visual_category": "Attribute",
+        "question": "In the Hawaiian pizza mentioned by John, there is an image. What is the overall color and texture of the pizza crust?",
+        "answer": "Golden brown and slightly charred",
+        "img_url": [
+            "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
         ]
     },
     {
@@ -740,7 +308,7 @@
     {
         "session_id": "James_John_session_19",
         "visual_category": "Counting",
-        "question": "In the pic mentioned by James, there is an image. How many small leather pouches are attached to the character's right side?",
+        "question": "In the pic mentioned by James, there is an image. How many pouches are visible on the character's right side?",
         "answer": "Two",
         "img_url": [
             "https://i.redd.it/p1ok9m9zkrw61.jpg"
@@ -749,7 +317,7 @@
     {
         "session_id": "James_John_session_19",
         "visual_category": "Attribute",
-        "question": "In the pic mentioned by James, there is an image. What animal head is prominently featured on the hilt of the sword?",
+        "question": "In the pic mentioned by James, there is an image. What animal head design is on the sword's hilt?",
         "answer": "Wolf",
         "img_url": [
             "https://i.redd.it/p1ok9m9zkrw61.jpg"
@@ -758,7 +326,7 @@
     {
         "session_id": "James_John_session_19",
         "visual_category": "Counting",
-        "question": "In the workplace mentioned by John, there is an image. How many hexagonal light panels are arranged on the wall?",
+        "question": "In the workplace mentioned by John, there is an image. How many hexagonal light panels are on the wall?",
         "answer": "Six",
         "img_url": [
             "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
@@ -767,17 +335,17 @@
     {
         "session_id": "James_John_session_19",
         "visual_category": "Attribute",
-        "question": "In the workplace mentioned by John, there is an image. What brand logo is visible on the lid of the open laptop?",
-        "answer": "Razer",
+        "question": "In the workplace mentioned by John, there is an image. What material does the gaming chair appear to be made of?",
+        "answer": "Fabric/Soft material",
         "img_url": [
             "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
         ]
     },
     {
         "session_id": "James_John_session_19",
-        "visual_category": "Attribute",
-        "question": "In the workplace mentioned by John, there is an image. What color are the armrests of the gaming chair?",
-        "answer": "Black",
+        "visual_category": "OCR/Text",
+        "question": "In the workplace mentioned by John, there is an image. What specific game title is displayed on the large poster on the right wall?",
+        "answer": "Destiny 2",
         "img_url": [
             "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
         ]
@@ -785,8 +353,8 @@
     {
         "session_id": "James_John_session_21",
         "visual_category": "Attribute",
-        "question": "In the playing on the console mentioned by James, there is an image. What are the colors of the primary action buttons (circle, cross, triangle, square) on the game controller?",
-        "answer": "Red, blue, green, pink",
+        "question": "In the playing on the console mentioned by James, there is an image. What colors are visible in the dog's fur?",
+        "answer": "Tan, grey, white",
         "img_url": [
             "https://i.redd.it/8nlwyc5nh6d61.jpg"
         ]
@@ -794,160 +362,25 @@
     {
         "session_id": "James_John_session_21",
         "visual_category": "Attribute",
-        "question": "In the playing on the console mentioned by James, there is an image. What is the fur pattern of the dog?",
-        "answer": "Mottled grey and tan",
+        "question": "In the playing on the console mentioned by James, there is an image. What is the primary color of the console controller?",
+        "answer": "Rose gold and black",
         "img_url": [
             "https://i.redd.it/8nlwyc5nh6d61.jpg"
         ]
     },
     {
         "session_id": "James_John_session_21",
-        "visual_category": "Attribute",
-        "question": "In the playing on the console mentioned by James, there is an image. What color is the fuzzy blanket directly covering James's lap?",
-        "answer": "Orange-brown",
-        "img_url": [
-            "https://i.redd.it/8nlwyc5nh6d61.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "OCR/Text",
-        "question": "In the adventure book mentioned by James, there is an image. What page number is displayed on the top left of the book?",
-        "answer": "78",
-        "img_url": [
-            "https://i.redd.it/2xbwn05lpc761.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Attribute",
-        "question": "In the adventure book mentioned by James, there is an image. What color are the eyes of the character depicted in the art?",
-        "answer": "Purple",
-        "img_url": [
-            "https://i.redd.it/2xbwn05lpc761.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Spatial",
-        "question": "In the adventure book mentioned by James, there is an image. Which side of the book is being held by the visible hand?",
-        "answer": "Left",
-        "img_url": [
-            "https://i.redd.it/2xbwn05lpc761.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "OCR/Text",
-        "question": "In the playing a game mentioned by James, there is an image. What name is written on the dog's purple tag?",
-        "answer": "MAGIC",
-        "img_url": [
-            "https://c8.alamy.com/comp/2F58JMP/dogs-paws-lie-on-the-game-joystick-top-view-2F58JMP.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "OCR/Text",
-        "question": "In the playing a game mentioned by James, there is an image. What refresh rate is advertised on the laptop display sticker?",
-        "answer": "240 HZ",
-        "img_url": [
-            "https://c8.alamy.com/comp/2F58JMP/dogs-paws-lie-on-the-game-joystick-top-view-2F58JMP.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Attribute",
-        "question": "In the playing a game mentioned by James, there is an image. What colors are illuminating the laptop's keyboard keys?",
-        "answer": "Blue, purple, yellow, green",
-        "img_url": [
-            "https://c8.alamy.com/comp/2F58JMP/dogs-paws-lie-on-the-game-joystick-top-view-2F58JMP.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Attribute",
-        "question": "In the some strategy games like this mentioned by James, there is an image. What is the most common color of the hexagonal land tiles on the map?",
-        "answer": "Reddish-orange",
-        "img_url": [
-            "https://i.redd.it/c15urew02q041.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "OCR/Text",
-        "question": "In the some strategy games like this mentioned by James, there is an image. What is the name displayed on the banner near the top center of the map?",
-        "answer": "Mohenjo-Daro",
-        "img_url": [
-            "https://i.redd.it/c15urew02q041.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
         "visual_category": "Counting",
-        "question": "In the some strategy games like this mentioned by James, there is an image. What is the numerical value displayed to the far right of the top interface bar?",
-        "answer": "18",
-        "img_url": [
-            "https://i.redd.it/c15urew02q041.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Counting",
-        "question": "In the high-quality turn-based strategy game mentioned by James, there is an image. How many cities have their names prominently displayed on the map?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/nbyl9ym1dpj41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Attribute",
-        "question": "In the high-quality turn-based strategy game mentioned by James, there is an image. What is the dominant terrain type visible directly north of the city of Perth?",
-        "answer": "Desert",
-        "img_url": [
-            "https://i.redd.it/nbyl9ym1dpj41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "OCR/Text",
-        "question": "In the high-quality turn-based strategy game mentioned by James, there is an image. What is the numerical value shown next to the blue flask icon near the central cluster of buildings?",
-        "answer": "+11",
-        "img_url": [
-            "https://i.redd.it/nbyl9ym1dpj41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Attribute",
-        "question": "In the strategy board games mentioned by John, there is an image. What is the dominant shape of the game board's individual tiles?",
-        "answer": "Hexagonal",
-        "img_url": [
-            "https://i.redd.it/m0vu1etdlol91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Counting",
-        "question": "In the strategy board games mentioned by John, there is an image. How many black dice are visible on the table?",
+        "question": "In the playing on the console mentioned by James, there is an image. How many distinct symbol buttons are present on the right face of the controller?",
         "answer": "Four",
         "img_url": [
-            "https://i.redd.it/m0vu1etdlol91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_8",
-        "visual_category": "Counting",
-        "question": "In the strategy board games mentioned by John, there is an image. How many distinct player boards with numerical tracks are visibly arranged around the main game board?",
-        "answer": "Three",
-        "img_url": [
-            "https://i.redd.it/m0vu1etdlol91.jpg"
+            "https://i.redd.it/8nlwyc5nh6d61.jpg"
         ]
     },
     {
         "session_id": "James_John_session_23",
         "visual_category": "Attribute",
-        "question": "In the photo mentioned by John, what color is his father's zippered sweater?",
+        "question": "In the photo mentioned by John, there is an image. What color is the quarter-zip sweater John's father is wearing?",
         "answer": "Light grey",
         "img_url": [
             "https://c0.wallpaperflare.com/preview/885/290/450/adult-coder-coding-company.jpg"
@@ -955,296 +388,26 @@
     },
     {
         "session_id": "James_John_session_23",
-        "visual_category": "Attribute",
-        "question": "In the event of his father coding his own program for the first time mentioned by John, what material is the backrest of the office chair made of?",
-        "answer": "Mesh",
+        "visual_category": "Counting",
+        "question": "In the photo mentioned by John, there is an image. How many framed items are visible on the desk in the background?",
+        "answer": "Two",
         "img_url": [
             "https://c0.wallpaperflare.com/preview/885/290/450/adult-coder-coding-company.jpg"
         ]
     },
     {
         "session_id": "James_John_session_23",
-        "visual_category": "Counting",
-        "question": "In the photo mentioned by John, how many framed pictures are visible on the wooden desk in the background?",
-        "answer": "Two",
+        "visual_category": "OCR/Text",
+        "question": "In the photo mentioned by John, there is an image. What text is visible on the blue and white sticker on the laptop?",
+        "answer": "sandwichwithgood",
         "img_url": [
             "https://c0.wallpaperflare.com/preview/885/290/450/adult-coder-coding-company.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_22",
-        "visual_category": "Attribute",
-        "question": "In the Unity strategy game mentioned by James, there is an image. Does the large creature have a nose ring?",
-        "answer": "Yes",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_22",
-        "visual_category": "Counting",
-        "question": "In the Unity strategy game mentioned by James, there is an image. How many character portraits are displayed in the bottom right user interface?",
-        "answer": "Four",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_22",
-        "visual_category": "Attribute",
-        "question": "In the Unity strategy game mentioned by James, there is an image. What type of weapon is the large creature holding?",
-        "answer": "A hammer/club",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "OCR/Text",
-        "question": "In the gaming group mentioned by James, there is an image. What is the full title of the game displayed on the large banner?",
-        "answer": "Final Fantasy XIV Online",
-        "img_url": [
-            "https://i.redd.it/xy7hyzrpdd481.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Counting",
-        "question": "In the gaming group mentioned by James, there is an image. How many distinct medals are hanging on the wall to the left of the banner?",
-        "answer": "At least 12",
-        "img_url": [
-            "https://i.redd.it/xy7hyzrpdd481.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Attribute",
-        "question": "In the gaming group mentioned by James, there is an image. What type of artificial light source is positioned to the right of the main monitor?",
-        "answer": "Ring light",
-        "img_url": [
-            "https://i.redd.it/xy7hyzrpdd481.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "OCR/Text",
-        "question": "In the new devices and refurbished my gaming desk mentioned by John, there is an image. What brand is the mouse on the desk?",
-        "answer": "Anker",
-        "img_url": [
-            "https://i.redd.it/i1x9q5nr1io51.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Counting",
-        "question": "In the new devices and refurbished my gaming desk mentioned by John, there is an image. How many pairs of headphones are visible on the gray pegboard?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/i1x9q5nr1io51.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Attribute",
-        "question": "In the new devices and refurbished my gaming desk mentioned by John, there is an image. What material is the main desk surface made of?",
-        "answer": "Wood",
-        "img_url": [
-            "https://i.redd.it/i1x9q5nr1io51.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Attribute",
-        "question": "In the gaming setup mentioned by James, there is an image. What color is the car displayed on the monitor?",
-        "answer": "Yellow",
-        "img_url": [
-            "https://i.redd.it/0rff1x0pj7u81.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "OCR/Text",
-        "question": "In the gaming gear mentioned by James, there is an image. What brand logo is visible on the gaming chair's headrest?",
-        "answer": "Razer",
-        "img_url": [
-            "https://i.redd.it/0rff1x0pj7u81.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Counting",
-        "question": "In the gaming setup mentioned by James, there is an image. How many Hot Wheels cars are visible in the box on the desk?",
-        "answer": "Four",
-        "img_url": [
-            "https://i.redd.it/0rff1x0pj7u81.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Counting",
-        "question": "In the gaming marathon mentioned by James, how many people are clearly visible wearing glasses?",
-        "answer": "Two",
-        "img_url": [
-            "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "OCR/Text",
-        "question": "In the gaming marathon mentioned by James, what website address is displayed on the banner?",
-        "answer": "NICKSMARATHON.ORG",
-        "img_url": [
-            "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_20",
-        "visual_category": "Attribute",
-        "question": "In the gaming marathon mentioned by James, what type of stuffed animal is placed on the coffee table?",
-        "answer": "Panda",
-        "img_url": [
-            "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In the intense game I played lately mentioned by John, there is an image. What colors are the squares on the physical chess board?",
-        "answer": "Blue and white",
-        "img_url": [
-            "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "OCR/Text",
-        "question": "In the intense game I played lately mentioned by John, there is an image. What brand name is visible on the smart speaker next to the laptop?",
-        "answer": "Amazon",
-        "img_url": [
-            "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In the intense game I played lately mentioned by John, there is an image. What time is currently displayed for the player at the top on the laptop screen?",
-        "answer": "35:09",
-        "img_url": [
-            "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Counting",
-        "question": "In the photo from elementary school mentioned by John, there is an image. How many boys are present in the photo?",
-        "answer": "Four",
-        "img_url": [
-            "https://i.pinimg.com/736x/4b/9d/c8/4b9dc85b7bfff4ce945a20143fd0169a.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In the photo from elementary school mentioned by John, there is an image. What is the most prominent color on the box held by the leftmost boy?",
-        "answer": "Red",
-        "img_url": [
-            "https://i.pinimg.com/736x/4b/9d/c8/4b9dc85b7bfff4ce945a20143fd0169a.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "OCR/Text",
-        "question": "In the photo from elementary school mentioned by John, there is an image. What board game title is visible on the smaller box held by the boy on the far right?",
-        "answer": "Boggle",
-        "img_url": [
-            "https://i.pinimg.com/736x/4b/9d/c8/4b9dc85b7bfff4ce945a20143fd0169a.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In this moment mentioned by James, there is an image. What color are the skateboard's wheels?",
-        "answer": "Pink",
-        "img_url": [
-            "https://i.redd.it/a2w1l6874v381.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Counting",
-        "question": "In this moment mentioned by James, there is an image. How many dogs are visible standing on the skateboard?",
-        "answer": "One",
-        "img_url": [
-            "https://i.redd.it/a2w1l6874v381.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In this moment mentioned by James, there is an image. Are the dog's ears upright or floppy?",
-        "answer": "Upright",
-        "img_url": [
-            "https://i.redd.it/a2w1l6874v381.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In the visit mentioned by James, there is an image. What color is the collar on the dog sitting on the person?",
-        "answer": "Dark gray",
-        "img_url": [
-            "https://i.redd.it/yx1qjjtxk8e91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Counting",
-        "question": "In the visit mentioned by James, there is an image. How many plant pots are visible on the black shelf?",
-        "answer": "Seven",
-        "img_url": [
-            "https://i.redd.it/yx1qjjtxk8e91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In the visit mentioned by James, there is an image. What pattern is on the person's pants?",
-        "answer": "Floral",
-        "img_url": [
-            "https://i.redd.it/yx1qjjtxk8e91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Counting",
-        "question": "In the wonderful sunset mentioned by James, there is an image. How many distinct, linear contrails are visible in the sky?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Attribute",
-        "question": "In the wonderful sunset mentioned by James, there is an image. What color is the sun disk appearing as?",
-        "answer": "Bright orange",
-        "img_url": [
-            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_17",
-        "visual_category": "Action",
-        "question": "In the wonderful sunset mentioned by James, there is an image. Is the ocean surface completely still or are there visible waves?",
-        "answer": "Visible waves",
-        "img_url": [
-            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
-        ]
-    },
-    {
         "session_id": "James_John_session_26",
         "visual_category": "OCR/Text",
-        "question": "In the cool video card mentioned by James, there is an image. What specific model name is written on the video card?",
+        "question": "In the cool video card James mentioned, there is an image. What specific model name is visible on the video card itself?",
         "answer": "GEFORCE RTX 2060",
         "img_url": [
             "https://i.redd.it/jkzfs9aawzw21.jpg"
@@ -1253,7 +416,7 @@
     {
         "session_id": "James_John_session_26",
         "visual_category": "Counting",
-        "question": "In the cool video card mentioned by James, there is an image. How many small figures are placed on the bottom surface inside the computer case?",
+        "question": "In the cool video card James mentioned, there is an image. How many individual fans are clearly visible illuminating in red light inside the PC case?",
         "answer": "Two",
         "img_url": [
             "https://i.redd.it/jkzfs9aawzw21.jpg"
@@ -1262,206 +425,665 @@
     {
         "session_id": "James_John_session_26",
         "visual_category": "Attribute",
-        "question": "In the cool video card mentioned by James, there is an image. What color is the light emanating from the large circular fan on the upper left?",
-        "answer": "Red",
+        "question": "In the cool video card James mentioned, there is an image. What kind of animal's head is prominently featured in the illuminated emblem on the top surface of the video card?",
+        "answer": "Wolf",
         "img_url": [
             "https://i.redd.it/jkzfs9aawzw21.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_27",
-        "visual_category": "Attribute",
-        "question": "In the online comp mentioned by John, there is an image. What color light is cast on the wall by the lamp on the left side of the desk?",
-        "answer": "Yellow",
-        "img_url": [
-            "https://www.cloudfest.com/blog/wp-content/uploads/hackathon-contest-programmers.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_27",
+        "session_id": "James_John_session_5",
         "visual_category": "Counting",
-        "question": "In the online comp mentioned by John, there is an image. How many external speakers are placed on the desk?",
+        "question": "In the pup's adoption mentioned by James, there is an image. How many dogs are present in the image?",
         "answer": "Two",
         "img_url": [
-            "https://www.cloudfest.com/blog/wp-content/uploads/hackathon-contest-programmers.jpg"
+            "https://cdn.shopify.com/s/files/1/0624/9512/9787/files/b7d0234c78c382f9d9fc42142115a987.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_27",
+        "session_id": "James_John_session_5",
         "visual_category": "Attribute",
-        "question": "In the online comp mentioned by John, there is an image. What colors are the string lights wrapped around the monitor?",
-        "answer": "Warm white",
+        "question": "In the pup's adoption mentioned by James, there is an image. What is the pattern on the larger, elevated dog bed in the background?",
+        "answer": "Horizontal black stripes",
         "img_url": [
-            "https://www.cloudfest.com/blog/wp-content/uploads/hackathon-contest-programmers.jpg"
+            "https://cdn.shopify.com/s/files/1/0624/9512/9787/files/b7d0234c78c382f9d9fc42142115a987.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_27",
+        "session_id": "James_John_session_5",
         "visual_category": "Attribute",
-        "question": "In the first game mentioned by James, there is an image. What color is the hair of the person sitting on the throne?",
-        "answer": "Blonde",
+        "question": "In the pup's adoption mentioned by James, there is an image. What is the visible texture of the lighter colored rug next to the dog bed?",
+        "answer": "Shaggy/looped",
         "img_url": [
-            "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
+            "https://cdn.shopify.com/s/files/1/0624/9512/9787/files/b7d0234c78c382f9d9fc42142115a987.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_27",
-        "visual_category": "Counting",
-        "question": "In the first game mentioned by James, there is an image. How many dragons are clearly visible in the scene?",
-        "answer": "Three",
-        "img_url": [
-            "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
-        ]
-    },
-    {
-        "session_id": "James_John_session_27",
-        "visual_category": "Action",
-        "question": "In the first game mentioned by James, there is an image. What appears to be falling from the dark sky?",
-        "answer": "Snow",
-        "img_url": [
-            "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
-        ]
-    },
-    {
-        "session_id": "James_John_session_29",
+        "session_id": "James_John_session_5",
         "visual_category": "Attribute",
-        "question": "In the tournament mentioned by John, there is an image. What color borders the left game item display panel?",
-        "answer": "Green",
+        "question": "In the futuristic dystopia mentioned by John, there is an image. What are the two main colors of light illuminating the city buildings?",
+        "answer": "Pink/red and blue",
         "img_url": [
-            "https://img.freepik.com/premium-photo/set-up-charity-gaming-tournament-wallpaper_987764-45444.jpg?w=1380"
+            "https://i.redd.it/941ph75y0yb91.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_29",
+        "session_id": "James_John_session_5",
         "visual_category": "OCR/Text",
-        "question": "In the tournament mentioned by John, there is an image. What is the title of the item displayed on the right panel?",
-        "answer": "ONE-EYE'S REVENGE",
+        "question": "In the futuristic dystopia mentioned by John, there is an image. Can any specific text, like a company name or number, be clearly read on any of the taller buildings?",
+        "answer": "Yes, 'COMCAST' and '2363'",
         "img_url": [
-            "https://img.freepik.com/premium-photo/set-up-charity-gaming-tournament-wallpaper_987764-45444.jpg?w=1380"
+            "https://i.redd.it/941ph75y0yb91.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_29",
+        "session_id": "James_John_session_5",
+        "visual_category": "Spatial",
+        "question": "In the futuristic dystopia mentioned by John, there is an image. In which general direction from the center of the image is the tallest, primarily blue-lit skyscraper located?",
+        "answer": "Upper right",
+        "img_url": [
+            "https://i.redd.it/941ph75y0yb91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_5",
+        "visual_category": "OCR/Text",
+        "question": "In the error mentioned by John, there is an image. What is the primary word displayed at the top of the pop-up message?",
+        "answer": "Error",
+        "img_url": [
+            "https://i.redd.it/xu1i4gjzg6jb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_5",
+        "visual_category": "Attribute",
+        "question": "In the error mentioned by John, there is an image. What type of large architectural structure dominates the middle background of the game's loading screen?",
+        "answer": "Castle",
+        "img_url": [
+            "https://i.redd.it/xu1i4gjzg6jb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_5",
         "visual_category": "Counting",
-        "question": "In the tournament mentioned by John, there is an image. How many skull icons with laurel wreaths are visible on the game interface?",
+        "question": "In the error mentioned by John, there is an image. How many boats are visible on the water in the game's background?",
         "answer": "Two",
         "img_url": [
-            "https://img.freepik.com/premium-photo/set-up-charity-gaming-tournament-wallpaper_987764-45444.jpg?w=1380"
+            "https://i.redd.it/xu1i4gjzg6jb1.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the learning this instrument mentioned by James, there is an image. What is the primary color of the instrument?",
+        "answer": "Reddish-brown",
+        "img_url": [
+            "https://thumbs.dreamstime.com/z/great-closeup-view-person-sitting-practicing-cello-musical-old-vintage-instrument-fragment-studio-room-54514239.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_3",
         "visual_category": "Counting",
-        "question": "In the board games mentioned by John, there is an image. How many light brown block structures are placed on the green game board?",
+        "question": "In the learning this instrument mentioned by James, there is an image. How many strings are visible on the instrument?",
         "answer": "Four",
         "img_url": [
-            "https://i.redd.it/eqfmcyv9b2t91.jpg"
+            "https://thumbs.dreamstime.com/z/great-closeup-view-person-sitting-practicing-cello-musical-old-vintage-instrument-fragment-studio-room-54514239.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
-        "visual_category": "OCR/Text",
-        "question": "In the board games mentioned by John, there is an image. What video game title is displayed on the iPad screen?",
-        "answer": "Mario + Rabbids",
-        "img_url": [
-            "https://i.redd.it/eqfmcyv9b2t91.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_3",
         "visual_category": "Attribute",
-        "question": "In the board games mentioned by John, there is an image. What color is the baseball cap with the 'M' logo?",
-        "answer": "Red",
+        "question": "In the learning this instrument mentioned by James, there is an image. What color is the shirt worn by the person playing?",
+        "answer": "White",
         "img_url": [
-            "https://i.redd.it/eqfmcyv9b2t91.jpg"
+            "https://thumbs.dreamstime.com/z/great-closeup-view-person-sitting-practicing-cello-musical-old-vintage-instrument-fragment-studio-room-54514239.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
-        "visual_category": "Attribute",
-        "question": "In the notebook mentioned by James, there is an image. What kind of grid pattern do the pages have?",
-        "answer": "Dotted grid",
-        "img_url": [
-            "https://i.redd.it/pa728lrin0081.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_24",
-        "visual_category": "Attribute",
-        "question": "In the notebook mentioned by James, there is an image. What is the prominent color of the pencil case behind the notebook?",
-        "answer": "Lime green",
-        "img_url": [
-            "https://i.redd.it/pa728lrin0081.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_3",
         "visual_category": "Counting",
-        "question": "In the notebook mentioned by James, there is an image. How many distinct items are clearly visible in the background, apart from the notebook itself?",
+        "question": "In the pic of my set mentioned by John, there is an image. How many cymbals are visible in total?",
+        "answer": "9",
+        "img_url": [
+            "https://i.redd.it/ky9jybgp0bi91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the pic of my set mentioned by John, there is an image. What color is the main seat cushion of the drum stool?",
+        "answer": "Red/Maroon",
+        "img_url": [
+            "https://i.redd.it/ky9jybgp0bi91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the pic of my set mentioned by John, there is an image. What brand name is visible on the black electronic device near the top right?",
+        "answer": "Yamaha",
+        "img_url": [
+            "https://i.redd.it/ky9jybgp0bi91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_3",
+        "visual_category": "Attribute",
+        "question": "In the gaming convention mentioned by John, there is an image. What character is depicted on the large yellow banner?",
+        "answer": "Yoda",
+        "img_url": [
+            "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the gaming convention mentioned by John, there is an image. What gaming brand name is visible on the prominent blue display in the upper left?",
+        "answer": "PlayStation",
+        "img_url": [
+            "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the gaming convention mentioned by John, there is an image. What is the name of the store with shelves full of items, visible on the upper right side of the hall?",
+        "answer": "fnac",
+        "img_url": [
+            "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "Counting",
+        "question": "In the game mod example mentioned by James, there is an image. How many characters are on the bridge?",
         "answer": "Three",
         "img_url": [
-            "https://i.redd.it/pa728lrin0081.jpg"
+            "https://i.redd.it/gjudms7o1o881.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_1",
         "visual_category": "Attribute",
-        "question": "In the some sketches and notes mentioned by James, there is an image. What color is the guitar outline drawing?",
-        "answer": "Purple",
+        "question": "In the game mod example mentioned by James, there is an image. What item is the character in the middle holding?",
+        "answer": "A torch",
         "img_url": [
-            "https://www.andrewwkmusic.com/wp-content/uploads/2020/12/0077.jpg"
+            "https://i.redd.it/gjudms7o1o881.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_1",
         "visual_category": "OCR/Text",
-        "question": "In the some sketches and notes mentioned by James, there is an image. What date is written on the bottom right of the page?",
-        "answer": "12/18/99",
+        "question": "In the game mod example mentioned by James, there is an image. What brand name is visible on the webcam above the monitor?",
+        "answer": "Logitech",
         "img_url": [
-            "https://www.andrewwkmusic.com/wp-content/uploads/2020/12/0077.jpg"
+            "https://i.redd.it/gjudms7o1o881.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_1",
+        "visual_category": "Attribute",
+        "question": "In the dogs mentioned by James, there is an image. What color and pattern is the leash attached to the dog that is lying down?",
+        "answer": "Bright blue with white dots",
+        "img_url": [
+            "https://i.redd.it/gbmnyrqwbde91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "Action",
+        "question": "In the dogs mentioned by James, there is an image. What is the dog in the foreground doing?",
+        "answer": "Lying down with tongue out",
+        "img_url": [
+            "https://i.redd.it/gbmnyrqwbde91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
         "visual_category": "Counting",
-        "question": "In the some sketches and notes mentioned by James, there is an image. How many lines underline the title 'ALL WAYS BE BOTH'?",
+        "question": "In the dogs mentioned by James, there is an image. How many dogs are clearly visible?",
         "answer": "Two",
         "img_url": [
-            "https://www.andrewwkmusic.com/wp-content/uploads/2020/12/0077.jpg"
+            "https://i.redd.it/gbmnyrqwbde91.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
-        "visual_category": "OCR/Text",
-        "question": "In James's statement about music being a big part of his life, there is an image. What brand is the microphone on his desk?",
-        "answer": "DEVINE",
-        "img_url": [
-            "https://i.redd.it/m5s2y1kxhcnb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_1",
         "visual_category": "Attribute",
-        "question": "In James's statement about music being a big part of his life, there is an image. What color are the ear pads of the headphones?",
+        "question": "In the notebook mentioned by James, what type of binding does it have?",
+        "answer": "Spiral",
+        "img_url": [
+            "https://i.redd.it/lsebjnbguz881.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "Counting",
+        "question": "In the notebook mentioned by James, how many 'DAILY BASICS' are listed on the page?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.redd.it/lsebjnbguz881.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "OCR/Text",
+        "question": "In the notebook mentioned by James, what month is indicated on the orange tab?",
+        "answer": "Jan",
+        "img_url": [
+            "https://i.redd.it/lsebjnbguz881.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "Attribute",
+        "question": "In the sketches of the main character mentioned by James, there is an image. What is the character's facial expression?",
+        "answer": "Serious",
+        "img_url": [
+            "https://i.redd.it/e48of6zqmmi71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "Attribute",
+        "question": "In the sketches of the main character mentioned by James, there is an image. What distinct symbol is visible on the character's shield?",
+        "answer": "A triangular symbol",
+        "img_url": [
+            "https://i.redd.it/e48of6zqmmi71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_1",
+        "visual_category": "Spatial",
+        "question": "In the sketches of the main character mentioned by James, there is an image. Is there any additional symbol drawn in the upper left corner of the paper?",
+        "answer": "Yes, a winged symbol",
+        "img_url": [
+            "https://i.redd.it/e48of6zqmmi71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the online comp mentioned by John, there is an image. How many studio monitors are present on the desk setup?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/zkrnzupfyy9b1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the online comp mentioned by John, there is an image. What color is the ESC key on the mechanical keyboard?",
         "answer": "Red",
         "img_url": [
-            "https://i.redd.it/m5s2y1kxhcnb1.jpg"
+            "https://i.redd.it/zkrnzupfyy9b1.jpg"
         ]
     },
     {
-        "session_id": "James_John_session_24",
+        "session_id": "James_John_session_27",
         "visual_category": "Attribute",
-        "question": "In James's statement about music being a big part of his life, there is an image. Is the blue indicator light on the Steinberg audio interface illuminated?",
+        "question": "In the online comp mentioned by John, there is an image. Is the desk lamp on the right side of the desk currently illuminated?",
+        "answer": "No",
+        "img_url": [
+            "https://i.redd.it/zkrnzupfyy9b1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_27",
+        "visual_category": "Counting",
+        "question": "In the first game mentioned by James, there is an image. How many dragons are clearly depicted around the central figure?",
+        "answer": "Three",
+        "img_url": [
+            "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
+        ]
+    },
+    {
+        "session_id": "James_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the first game mentioned by James, there is an image. What distinctive objects appear to form the main structure of the throne?",
+        "answer": "Swords",
+        "img_url": [
+            "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
+        ]
+    },
+    {
+        "session_id": "James_John_session_27",
+        "visual_category": "Attribute",
+        "question": "In the first game mentioned by James, there is an image. What color is the eye of the dragon visible in the foreground on the left?",
+        "answer": "Red",
+        "img_url": [
+            "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
+        ]
+    },
+    {
+        "session_id": "James_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the Unity strategy game mentioned by James, there is an image. What piercing does the creature have on its face?",
+        "answer": "A nose ring",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the Unity strategy game mentioned by James, there is an image. What is growing on the stone blocks of the dungeon walls?",
+        "answer": "Moss",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the Unity strategy game mentioned by James, there is an image. How many distinct character portraits are visible in the user interface at the bottom right?",
+        "answer": "Four",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_22",
+        "visual_category": "Counting",
+        "question": "In the screenshot mentioned by James, there is an image. How many fighter jets are visible in the sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/414361283/original/940bbd1947e38595df6626846844dd5c7ddb7d7f/develop-strategy-games-for-mobile-and-pc-in-unity-3d.png"
+        ]
+    },
+    {
+        "session_id": "James_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the screenshot mentioned by James, there is an image. What color is the large creature unit on the right side of the image?",
+        "answer": "Brown",
+        "img_url": [
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/414361283/original/940bbd1947e38595df6626846844dd5c7ddb7d7f/develop-strategy-games-for-mobile-and-pc-in-unity-3d.png"
+        ]
+    },
+    {
+        "session_id": "James_John_session_22",
+        "visual_category": "Attribute",
+        "question": "In the screenshot mentioned by James, there is an image. What color are the circular target markers on the ground?",
+        "answer": "Red",
+        "img_url": [
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/414361283/original/940bbd1947e38595df6626846844dd5c7ddb7d7f/develop-strategy-games-for-mobile-and-pc-in-unity-3d.png"
+        ]
+    },
+    {
+        "session_id": "James_John_session_29",
+        "visual_category": "Counting",
+        "question": "In the tournament mentioned by John, there is an image. How many unique player names are shown on the large red screen?",
+        "answer": "Five",
+        "img_url": [
+            "https://sm.pcmag.com/t/pcmag_uk/photo/c/call-of-du/call-of-duty-championship_z9yu.1920.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_29",
+        "visual_category": "OCR/Text",
+        "question": "In the tournament mentioned by John, there is an image. Which gaming console's logo is displayed on the prominent blue banner?",
+        "answer": "PS4",
+        "img_url": [
+            "https://sm.pcmag.com/t/pcmag_uk/photo/c/call-of-du/call-of-duty-championship_z9yu.1920.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_29",
+        "visual_category": "Attribute",
+        "question": "In the tournament mentioned by John, there is an image. What color are the lights illuminating the main stage area from above?",
+        "answer": "Blue",
+        "img_url": [
+            "https://sm.pcmag.com/t/pcmag_uk/photo/c/call-of-du/call-of-duty-championship_z9yu.1920.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the game character I created mentioned by James, there is an image. What color are the character's eyes?",
+        "answer": "Purple",
+        "img_url": [
+            "https://rare-gallery.com/uploads/posts/1084069-portrait-fashion-The-Witcher-3-Wild-Hunt-Yennefer-of-Vengerberg-darkness-screenshot.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the game character I created mentioned by James, there is an image. What color is the choker around the character's neck?",
+        "answer": "Black",
+        "img_url": [
+            "https://rare-gallery.com/uploads/posts/1084069-portrait-fashion-The-Witcher-3-Wild-Hunt-Yennefer-of-Vengerberg-darkness-screenshot.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Counting",
+        "question": "In the game character I created mentioned by James, there is an image. How many buttons are visible on the front of the character's jacket?",
+        "answer": "Three",
+        "img_url": [
+            "https://rare-gallery.com/uploads/posts/1084069-portrait-fashion-The-Witcher-3-Wild-Hunt-Yennefer-of-Vengerberg-darkness-screenshot.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the calming view mentioned by John, there is an image. What is the predominant color of the canyon walls?",
+        "answer": "Reddish-brown and grey",
+        "img_url": [
+            "https://i.redd.it/emrf986oa7bb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Counting",
+        "question": "In the canyon John found, there is an image. How many distinct river branches are visible in the main flow?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/emrf986oa7bb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the calming view mentioned by John, there is an image. Is a bridge visible crossing the river?",
         "answer": "Yes",
         "img_url": [
-            "https://i.redd.it/m5s2y1kxhcnb1.jpg"
+            "https://i.redd.it/emrf986oa7bb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Counting",
+        "question": "In the Japan mentioned by John, there is an image. How many white taxis are clearly visible on the right side of the road?",
+        "answer": "Two",
+        "img_url": [
+            "https://wallpaperaccess.com/full/1278.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "Attribute",
+        "question": "In the Japan mentioned by John, there is an image. What is the dominant color of the overhead bridge structure?",
+        "answer": "Green",
+        "img_url": [
+            "https://wallpaperaccess.com/full/1278.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_6",
+        "visual_category": "OCR/Text",
+        "question": "In the Japan mentioned by John, there is an image. What word is prominently displayed on the blue building sign in the background?",
+        "answer": "AOKI",
+        "img_url": [
+            "https://wallpaperaccess.com/full/1278.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_30",
+        "visual_category": "Counting",
+        "question": "In the helpful resource for chess openings mentioned by John, there is an image. How many squares on the chessboard are highlighted in green?",
+        "answer": "Two",
+        "img_url": [
+            "http://cdn3.bigcommerce.com/s-4zsly/product_images/uploaded_images/strategy-1.jpg?t=1430437110"
+        ]
+    },
+    {
+        "session_id": "James_John_session_30",
+        "visual_category": "Attribute",
+        "question": "In the helpful resource for chess openings mentioned by John, there is an image. What color are the chess pieces on the top row?",
+        "answer": "Black",
+        "img_url": [
+            "http://cdn3.bigcommerce.com/s-4zsly/product_images/uploaded_images/strategy-1.jpg?t=1430437110"
+        ]
+    },
+    {
+        "session_id": "James_John_session_30",
+        "visual_category": "Spatial",
+        "question": "In the helpful resource for chess openings mentioned by John, there is an image. What type of white chess piece is positioned immediately to the right of the white king?",
+        "answer": "Bishop",
+        "img_url": [
+            "http://cdn3.bigcommerce.com/s-4zsly/product_images/uploaded_images/strategy-1.jpg?t=1430437110"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the adventure book with fantasy novels and cool arts mentioned by James, there is an image. What color are the eyes of the woman depicted in the illustration?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.redd.it/2xbwn05lpc761.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the adventure book with fantasy novels and cool arts mentioned by James, there is an image. What page number is visible at the top right of the open book?",
+        "answer": "78",
+        "img_url": [
+            "https://i.redd.it/2xbwn05lpc761.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the adventure book with fantasy novels and cool arts mentioned by James, there is an image. What kind of accessory is the woman wearing around her neck?",
+        "answer": "A glowing pendant necklace",
+        "img_url": [
+            "https://i.redd.it/2xbwn05lpc761.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "OCR/Text",
+        "question": "In the playing a game mentioned by James, there is an image. What item is listed as \"1/1\" on the laptop screen?",
+        "answer": "Intact Makrura Eye",
+        "img_url": [
+            "https://i.redd.it/qjblw3fb7hnb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the faithful furry friend Daisy mentioned by James, there is an image. What color is the dog's bone-shaped collar tag?",
+        "answer": "Purple",
+        "img_url": [
+            "https://i.redd.it/qjblw3fb7hnb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the faithful furry friend Daisy mentioned by James, there is an image. Are the dog's eyes open or closed?",
+        "answer": "Closed",
+        "img_url": [
+            "https://i.redd.it/qjblw3fb7hnb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the some strategy games like this mentioned by James, there is an image. How many cities are explicitly named on the map?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/c15urew02q041.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the some strategy games like this mentioned by James, there is an image. What color is the main part of the character's tunic in the bottom right corner?",
+        "answer": "Green",
+        "img_url": [
+            "https://i.redd.it/c15urew02q041.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the some strategy games like this mentioned by James, there is an image. What number is displayed next to the skull icon in the top information bar?",
+        "answer": "18",
+        "img_url": [
+            "https://i.redd.it/c15urew02q041.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the high-quality turn-based strategy game mentioned by James, there is an image. How many distinct blue flask icons are visible on the map?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/nbyl9ym1dpj41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the high-quality turn-based strategy game mentioned by James, there is an image. What color are the roofs of the main central city buildings?",
+        "answer": "Blue",
+        "img_url": [
+            "https://i.redd.it/nbyl9ym1dpj41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Spatial",
+        "question": "In the high-quality turn-based strategy game mentioned by James, there is an image. Which of the two clearly labeled cities, Perth or Brisbane, is situated higher on the map?",
+        "answer": "Perth",
+        "img_url": [
+            "https://i.redd.it/nbyl9ym1dpj41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Attribute",
+        "question": "In the strategy board games mentioned by John, there is an image. What color are the small plastic components in the clear bag near the bottom left?",
+        "answer": "Transparent",
+        "img_url": [
+            "https://i.redd.it/m0vu1etdlol91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Counting",
+        "question": "In the strategy board games mentioned by John, there is an image. How many distinct colors of miniature playing pieces are currently placed directly on the main hexagonal game board?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/m0vu1etdlol91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_8",
+        "visual_category": "Spatial",
+        "question": "In the strategy board games mentioned by John, there is an image. Where are the orange miniature pieces located relative to the main game board?",
+        "answer": "In a bag, right of the board",
+        "img_url": [
+            "https://i.redd.it/m0vu1etdlol91.jpg"
         ]
     },
     {
         "session_id": "James_John_session_28",
         "visual_category": "Attribute",
         "question": "In the visit mentioned by James, there is an image. What color is the dog's fur?",
-        "answer": "Light brown",
+        "answer": "Golden brown",
         "img_url": [
             "https://api.army.mil/e2/c/images/2022/04/11/bcd7991a/original.jpg"
         ]
@@ -1469,7 +1091,7 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "OCR/Text",
-        "question": "In the mother and army friend's visit mentioned by James, there is an image. What name is visible on the army friend's uniform?",
+        "question": "In the mention of her army friend by James, there is an image. What name is visible on the army uniform?",
         "answer": "WILLIAMS",
         "img_url": [
             "https://api.army.mil/e2/c/images/2022/04/11/bcd7991a/original.jpg"
@@ -1478,7 +1100,7 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "Counting",
-        "question": "In the visit mentioned by James, there is an image. How many windows are visible on the closest building?",
+        "question": "In the visit mentioned by James, there is an image. How many windows are visible on the front of the main building?",
         "answer": "One",
         "img_url": [
             "https://api.army.mil/e2/c/images/2022/04/11/bcd7991a/original.jpg"
@@ -1487,8 +1109,8 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "Attribute",
-        "question": "In the console mentioned by James, there is an image. What is the color of the console?",
-        "answer": "Green and translucent",
+        "question": "In the console mentioned by James, there is an image. What color is the console itself?",
+        "answer": "Green",
         "img_url": [
             "https://i.redd.it/lto5hiavrmz21.jpg"
         ]
@@ -1496,7 +1118,7 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "OCR/Text",
-        "question": "In the game Mario mentioned by James, there is an image. What text is visible below Mario's face on the TV screen?",
+        "question": "In the game Mario mentioned by James, there is an image. What text is displayed below Mario's face on the TV screen?",
         "answer": "PRESS START",
         "img_url": [
             "https://i.redd.it/lto5hiavrmz21.jpg"
@@ -1505,7 +1127,7 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "Counting",
-        "question": "In the funny gamepad mentioned by James, there is an image. How many yellow buttons are visible on the gamepad?",
+        "question": "In the funny gamepad mentioned by James, there is an image. How many distinct orange buttons are visible on the gamepad?",
         "answer": "Four",
         "img_url": [
             "https://i.redd.it/lto5hiavrmz21.jpg"
@@ -1514,17 +1136,8 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "Attribute",
-        "question": "In the discussion about choices mentioned by John, there is an image. What color are the character's pants?",
-        "answer": "Red",
-        "img_url": [
-            "https://i.redd.it/1pegm3i0hs561.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_28",
-        "visual_category": "OCR/Text",
-        "question": "In the discussion about choices mentioned by John, there is an image. What letter is shown inside the blue square on the user interface?",
-        "answer": "F",
+        "question": "In the choice of lines in dialogues mentioned by John, there is an image. What is the primary color of the character's belt buckle?",
+        "answer": "Silver/Metallic",
         "img_url": [
             "https://i.redd.it/1pegm3i0hs561.jpg"
         ]
@@ -1532,17 +1145,548 @@
     {
         "session_id": "James_John_session_28",
         "visual_category": "Attribute",
-        "question": "In the discussion about choices mentioned by John, there is an image. What is the pattern of the metal structure visible in the background on the right?",
-        "answer": "Diamond mesh",
+        "question": "In the choice of lines in dialogues mentioned by John, there is an image. What geometric shape forms the pattern of the grid visible in the background?",
+        "answer": "Diamonds",
         "img_url": [
             "https://i.redd.it/1pegm3i0hs561.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_28",
+        "visual_category": "Counting",
+        "question": "In the choice of lines in dialogues mentioned by John, there is an image. How many dark, round buttons are visible on the character's vest?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/1pegm3i0hs561.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the gaming group mentioned by James, there is an image. What color is the ring light?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/xy7hyzrpdd481.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the game sessions mentioned by James, there is an image. How many medals are clearly visible on the wall?",
+        "answer": "Seventeen",
+        "img_url": [
+            "https://i.redd.it/xy7hyzrpdd481.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Spatial",
+        "question": "In the gaming group mentioned by James, there is an image. In relation to the person in the left gaming chair, where is the Final Fantasy XIV banner positioned?",
+        "answer": "To their right and front",
+        "img_url": [
+            "https://i.redd.it/xy7hyzrpdd481.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the refurbished gaming desk mentioned by John, there is an image. What color is the main surface of the desk?",
+        "answer": "Brown wood",
+        "img_url": [
+            "https://i.redd.it/i1x9q5nr1io51.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the new devices mentioned by John, there is an image. How many monitors are placed on the gaming desk?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/i1x9q5nr1io51.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the new devices mentioned by John, there is an image. What brand name is visible on the keyboard?",
+        "answer": "DURGOD",
+        "img_url": [
+            "https://i.redd.it/i1x9q5nr1io51.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the setup with gaming gear mentioned by James, there is an image. What specific type of vehicle is displayed on the main monitor?",
+        "answer": "Yellow Honda Civic Type R",
+        "img_url": [
+            "https://i.redd.it/0rff1x0pj7u81.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Attribute",
+        "question": "In the setup with gaming gear mentioned by James, there is an image. What brand logo is visible on the gaming chair?",
+        "answer": "Razer",
+        "img_url": [
+            "https://i.redd.it/0rff1x0pj7u81.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Other",
+        "question": "In the setup with gaming gear mentioned by James, there is an image. Is a virtual reality headset visible on the desk?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/0rff1x0pj7u81.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the gaming marathon mentioned by James, there is an image. What is the name of the marathon displayed on the banner?",
+        "answer": "Nick's Marathon",
+        "img_url": [
+            "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "Counting",
+        "question": "In the gaming marathon mentioned by James, there is an image. How many white Xbox-style controllers are on the coffee table?",
+        "answer": "Two",
+        "img_url": [
+            "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_20",
+        "visual_category": "OCR/Text",
+        "question": "In the gaming marathon mentioned by James, there is an image. What band name is written on the boy's red t-shirt?",
+        "answer": "Ramones",
+        "img_url": [
+            "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "OCR/Text",
+        "question": "In the intense game mentioned by John, there is an image. What brand name is visible on the speaker next to the laptop?",
+        "answer": "Amazon",
+        "img_url": [
+            "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the intense game mentioned by John, there is an image. What are the two colors of the squares on the physical chessboard?",
+        "answer": "Blue and white",
+        "img_url": [
+            "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the intense game mentioned by John, there is an image. How many yellow pawns are currently on the physical chessboard?",
+        "answer": "Six",
+        "img_url": [
+            "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the photo from elementary school mentioned by John, what graphic is visible on the left-most boy's shirt?",
+        "answer": "A blue bus",
+        "img_url": [
+            "https://s-media-cache-ak0.pinimg.com/originals/c3/74/24/c374246a38acc969b652e73560af2d83.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the photo from elementary school mentioned by John, how many skateboards are visible in total?",
+        "answer": "Four",
+        "img_url": [
+            "https://s-media-cache-ak0.pinimg.com/originals/c3/74/24/c374246a38acc969b652e73560af2d83.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the photo from elementary school mentioned by John, what material is the wall behind the boys made of?",
+        "answer": "Cinder blocks",
+        "img_url": [
+            "https://s-media-cache-ak0.pinimg.com/originals/c3/74/24/c374246a38acc969b652e73560af2d83.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the moment James remembers, there is an image. What color are the skateboard's wheels?",
+        "answer": "Pink",
+        "img_url": [
+            "https://i.redd.it/a2w1l6874v381.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the moment James remembers, there is an image. What is the dominant color of the dog's fur?",
+        "answer": "Tan",
+        "img_url": [
+            "https://i.redd.it/a2w1l6874v381.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the moment James remembers, there is an image. How many dogs are currently standing on the skateboard?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/a2w1l6874v381.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the visit mentioned by James, there is an image. How many dogs are lying on or next to James?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/yx1qjjtxk8e91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the visit mentioned by James, there is an image. What pattern is visible on James's pants?",
+        "answer": "Floral pattern",
+        "img_url": [
+            "https://i.redd.it/yx1qjjtxk8e91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the visit mentioned by James, there is an image. What color scheme is the framed picture on the wall?",
+        "answer": "Black and white",
+        "img_url": [
+            "https://i.redd.it/yx1qjjtxk8e91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the wonderful sunset mentioned by James, there is an image. What colors are reflected on the upper clouds?",
+        "answer": "Light orange and grey",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Counting",
+        "question": "In the wonderful sunset mentioned by James, there is an image. How many distinct white contrails are visible in the upper sky?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_17",
+        "visual_category": "Attribute",
+        "question": "In the wonderful sunset mentioned by James, there is an image. Is the entire disc of the sun clearly visible above the ocean horizon?",
+        "answer": "No, partially obscured",
+        "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Counting",
+        "question": "In the online gaming tournament mentioned by James, there is an image. How many individuals are visible in the photo?",
+        "answer": "5",
+        "img_url": [
+            "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Attribute",
+        "question": "In the online gaming tournament mentioned by James, there is an image. Do any of the children in the front row have visible gaps in their front teeth?",
+        "answer": "Yes, two children",
+        "img_url": [
+            "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Attribute",
+        "question": "In the online gaming tournament mentioned by James, there is an image. What color are the frames of the glasses worn by the girl on the left?",
+        "answer": "Blue and purple",
+        "img_url": [
+            "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Counting",
+        "question": "In the screenshot of my character mentioned by James, there is an image. How many arrows are stuck in the character's right arm?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/zk7j8z2ik3l71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the screenshot of my character mentioned by James, there is an image. What word is displayed at the top of the screen?",
+        "answer": "PAUSED",
+        "img_url": [
+            "https://i.redd.it/zk7j8z2ik3l71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Attribute",
+        "question": "In the screenshot of my character mentioned by James, there is an image. What color is the character's head covering?",
+        "answer": "Light blue/grey",
+        "img_url": [
+            "https://i.redd.it/zk7j8z2ik3l71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the autograph sessions mentioned by James, there is an image. What is the date listed for the event?",
+        "answer": "June 12, 2009",
+        "img_url": [
+            "https://auctioneersoftware.s3.amazonaws.com/jmff/0/2022/9/medium/ca13775c2013064e959a014c58ae2b34.jpeg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Counting",
+        "question": "In the autographs mentioned by James, there is an image. How many distinct college team logos are visible at the bottom of the poster?",
+        "answer": "Eight",
+        "img_url": [
+            "https://auctioneersoftware.s3.amazonaws.com/jmff/0/2022/9/medium/ca13775c2013064e959a014c58ae2b34.jpeg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the autograph sessions mentioned by James, there is an image. What is the name of the stadium listed on the poster?",
+        "answer": "Johnny Rosenblatt Stadium",
+        "img_url": [
+            "https://auctioneersoftware.s3.amazonaws.com/jmff/0/2022/9/medium/ca13775c2013064e959a014c58ae2b34.jpeg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Attribute",
+        "question": "In the screenshot of us playing mentioned by James, what color is the 'PLAY' button?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/4zewk2444ag71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the screenshot of us playing mentioned by James, what Roman numeral is displayed on the rank badge of the character on the left?",
+        "answer": "III",
+        "img_url": [
+            "https://i.redd.it/4zewk2444ag71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "Spatial",
+        "question": "In the screenshot of us playing mentioned by James, is a mouse cursor visible on the game screen?",
+        "answer": "Yes",
+        "img_url": [
+            "https://i.redd.it/4zewk2444ag71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the new games mentioned by James, there is an image. What is the age rating displayed on the game box?",
+        "answer": "16",
+        "img_url": [
+            "https://i.redd.it/bwoh4be8d3m41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the new games mentioned by James, there is an image. What specific edition of the game is advertised on the top right of the box?",
+        "answer": "Special Edition",
+        "img_url": [
+            "https://i.redd.it/bwoh4be8d3m41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_4",
+        "visual_category": "OCR/Text",
+        "question": "In the new games mentioned by James, there is an image. What is the full title of the game visible on the box?",
+        "answer": "Pathfinder Kingmaker",
+        "img_url": [
+            "https://i.redd.it/bwoh4be8d3m41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the board games mentioned by John, there is an image. How many white cardboard tubes are visible on the green mat?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/eqfmcyv9b2t91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the board games mentioned by John, there is an image. What is the title of the game displayed on the iPad screen?",
+        "answer": "Mario + Rabbids",
+        "img_url": [
+            "https://i.redd.it/eqfmcyv9b2t91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the board games mentioned by John, there is an image. What color is the 'M' logo on the red cap?",
+        "answer": "White",
+        "img_url": [
+            "https://i.redd.it/eqfmcyv9b2t91.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the writing down everything I needed in a notebook mentioned by James, there is an image. What kind of ruling pattern do the pages of the notebook have?",
+        "answer": "Dotted grid",
+        "img_url": [
+            "https://i.redd.it/pa728lrin0081.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the writing down everything I needed in a notebook mentioned by James, there is an image. What color is the zippered pouch visible in the background?",
+        "answer": "Lime green",
+        "img_url": [
+            "https://i.redd.it/pa728lrin0081.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the writing down everything I needed in a notebook mentioned by James, there is an image. What is the first item listed under the '*Scene assets*' heading on the right-hand page?",
+        "answer": "Posters",
+        "img_url": [
+            "https://i.redd.it/pa728lrin0081.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the sketches and notes mentioned by James, there is an image. What kind of musical instrument is sketched as a large outline?",
+        "answer": "Electric guitar",
+        "img_url": [
+            "https://www.andrewwkmusic.com/wp-content/uploads/2020/12/0077.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the sketches and notes mentioned by James, there is an image. What full date is written in the bottom right corner?",
+        "answer": "12/18/99",
+        "img_url": [
+            "https://www.andrewwkmusic.com/wp-content/uploads/2020/12/0077.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the sketches and notes mentioned by James, there is an image. How many lines are drawn horizontally underneath the main title 'ALL WAYS BE BOTH'?",
+        "answer": "Two",
+        "img_url": [
+            "https://www.andrewwkmusic.com/wp-content/uploads/2020/12/0077.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the statement 'Music is a big part of my life' mentioned by James, there is an image. What brand name is clearly visible on the microphone?",
+        "answer": "Devine",
+        "img_url": [
+            "https://i.redd.it/m5s2y1kxhcnb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the question 'Do you play any instruments?' mentioned by James, there is an image. What color are the earcups of the headphones on the desk?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/m5s2y1kxhcnb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the statement 'nothing to do with castles though' mentioned by James, there is an image. How many model cars are placed on top of the speaker?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/m5s2y1kxhcnb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Counting",
+        "question": "In the old drum set mentioned by John, there is an image. How many individual cymbal plates are visible?",
+        "answer": "Four",
+        "img_url": [
+            "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/old-western-drum-set-aimee-l-maher-photography-and-art-visit-almgallerydotcom.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "OCR/Text",
+        "question": "In the old drum set mentioned by John, there is an image. What brand name is legible on the bass drum head?",
+        "answer": "AQUARIAN",
+        "img_url": [
+            "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/old-western-drum-set-aimee-l-maher-photography-and-art-visit-almgallerydotcom.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_24",
+        "visual_category": "Attribute",
+        "question": "In the old drum set mentioned by John, there is an image. What kind of finish do the drum shells have?",
+        "answer": "Sparkly",
+        "img_url": [
+            "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/old-western-drum-set-aimee-l-maher-photography-and-art-visit-almgallerydotcom.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Counting",
+        "question": "In the portable smoker John mentioned, there is an image. How many pieces of wood are inserted into the smoker?",
+        "answer": "One",
+        "img_url": [
+            "https://i.redd.it/2sop5yn1a8i81.jpg"
         ]
     },
     {
         "session_id": "James_John_session_25",
         "visual_category": "Attribute",
-        "question": "In the new startup - portable smokers mentioned by John, there is an image. What is the approximate color of the flames coming from the top of the welded device?",
-        "answer": "Orange and red",
+        "question": "In the portable smoker John mentioned, there is an image. What is the cross-sectional shape of its main vertical body?",
+        "answer": "Square",
         "img_url": [
             "https://i.redd.it/2sop5yn1a8i81.jpg"
         ]
@@ -1550,89 +1694,98 @@
     {
         "session_id": "James_John_session_25",
         "visual_category": "Action",
-        "question": "In the new startup - portable smokers mentioned by John, there is an image. Is there a piece of wood actively inserted into the side feeding chamber of the portable smoker?",
-        "answer": "Yes",
+        "question": "In the portable smoker John mentioned, there is an image. What is the state of the fire at the top opening?",
+        "answer": "Actively flaming upwards",
         "img_url": [
             "https://i.redd.it/2sop5yn1a8i81.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the first mobile game mentioned by John, there is an image. What color is the main character?",
+        "answer": "White",
+        "img_url": [
+            "https://i.ytimg.com/vi/qvRww37QshU/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the first mobile game mentioned by John, there is an image. What material are the main platforms constructed from?",
+        "answer": "Stone",
+        "img_url": [
+            "https://i.ytimg.com/vi/qvRww37QshU/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Counting",
+        "question": "In the first mobile game mentioned by John, there is an image. How many light-colored flowers are present in the scene?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.ytimg.com/vi/qvRww37QshU/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the screenshot mentioned by John, there is an image. What color is the glowing element at the bottom right corner of the top game screen?",
+        "answer": "Orange",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Counting",
+        "question": "In the screenshot mentioned by John, there is an image. How many red characters are visible in total across both the top and bottom game screens?",
+        "answer": "6",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
         ]
     },
     {
         "session_id": "James_John_session_25",
         "visual_category": "Spatial",
-        "question": "In the new startup - portable smokers mentioned by John, there is an image. What type of paved surface is the portable smoker placed on?",
-        "answer": "Concrete",
+        "question": "In the screenshot mentioned by John, there is an image. Where is the mini-map located within the entire image?",
+        "answer": "Top left corner",
         "img_url": [
-            "https://i.redd.it/2sop5yn1a8i81.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_25",
-        "visual_category": "OCR/Text",
-        "question": "In the making my first mobile game mentioned by John, there is an image. What is the title of the game visible?",
-        "answer": "BAYONETTA",
-        "img_url": [
-            "https://www.coursesonline.co.uk/wp-content/uploads/Subject-Game-Development.jpeg"
+            "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
         ]
     },
     {
         "session_id": "James_John_session_25",
         "visual_category": "Counting",
-        "question": "In the major career milestone mentioned by John, there is an image. How many guns is the character holding or wearing?",
+        "question": "In the book that helped me create the puzzles for this game mentioned by John, there is an image. How many different player characters are shown on the right side?",
         "answer": "Four",
         "img_url": [
-            "https://www.coursesonline.co.uk/wp-content/uploads/Subject-Game-Development.jpeg"
+            "https://i.pinimg.com/originals/22/5a/93/225a930101960a23d4383b9da669544f.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Action",
+        "question": "In the book that helped me create the puzzles for this game mentioned by John, there is an image. In space 4 of the board, what activity is the person engaged in?",
+        "answer": "Fishing",
+        "img_url": [
+            "https://i.pinimg.com/originals/22/5a/93/225a930101960a23d4383b9da669544f.jpg"
         ]
     },
     {
         "session_id": "James_John_session_25",
         "visual_category": "Attribute",
-        "question": "In the making my first mobile game mentioned by John, there is an image. What color are the main character's glasses?",
+        "question": "In the book that helped me create the puzzles for this game mentioned by John, there is an image. What color is the phrase 'O JOGO DA TUA VIDA' in the main title?",
         "answer": "Red",
         "img_url": [
-            "https://www.coursesonline.co.uk/wp-content/uploads/Subject-Game-Development.jpeg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_25",
-        "visual_category": "Counting",
-        "question": "In the screenshot mentioned by John, there is an image. How many distinct characters with a visible health bar are present across both screens?",
-        "answer": "9",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_25",
-        "visual_category": "Counting",
-        "question": "In the screenshot mentioned by John, there is an image. How many red dots are shown on the minimap in the top left of the top screen?",
-        "answer": "3",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
+            "https://i.pinimg.com/originals/22/5a/93/225a930101960a23d4383b9da669544f.jpg"
         ]
     },
     {
         "session_id": "James_John_session_25",
         "visual_category": "OCR/Text",
-        "question": "In the screenshot mentioned by John, there is an image. What numerical value is displayed next to the eye icon on the bottom screen?",
-        "answer": "248",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_25",
-        "visual_category": "Attribute",
-        "question": "In the magazine mentioned by James, there is an image. What shape are the health icons in the top right game screenshot?",
-        "answer": "Hearts",
-        "img_url": [
-            "https://i.redd.it/a2jbhj4bi6n61.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_25",
-        "visual_category": "Attribute",
-        "question": "In the magazine mentioned by James, there is an image. What color is Conker's shirt in the character art?",
-        "answer": "Blue",
+        "question": "In the magazine mentioned by James, there is an image. What are the full titles of the two main games featured on this spread?",
+        "answer": "The Masterpiece (Zelda), Twelve Tales: Conker 64",
         "img_url": [
             "https://i.redd.it/a2jbhj4bi6n61.jpg"
         ]
@@ -1640,16 +1793,169 @@
     {
         "session_id": "James_John_session_25",
         "visual_category": "Counting",
-        "question": "In the magazine mentioned by James, there is an image. How many red, worm-like creatures are visible in the top right screenshot of the Conker 64 section?",
-        "answer": "Eight",
+        "question": "In the magazine mentioned by James, there is an image. How many full red hearts are visible in Link's health bar in the top right game screenshot?",
+        "answer": "10",
         "img_url": [
             "https://i.redd.it/a2jbhj4bi6n61.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_25",
+        "visual_category": "Attribute",
+        "question": "In the magazine mentioned by James, there is an image. What color are the small enemies shown in the gameplay screenshot related to Conker 64?",
+        "answer": "Red",
+        "img_url": [
+            "https://i.redd.it/a2jbhj4bi6n61.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Counting",
+        "question": "In the road trip mentioned by James, there is an image. How many people are visible in the group?",
+        "answer": "8",
+        "img_url": [
+            "https://i.redd.it/toaksy9sbze41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the road trip mentioned by James, there is an image. What pattern is on the shirt of the man standing second from the left?",
+        "answer": "Plaid",
+        "img_url": [
+            "https://i.redd.it/toaksy9sbze41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the road trip mentioned by James, there is an image. What object is hanging from the ceiling?",
+        "answer": "A light fixture",
+        "img_url": [
+            "https://i.redd.it/toaksy9sbze41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Counting",
+        "question": "In the project mentioned by John, there is an image. How many green marbles are visible on the game board?",
+        "answer": "4",
+        "img_url": [
+            "https://www.choochootrack.com/cdn-cgi/image/quality%3D85/assets/images/6%20player%20setup%20game%20over.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the project mentioned by John, there is an image. What color is the dice in the center of the game board?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://www.choochootrack.com/cdn-cgi/image/quality%3D85/assets/images/6%20player%20setup%20game%20over.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the project mentioned by John, there is an image. What is the approximate number facing up on the yellow dice?",
+        "answer": "6",
+        "img_url": [
+            "https://www.choochootrack.com/cdn-cgi/image/quality%3D85/assets/images/6%20player%20setup%20game%20over.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the animal sanctuary mentioned by James, there is an image. What kind of logo is visible on the man's hat?",
+        "answer": "A tree/mountain with a crown",
+        "img_url": [
+            "https://i.ytimg.com/vi/uqizCzE85B8/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the animal sanctuary mentioned by James, there is an image. What colors are visible in the dog's leash?",
+        "answer": "Blue and black/grey",
+        "img_url": [
+            "https://i.ytimg.com/vi/uqizCzE85B8/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Counting",
+        "question": "In the animal sanctuary mentioned by James, there is an image. In the logo at the bottom left, how many dog silhouettes are shown inside the bus?",
+        "answer": "Six",
+        "img_url": [
+            "https://i.ytimg.com/vi/uqizCzE85B8/maxresdefault.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the image of his cousin's dog mentioned by John, there is an image. What is the primary color of the dog's fur?",
+        "answer": "Golden",
+        "img_url": [
+            "https://i.redd.it/iwwwkzul10b71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the image of his cousin's dog mentioned by John, there is an image. What is the main color of the sofa behind the dog?",
+        "answer": "Light grey",
+        "img_url": [
+            "https://i.redd.it/iwwwkzul10b71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Counting",
+        "question": "In the image of his cousin's dog mentioned by John, there is an image. How many pillows are visible on the sofa?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/iwwwkzul10b71.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the 'Their name is Luna' mentioned by John, there is an image. What color is the ribbon around the puppy's neck?",
+        "answer": "Light blue",
+        "img_url": [
+            "https://worldanimalfoundation.org/wp-content/uploads/2025/03/10-Cutest-Puppy-Dog-Breeds-to-Brighten-Your-Day.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Action",
+        "question": "In the 'Their name is Luna' mentioned by John, there is an image. What is the puppy doing?",
+        "answer": "Sitting",
+        "img_url": [
+            "https://worldanimalfoundation.org/wp-content/uploads/2025/03/10-Cutest-Puppy-Dog-Breeds-to-Brighten-Your-Day.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_31",
+        "visual_category": "Attribute",
+        "question": "In the 'Their name is Luna' mentioned by John, there is an image. Are there any fallen leaves visible in the grass?",
+        "answer": "Yes",
+        "img_url": [
+            "https://worldanimalfoundation.org/wp-content/uploads/2025/03/10-Cutest-Puppy-Dog-Breeds-to-Brighten-Your-Day.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Counting",
+        "question": "In the first picture I uploaded there mentioned by John, there is an image. What is the highest visible line number in the code?",
+        "answer": "40",
+        "img_url": [
+            "https://i.redd.it/bkol9biz39j21.jpg"
         ]
     },
     {
         "session_id": "James_John_session_14",
         "visual_category": "OCR/Text",
-        "question": "In the first picture I uploaded to the blog mentioned by John, there is an image. What is the filename displayed at the top of the code editor?",
+        "question": "In the first picture I uploaded there mentioned by John, there is an image. What is the name of the file being edited, as shown in the top tab?",
         "answer": "firsttrial.py",
         "img_url": [
             "https://i.redd.it/bkol9biz39j21.jpg"
@@ -1657,9 +1963,9 @@
     },
     {
         "session_id": "James_John_session_14",
-        "visual_category": "Counting",
-        "question": "In the first picture I uploaded to the blog mentioned by John, there is an image. How many numbered lines of code are visible on the screen?",
-        "answer": "39",
+        "visual_category": "OCR/Text",
+        "question": "In the first picture I uploaded there mentioned by John, there is an image. What are the three words visible in the menu bar at the top right of the application?",
+        "answer": "Project, Preferences, Help",
         "img_url": [
             "https://i.redd.it/bkol9biz39j21.jpg"
         ]
@@ -1667,35 +1973,8 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In the first picture I uploaded to the blog mentioned by John, there is an image. What color is the text of the 'def' keyword on line 3?",
-        "answer": "Light blue",
-        "img_url": [
-            "https://i.redd.it/bkol9biz39j21.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_14",
-        "visual_category": "Counting",
-        "question": "In the bookcase mentioned by John, there is an image. How many distinct vertical segments is the bookcase divided into?",
-        "answer": "Six",
-        "img_url": [
-            "https://i.redd.it/qx7qmvp5abx41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_14",
-        "visual_category": "Attribute",
-        "question": "In the bookcase mentioned by John, there is an image. What is the dominant color of the book spines on the second shelf from the top in the third vertical segment from the left?",
-        "answer": "Yellow and orange",
-        "img_url": [
-            "https://i.redd.it/qx7qmvp5abx41.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_14",
-        "visual_category": "Attribute",
-        "question": "In the bookcase mentioned by John, there is an image. What type of animal figurine is visible on one of the shelves?",
-        "answer": "Elephant",
+        "question": "In the bookcase being almost completely filled mentioned by John, there is an image. What is the dominant color scheme for the books on the right side of the main bookcase?",
+        "answer": "Rainbow/Color-graded",
         "img_url": [
             "https://i.redd.it/qx7qmvp5abx41.jpg"
         ]
@@ -1703,8 +1982,35 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Counting",
-        "question": "In the fantasy books mentioned by John, there is an image. How many books from \"The Witcher\" series are fully visible?",
-        "answer": "Three",
+        "question": "In the bookcase being almost completely filled mentioned by John, there is an image. How many distinct horizontal shelves are visible in the main white bookcase structure?",
+        "answer": "Seven",
+        "img_url": [
+            "https://i.redd.it/qx7qmvp5abx41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Spatial",
+        "question": "In the bookcase being almost completely filled mentioned by John, there is an image. Are the books on the lowest shelf of the rightmost section standing vertically or lying horizontally?",
+        "answer": "Lying horizontally",
+        "img_url": [
+            "https://i.redd.it/qx7qmvp5abx41.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Counting",
+        "question": "In the sci-fi and fantasy books mentioned by John, there is an image. How many 'The Witcher' books are visible on the shelf?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/62ogg70rblbb1.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the epic fantasy series mentioned by John, there is an image. What color are the eyes of the woman depicted on the cover of 'The Witcher: Sword of Destiny'?",
+        "answer": "Blue",
         "img_url": [
             "https://i.redd.it/62ogg70rblbb1.jpg"
         ]
@@ -1712,8 +2018,8 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "OCR/Text",
-        "question": "In the Epic fantasy series mentioned by John, there is an image. What is the full title, including the edition, of the largest book shown?",
-        "answer": "The Witcher Sword of Destiny Illustrated Edition",
+        "question": "In the immersive world-building and intricate storylines mentioned by John, there is an image. What specific type of edition is 'The Witcher: Sword of Destiny'?",
+        "answer": "Illustrated Edition",
         "img_url": [
             "https://i.redd.it/62ogg70rblbb1.jpg"
         ]
@@ -1721,17 +2027,8 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In the great story mentioned by John, there is an image. What color is the spine of the book titled \"The Lady of the Lake\"?",
-        "answer": "Magenta",
-        "img_url": [
-            "https://i.redd.it/62ogg70rblbb1.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_14",
-        "visual_category": "Attribute",
-        "question": "In the this picture from your Facebook mentioned by John, there is an image. What is the pattern visible on the dog's yellow bandana?",
-        "answer": "White floral/shapes",
+        "question": "In the picture from your Facebook mentioned by John, there is an image. What is the primary color of the bandana the dog is wearing?",
+        "answer": "Yellow",
         "img_url": [
             "https://i.redd.it/gnwdz3ysqra71.jpg"
         ]
@@ -1739,7 +2036,7 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In the this picture from your Facebook mentioned by John, there is an image. What material is the dog's green sofa primarily made of?",
+        "question": "In the picture from your Facebook mentioned by John, there is an image. What material does the dog's couch appear to be made of?",
         "answer": "Velvet",
         "img_url": [
             "https://i.redd.it/gnwdz3ysqra71.jpg"
@@ -1748,7 +2045,7 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Counting",
-        "question": "In the this picture from your Facebook mentioned by John, there is an image. How many electrical outlets or light switches are visible on the white wall?",
+        "question": "In the picture from your Facebook mentioned by John, there is an image. How many wooden legs are visible on the dog's couch?",
         "answer": "Two",
         "img_url": [
             "https://i.redd.it/gnwdz3ysqra71.jpg"
@@ -1757,17 +2054,17 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In the mention of Max by James, there is an image. What color are Max's visible eyes?",
-        "answer": "Amber and blue",
+        "question": "In the mention of Max by James, there is an image. What color are Max's eyes?",
+        "answer": "One blue, one brown",
         "img_url": [
             "https://i.redd.it/3gzujt17mgkb1.jpg"
         ]
     },
     {
         "session_id": "James_John_session_14",
-        "visual_category": "Attribute",
-        "question": "In the mention of Max by James, there is an image. What color is the visible stitching on the toy Max is holding?",
-        "answer": "Yellow",
+        "visual_category": "Counting",
+        "question": "In the mention of Max by James, there is an image. How many dogs are visible in the room?",
+        "answer": "Two",
         "img_url": [
             "https://i.redd.it/3gzujt17mgkb1.jpg"
         ]
@@ -1775,7 +2072,7 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "OCR/Text",
-        "question": "In the mention of Max by James, there is an image. What brand logo is visible on the person's black pants?",
+        "question": "In the mention of Max by James, there is an image. What brand name is visible on the black pants?",
         "answer": "Adidas",
         "img_url": [
             "https://i.redd.it/3gzujt17mgkb1.jpg"
@@ -1784,7 +2081,43 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In Max being a real go-getter mentioned by James, there is an image. What color is the frisbee resting on the grass?",
+        "question": "In the cuddles with him mentioned by James, what color are the spots on the dog's ears?",
+        "answer": "Black",
+        "img_url": [
+            "https://c8.alamy.com/comp/RT5N4B/man-cuddling-his-dog-at-home-RT5N4B.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the cuddles with him mentioned by James, what color is James's t-shirt?",
+        "answer": "Light grey",
+        "img_url": [
+            "https://c8.alamy.com/comp/RT5N4B/man-cuddling-his-dog-at-home-RT5N4B.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Action",
+        "question": "In the cuddles with him mentioned by James, what is James doing with his face towards Max?",
+        "answer": "Nuzzling/Kissing",
+        "img_url": [
+            "https://c8.alamy.com/comp/RT5N4B/man-cuddling-his-dog-at-home-RT5N4B.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Action",
+        "question": "In the catching frisbees mentioned by James, there is an image. Is Max currently catching a frisbee?",
+        "answer": "No",
+        "img_url": [
+            "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/58b4c82d-18f3-4736-87f7-de2a7a3de0a8_full_size.jpg"
+        ]
+    },
+    {
+        "session_id": "James_John_session_14",
+        "visual_category": "Attribute",
+        "question": "In the catching frisbees mentioned by James, there is an image. What color is the frisbee?",
         "answer": "Red",
         "img_url": [
             "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/58b4c82d-18f3-4736-87f7-de2a7a3de0a8_full_size.jpg"
@@ -1793,7 +2126,7 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "OCR/Text",
-        "question": "In Max's skill at catching frisbees in mid-air mentioned by James, there is an image. What brand name is written on the frisbee?",
+        "question": "In the catching frisbees mentioned by James, there is an image. What brand name is visible on the frisbee?",
         "answer": "RUFFWEAR",
         "img_url": [
             "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/58b4c82d-18f3-4736-87f7-de2a7a3de0a8_full_size.jpg"
@@ -1801,18 +2134,18 @@
     },
     {
         "session_id": "James_John_session_14",
-        "visual_category": "Counting",
-        "question": "In the description of Max's abilities mentioned by James, there is an image. How many dried leaves are visible on the grass near Max?",
-        "answer": "One",
+        "visual_category": "Attribute",
+        "question": "In the recent walk in the forest mentioned by James, there is an image. What color is the person's jacket?",
+        "answer": "Dark blue",
         "img_url": [
-            "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/58b4c82d-18f3-4736-87f7-de2a7a3de0a8_full_size.jpg"
+            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
         ]
     },
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
         "question": "In the recent walk in the forest mentioned by James, there is an image. What color is the cap worn by the person?",
-        "answer": "Green",
+        "answer": "Olive green",
         "img_url": [
             "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
         ]
@@ -1820,7 +2153,7 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Counting",
-        "question": "In the recent walk in the forest mentioned by James, there is an image. How many dogs are visible walking on the dirt path?",
+        "question": "In the recent walk in the forest mentioned by James, there is an image. How many dogs are visible walking on the path?",
         "answer": "One",
         "img_url": [
             "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
@@ -1828,18 +2161,9 @@
     },
     {
         "session_id": "James_John_session_14",
-        "visual_category": "Spatial",
-        "question": "In the recent walk in the forest mentioned by James, there is an image. Is the dog walking in front of or behind the person?",
-        "answer": "In front of",
-        "img_url": [
-            "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In the nearby trail walk mentioned by James, there is an image. What is the predominant color of the tall grass lining the path?",
-        "answer": "Golden-brown",
+        "question": "In the walks on this nearby trail mentioned by James, there is an image. What is the primary material of the trail?",
+        "answer": "Dirt",
         "img_url": [
             "https://i0.wp.com/runoregonblog.com/wp-content/uploads/2023/03/img_3358.jpg"
         ]
@@ -1847,154 +2171,19 @@
     {
         "session_id": "James_John_session_14",
         "visual_category": "Attribute",
-        "question": "In the nearby trail walk mentioned by James, there is an image. Are the trees lining the right side of the path mostly evergreen or deciduous?",
-        "answer": "Evergreen",
+        "question": "In the walks on this nearby trail mentioned by James, there is an image. What is the predominant color of the tall grass bordering the trail?",
+        "answer": "Golden orange",
         "img_url": [
             "https://i0.wp.com/runoregonblog.com/wp-content/uploads/2023/03/img_3358.jpg"
         ]
     },
     {
         "session_id": "James_John_session_14",
-        "visual_category": "Attribute",
-        "question": "In the nearby trail walk mentioned by James, there is an image. What is the primary material of the trail surface?",
-        "answer": "Dirt and gravel",
+        "visual_category": "Counting",
+        "question": "In the walks on this nearby trail mentioned by James, there is an image. How many large, distinct evergreen tree trunks are clearly visible on the right side of the trail in the immediate foreground?",
+        "answer": "Four",
         "img_url": [
             "https://i0.wp.com/runoregonblog.com/wp-content/uploads/2023/03/img_3358.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Counting",
-        "question": "In the great time mentioned by James, there is an image. How many people are visible in the group photo?",
-        "answer": "Eight",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/family-road-trip-through-scenic-mountain-landscapes_909774-128.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "OCR/Text",
-        "question": "In the great time mentioned by James, there is an image. What brand name is printed on the white t-shirt worn by the woman kneeling in front?",
-        "answer": "Hollister",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/family-road-trip-through-scenic-mountain-landscapes_909774-128.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the great time mentioned by James, there is an image. What color is the plain t-shirt worn by the man standing furthest to the right?",
-        "answer": "Dark blue",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/family-road-trip-through-scenic-mountain-landscapes_909774-128.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the project mentioned by John, there is an image. What number is facing up on the die?",
-        "answer": "Five",
-        "img_url": [
-            "https://www.choochootrack.com/cdn-cgi/image/quality%3D85/assets/images/6%20player%20setup%20game%20over.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Counting",
-        "question": "In the project mentioned by John, there is an image. How many different colors of game pieces are visible on the board?",
-        "answer": "Six",
-        "img_url": [
-            "https://www.choochootrack.com/cdn-cgi/image/quality%3D85/assets/images/6%20player%20setup%20game%20over.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the project mentioned by John, there is an image. What material is the main game board constructed from?",
-        "answer": "Wood",
-        "img_url": [
-            "https://www.choochootrack.com/cdn-cgi/image/quality%3D85/assets/images/6%20player%20setup%20game%20over.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the animal sanctuary mentioned by James, there is an image. What colors are on the man's baseball cap?",
-        "answer": "Brown and tan",
-        "img_url": [
-            "https://i.ytimg.com/vi/uqizCzE85B8/maxresdefault.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the animal sanctuary mentioned by James, there is an image. What colors are visible on the dog's leash?",
-        "answer": "Blue and black",
-        "img_url": [
-            "https://i.ytimg.com/vi/uqizCzE85B8/maxresdefault.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Action",
-        "question": "In the animal sanctuary mentioned by James, there is an image. Is the man standing upright or kneeling while interacting with the dog?",
-        "answer": "Kneeling",
-        "img_url": [
-            "https://i.ytimg.com/vi/uqizCzE85B8/maxresdefault.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the dog mentioned by John, there is an image. What color is the dog's fur?",
-        "answer": "Golden brown",
-        "img_url": [
-            "https://i.redd.it/iwwwkzul10b71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the dog mentioned by John, there is an image. What pattern is on the rug the dog is sitting on?",
-        "answer": "Abstract black and white",
-        "img_url": [
-            "https://i.redd.it/iwwwkzul10b71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Counting",
-        "question": "In the dog mentioned by John, there is an image. How many pillows are visible on the sofa behind the dog?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.redd.it/iwwwkzul10b71.jpg"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Counting",
-        "question": "In the mention of Luna's name by John, there is an image. How many children are visible?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.pinimg.com/originals/08/09/32/080932d88c3de2fdb41f2e2ab6be2294.png"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "Attribute",
-        "question": "In the mention of Luna's name by John, there is an image. What is the color of the large face structure's eyes?",
-        "answer": "Blue",
-        "img_url": [
-            "https://i.pinimg.com/originals/08/09/32/080932d88c3de2fdb41f2e2ab6be2294.png"
-        ]
-    },
-    {
-        "session_id": "James_John_session_31",
-        "visual_category": "OCR/Text",
-        "question": "In the mention of Luna's name by John, there is an image. What text is visible on the red hat?",
-        "answer": "Coca-Cola",
-        "img_url": [
-            "https://i.pinimg.com/originals/08/09/32/080932d88c3de2fdb41f2e2ab6be2294.png"
         ]
     }
 ]

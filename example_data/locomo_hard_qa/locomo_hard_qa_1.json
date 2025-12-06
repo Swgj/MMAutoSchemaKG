@@ -1,306 +1,63 @@
 [
     {
-        "session_id": "Jon_Gina_session_3",
-        "visual_category": "OCR/Text",
-        "question": "In the expansion of her clothing store mentioned by Gina, there is an image. What is the full name of the shopping mall visible on the main entrance sign?",
-        "answer": "Jubilee Place Shopping Mall",
-        "img_url": [
-            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_3",
-        "visual_category": "Attribute",
-        "question": "In the expansion of her clothing store mentioned by Gina, there is an image. What color is the large curved glass roof structure in the background?",
-        "answer": "Green",
-        "img_url": [
-            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_3",
-        "visual_category": "Counting",
-        "question": "In the expansion of her clothing store mentioned by Gina, there is an image. How many distinct store logos are displayed on the large illuminated panel to the left of the main entrance?",
-        "answer": "27",
-        "img_url": [
-            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_3",
-        "visual_category": "Counting",
-        "question": "In the space I designed mentioned by Gina, there is an image. How many mannequins are visible in the store?",
-        "answer": "Three",
-        "img_url": [
-            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_3",
-        "visual_category": "Attribute",
-        "question": "In the space I designed mentioned by Gina, there is an image. What material are the rectangular display tables holding the folded jeans and shirts made of?",
-        "answer": "Reclaimed wood",
-        "img_url": [
-            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_3",
-        "visual_category": "Spatial",
-        "question": "In the space I designed mentioned by Gina, there is an image. Are there clothes displayed on the wooden plank wall to the left?",
-        "answer": "Yes, there are",
-        "img_url": [
-            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
-        ]
-    },
-    {
         "session_id": "Jon_Gina_session_7",
-        "visual_category": "Attribute",
-        "question": "In the dance classes mentioned by Jon, there is an image. What pattern is visible on the bra of the woman in the foreground?",
-        "answer": "Ruched/Pleated",
+        "visual_category": "Counting",
+        "question": "In the one of the dance clases mentioned by Jon, there is an image. How many people are visible in the room?",
+        "answer": "7",
         "img_url": [
             "https://live.staticflickr.com/8111/8547962982_92d38cbcc3_b.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_7",
-        "visual_category": "Counting",
-        "question": "In the dance classes mentioned by Jon, there is an image. How many people are clearly visible in the dance studio?",
-        "answer": "Six",
+        "visual_category": "Attribute",
+        "question": "In the one of the dance clases mentioned by Jon, there is an image. What color is the top worn by the dancer in the foreground?",
+        "answer": "Light grey",
         "img_url": [
             "https://live.staticflickr.com/8111/8547962982_92d38cbcc3_b.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_7",
-        "visual_category": "Spatial",
-        "question": "In the dance classes mentioned by Jon, there is an image. Where is the 'EXIT' sign located in the studio?",
-        "answer": "Above a door on the back wall",
+        "visual_category": "Attribute",
+        "question": "In the one of the dance clases mentioned by Jon, there is an image. Is there an exit sign visible above a doorway?",
+        "answer": "Yes",
         "img_url": [
             "https://live.staticflickr.com/8111/8547962982_92d38cbcc3_b.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_8",
-        "visual_category": "Attribute",
-        "question": "In the fave dance session mentioned by Gina, there is an image. Are the dancers wearing shoes?",
-        "answer": "No, they are barefoot",
-        "img_url": [
-            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_8",
-        "visual_category": "Attribute",
-        "question": "In the fave dance session mentioned by Gina, there is an image. Does the dancer in mint green pants have a tattoo on her arm?",
-        "answer": "Yes, on her right arm",
-        "img_url": [
-            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_8",
-        "visual_category": "Attribute",
-        "question": "In the fave dance session mentioned by Gina, there is an image. Is there any visible damage on the mint green pants?",
-        "answer": "Yes, a rip",
-        "img_url": [
-            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_8",
+        "session_id": "Jon_Gina_session_15",
         "visual_category": "Counting",
-        "question": "In the awesome night of performances and judging mentioned by Jon, there is an image. How many dancers are performing on stage?",
+        "question": "In the making everything just right mentioned by Jon, there is an image. How many female dancers are present?",
         "answer": "Seven",
         "img_url": [
-            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+            "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_8",
+        "session_id": "Jon_Gina_session_15",
         "visual_category": "Attribute",
-        "question": "In the awesome night of performances and judging mentioned by Jon, there is an image. What are the two main colors of the dancers' costumes?",
-        "answer": "Red and white",
+        "question": "In the making everything just right mentioned by Jon, there is an image. What color are the curtains?",
+        "answer": "Blue",
         "img_url": [
-            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+            "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_8",
-        "visual_category": "Attribute",
-        "question": "In the awesome night of performances and judging mentioned by Jon, there is an image. What type of ornaments are visible on the dancers' ankles?",
-        "answer": "Anklets with bells",
-        "img_url": [
-            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_6",
-        "visual_category": "Attribute",
-        "question": "In the online clothes store mentioned by Gina, there is an image. What internet browser is being used?",
-        "answer": "Safari",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/online-clothing-store-website-appear-screen-laptop_693425-1977.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_6",
+        "session_id": "Jon_Gina_session_15",
         "visual_category": "Counting",
-        "question": "In the online clothes store mentioned by Gina, there is an image. How many distinct items are currently selected in the Amazon shopping cart?",
-        "answer": "Three",
+        "question": "In the making everything just right mentioned by Jon, there is an image. How many square overhead lights are visible on the ceiling?",
+        "answer": "Eight",
         "img_url": [
-            "https://img.freepik.com/premium-photo/online-clothing-store-website-appear-screen-laptop_693425-1977.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_6",
-        "visual_category": "Counting",
-        "question": "In the online clothes store mentioned by Gina, there is an image. What is the selected quantity for the 'Create This Book 2' item?",
-        "answer": "One",
-        "img_url": [
-            "https://img.freepik.com/premium-photo/online-clothing-store-website-appear-screen-laptop_693425-1977.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_6",
-        "visual_category": "OCR/Text",
-        "question": "In the cheers mentioned by Jon, there is an image. What is the brand name displayed on the champagne bottle?",
-        "answer": "Collet",
-        "img_url": [
-            "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_6",
-        "visual_category": "Attribute",
-        "question": "In the cheers mentioned by Jon, there is an image. What figure is depicted on top of the Christmas tree design on the champagne flutes?",
-        "answer": "Santa Claus",
-        "img_url": [
-            "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_6",
-        "visual_category": "Counting",
-        "question": "In the cheers mentioned by Jon, there is an image. How many champagne flutes have a decorative charm on their stem base?",
-        "answer": "Two",
-        "img_url": [
-            "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_2",
-        "visual_category": "Attribute",
-        "question": "In the hunt for the ideal spot for my dance studio mentioned by Jon, there is an image. What color are the walls?",
-        "answer": "Lavender",
-        "img_url": [
-            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_2",
-        "visual_category": "Counting",
-        "question": "In the space mentioned by Jon, there is an image. How many paintings or artworks are visible on the walls?",
-        "answer": "Two",
-        "img_url": [
-            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_2",
-        "visual_category": "Attribute",
-        "question": "In a place with great natural light mentioned by Jon, there is an image. What pattern is on the curtain next to the water fountain?",
-        "answer": "Vertical stripes",
-        "img_url": [
-            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_5",
-        "visual_category": "Counting",
-        "question": "In the cool designs mentioned by Gina, there is an image. How many main garments are prominently displayed?",
-        "answer": "Two",
-        "img_url": [
-            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_5",
-        "visual_category": "Attribute",
-        "question": "In the cool designs mentioned by Gina, there is an image. What is the predominant color of the large plaid pattern on the back of the left garment?",
-        "answer": "Red",
-        "img_url": [
-            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_5",
-        "visual_category": "OCR/Text",
-        "question": "In the cool designs mentioned by Gina, there is an image. What brand name is visible on the tag of the right garment?",
-        "answer": "Adhesif",
-        "img_url": [
-            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_5",
-        "visual_category": "Attribute",
-        "question": "In his resolve to stay optimistic mentioned by Jon, there is an image. What color is the cartoon character's hair?",
-        "answer": "Pink",
-        "img_url": [
-            "https://i.pinimg.com/originals/6b/e6/c0/6be6c065edfdbe98658dd684dcc650c8.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_5",
-        "visual_category": "Counting",
-        "question": "In his resolve to stay optimistic mentioned by Jon, there is an image. How many hoop earrings does the cartoon character wear?",
-        "answer": "Two",
-        "img_url": [
-            "https://i.pinimg.com/originals/6b/e6/c0/6be6c065edfdbe98658dd684dcc650c8.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_5",
-        "visual_category": "OCR/Text",
-        "question": "In his resolve to stay optimistic mentioned by Jon, there is an image. What color is the text 'Fear Quotes' at the top of the image?",
-        "answer": "Light green",
-        "img_url": [
-            "https://i.pinimg.com/originals/6b/e6/c0/6be6c065edfdbe98658dd684dcc650c8.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_12",
-        "visual_category": "Counting",
-        "question": "In the plan Jon is going to try out mentioned by Jon, there is an image. How many workouts have been completed so far according to the marked circles?",
-        "answer": "6 workouts",
-        "img_url": [
-            "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_12",
-        "visual_category": "OCR/Text",
-        "question": "In the plan Jon is going to try out mentioned by Jon, there is an image. What month's goals are written at the top of the whiteboard?",
-        "answer": "February",
-        "img_url": [
-            "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_12",
-        "visual_category": "Counting",
-        "question": "In the plan Jon is going to try out mentioned by Jon, there is an image. How many 'before 6am wakeups' have been completed on the whiteboard?",
-        "answer": "2",
-        "img_url": [
-            "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
+            "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_14",
         "visual_category": "Counting",
-        "question": "In the dancing mentioned by Gina, there is an image. How many people are wearing the matching neon green tops and black striped pants?",
-        "answer": "Twelve",
+        "question": "In the when I was dancing mentioned by Gina, there is an image. How many people are wearing the matching lime green long-sleeve top and black track pants?",
+        "answer": "Ten",
         "img_url": [
             "https://cdn1.sportngin.com/attachments/photo/7609-187142791/PINE_ISLAND_WOW_AWARD.jpg"
         ]
@@ -308,7 +65,7 @@
     {
         "session_id": "Jon_Gina_session_14",
         "visual_category": "OCR/Text",
-        "question": "In the dancing mentioned by Gina, there is an image. What year is written on the 'DANCE CHAMPION' banner held by two people?",
+        "question": "In the when I was dancing mentioned by Gina, there is an image. What year is written on the large banner held by two dancers?",
         "answer": "2023",
         "img_url": [
             "https://cdn1.sportngin.com/attachments/photo/7609-187142791/PINE_ISLAND_WOW_AWARD.jpg"
@@ -317,43 +74,286 @@
     {
         "session_id": "Jon_Gina_session_14",
         "visual_category": "Attribute",
-        "question": "In the dancing mentioned by Gina, there is an image. What are the two primary colors of the ribbons attached to the medals around the dancers' necks?",
-        "answer": "Pink and orange",
+        "question": "In the when I was dancing mentioned by Gina, there is an image. What are the two prominent colors of the ribbons attached to the medals?",
+        "answer": "Orange and pink",
         "img_url": [
             "https://cdn1.sportngin.com/attachments/photo/7609-187142791/PINE_ISLAND_WOW_AWARD.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_9",
+        "session_id": "Jon_Gina_session_17",
         "visual_category": "Counting",
-        "question": "In the students mentioned by Jon, there is an image. How many students are visible on the stage?",
-        "answer": "Nine",
+        "question": "In the image mentioned by Jon, how many red hearts are visible along the borders of the drawing?",
+        "answer": "20",
         "img_url": [
-            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+            "https://i.redd.it/1jjaus9f0sab1.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_9",
-        "visual_category": "Attribute",
-        "question": "In the studio mentioned by Jon, there is an image. What color is the main backdrop behind the dancers?",
-        "answer": "Orange and red",
+        "session_id": "Jon_Gina_session_17",
+        "visual_category": "Counting",
+        "question": "In the image mentioned by Jon, how many clouds have pink cheek marks?",
+        "answer": "Two",
         "img_url": [
-            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+            "https://i.redd.it/1jjaus9f0sab1.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_9",
+        "session_id": "Jon_Gina_session_17",
         "visual_category": "Attribute",
-        "question": "In the students mentioned by Jon, there is an image. What color are most of the dancers' outfits?",
+        "question": "In the image mentioned by Jon, what is the expression of the large yellow face?",
+        "answer": "Smiling",
+        "img_url": [
+            "https://i.redd.it/1jjaus9f0sab1.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_12",
+        "visual_category": "Counting",
+        "question": "In the whiteboard with goals mentioned by Jon, there is an image. How many workouts have been marked as completed?",
+        "answer": "7",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_12",
+        "visual_category": "OCR/Text",
+        "question": "In the whiteboard with goals mentioned by Jon, there is an image. What month's goals are written at the top of the whiteboard?",
+        "answer": "February",
+        "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_12",
+        "visual_category": "Attribute",
+        "question": "In the whiteboard with goals mentioned by Jon, there is an image. What is the approximate color of the whiteboard's frame?",
         "answer": "Black",
         "img_url": [
+            "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_3",
+        "visual_category": "OCR/Text",
+        "question": "In the clothing store expansion mentioned by Gina, there is an image. What name is written on the sign above the entrance?",
+        "answer": "Jubilee Place Shopping Mall",
+        "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_3",
+        "visual_category": "Counting",
+        "question": "In the clothing store expansion mentioned by Gina, there is an image. How many sets of automatic sliding doors are visible at the main entrance?",
+        "answer": "Two",
+        "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_3",
+        "visual_category": "Attribute",
+        "question": "In the clothing store expansion mentioned by Gina, there is an image. What color is the large arched glass structure visible behind the entrance?",
+        "answer": "Green",
+        "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_3",
+        "visual_category": "Counting",
+        "question": "In the space mentioned by Gina, there is an image. How many mannequins are wearing hats?",
+        "answer": "One",
+        "img_url": [
+            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_3",
+        "visual_category": "Attribute",
+        "question": "In the space mentioned by Gina, there is an image. What color are the folded pants on the rightmost wooden display in the foreground?",
+        "answer": "Dark",
+        "img_url": [
+            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_3",
+        "visual_category": "Attribute",
+        "question": "In the space mentioned by Gina, there is an image. What material is used for the decorative paneling on the far left wall?",
+        "answer": "Wood",
+        "img_url": [
+            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_2",
+        "visual_category": "Attribute",
+        "question": "In the ideal spot for my dance studio mentioned by Jon, there is an image. What color are the walls in the hallway?",
+        "answer": "Light purple",
+        "img_url": [
+            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_2",
+        "visual_category": "Attribute",
+        "question": "In the place with great natural light mentioned by Jon, there is an image. What color are the sparkly curtains leading into the studio area?",
+        "answer": "Bright pink",
+        "img_url": [
+            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_2",
+        "visual_category": "Counting",
+        "question": "In the space mentioned by Jon, there is an image. How many pieces of artwork are hanging on the purple wall?",
+        "answer": "Two",
+        "img_url": [
+            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_10",
+        "visual_category": "Counting",
+        "question": "In the fair mentioned by Jon, there is an image. How many individuals are performing on the stage?",
+        "answer": "Four",
+        "img_url": [
+            "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_10",
+        "visual_category": "Attribute",
+        "question": "In the fair mentioned by Jon, there is an image. What are the main colors of the dress worn by the woman standing on the right side of the stage?",
+        "answer": "Green and purple",
+        "img_url": [
+            "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_10",
+        "visual_category": "Spatial",
+        "question": "In the fair mentioned by Jon, there is an image. What large dark structure is positioned in the background on the left side?",
+        "answer": "Submarine hull",
+        "img_url": [
+            "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_10",
+        "visual_category": "OCR/Text",
+        "question": "In the online clothing store mentioned by Gina, there is an image. What is the name of the brand displayed on the website?",
+        "answer": "Marmot",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_10",
+        "visual_category": "Attribute",
+        "question": "In the online clothing store mentioned by Gina, there is an image. What color is the beanie worn by the person featured in the main banner?",
+        "answer": "Red",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_10",
+        "visual_category": "Counting",
+        "question": "In the online clothing store mentioned by Gina, there is an image. How many distinct main product categories are visible in the top navigation bar?",
+        "answer": "4",
+        "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_16",
+        "visual_category": "OCR/Text",
+        "question": "In the acquisition of some new unique pieces for her store mentioned by Gina, there is an image. What specific words are visible on the front of the hoodie?",
+        "answer": "REVOLT APPAREL",
+        "img_url": [
+            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_16",
+        "visual_category": "Attribute",
+        "question": "In the acquisition of some new unique pieces for her store mentioned by Gina, there is an image. What style of eyeliner is the person wearing?",
+        "answer": "Winged",
+        "img_url": [
+            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_16",
+        "visual_category": "Attribute",
+        "question": "In the acquisition of some new unique pieces for her store mentioned by Gina, there is an image. What pattern style is used inside the letters of the word 'REVOLT' on the hoodie?",
+        "answer": "Camouflage",
+        "img_url": [
+            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_16",
+        "visual_category": "Counting",
+        "question": "In the advice to persevere mentioned by Gina, there is an image. How many different colors are used for the curved lines on the sign?",
+        "answer": "Three",
+        "img_url": [
+            "https://i.redd.it/b1sgp694awda1.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_16",
+        "visual_category": "Attribute",
+        "question": "In the advice to persevere mentioned by Gina, there is an image. What is the background color of the sign?",
+        "answer": "Black",
+        "img_url": [
+            "https://i.redd.it/b1sgp694awda1.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_16",
+        "visual_category": "Counting",
+        "question": "In the advice to persevere mentioned by Gina, there is an image. How many small white four-pointed star shapes are visible on the sign?",
+        "answer": "Four",
+        "img_url": [
+            "https://i.redd.it/b1sgp694awda1.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_9",
+        "visual_category": "Counting",
+        "question": "In the students mentioned by Jon, there is an image. How many dancers are visible?",
+        "answer": "8",
+        "img_url": [
+            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_9",
+        "visual_category": "Attribute",
+        "question": "In the studio mentioned by Jon, there is an image. What is the primary color of the stage background?",
+        "answer": "Orange",
+        "img_url": [
+            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_9",
+        "visual_category": "Spatial",
+        "question": "In the students mentioned by Jon, there is an image. Are the dancers arranged in a tight group or spread across the stage?",
+        "answer": "Spread across the stage",
+        "img_url": [
             "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_9",
         "visual_category": "Counting",
-        "question": "In the dance classes mentioned by Gina, there is an image. How many dancers are visible from the back?",
+        "question": "In the photo mentioned by Gina, there is an image. How many dancers are positioned with their backs to the camera?",
         "answer": "Three",
         "img_url": [
             "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
@@ -362,34 +362,25 @@
     {
         "session_id": "Jon_Gina_session_9",
         "visual_category": "Attribute",
-        "question": "In the studio mentioned by Gina, there is an image. What color are the dancers' pointe shoes?",
-        "answer": "Tan/Gold",
+        "question": "In the photo mentioned by Gina, there is an image. What color are the dancers' tights?",
+        "answer": "Pink",
         "img_url": [
             "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_9",
-        "visual_category": "Attribute",
-        "question": "In the photo mentioned by Gina, there is an image. What specific equipment is mounted on the wall in the reflection?",
-        "answer": "Ballet barres",
+        "visual_category": "Spatial",
+        "question": "In the photo mentioned by Gina, there is an image. Where are the ballet barres situated in the studio?",
+        "answer": "Along the mirrored wall",
         "img_url": [
             "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_9",
-        "visual_category": "Attribute",
-        "question": "In the one of my trophies from a dance contest mentioned by Gina, there is an image. What color is the wall directly behind the trophy?",
-        "answer": "Green",
-        "img_url": [
-            "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_9",
         "visual_category": "OCR/Text",
-        "question": "In the one of my trophies from a dance contest mentioned by Gina, there is an image. What four-digit year is visibly inscribed on the upper part of the trophy?",
+        "question": "In the trophy from a dance contest mentioned by Gina, there is an image. What year is clearly visible on the central nameplate?",
         "answer": "2014",
         "img_url": [
             "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
@@ -398,152 +389,323 @@
     {
         "session_id": "Jon_Gina_session_9",
         "visual_category": "Attribute",
-        "question": "In the one of my trophies from a dance contest mentioned by Gina, there is an image. What kind of small golden figure is placed at the very bottom center of the trophy?",
-        "answer": "Miniature trophy",
+        "question": "In the trophy from a dance contest mentioned by Gina, there is an image. What color is the wall directly behind the trophy?",
+        "answer": "Light green",
         "img_url": [
             "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_10",
+        "session_id": "Jon_Gina_session_9",
         "visual_category": "Counting",
-        "question": "In the fair mentioned by Jon, there is an image. How many people are performing on the stage?",
-        "answer": "Four",
+        "question": "In the trophy from a dance contest mentioned by Gina, there is an image. How many prominent star shapes are incorporated into the upper design of the trophy?",
+        "answer": "Seven",
         "img_url": [
-            "https://expocentric.com.au/wp-content/uploads/2022/10/EC-Blog-Post_Creative-Exhibition-Stand-Ideas-From-Simple-to-Modern17.jpg"
+            "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_10",
+        "session_id": "Jon_Gina_session_13",
+        "visual_category": "Counting",
+        "question": "In the learning how to dance mentioned by Gina, there is an image. How many people are directly visible in the dance studio?",
+        "answer": "Eight",
+        "img_url": [
+            "https://christinasearsetternet.files.wordpress.com/2020/08/img_1232.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_13",
         "visual_category": "Attribute",
-        "question": "In the fair mentioned by Jon, there is an image. What color is the fabric skirting around the stage?",
+        "question": "In the learning how to dance mentioned by Gina, there is an image. What color is the main area of the wooden floor?",
+        "answer": "Light brown",
+        "img_url": [
+            "https://christinasearsetternet.files.wordpress.com/2020/08/img_1232.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_13",
+        "visual_category": "Attribute",
+        "question": "In the learning how to dance mentioned by Gina, there is an image. What color socks is the person closest to the camera, with their back turned, wearing?",
+        "answer": "White",
+        "img_url": [
+            "https://christinasearsetternet.files.wordpress.com/2020/08/img_1232.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_13",
+        "visual_category": "Counting",
+        "question": "In the guidance and support mentioned by Jon, there is an image. How many dry-erase markers are attached to the whiteboard?",
+        "answer": "Two",
+        "img_url": [
+            "https://i.redd.it/2308a70tm0m81.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_13",
+        "visual_category": "OCR/Text",
+        "question": "In the guidance and support mentioned by Jon, there is an image. What is the full title of the strength training menu posted on the right?",
+        "answer": "#hardCORE March your menu for strength",
+        "img_url": [
+            "https://i.redd.it/2308a70tm0m81.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_13",
+        "visual_category": "Attribute",
+        "question": "In the guidance and support mentioned by Jon, there is an image. What color is the word 'CROW' written in large letters on the whiteboard?",
         "answer": "Black",
         "img_url": [
-            "https://expocentric.com.au/wp-content/uploads/2022/10/EC-Blog-Post_Creative-Exhibition-Stand-Ideas-From-Simple-to-Modern17.jpg"
+            "https://i.redd.it/2308a70tm0m81.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_10",
-        "visual_category": "Attribute",
-        "question": "In the fair mentioned by Jon, there is an image. What color is the large banner hanging from the ceiling near the top left?",
-        "answer": "Blue",
-        "img_url": [
-            "https://expocentric.com.au/wp-content/uploads/2022/10/EC-Blog-Post_Creative-Exhibition-Stand-Ideas-From-Simple-to-Modern17.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_10",
+        "session_id": "Jon_Gina_session_6",
         "visual_category": "OCR/Text",
-        "question": "In the online clothing store mentioned by Gina, there is an image. What is the brand name displayed on the website?",
-        "answer": "Marmot",
+        "question": "In the online clothes store mentioned by Gina, there is an image. What is the name of the online store?",
+        "answer": "Barly",
         "img_url": [
-            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+            "https://templatesjungle.com/wp-content/uploads/2023/01/Barly-Fashion-Boutique-eCommerce-Website-Template-768x576.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_10",
+        "session_id": "Jon_Gina_session_6",
+        "visual_category": "Counting",
+        "question": "In the online clothes store mentioned by Gina, there is an image. How many dresses are featured in the 'Editor's Pick' section?",
+        "answer": "Four",
+        "img_url": [
+            "https://templatesjungle.com/wp-content/uploads/2023/01/Barly-Fashion-Boutique-eCommerce-Website-Template-768x576.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_6",
+        "visual_category": "Attribute",
+        "question": "In the online clothes store mentioned by Gina, there is an image. What is the color of the smaller shopping bag held by the woman?",
+        "answer": "Dark green",
+        "img_url": [
+            "https://templatesjungle.com/wp-content/uploads/2023/01/Barly-Fashion-Boutique-eCommerce-Website-Template-768x576.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_6",
         "visual_category": "OCR/Text",
-        "question": "In the online clothing store mentioned by Gina, there is an image. What is the percentage discount advertised on the main banner?",
-        "answer": "50% OFF",
+        "question": "In the cheers mentioned by Jon, there is an image. What year is visible on the champagne bottle label?",
+        "answer": "1921",
         "img_url": [
-            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+            "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_10",
+        "session_id": "Jon_Gina_session_6",
         "visual_category": "Attribute",
-        "question": "In the online clothing store mentioned by Gina, there is an image. What color is the beanie worn by the person in the background image?",
-        "answer": "Red",
+        "question": "In the cheers mentioned by Jon, there is an image. What color is the fabric under the bottle?",
+        "answer": "Red with white dots",
         "img_url": [
-            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+            "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_15",
+        "session_id": "Jon_Gina_session_6",
+        "visual_category": "Attribute",
+        "question": "In the cheers mentioned by Jon, there is an image. What color is Santa's bag on the Christmas tree design in the flutes?",
+        "answer": "Yellow",
+        "img_url": [
+            "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Attribute",
+        "question": "In the my fave dance session mentioned by Gina, what color are the baggy pants of the dancer being supported?",
+        "answer": "Light teal",
+        "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
         "visual_category": "Counting",
-        "question": "In the official opening night mentioned by Jon, there is an image. How many people are standing near or holding onto the ballet barre?",
-        "answer": "Eleven",
-        "img_url": [
-            "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_15",
-        "visual_category": "Attribute",
-        "question": "In the official opening night mentioned by Jon, there is an image. What color are the leotards worn by the female dancers?",
-        "answer": "Light blue",
-        "img_url": [
-            "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_15",
-        "visual_category": "Attribute",
-        "question": "In the official opening night mentioned by Jon, there is an image. What color is the wall behind the female dancers?",
-        "answer": "Teal blue",
-        "img_url": [
-            "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_13",
-        "visual_category": "Attribute",
-        "question": "In the learning how to dance mentioned by Gina, there is an image. What material is the floor made of?",
-        "answer": "Wood",
-        "img_url": [
-            "https://www.creativefabrica.com/wp-content/uploads/2022/11/01/Habit-Goals-Tracker-App-UI-Kit-Graphics-44161320-1.png"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_13",
-        "visual_category": "Counting",
-        "question": "In the learning how to dance mentioned by Gina, there is an image. How many long fluorescent light fixtures are visible on the ceiling?",
-        "answer": "Six",
-        "img_url": [
-            "https://www.creativefabrica.com/wp-content/uploads/2022/11/01/Habit-Goals-Tracker-App-UI-Kit-Graphics-44161320-1.png"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_13",
-        "visual_category": "Attribute",
-        "question": "In the learning how to dance mentioned by Gina, there is an image. What color are the socks of the dancer wearing dark pants and standing slightly to the left of the center?",
-        "answer": "Light blue",
-        "img_url": [
-            "https://www.creativefabrica.com/wp-content/uploads/2022/11/01/Habit-Goals-Tracker-App-UI-Kit-Graphics-44161320-1.png"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_13",
-        "visual_category": "Counting",
-        "question": "In the guidance and support mentioned by Jon, there is an image. How many markers are attached to the whiteboard?",
+        "question": "In the my fave dance session mentioned by Gina, how many dancers are visible in the image?",
         "answer": "Two",
         "img_url": [
-            "https://i.redd.it/2308a70tm0m81.jpg"
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_13",
-        "visual_category": "OCR/Text",
-        "question": "In the guidance and support mentioned by Jon, there is an image. What brand name is visible on the monitor above the board?",
-        "answer": "INSIGNIA",
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Spatial",
+        "question": "In the my fave dance session mentioned by Gina, on which part of the body is the visible tattoo on the supported dancer?",
+        "answer": "Left forearm",
         "img_url": [
-            "https://i.redd.it/2308a70tm0m81.jpg"
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
         ]
     },
     {
-        "session_id": "Jon_Gina_session_13",
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Counting",
+        "question": "In the event next month mentioned by Jon, there is an image. How many dancers are clearly visible in the front and mid-ground on the stage?",
+        "answer": "19 dancers",
+        "img_url": [
+            "https://dancespirit.com/wp-content/uploads/2021/10/take-the-stage-at-americas-1-dance-competition-3.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
         "visual_category": "Attribute",
-        "question": "In the guidance and support mentioned by Jon, there is an image. What color is the word 'SOAR' written on the whiteboard?",
-        "answer": "Blue",
+        "question": "In the event next month mentioned by Jon, there is an image. What are the dominant colors of the stage lighting illuminating the performers?",
+        "answer": "Blue and purple",
         "img_url": [
-            "https://i.redd.it/2308a70tm0m81.jpg"
+            "https://dancespirit.com/wp-content/uploads/2021/10/take-the-stage-at-americas-1-dance-competition-3.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Attribute",
+        "question": "In the event next month mentioned by Jon, there is an image. What color are the decorative, sparkly patterns on the dancers' black outfits?",
+        "answer": "Silver or white",
+        "img_url": [
+            "https://dancespirit.com/wp-content/uploads/2021/10/take-the-stage-at-americas-1-dance-competition-3.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Counting",
+        "question": "In the an awesome night of performances mentioned by Jon, there is an image. How many dancers are performing on stage?",
+        "answer": "Seven",
+        "img_url": [
+            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Attribute",
+        "question": "In the an awesome night of performances mentioned by Jon, there is an image. What specific accessories are visible on the dancers' ankles?",
+        "answer": "Bells",
+        "img_url": [
+            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_8",
+        "visual_category": "Attribute",
+        "question": "In the an awesome night of performances mentioned by Jon, there is an image. What colors is the stage backdrop illuminated with?",
+        "answer": "Purple and blue",
+        "img_url": [
+            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_18",
+        "visual_category": "Counting",
+        "question": "In the last networking event mentioned by Jon, there is an image. How many people are visibly holding a smartphone or tablet?",
+        "answer": "Two",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/visual-professionals-connecting-networking-event_1314467-137612.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_18",
+        "visual_category": "Attribute",
+        "question": "In the last networking event mentioned by Jon, there is an image. What is the hair color of the woman standing in the center, facing right?",
+        "answer": "Blonde",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/visual-professionals-connecting-networking-event_1314467-137612.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_18",
+        "visual_category": "Attribute",
+        "question": "In the last networking event mentioned by Jon, there is an image. What are the primary elements forming the digital network overlay?",
+        "answer": "Lines and dots",
+        "img_url": [
+            "https://img.freepik.com/premium-photo/visual-professionals-connecting-networking-event_1314467-137612.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_18",
+        "visual_category": "Action",
+        "question": "In the event mentioned by Jon, there is an image. What is the man in the blue suit doing with the cards?",
+        "answer": "Fanning them out",
+        "img_url": [
+            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_18",
+        "visual_category": "Attribute",
+        "question": "In the event mentioned by Jon, there is an image. What pattern is on the dress of the woman holding a wine glass?",
+        "answer": "Red floral",
+        "img_url": [
+            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_18",
+        "visual_category": "Counting",
+        "question": "In the event mentioned by Jon, there is an image. How many plastic cups are visible on the blue table?",
+        "answer": "One",
+        "img_url": [
+            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_5",
+        "visual_category": "Attribute",
+        "question": "In the some cool designs mentioned by Gina, what visible feature does the bottom half of the left garment have?",
+        "answer": "Pleats",
+        "img_url": [
+            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_5",
+        "visual_category": "Counting",
+        "question": "In the some cool designs mentioned by Gina, how many buttons are visible on the front of the right garment?",
+        "answer": "Three",
+        "img_url": [
+            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_5",
+        "visual_category": "Attribute",
+        "question": "In the some cool designs mentioned by Gina, what is the color of the inner lining visible near the label on the right garment?",
+        "answer": "Purple",
+        "img_url": [
+            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_5",
+        "visual_category": "Attribute",
+        "question": "In the keeping plugging away and staying optimistic mentioned by Jon, there is an image. What is the texture of the woman's hair?",
+        "answer": "Curly",
+        "img_url": [
+            "https://c8.alamy.com/comp/P6Y6CX/focused-determined-young-female-dancer-stretching-in-dance-studio-P6Y6CX.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_5",
+        "visual_category": "Action",
+        "question": "In the keeping plugging away and staying optimistic mentioned by Jon, there is an image. What is the position of the woman's left hand?",
+        "answer": "Open",
+        "img_url": [
+            "https://c8.alamy.com/comp/P6Y6CX/focused-determined-young-female-dancer-stretching-in-dance-studio-P6Y6CX.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_5",
+        "visual_category": "Counting",
+        "question": "In the keeping plugging away and staying optimistic mentioned by Jon, there is an image. How many distinct window-like bright panels are visible on the right side of the background?",
+        "answer": "Two",
+        "img_url": [
+            "https://c8.alamy.com/comp/P6Y6CX/focused-determined-young-female-dancer-stretching-in-dance-studio-P6Y6CX.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_1",
-        "visual_category": "Counting",
-        "question": "In the this mentioned by Jon, there is an image. How many vertical light strips are visible on the left side of the stage?",
-        "answer": "Two",
+        "visual_category": "Attribute",
+        "question": "In the current moment mentioned by Jon, there is an image. What color are the vertical lights on the left?",
+        "answer": "Yellowish-white",
         "img_url": [
             "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dekkadancers_Mu%C5%BE_z_Malty.jpg"
         ]
@@ -551,53 +713,53 @@
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Attribute",
-        "question": "In the this mentioned by Jon, there is an image. What color is the fabric hanging on the right side of the stage?",
-        "answer": "Red",
+        "question": "In the current moment mentioned by Jon, there is an image. Is the dancer wearing shoes?",
+        "answer": "No",
         "img_url": [
             "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dekkadancers_Mu%C5%BE_z_Malty.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_1",
-        "visual_category": "Attribute",
-        "question": "In the this mentioned by Jon, there is an image. What is the visible condition of the stage floor?",
-        "answer": "Scratched",
-        "img_url": [
-            "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dekkadancers_Mu%C5%BE_z_Malty.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_1",
-        "visual_category": "Attribute",
-        "question": "In the first place at a regionals mentioned by Gina, there is an image. What color are the medals hanging around their necks?",
-        "answer": "Gold",
-        "img_url": [
-            "https://studio65dancecompany.com/wp-content/uploads/2017/10/I-Found.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Counting",
-        "question": "In the first place at a regionals mentioned by Gina, there is an image. How many bouquets of flowers are they holding?",
+        "question": "In the current moment mentioned by Jon, there is an image. How many clothes hangers are visible?",
+        "answer": "One",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dekkadancers_Mu%C5%BE_z_Malty.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_1",
+        "visual_category": "Counting",
+        "question": "In the winning first place at a regionals mentioned by Gina, there is an image. How many gold medals are visible around the individuals' necks?",
         "answer": "Two",
         "img_url": [
-            "https://studio65dancecompany.com/wp-content/uploads/2017/10/I-Found.jpg"
+            "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_NHK_Trophy_Dance_-_Meryl_DAVIS_-_Charlie_WHITE_-_Gold_Medal_-_0948a.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Attribute",
-        "question": "In the first place at a regionals mentioned by Gina, there is an image. What style are the cuffs on the man's shirt?",
-        "answer": "Ruffled",
+        "question": "In the dance competitions and shows mentioned by Gina, there is an image. What color is the skirt portion of the woman's dress?",
+        "answer": "Maroon",
         "img_url": [
-            "https://studio65dancecompany.com/wp-content/uploads/2017/10/I-Found.jpg"
+            "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_NHK_Trophy_Dance_-_Meryl_DAVIS_-_Charlie_WHITE_-_Gold_Medal_-_0948a.jpg"
+        ]
+    },
+    {
+        "session_id": "Jon_Gina_session_1",
+        "visual_category": "Attribute",
+        "question": "In the awesome feeling of accomplishment mentioned by Gina, there is an image. What material does the trophy held by the man appear to be made of?",
+        "answer": "Glass",
+        "img_url": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_NHK_Trophy_Dance_-_Meryl_DAVIS_-_Charlie_WHITE_-_Gold_Medal_-_0948a.jpg"
         ]
     },
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Counting",
-        "question": "In the ideal dance studio mentioned by Jon, there is an image. How many yoga mats are visible on the floor?",
-        "answer": "7",
+        "question": "In the ideal dance studio by the water mentioned by Jon, there is an image. How many dark-colored yoga mats are visible on the floor?",
+        "answer": "Four",
         "img_url": [
             "https://live.staticflickr.com/2730/4360526470_6bee96b5d7_b.jpg"
         ]
@@ -605,8 +767,8 @@
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Attribute",
-        "question": "In the ideal dance studio mentioned by Jon, there is an image. What color is the water visible through the windows?",
-        "answer": "Blue/Turquoise",
+        "question": "In the ideal dance studio by the water mentioned by Jon, there is an image. What color is the most prominent mat near the back-center?",
+        "answer": "Dark red/Maroon",
         "img_url": [
             "https://live.staticflickr.com/2730/4360526470_6bee96b5d7_b.jpg"
         ]
@@ -614,8 +776,8 @@
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Attribute",
-        "question": "In the ideal dance studio mentioned by Jon, there is an image. What material is the floor of the studio made of?",
-        "answer": "Dark wood",
+        "question": "In the ideal dance studio by the water mentioned by Jon, there is an image. What geometric shape are the props scattered around the mats on the floor?",
+        "answer": "Rectangular prisms",
         "img_url": [
             "https://live.staticflickr.com/2730/4360526470_6bee96b5d7_b.jpg"
         ]
@@ -623,7 +785,7 @@
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Counting",
-        "question": "In the rehearsal mentioned by Jon, there is an image. How many dancers are visible on stage?",
+        "question": "In the rehearsal with a small group of dancers mentioned by Jon, there is an image. How many dancers are visible on the stage?",
         "answer": "Four",
         "img_url": [
             "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
@@ -632,7 +794,7 @@
     {
         "session_id": "Jon_Gina_session_1",
         "visual_category": "Attribute",
-        "question": "In the rehearsal mentioned by Jon, there is an image. What is the predominant color of the dancers' attire?",
+        "question": "In the choreography to perform at a nearby festival mentioned by Jon, there is an image. What is the predominant color of the dancers' attire?",
         "answer": "White",
         "img_url": [
             "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
@@ -640,119 +802,11 @@
     },
     {
         "session_id": "Jon_Gina_session_1",
-        "visual_category": "Attribute",
-        "question": "In the rehearsal mentioned by Jon, there is an image. Are the dancers wearing any shoes or other footwear?",
-        "answer": "No, they are barefoot",
+        "visual_category": "Spatial",
+        "question": "In the rehearsal with a small group of dancers mentioned by Jon, there is an image. Are the dancers positioned close together or spread out across the performance area?",
+        "answer": "Spread out",
         "img_url": [
             "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_17",
-        "visual_category": "Counting",
-        "question": "In the image Jon sent, there is an image. How many circular Pokeball-like symbols are drawn at the bottom?",
-        "answer": "Three",
-        "img_url": [
-            "https://thumbs.dreamstime.com/z/friends-high-five-students-support-outdoor-team-together-agreement-celebration-people-campus-communication-318704231.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_17",
-        "visual_category": "Attribute",
-        "question": "In the image Jon sent, there is an image. What is the primary color used for the background of the drawing?",
-        "answer": "Blue",
-        "img_url": [
-            "https://thumbs.dreamstime.com/z/friends-high-five-students-support-outdoor-team-together-agreement-celebration-people-campus-communication-318704231.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_17",
-        "visual_category": "Attribute",
-        "question": "In the image Jon sent, there is an image. What specific shape forms the decorative border along the top and sides of the drawing?",
-        "answer": "Hearts",
-        "img_url": [
-            "https://thumbs.dreamstime.com/z/friends-high-five-students-support-outdoor-team-together-agreement-celebration-people-campus-communication-318704231.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_16",
-        "visual_category": "Counting",
-        "question": "In the new unique pieces for her store mentioned by Gina, there is an image. How many distinct bird figures are part of the graphic design on the hoodie?",
-        "answer": "Four",
-        "img_url": [
-            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_16",
-        "visual_category": "Attribute",
-        "question": "In the new unique pieces for her store mentioned by Gina, there is an image. What are the main accent colors used in the graphic design on the black hoodie?",
-        "answer": "Red and brown",
-        "img_url": [
-            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_16",
-        "visual_category": "OCR/Text",
-        "question": "In the new unique pieces for her store mentioned by Gina, there is an image. What word is clearly visible in capital letters as part of the graphic on the hoodie?",
-        "answer": "APPAREL",
-        "img_url": [
-            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_16",
-        "visual_category": "Counting",
-        "question": "In the advice mentioned by Gina, there is an image. How many distinct colors are used for the long, curved lines on the poster?",
-        "answer": "Three",
-        "img_url": [
-            "https://i.redd.it/b1sgp694awda1.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_16",
-        "visual_category": "Attribute",
-        "question": "In the advice mentioned by Gina, there is an image. What color is the circular shape in the center of the poster?",
-        "answer": "Purple",
-        "img_url": [
-            "https://i.redd.it/b1sgp694awda1.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_16",
-        "visual_category": "OCR/Text",
-        "question": "In the advice mentioned by Gina, there is an image. What color is the word 'GIVE' in the text?",
-        "answer": "Green",
-        "img_url": [
-            "https://i.redd.it/b1sgp694awda1.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_18",
-        "visual_category": "Attribute",
-        "question": "In the event mentioned by Jon, there is an image. What is the main color of the patterned carpet visible under the table?",
-        "answer": "Dark blue",
-        "img_url": [
-            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_18",
-        "visual_category": "Counting",
-        "question": "In the event mentioned by Jon, there is an image. How many transparent plastic cups are visible on the blue table?",
-        "answer": "One",
-        "img_url": [
-            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
-        ]
-    },
-    {
-        "session_id": "Jon_Gina_session_18",
-        "visual_category": "Attribute",
-        "question": "In the event mentioned by Jon, there is an image. What color is the dress worn by the woman holding the stemmed glass?",
-        "answer": "Red and black",
-        "img_url": [
-            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
         ]
     }
 ]
