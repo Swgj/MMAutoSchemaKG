@@ -103,3 +103,4 @@ class ProcessedChunk:
     transcript: str
     llm_payload: List[Dict[str, Any]]   #OpenAI format Multimodal Message list
     image_map: Dict[str, str]   # map of image id to image url
+    session_metadata: Dict[str, Any] = field(default_factory=dict) # Store the original session metadata

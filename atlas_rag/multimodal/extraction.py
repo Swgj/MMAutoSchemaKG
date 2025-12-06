@@ -156,7 +156,7 @@ class MultimodalKGExtractor(KnowledgeGraphExtractor):
                             "chunk_index": chunk.window_index,
                             "transcript": chunk.transcript,
                             "image_map": chunk.image_map, # 多模态特有字段
-                            "metadata": {} 
+                            "metadata": chunk.session_metadata
                         }
 
                         # 填充各阶段结果

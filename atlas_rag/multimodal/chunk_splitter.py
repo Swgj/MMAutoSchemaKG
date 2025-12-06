@@ -22,6 +22,12 @@ class ConversationSplitter:
         messages = session.messages
         total_msgs = len(messages)
         
+        msg_img_counts = [0] * total_msgs # use msg_img_counts[i] represent img count before i-th msg
+        cur_img_idx = 0
+        for i in range(total_msgs):
+            msg_img_counts[i] = cur_img_idx
+            cur_img_idx += len(messages[i].img_url)
+        
         # 1. Calculate step size
         step = self.window_size - self.window_overlap
         if step < 1: 
@@ -35,9 +41,11 @@ class ConversationSplitter:
             # Generate unique Window ID (e.g., "session_123_w0")
             window_idx = i // step
             chunk_id = f"{session.id}_w{window_idx}"
+
+            global_img_start_idx = msg_img_counts[i]
             
             # 3. Process the window by delegating to DataModel methods
-            processed_data = self._process_window(window_msgs, chunk_id)
+            processed_data = self._process_window(window_msgs, session.id, global_img_start_idx)
             
             # 4. Create the final Chunk object
             chunk = ProcessedChunk(
@@ -46,7 +54,8 @@ class ConversationSplitter:
                 window_index=window_idx,
                 transcript=processed_data['transcript'],
                 llm_payload=processed_data['llm_payload'],
-                image_map=processed_data['image_map']
+                image_map=processed_data['image_map'],
+                session_metadata=session.metadata
             )
             chunks.append(chunk)
             
@@ -56,7 +65,7 @@ class ConversationSplitter:
                 
         return chunks
 
-    def _process_window(self, messages: List[MultimodalMessage], chunk_id: str) -> Dict[str, Any]:
+    def _process_window(self, messages: List[MultimodalMessage], session_id: str, global_img_start_idx: int) -> Dict[str, Any]:
         """
         Orchestrates the formatting of a list of messages.
         It calls `format_to_openai_content` on each message instance.
@@ -66,7 +75,7 @@ class ConversationSplitter:
         transcript_lines = []
         
         # Global counter for images within this specific chunk
-        current_img_idx = 0
+        current_img_idx = global_img_start_idx
         
         # Add System-level instruction at the start of the User content list
         llm_payload.append({
@@ -82,7 +91,7 @@ class ConversationSplitter:
             # This handles formatting, ID generation, and anchor injection internally
             result = msg.format_to_openai_content(
                 img_start_index=current_img_idx,
-                id_prefix=chunk_id
+                id_prefix=session_id
             )
             
             # --- 2. Aggregate results ---

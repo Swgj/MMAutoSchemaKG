@@ -1,5 +1,6 @@
 from neo4j import GraphDatabase
 from tqdm import tqdm
+from typing import Dict
 import json
 import logging
 
@@ -42,7 +43,8 @@ class MultimodalNeo4jLoader:
             "CREATE CONSTRAINT IF NOT EXISTS FOR (e:Entity) REQUIRE e.id IS UNIQUE",
             "CREATE CONSTRAINT IF NOT EXISTS FOR (i:Image) REQUIRE i.id IS UNIQUE",
             "CREATE CONSTRAINT IF NOT EXISTS FOR (ep:Episode) REQUIRE ep.id IS UNIQUE",
-            "CREATE CONSTRAINT IF NOT EXISTS FOR (ev:Event) REQUIRE ev.id IS UNIQUE"
+            "CREATE CONSTRAINT IF NOT EXISTS FOR (ev:Event) REQUIRE ev.id IS UNIQUE",
+            "CREATE CONSTRAINT IF NOT EXISTS FOR (s:Session) REQUIRE s.id IS UNIQUE"
         ]
         with self.driver.session() as session:
             for q in queries:
@@ -75,15 +77,33 @@ class MultimodalNeo4jLoader:
         transcript = chunk.get('transcript')
         image_map = chunk.get('image_map', {})
         chunk_index = chunk.get('chunk_index')
+        metadata = chunk.get('metadata', {})
 
         # 1. Create Episode Node(Chunk for Conversation)
         session.run("""
+            // Create Session Node
+            MERGE (s:Session {id: $original_id})
+            SET s += $metadata
+
+            // Create Episode Node(Chunk for Conversation)
             MERGE (ep:Episode {id: $id})
             SET ep.transcript = $transcript,
                 ep.original_session_id = $original_id,
                 ep.chunk_index = $chunk_index
-        """, {'id': chunk_id, 'transcript': transcript, 'original_id': original_id, 'chunk_index': chunk_index})
 
+            // Hireachy: Session -> Episode
+            MERGE (s)-[:HAS_CHUNK]->(ep)
+        """, {'id': chunk_id, 'transcript': transcript, 'original_id': original_id, 'chunk_index': chunk_index, 'metadata': metadata})
+
+        # 1.1 Create Chunk temperal relation Chunk -> next Chunk
+        if chunk_index is not None and chunk_index > 0:
+            prev_chunk_id = f"{original_id}_w{chunk_index - 1}"
+            session.run("""
+                MERGE (prev:Episode {id: $prev_id})
+                MERGE (curr:Episode {id: $curr_id})
+                MERGE (prev)-[:NEXT]->(curr)
+            """, {'curr_id': chunk_id, 'prev_id': prev_chunk_id})
+        
         # 2. Create Image Nodes(with URL)
         for img_id, img_url in image_map.items():
             session.run("""
@@ -102,6 +122,9 @@ class MultimodalNeo4jLoader:
                 tail = triple.get('Tail')
                 
                 if not all([head, relation, tail]): continue
+                # Skip if the node is hallucinated image node
+                if not all([self._is_valid_node(head, image_map), self._is_valid_node(tail, image_map)]): continue
+
                 head_labels = ['Image'] if str(head).startswith('<IMG_') or str(head).startswith('IMG_') else ['Entity']
                 tail_labels = ['Image'] if str(tail).startswith('<IMG_') or str(tail).startswith('IMG_') else ['Entity']
                 
@@ -187,3 +210,10 @@ class MultimodalNeo4jLoader:
                     'r_type': rel_type
                 })
 
+    def _is_valid_node(self, node_id: str, image_map: Dict[str, str]) -> bool:
+        """Filter hallucinated image nodes"""
+        if str(node_id).startswith('<IMG_'):
+            if node_id not in image_map:
+                logger.warning(f"Image node {node_id} not found in image map")
+                return False
+        return True
