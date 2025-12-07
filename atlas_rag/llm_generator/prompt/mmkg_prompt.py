@@ -45,3 +45,8 @@ MULTIMODAL_TRIPLE_INSTRUCTIONS = {
         """
     }
 }
+
+IMAGE_CAPTION_PROMPT = """
+Describe the main visual content of this image concisely for a knowledge graph retrieval system. 
+Include key objects, visible text (if any), and the overall context.
+"""
