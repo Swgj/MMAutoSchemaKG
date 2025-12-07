@@ -53,7 +53,7 @@ if __name__ == "__main__":
         handlers=[logging.StreamHandler()]
     )
     
-    file_path = 'generation_result/gemini-2.5-flash/kg_extraction/gemini-2.5-flash_locomo_hard_0_output_20251205185010_1_in_1.json'
+    file_path = 'generation_result/gemini-2.5-flash/kg_extraction/gemini-2.5-flash_locomo_hard_0_output_20251207005357_1_in_1.json'
     args = argparse.Namespace(
         file=file_path,
         uri="bolt://localhost:7687",

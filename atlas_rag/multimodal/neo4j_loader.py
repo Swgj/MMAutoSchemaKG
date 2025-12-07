@@ -87,6 +87,7 @@ class MultimodalNeo4jLoader:
 
             // Create Episode Node(Chunk for Conversation)
             MERGE (ep:Episode {id: $id})
+            SET ep += $metadata
             SET ep.transcript = $transcript,
                 ep.original_session_id = $original_id,
                 ep.chunk_index = $chunk_index
@@ -109,9 +110,10 @@ class MultimodalNeo4jLoader:
             session.run("""
                 MERGE (i:Image {id: $id})
                 SET i.url = $url
+                SET i += $metadata
                 MERGE (ep:Episode {id: $chunk_id})
                 MERGE (ep)-[:CONTAINS_IMAGE]->(i)
-            """, {'id': img_id, 'url': img_url, 'chunk_id': chunk_id})
+            """, {'id': img_id, 'url': img_url, 'chunk_id': chunk_id, 'metadata': metadata})
         
         # 3. Import Entity-Relation Triplets
         er_list = chunk.get('entity_relation_dict', [])
@@ -165,10 +167,11 @@ class MultimodalNeo4jLoader:
                 # 4.1 Create Event Node, link to Episode
                 session.run("""
                     MERGE (ev:Event {id: $event_id})
+                    SET ev += $metadata
                     WITH ev
                     MATCH (ep:Episode {id: $chunk_id})
                     MERGE (ep)-[:CONTAINS_EVENT]->(ev)
-                """, {'event_id': event_text, 'chunk_id': chunk_id})
+                """, {'event_id': event_text, 'chunk_id': chunk_id, 'metadata': metadata})
 
                 # 4.2 Link Event -> Entities (INVOLVES)
                 for ent in entities:
@@ -202,18 +205,31 @@ class MultimodalNeo4jLoader:
                     MERGE (t:Event {id: $tail_id})
                     WITH h, t
                     CALL apoc.merge.relationship(h, $r_type, {}, {}, t) YIELD rel
+
+                    SET h += $metadata
+                    SET t += $metadata
+
+                    // make sure each event bind to the episode
+                    WITH h, t, rel
+                    MATCH (ep:Episode {id: $chunk_id})
+                    MERGE (ep)-[:CONTAINS_EVENT]->(h)
+                    MERGE (ep)-[:CONTAINS_EVENT]->(t)
+                    
                     RETURN count(rel)
                 """
                 session.run(query_ere, {
                     'head_id': head_evt,
                     'tail_id': tail_evt,
-                    'r_type': rel_type
+                    'r_type': rel_type,
+                    'chunk_id': chunk_id,
+                    'metadata': metadata
                 })
 
     def _is_valid_node(self, node_id: str, image_map: Dict[str, str]) -> bool:
         """Filter hallucinated image nodes"""
-        if str(node_id).startswith('<IMG_'):
-            if node_id not in image_map:
+        cleaned_node_id = node_id.replace('<', '').replace('>', '')
+        if str(cleaned_node_id).startswith('IMG_'):
+            if cleaned_node_id not in image_map:
                 logger.warning(f"Image node {node_id} not found in image map")
                 return False
         return True

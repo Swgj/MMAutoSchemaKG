@@ -39,7 +39,7 @@ def main():
 
     # 3. 初始化 LLM 生成器
     # max_workers 控制并发数，多模态请求较大，建议不要设太大以免触发 Rate Limit
-    triple_generator = LLMGenerator(client, model_name=args.model, max_workers=5)
+    triple_generator = LLMGenerator(client, model_name=args.model, max_workers=8)
 
     # 4. 配置抽取参数
     # 这里我们将 window_size 和 window_overlap 注入到 Config 中
@@ -51,7 +51,7 @@ def main():
         batch_size_triple=5,   # 多模态 Payload 很大，Batch Size 建议调小 (5-10)
         max_new_tokens=4096,
         record=True,           # 记录 Token 消耗
-        debug_mode= True,      # 调试模式，只处理前20个样本
+        # debug_mode= True,      # 调试模式，只处理前20个样本
         # --- 多模态特有参数 (会被 getattr 读取) ---
         # window_size=10, 
         # window_overlap=2
