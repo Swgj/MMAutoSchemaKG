@@ -303,7 +303,7 @@ class LLMGenerator():
     def ner(self, text):
         messages = [
             {"role": "system", "content": "Please extract the entities from the following question and output them separated by comma, in the following format: entity1, entity2, ..."},
-            {"role": "user", "content": f"Extract the named entities from: {text}"},
+            {"role": "user", "content": f"Extract the entities from: {text}"},
         ]
         return self.generate_response(messages)
     

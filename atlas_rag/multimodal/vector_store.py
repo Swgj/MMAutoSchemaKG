@@ -209,6 +209,73 @@ class MultimodalVectorStore:
                 pbar.update(len(records))
             pbar.close()
 
+    def process_relationship_embeddings(self, batch_size=50):
+        """
+        [Step 3] Compute embeddings for Relationships (Edges).
+        Constructs text: "HeadNode Relation TailNode" -> Embedding -> Store on Edge.
+        """
+        logger.info("Computing embeddings for Relationships (Edges)...")
+        
+        # 排除结构性边，只计算语义边
+        # Note: INVOLVES (Event->Entity) is semantically related, should be included
+        excluded_types = ['HAS_CHUNK', 'NEXT', 'MENTIONS', 'CONTAINS_IMAGE', 'CONTAINS_EVENT', 'HAS_IMAGE']
+        filter_clause = f"NOT type(r) IN {excluded_types}"
+        
+        with self.driver.session() as session:
+            # 1. 统计待处理的边
+            count_query = f"MATCH ()-[r]->() WHERE r.embedding IS NULL AND {filter_clause} RETURN count(r) AS count"
+            total = session.run(count_query).single()["count"]
+            logger.info(f"Found {total} relationships pending embedding.")
+            
+            if total == 0: return
+
+            pbar = tqdm(total=total, desc="Embedding Edges")
+            
+            while True:
+                # 2. Fetch a batch of edges (get head and tail node IDs for building text)
+                # 使用 elementId(r) 在 Neo4j 5.x+ 唯一标识边
+                fetch_query = f"""
+                    MATCH (h)-[r]->(t)
+                    WHERE r.embedding IS NULL AND {filter_clause}
+                    RETURN elementId(r) AS id, h.id AS head, type(r) AS rel, t.id AS tail
+                    LIMIT {batch_size}
+                """
+                records = session.run(fetch_query).data()
+                if not records: break
+                
+                ids = []
+                texts = []
+                for rec in records:
+                    ids.append(rec['id'])
+                    # 构建语义文本: "Caroline UPLOADED IMG_..." -> "Caroline uploaded IMG_..."
+                    # 将下划线转为空格，全大写转小写，更符合自然语言
+                    rel_text = rec['rel'].replace("_", " ").lower()
+                    text = f"{rec['head']} {rel_text} {rec['tail']}"
+                    texts.append(text)
+                
+                try:
+                    # 3. 计算向量 (query_type='edge')
+                    embeddings = self.emb_model.encode(texts, query_type='edge')
+                    
+                    updates = []
+                    for eid, emb in zip(ids, embeddings):
+                        updates.append({'id': eid, 'embedding': emb.tolist()})
+                    
+                    # 4. 批量写回
+                    session.run("""
+                        UNWIND $updates AS row
+                        MATCH ()-[r]->() 
+                        WHERE elementId(r) = row.id
+                        SET r.embedding = row.embedding
+                    """, {'updates': updates})
+                    
+                except Exception as e:
+                    logger.error(f"Edge embedding batch failed: {e}")
+                    break
+                
+                pbar.update(len(records))
+            pbar.close()
+
     def run_all(self):
         """Orchestrate the full pipeline"""
         # 1. Setup Indexes
@@ -228,6 +295,9 @@ class MultimodalVectorStore:
         # Image: Use description (generated in step 2)
         # Treat description as a "passage" or "entity" depending on length. "passage" is safer.
         self.process_embeddings("Image", "description", query_type="passage")
+        
+        # Edge embedding
+        self.process_relationship_embeddings()
         
         logger.info("All multimodal vector store tasks completed!")
 
