@@ -6,7 +6,7 @@ import os
 import hashlib
 import base64
 from curl_cffi import requests
-from typing import Optional
+from typing import Optional, Dict, Any
 from io import BytesIO
 from PIL import Image
 
@@ -92,4 +92,28 @@ def url_to_base64(url: str, cache_dir: str = "images_cache") -> Optional[str]:
     if local_path:
         return image_to_base64(local_path)
     
+    return None
+
+
+def load_image_content_from_dict(image_id: str, image_dict: Dict[str, str]) -> Optional[Dict[str, Any]]:
+    """
+    Load image content from image_dict by image_id
+
+    Args:
+        image_id: The ID of the image
+        image_dict: The dictionary of images
+
+    Returns:
+        The content of the image (OpenAI format)
+    """
+    img_url = image_dict.get(image_id)
+    if img_url:
+        base64_content = url_to_base64(img_url)
+        if base64_content:
+            text_content = {"type": "text", "text": f"Image {image_id} shows as follows:"}
+            img_content = {"type": "image_url","image_url": {"url": base64_content}}
+            return {
+                "role": "user",
+                "content": [text_content, img_content]
+            }
     return None

@@ -5,6 +5,7 @@ from tenacity import retry, stop_after_attempt, stop_after_delay, wait_fixed, wa
 from copy import deepcopy
 from concurrent.futures import ThreadPoolExecutor
 from atlas_rag.llm_generator.prompt.rag_prompt import cot_system_instruction, cot_system_instruction_kg, cot_system_instruction_no_doc, prompt_template
+from atlas_rag.llm_generator.prompt.react_prompt import MULTIMODAL_REACT_SYSTEM_INSTRUCTION, TEXT_REACT_SYSTEM_INSTRUCTION
 from atlas_rag.llm_generator.prompt.lkg_prompt import ner_prompt, keyword_filtering_prompt, simple_ner_prompt
 from atlas_rag.llm_generator.prompt.rag_prompt import filter_triple_messages
 from atlas_rag.llm_generator.format.validate_json_output import *
@@ -379,24 +380,7 @@ class LLMGenerator():
             return []  # Fallback to empty list or raise custom exception
 
     def generate_with_react(self, question, context=None, max_new_tokens=1024, search_history=None, logger=None):
-        react_system_instruction = (
-            'You are an advanced AI assistant that uses the ReAct framework to solve problems through iterative search. '
-            'Follow these steps in your response:\n'
-            '1. Thought: Think step by step and analyze if the current context is sufficient to answer the question. If not, review the current context and think critically about what can be searched to help answer the question.\n'
-            '   - Break down the question into *1-hop* sub-questions if necessary (e.g., identify key entities like people or places before addressing specific events).\n'
-            '   - Use the available context to make inferences about key entities and their relationships.\n'
-            '   - If a previous search query (prefix with "Previous search attempt") was not useful, reflect on why and adjust your strategy—avoid repeating similar queries and consider searching for general information about key entities or related concepts.\n'
-            '2. Action: Choose one of:\n'
-            '   - Search for [Query]: If you need more information, specify a new query. The [Query] must differ from previous searches in wording and direction to explore new angles.\n'
-            '   - No Action: If the current context is sufficient.\n'
-            '3. Answer: Provide one of:\n'
-            '   - A concise, definitive response as a noun phrase if you can answer.\n'
-            '   - "Need more information" if you need to search.\n\n'
-            'Format your response exactly as:\n'
-            'Thought: [your reasoning]\n'
-            'Action: [Search for [Query] or No Action]\n'
-            'Answer: [concise noun phrase if you can answer, or "Need more information" if you need to search]\n\n'
-        )
+        react_system_instruction = TEXT_REACT_SYSTEM_INSTRUCTION
         
         # Build context with search history if available
         full_context = []
@@ -421,7 +405,61 @@ class LLMGenerator():
             logger.info(f"Messages for ReAct generation: {search_history}Question: {question}")
         return self.generate_response(messages, max_new_tokens=max_new_tokens)
 
-    
+    def generate_with_multimodal_react(self, question, context, max_new_tokens=1024, search_history=None, logger=None):
+        """
+        Similar to generate_with_react, but handles multimodal context composed of text and images.
+
+        Args:
+            question (str): User query.
+            context (list): List of OpenAI-style content blocks (mix of text/image dicts).
+            search_history (list): Tuples of (thought, action, observation) that describe prior iterations.
+        """
+        context = context or []
+
+        history_text = []
+        if search_history:
+            for i, (_, action, observation) in enumerate(search_history):
+                history_text.append(
+                    f"Previous search attempt {i+1}:\nAction: {action}\nObservation: {observation}"
+                )
+
+        final_user_content = []
+        if history_text:
+            final_user_content.append(
+                {
+                    "type": "text",
+                    "text": "--- Reasoning History ---\n" + "\n".join(history_text) + "\n",
+                }
+            )
+
+        final_user_content.append(
+            {
+                "type": "text",
+                "text": "--- Current Context (Text & Images) ---",
+            }
+        )
+        final_user_content.extend(context)
+        final_user_content.append(
+            {
+                "type": "text",
+                "text": (
+                    "\n--- Question ---\n"
+                    f"{question}\n\nPlease think step by step and output Thought / Action / Answer."
+                ),
+            }
+        )
+
+        messages = [
+            {"role": "system", "content": MULTIMODAL_REACT_SYSTEM_INSTRUCTION},
+            {"role": "user", "content": final_user_content},
+        ]
+
+        if logger:
+            logger.info(f"Generating multimodal ReAct response for question: {question}")
+
+        return self.generate_response(messages, max_new_tokens=max_new_tokens, temperature=0.5)
+
+
     def triple_extraction(self, messages, result_schema, max_tokens=4096, stage=None, record=False, allow_empty=True):
         if isinstance(messages[0], dict):
             messages = [messages]
