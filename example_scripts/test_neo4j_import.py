@@ -20,12 +20,14 @@ def main(args=None):
                             help="Neo4j Password (default: password)")
         parser.add_argument("--clear", action="store_true", 
                             help="[DANGER] Clear the database before importing")
+        parser.add_argument("--database_name", type=str, default="neo4j", 
+                            help="Neo4j Database Name (default: neo4j)")
 
         args = parser.parse_args()
     logger.info(f"Connecting to Neo4j at {args.uri}...")
 
     try:
-        neo4j_loader = MultimodalNeo4jLoader(args.uri, args.user, args.password)
+        neo4j_loader = MultimodalNeo4jLoader(args.uri, args.user, args.password, database_name=args.database_name)
 
         if args.clear:
             logger.warning("Clearing the database before importing...")
@@ -53,12 +55,15 @@ if __name__ == "__main__":
         handlers=[logging.StreamHandler()]
     )
     
-    file_path = 'generation_result/gemini-2.5-flash/kg_extraction/gemini-2.5-flash_locomo_hard_0_output_20251207005357_1_in_1.json'
-    args = argparse.Namespace(
-        file=file_path,
-        uri="bolt://localhost:7687",
-        user="neo4j",
-        password="password",
-        clear=True
-    )
-    main(args)
+    # # For debug
+    # file_path = 'generation_result/gemini-2.5-flash/kg_extraction/gemini-2.5-flash_locomo_hard_0_output_20251207005357_1_in_1.json'
+    # args = argparse.Namespace(
+    #     file=file_path,
+    #     uri="bolt://localhost:7687",
+    #     user="neo4j",
+    #     password="password",
+    #     clear=True
+    # )
+    # main(args)
+    
+    main()

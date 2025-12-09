@@ -1,6 +1,7 @@
 import os
 import time
 import logging
+import argparse
 from tqdm import tqdm
 from neo4j import GraphDatabase
 from openai import OpenAI
@@ -21,9 +22,10 @@ class MultimodalVectorStore:
     2. Vector Index Creation in Neo4j
     3. Embedding Calculation (using shared EmbeddingAPI)
     """
-    def __init__(self, uri, user, password, vlm_model="gemini-2.5-flash", embedding_model="gemini-embedding-001"):
+    def __init__(self, uri, user, password, database_name="neo4j", vlm_model="gemini-2.5-flash", embedding_model="gemini-embedding-001"):
         # 1. Neo4j Driver
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
+        self.database_name = database_name
         
         # 2. OpenAI Client & VLM Config
         self.llm_client = OpenAI(api_key=os.getenv("GEMINI_API_KEY"), base_url=os.getenv("GEMINI_BASE_URL"))
@@ -56,7 +58,7 @@ class MultimodalVectorStore:
             ("image_index", "Image") # 图片也存文本向量(基于描述)
         ]
         
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             for name, label in indexes:
                 try:
                     # Neo4j 5.x+ 语法
@@ -72,14 +74,14 @@ class MultimodalVectorStore:
                 except Exception as e:
                     logger.warning(f"Index creation warning for {label} (Check your Neo4j version): {e}")
 
-    def generate_image_captions(self, batch_size=10):
+    def generate_image_captions(self, batch_size=8):
         """
         [Step 1] Generate descriptions for images using VLM.
         Stores the result in the 'description' property of Image nodes.
         """
         logger.info(f"Generating image captions using {self.vlm_model}...")
         
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             # 查找所有有 URL 但没有 description 的图片
             count_query = "MATCH (n:Image) WHERE n.description IS NULL AND n.url IS NOT NULL RETURN count(n) AS count"
             total = session.run(count_query).single()["count"]
@@ -155,13 +157,13 @@ class MultimodalVectorStore:
             
             pbar.close()
 
-    def process_embeddings(self, label, property_key, query_type='passage', batch_size=100):
+    def process_embeddings(self, label, property_key, query_type='passage', batch_size=32):
         """
         [Step 2] Compute embeddings for any node type using EmbeddingAPI.
         """
         logger.info(f"Computing embeddings for :{label} using property '{property_key}'...")
         
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             # 查找有内容但没有 embedding 的节点
             count_query = f"MATCH (n:{label}) WHERE n.embedding IS NULL AND n.{property_key} IS NOT NULL RETURN count(n) AS count"
             total = session.run(count_query).single()["count"]
@@ -209,7 +211,7 @@ class MultimodalVectorStore:
                 pbar.update(len(records))
             pbar.close()
 
-    def process_relationship_embeddings(self, batch_size=50):
+    def process_relationship_embeddings(self, batch_size=32):
         """
         [Step 3] Compute embeddings for Relationships (Edges).
         Constructs text: "HeadNode Relation TailNode" -> Embedding -> Store on Edge.
@@ -221,7 +223,7 @@ class MultimodalVectorStore:
         excluded_types = ['HAS_CHUNK', 'NEXT', 'MENTIONS', 'CONTAINS_IMAGE', 'CONTAINS_EVENT', 'HAS_IMAGE']
         filter_clause = f"NOT type(r) IN {excluded_types}"
         
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             # 1. 统计待处理的边
             count_query = f"MATCH ()-[r]->() WHERE r.embedding IS NULL AND {filter_clause} RETURN count(r) AS count"
             total = session.run(count_query).single()["count"]
@@ -301,11 +303,29 @@ class MultimodalVectorStore:
         
         logger.info("All multimodal vector store tasks completed!")
 
+
+def main(args=None):
+    if not args:
+        parser = argparse.ArgumentParser(description="Build Multimodal Vector Store")
+        parser.add_argument("--database_name", type=str, default="neo4j", help="Neo4j Database Name")
+        parser.add_argument("--uri", type=str, default="bolt://localhost:7687", help="Neo4j URI")
+        parser.add_argument("--user", type=str, default="neo4j", help="Neo4j User")
+        parser.add_argument("--password", type=str, default="password", help="Neo4j Password")
+        args = parser.parse_args()
+    
+    store = MultimodalVectorStore(args.uri, args.user, args.password, args.database_name)
+    store.run_all()
+    store.close()
+
+
 if __name__ == "__main__":
-    # 配置区
-    URI = "bolt://localhost:7687"
-    USER = "neo4j"
-    PASSWORD = "password"
+    # # for debug
+    # args = argparse.Namespace(
+    #     database_name="neo4j",
+    #     uri="bolt://localhost:7687",
+    #     user="neo4j",
+    #     password="password"
+    # )
     
     logging.basicConfig(
         level=logging.INFO,
@@ -316,6 +336,5 @@ if __name__ == "__main__":
     logging.getLogger("httpx").setLevel(logging.WARNING)
     logger.info("Starting Multimodal Vector Store")
     
-    store = MultimodalVectorStore(URI, USER, PASSWORD)
-    store.run_all()
-    store.close()
+    # main(args)
+    main()

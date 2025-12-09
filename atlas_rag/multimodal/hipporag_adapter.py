@@ -3,6 +3,7 @@ import numpy as np
 from neo4j import GraphDatabase
 from tqdm import tqdm
 from typing import Dict, Any, List
+import faiss
 import logging
 
 from atlas_rag.vectorstore.embedding_model import EmbeddingAPI # for edge embedding
@@ -15,10 +16,12 @@ class Neo4jToHippoAdapter:
     1. Loads Graph structure (NetworkX)
     2. Loads pre-computed Node Embeddings from Neo4j
     3. Computes Edge Embeddings on-the-fly (or loads if you stored them)
+    4. Build faiss index for retrieval
     """
-    def __init__(self, uri, user, password, embedding_model: EmbeddingAPI):
+    def __init__(self, uri, user, password, embedding_model: EmbeddingAPI, database_name: str = "neo4j"):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
         self.embedding_model = embedding_model
+        self.database_name = database_name
 
     def close(self):
         self.driver.close()
@@ -40,7 +43,7 @@ class Neo4jToHippoAdapter:
         
         VECTOR_DIM = 1536
 
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             # --- 1. Load Episodes (Passages) ---
             logger.info("[Adapter] Loading Episodes (Passages)...")
             # file_id is the same as chunk_id
@@ -135,16 +138,34 @@ class Neo4jToHippoAdapter:
         
         # 节点向量：直接堆叠数据库读出来的
         if node_embeddings_list:
-            node_embeddings_matrix = np.array(node_embeddings_list)
+            node_embeddings_matrix = np.array(node_embeddings_list).astype('float32')
         else:
             logger.warning("No node embeddings found! HippoRAG will perform poorly.")
-            node_embeddings_matrix = np.empty((0, VECTOR_DIM))
+            node_embeddings_matrix = np.empty((0, VECTOR_DIM)).astype('float32')
         
         if edge_embeddings_list:
-            edge_embeddings_matrix = np.array(edge_embeddings_list)
+            edge_embeddings_matrix = np.array(edge_embeddings_list).astype('float32')
         else:
             logger.warning("No edge embeddings found! HippoRAG will perform poorly.")
-            edge_embeddings_matrix = np.empty((0, VECTOR_DIM))
+            edge_embeddings_matrix = np.empty((0, VECTOR_DIM)).astype('float32')
+
+        # ---- 5. 构建 FAISS 索引 ----
+        logger.info("[Adapter] Building FAISS Indices...")
+        # Node Index (用于 query2node / ner)
+        node_faiss_index = None
+        if node_embeddings_matrix.shape[0] > 0:
+            # 归一化以支持余弦相似度
+            faiss.normalize_L2(node_embeddings_matrix)
+            # 使用 Inner Product (IP) 索引
+            node_faiss_index = faiss.IndexFlatIP(VECTOR_DIM)
+            node_faiss_index.add(node_embeddings_matrix)
+        
+        # Edge Index (用于 query2edge)
+        edge_faiss_index = None
+        if edge_embeddings_matrix.shape[0] > 0:
+            faiss.normalize_L2(edge_embeddings_matrix)
+            edge_faiss_index = faiss.IndexFlatIP(VECTOR_DIM)
+            edge_faiss_index.add(edge_embeddings_matrix)
 
         logger.info("[Adapter] loaded data successfully!")
         
@@ -162,6 +183,6 @@ class Neo4jToHippoAdapter:
             # 或者留 None
             "text_embeddings": None, 
             
-            "node_faiss_index": None,
-            "edge_faiss_index": None
+            "node_faiss_index": node_faiss_index,
+            "edge_faiss_index": edge_faiss_index
         }

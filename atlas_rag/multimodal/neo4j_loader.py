@@ -12,16 +12,23 @@ class MultimodalNeo4jLoader:
     """
     Load the multimodal extraction result(json-format) into neo4j database.
     """
-    def __init__(self, neo4j_uri: str, neo4j_user: str, neo4j_password: str):
+    def __init__(self, neo4j_uri: str, neo4j_user: str, neo4j_password: str, database_name: str = "neo4j"):
         self.driver = GraphDatabase.driver(neo4j_uri, auth=(neo4j_user, neo4j_password))
+        self.database_name = database_name
+        self.check_database_exist()
     
     def close(self):
         self.driver.close()
 
+    def check_database_exist(self):
+        with self.driver.session(database="system") as session:
+            session.run(f"CREATE DATABASE `{self.database_name}` IF NOT EXISTS")
+            return True
+    
     def _check_apoc_availability(self):
         """Check if the database has installed the APOC plugin"""
         try:
-            with self.driver.session() as session:
+            with self.driver.session(database=self.database_name) as session:
                 session.run("RETURN apoc.version()").single()
         except Exception as e:
             logger.error("Error: APOC plugin not detected! This loader requires APOC.")
@@ -30,7 +37,7 @@ class MultimodalNeo4jLoader:
         
     def clear_database(self):
         """WARNING: This will clear the entire database!"""
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             try:
                 session.run("CALL apoc.periodic.iterate('MATCH (n) RETURN n', 'DETACH DELETE n', {batchSize:1000})")
             except:
@@ -46,7 +53,7 @@ class MultimodalNeo4jLoader:
             "CREATE CONSTRAINT IF NOT EXISTS FOR (ev:Event) REQUIRE ev.id IS UNIQUE",
             "CREATE CONSTRAINT IF NOT EXISTS FOR (s:Session) REQUIRE s.id IS UNIQUE"
         ]
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database_name) as session:
             for q in queries:
                 session.run(q)
         logger.info("Constraints created.")
@@ -64,7 +71,7 @@ class MultimodalNeo4jLoader:
                 data = [json.loads(line) for line in f if line.strip()]
             logger.info(f"Loaded {len(data)} chunks from {extraction_result_path}")
 
-            with self.driver.session() as session:
+            with self.driver.session(database=self.database_name) as session:
                 for chunk in tqdm(data, desc="Importing chunks"):
                     self._import_single_chunk(session, chunk)
             logger.info("All chunks imported successfully!")

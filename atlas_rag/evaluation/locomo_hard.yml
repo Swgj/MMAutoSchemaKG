@@ -1,0 +1,22 @@
+# KG Database
+"neo4j_uri": "bolt://localhost:7687"
+"neo4j_user": "neo4j"
+"neo4j_password": "password"
+
+# LLM and Embedding Model
+"model_name": "gemini-2.5-flash"
+"embedding_model_name": "gemini-embedding-001"
+
+# HippoRAG
+"hipporag_mode": "query2node"
+"topk_nodes": 20
+"ppr_alpha": 0.85
+
+# ReAct
+"max_iterations": 5
+"max_new_tokens": 2048
+
+# Data
+"data_path": "example_data/locomo_hard_qa/locomo_hard_qa_0.json"
+"output_path": "example_data/locomo_hard_qa/locomo_hard_qa_0_hipporag_node.json"
+"max_workers": 5
