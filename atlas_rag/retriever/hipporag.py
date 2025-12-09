@@ -35,6 +35,7 @@ class HippoRAGRetriever(BasePassageRetriever):
         self.node_embeddings = data["node_embeddings"]
         self.edge_embeddings = data["edge_embeddings"]
         self.edge_embeddings = self.edge_embeddings / np.linalg.norm(self.edge_embeddings, axis=1, keepdims=True)
+        self.edge_faiss_index = data["edge_faiss_index"]
         self.text_embeddings = data["text_embeddings"]
         file_id_to_node_id = {}
         self.KG = data["KG"]
