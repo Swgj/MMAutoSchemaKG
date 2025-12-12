@@ -17,6 +17,12 @@
 "max_new_tokens": 2048
 
 # Data
-"data_path": "example_data/locomo_hard_qa/locomo_hard_qa_0.json"
-"output_path": "example_data/locomo_hard_qa/locomo_hard_qa_0_hipporag_node.json"
+"data_path": "example_data/locomo_hard_qa/locomo_hard_qa_t.json"
+"output_path": "generation_result/gemini-2.5-flash/mmrag_evaluation/locomo-hard-0-qa-benchmark.json" 
 "max_workers": 5
+
+# benckmark mode
+"benchmark_mode": true
+
+# change database
+"neo4j_database": "locomo-hard-0"

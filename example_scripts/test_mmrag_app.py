@@ -30,7 +30,7 @@ with st.sidebar:
     st.divider()
     
     top_k = st.slider("Top-K Retrieval", min_value=1, max_value=10, value=3)
-    hipporag_mode = st.selectbox("HippoRAG Mode", ["query2edge", "ner", "query2node"])
+    hipporag_mode = st.selectbox("HippoRAG Mode", ["query2node", "query2edge", "ner"])
 
 # --- 核心资源加载 (带缓存) ---
 @st.cache_resource
@@ -54,7 +54,7 @@ def load_system_resources(uri, user, pwd):
         llm_generator = LLMGenerator(client, model_name="gemini-2.5-flash")
         
         # 2. 从 Neo4j 加载数据到内存
-        adapter = Neo4jToHippoAdapter(uri, user, pwd, embedding_model)
+        adapter = Neo4jToHippoAdapter(uri, user, pwd, embedding_model, database_name="locomo-hard-0")
         data = adapter.load_data()
         adapter.close()
         

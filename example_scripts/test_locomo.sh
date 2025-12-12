@@ -12,7 +12,7 @@ BASE_DIR="generation_result/gemini-2.5-flash/kg_extraction"
 # 3. build embedding for each kg
 # with altas_rag.multimodal.vector_store.py
 
-for i in {0..9}
+# for i in {0..9}
 do
     # Step 1 finished, skip
 

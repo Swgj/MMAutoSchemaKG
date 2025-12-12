@@ -1,0 +1,20 @@
+[
+    {
+        "session_id": "Caroline_Melanie_session_9",
+        "visual_category": "Other",
+        "question": "In the pride event mentioned by Caroline, there is an image. What is floating in the air around the people?",
+        "answer": "Bubbles",
+        "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420662/www.travelportland.com/Portland-Pride-Parade-Downtown/Portland-Pride-Parade-Downtown.jpg"
+        ]
+    },
+    {
+        "session_id": "Caroline_Melanie_session_15",
+        "visual_category": "Attribute",
+        "question": "In the kids' exploring and playing mentioned by Melanie, there is an image. What pattern and colors are on the skirt of the girl standing on the right?",
+        "answer": "Rainbow striped",
+        "img_url": [
+            "https://c8.alamy.com/comp/2MW423T/happy-kids-play-outdoor-children-skipping-rope-in-sunny-garden-summer-holiday-fun-group-of-school-children-playing-in-park-playground-healthy-outd-2MW423T.jpg"
+        ]
+    }
+]

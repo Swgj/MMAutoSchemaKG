@@ -25,3 +25,4 @@ z_*
 .DS_Store
 images_cache/
 generation_result/
+logs/

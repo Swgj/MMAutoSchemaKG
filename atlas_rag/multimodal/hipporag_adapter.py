@@ -36,6 +36,7 @@ class Neo4jToHippoAdapter:
         text_dict = {}
         node_list = []      # List of node IDs
         node_embeddings_list = [] # List of numpy arrays
+        text_embeddings_list = [] # List of numpy arrays (should be a subset of node_embeddings_list, for it only contains the embeddings of the Episodes)
         
         edge_list = []      # List of (u, v) tuples
         edge_embeddings_list = [] # List of numpy arrays
@@ -62,11 +63,13 @@ class Neo4jToHippoAdapter:
                 emb = record["emb"]
                 if emb:
                     node_embeddings_list.append(np.array(emb))
+                    text_embeddings_list.append(np.array(emb))
                     VECTOR_DIM = len(emb) # automatically set the vector dimension
                 else:
                     # If really no embedding, maybe need to temporary calculate or report error, here give a warning
                     logger.warning(f"Episode {ep_id} has no embedding!")
                     node_embeddings_list.append(np.zeros(VECTOR_DIM))
+                    text_embeddings_list.append(np.zeros(VECTOR_DIM))
 
             # --- 2. Load Entities/Images/Events ---
             logger.info("[Adapter] Loading Entities & Provenance...")
@@ -103,7 +106,7 @@ class Neo4jToHippoAdapter:
                     node_embeddings_list.append(np.array(emb))
                 else:
                     logger.warning(f"Node {node_id} has no embedding!")
-                    node_embeddings_list.append(np.zeros(1536))
+                    node_embeddings_list.append(np.zeros(VECTOR_DIM))
 
             # --- 3. Load Relationships (Edges) ---
             logger.info("[Adapter] Loading Relationships...")
@@ -139,9 +142,11 @@ class Neo4jToHippoAdapter:
         # 节点向量：直接堆叠数据库读出来的
         if node_embeddings_list:
             node_embeddings_matrix = np.array(node_embeddings_list).astype('float32')
+            text_embeddings_matrix = np.array(text_embeddings_list).astype('float32')
         else:
             logger.warning("No node embeddings found! HippoRAG will perform poorly.")
             node_embeddings_matrix = np.empty((0, VECTOR_DIM)).astype('float32')
+            text_embeddings_matrix = np.array(text_embeddings_list).astype('float32')
         
         if edge_embeddings_list:
             edge_embeddings_matrix = np.array(edge_embeddings_list).astype('float32')
@@ -180,8 +185,7 @@ class Neo4jToHippoAdapter:
             
             # 这里的 text_embeddings 是用于 Dense Retrieval 的
             # 如果你想用纯向量检索，可以传入 node_embeddings_matrix (对应 Episode 部分)
-            # 或者留 None
-            "text_embeddings": None, 
+            "text_embeddings": text_embeddings_matrix, 
             
             "node_faiss_index": node_faiss_index,
             "edge_faiss_index": edge_faiss_index

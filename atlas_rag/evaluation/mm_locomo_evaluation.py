@@ -8,18 +8,19 @@ import concurrent.futures
 from datetime import datetime
 from tqdm import tqdm
 from pandas import DataFrame, Series
-from typing import Tuple, List, Dict
+from typing import Tuple, List, Dict, Union
 from dotenv import load_dotenv
 from openai import OpenAI
 from contextvars import ContextVar
 
 from atlas_rag.llm_generator import LLMGenerator
 from atlas_rag.retriever.hipporag import HippoRAGRetriever
+from atlas_rag.retriever.simple_retriever import SimpleTextRetriever
 from atlas_rag.vectorstore.embedding_model import EmbeddingAPI
 from atlas_rag.multimodal.hipporag_adapter import Neo4jToHippoAdapter
 from atlas_rag.retriever.inference_config import InferenceConfig
 from atlas_rag.multimodal.multimodal_react import MultimodalReAct
-
+from atlas_rag.multimodal.naive_multimodal_rag import NaiveMultimodalRAG
 
 logger = logging.getLogger(__name__)
 
@@ -37,12 +38,14 @@ def build_resources(
     neo4j_uri: str,
     neo4j_user: str,
     neo4j_password: str,
+    neo4j_database: str,
     model_name: str,
     embedding_model_name: str,
     hipporag_mode: str,
     topk_nodes: int,
     ppr_alpha: float,
-) -> Tuple[LLMGenerator, HippoRAGRetriever, dict]:
+    benchmark_mode: bool = False,
+) -> Tuple[LLMGenerator, Union[HippoRAGRetriever, SimpleTextRetriever], dict]:
     """
     加载 LLM、Embedding 模型和图数据，返回 (llm_generator, retriever, data_dict)。
     """
@@ -56,23 +59,30 @@ def build_resources(
     llm_generator = LLMGenerator(client, model_name=model_name)
 
     # 2. 从 Neo4j 加载 HippoRAG 所需的数据结构
-    adapter = Neo4jToHippoAdapter(neo4j_uri, neo4j_user, neo4j_password, embedding_model)
+    adapter = Neo4jToHippoAdapter(neo4j_uri, neo4j_user, neo4j_password, embedding_model, neo4j_database)
     data = adapter.load_data()
     adapter.close()
 
-    # 3. 配置 HippoRAG
-    config = InferenceConfig()
-    config.hipporag_mode = hipporag_mode
-    config.topk_nodes = topk_nodes
-    config.ppr_alpha = ppr_alpha
+    if benchmark_mode:
+        retriever = SimpleTextRetriever(
+            passage_dict=data["text_dict"],
+            sentence_encoder=embedding_model,
+            data=data,
+        )
+    else:
+        # 3. 配置 HippoRAG
+        config = InferenceConfig()
+        config.hipporag_mode = hipporag_mode
+        config.topk_nodes = topk_nodes
+        config.ppr_alpha = ppr_alpha
 
-    retriever = HippoRAGRetriever(
-        llm_generator=llm_generator,
-        sentence_encoder=embedding_model,
-        data=data,
-        inference_config=config,
-        logger=logger,
-    )
+        retriever = HippoRAGRetriever(
+            llm_generator=llm_generator,
+            sentence_encoder=embedding_model,
+            data=data,
+            inference_config=config,
+            logger=logger,
+        )
 
     return llm_generator, retriever, data
 
@@ -80,10 +90,12 @@ def build_resources(
 def process_single_row(
     index: str, row: Series,
     llm_generator: LLMGenerator,
-    retriever: HippoRAGRetriever,
+    retriever: Union[HippoRAGRetriever, SimpleTextRetriever],
     image_map: dict,
     max_iterations: int,
     max_new_tokens: int,
+    benchmark_mode: bool = False,
+    recall_compute: bool = False,
 ) -> Tuple[str, str, List[tuple]]:
     token = row_context.set(f"Row-{index}")
     try:
@@ -91,15 +103,30 @@ def process_single_row(
         if not question:
             return index, "Error: Empty question", []
         
-        mm_react = MultimodalReAct(llm_generator)
-        answer, history = mm_react.generate_with_rag_react(
-            question=question,
-            retriever=retriever,
-            image_map=image_map,
-            max_iterations=max_iterations,
-            max_new_tokens=max_new_tokens,
-            logger=logger,
-        )
+        if benchmark_mode:
+            naive_rag = NaiveMultimodalRAG(llm_generator)
+            answer, history = naive_rag.generate_with_rag(
+                question=question,
+                retriever=retriever,
+                image_map=image_map,
+                max_new_tokens=max_new_tokens,
+                logger=logger,
+            )
+            return index, answer, history
+        else:
+            if recall_compute:
+                retrieved_contents, retrieved_ids = retriever.retrieve(question, top_k=3)
+                return index, retrieved_contents, retrieved_ids
+            else:
+                mm_react = MultimodalReAct(llm_generator)
+                answer, history = mm_react.generate_with_rag_react(
+                    question=question,
+                    retriever=retriever,
+                    image_map=image_map,
+                    max_iterations=max_iterations,
+                    max_new_tokens=max_new_tokens,
+                    logger=logger,
+                )
         return index, answer, history
     except Exception as e:
         logger.error(f"Error processing row {index}: {str(e)}")
@@ -158,58 +185,58 @@ def judge_answer(index: str, question: str, answer: str, reference_answer: str, 
     finally:
         row_context.reset(token)
 
-def main(args = None):
+def main(args):
 
-    if not args:
-        parser = argparse.ArgumentParser(description="Debug Multimodal ReAct + HippoRAG pipeline.")
-        # KG Database
-        parser.add_argument("--neo4j_uri", type=str, default="bolt://localhost:7687")
-        parser.add_argument("--neo4j_user", type=str, default="neo4j")
-        parser.add_argument("--neo4j_password", type=str, default="password")
-
-        # LLM and Embedding Model
-        parser.add_argument("--model_name", type=str, default="gemini-2.5-flash", help="LLM model name")
-        parser.add_argument("--embedding_model_name", type=str, default="gemini-embedding-001", help="Embedding model name")
-        
-        # HippoRAG
-        parser.add_argument("--hipporag_mode", type=str, default="query2node", choices=["query2edge", "query2node"])
-        parser.add_argument("--topk_nodes", type=int, default=20)
-        parser.add_argument("--ppr_alpha", type=float, default=0.85)
-
-        # ReAct
-        parser.add_argument("--max_iterations", type=int, default=5)
-        parser.add_argument("--max_new_tokens", type=int, default=1024)
-
-        # Data
-        parser.add_argument("--data_path", type=str)
-        parser.add_argument("--output_path", type=str)
-        parser.add_argument("--max_workers", type=int, default=1)
-
-        args = parser.parse_args()
-    else:
-        args = types.SimpleNamespace(**args)
+    if not isinstance(args, argparse.Namespace) and not isinstance(args, types.SimpleNamespace):
+         args = types.SimpleNamespace(**args)
     
+    logger.info(f"==== Config shows as follows: ====")
+    args_dict = vars(args) if hasattr(args, 'vars') else args.__dict__
+    for key, value in args_dict.items():
+        logger.info(f"{key}: {value}")
+    logger.info(f"==== End of Config ====")
+
+
     # 1. Load data
     dataset = pd.read_json(args.data_path)
     dataset["rag_answer"] = None
     dataset["rag_history"] = None
     dataset["rag_judgment"] = None
+    dataset["retrieved_ids"] = None
 
     # 2. Build resources
     llm_generator, retriever, data = build_resources(
         neo4j_uri=args.neo4j_uri,
         neo4j_user=args.neo4j_user,
         neo4j_password=args.neo4j_password,
+        neo4j_database=args.neo4j_database,
         model_name=args.model_name,
         embedding_model_name=args.embedding_model_name,
         hipporag_mode=args.hipporag_mode,
         topk_nodes=args.topk_nodes,
         ppr_alpha=args.ppr_alpha,
+        benchmark_mode=args.benchmark_mode,
     )
     
 
     # 3. Multimodal ReAct, parallel processing
     logger.info(f"Processing {len(dataset)} rows with {args.max_workers} workers")
+
+    # # for debug
+    # for index, row in dataset.iterrows():
+    #     id, answer, history = process_single_row(
+    #         index=index,
+    #         row=row,
+    #         llm_generator=llm_generator,
+    #         retriever=retriever,
+    #         image_map=data.get("image_map", {}),
+    #         max_iterations=args.max_iterations,
+    #         max_new_tokens=args.max_new_tokens,
+    #         benchmark_mode=args.benchmark_mode,
+    #     )
+
+    #     dataset.at[index, "rag_answer"] = answer
+    #     dataset.at[index, "rag_history"] = history
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.max_workers) as executor:
         futures = []
@@ -223,12 +250,17 @@ def main(args = None):
                 image_map=data.get("image_map", {}),
                 max_iterations=args.max_iterations,
                 max_new_tokens=args.max_new_tokens,
+                benchmark_mode=args.benchmark_mode,
+                recall_compute=args.recall_compute,
             )
             futures.append(future)
 
         for future in tqdm(concurrent.futures.as_completed(futures), desc="Processing rows", total=len(futures)):
             try:
                 index, answer, history = future.result()
+                if args.recall_compute:
+                    dataset.at[index, "retrieved_ids"] = history
+                    continue
                 dataset.at[index, "rag_answer"] = answer
                 dataset.at[index, "rag_history"] = history
             except Exception as e:
@@ -240,6 +272,9 @@ def main(args = None):
     
 
     # 4. Evaluate
+    if args.recall_compute:
+        return "recall compute mode"
+    
     logger.info(f"Evaluating {len(dataset)} rows")
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.max_workers) as executor:
@@ -266,16 +301,68 @@ def main(args = None):
     # ===== Calculate Metrics =====
     acc = dataset["rag_judgment"].mean()
     logger.info(f"Accuracy: {acc}")
+    return acc
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Debug Multimodal ReAct + HippoRAG pipeline.")
+
+    # KG Database
+    parser.add_argument("--neo4j_uri", type=str, default="bolt://localhost:7687")
+    parser.add_argument("--neo4j_user", type=str, default="neo4j")
+    parser.add_argument("--neo4j_password", type=str, default="password")
+    parser.add_argument("--neo4j_database", type=str, help="Neo4j Database Name") # Essential !!!
+
+    # LLM and Embedding Model
+    parser.add_argument("--model_name", type=str, default="gemini-2.5-flash", help="LLM model name")
+    parser.add_argument("--embedding_model_name", type=str, default="gemini-embedding-001", help="Embedding model name")
+    
+    # HippoRAG
+    parser.add_argument("--hipporag_mode", type=str, default="query2node", choices=["query2edge", "query2node"])
+    parser.add_argument("--topk_nodes", type=int, default=20)
+    parser.add_argument("--ppr_alpha", type=float, default=0.85)
+
+    # Benchmark
+    parser.add_argument("--benchmark_mode", action="store_true", help="Benchmark mode") # this will use a dense vector index to retrieve the text and images
+
+    # ReAct
+    parser.add_argument("--max_iterations", type=int, default=5)
+    parser.add_argument("--max_new_tokens", type=int, default=2048)
+
+    # Data
+    parser.add_argument("--data_path", type=str)
+    parser.add_argument("--output_path", type=str)
+    parser.add_argument("--max_workers", type=int, default=1)
+
+    # Supply for recall compute for hipporag
+    parser.add_argument("--recall_compute", action="store_true", help="Compute recall for hipporag")
+
+    return parser.parse_args()
+
 
 
 if __name__ == "__main__":
-    args = yaml.safe_load(open("atlas_rag/evaluation/locomo_hard.yml", "r"))
-    os.makedirs("logs", exist_ok=True)
     
+    os.makedirs("logs", exist_ok=True)
+    # for debug
+    # args = yaml.safe_load(open("atlas_rag/evaluation/locomo_hard.yml", "r"))
+    # args = argparse.Namespace(**args)
+
+    # for formal run
+    args = parse_args()
+
+    row_context.set("Main")
+
     # logger output to file
     log_format = logging.Formatter("%(asctime)s - [%(row_id)s] - %(name)s - %(levelname)s - %(message)s")
 
-    file_hanlder = logging.FileHandler(f"logs/mm_locomo_evaluation_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log")
+    if args.benchmark_mode:
+        log_file_name = f"logs/mm_locomo_evaluation_benchmark_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{args.neo4j_database}.log"
+    elif args.recall_compute:
+        log_file_name = f"logs/mm_locomo_evaluation_recall_compute_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{args.neo4j_database}.log"
+    else:
+        log_file_name = f"logs/mm_locomo_evaluation_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{args.neo4j_database}.log"
+    
+    file_hanlder = logging.FileHandler(log_file_name)
     file_hanlder.setLevel(logging.INFO)
     file_hanlder.setFormatter(log_format)
     file_hanlder.addFilter(ContextFilter())
@@ -291,7 +378,6 @@ if __name__ == "__main__":
         force=True,
     )
 
-    row_context.set("Main")
-    logger.info(f"Config: {args}")
-
-    main(args)
+    
+    acc = main(args)
+    print(f"Accuracy for {args.neo4j_database}: {acc}")
